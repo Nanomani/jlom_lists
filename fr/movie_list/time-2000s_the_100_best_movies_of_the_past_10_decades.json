@@ -1,0 +1,224 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 2000s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "11/01/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg",
+            "id": 1018,
+            "original_language": "en",
+            "original_title": "Mulholland Drive",
+            "overview": "\u00c0 Hollywood, durant la nuit, Rita, une jeune femme, devient amn\u00e9sique suite \u00e0 un accident de voiture sur la route de Mulholland Drive. Elle fait la rencontre de Betty Elms, une actrice en devenir qui vient juste de d\u00e9barquer \u00e0 Los Angeles. Aid\u00e9e par celle-ci, Rita tente de retrouver la m\u00e9moire ainsi que son identit\u00e9.",
+            "popularity": 8.0672,
+            "poster_path": "/x4ZLWoqsXFrkwA1m1T3OQg4P5Z7.jpg",
+            "release_date": "2001-06-06",
+            "title": "Mulholland Drive",
+            "video": false,
+            "vote_average": 7.805,
+            "vote_count": 6798,
+            "genres": [
+                "Thriller",
+                "Drame",
+                "Myst\u00e8re"
+            ],
+            "runtime": 146,
+            "tagline": "M\u00e9fiez-vous de ce dont vous r\u00eavez..."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+            "id": 843,
+            "original_language": "cn",
+            "original_title": "\u82b1\u6a23\u5e74\u83ef",
+            "overview": "Hong Kong, 1962. M. et Mme Chow emm\u00e9nagent dans leur nouvel appartement le m\u00eame jour que leurs voisins, M. et Mme Chan. Sans comprendre comment cela a commenc\u00e9, Chow Mo-wan et Chan Li-zhen apprennent que leurs \u00e9poux respectifs ont une liaison. Cette d\u00e9couverte les choque mais les rapproche. Ils se voient de plus en plus souvent mais le voisinage commence \u00e0 s'en apercevoir. Il semble n'y avoir aucune possibilit\u00e9 pour eux de vivre une relation amoureuse. Mais la retenue, les r\u00e9serves \u00e9motionnelles de Mme Chan hantent M. Chow, qui sent ses sentiments changer.",
+            "popularity": 11.2688,
+            "poster_path": "/9iciwUJTFBbjnmwfgkg6jmt8zHa.jpg",
+            "release_date": "2000-09-29",
+            "title": "In the Mood for Love",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3117,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 98,
+            "tagline": "Sentez la chaleur, gardez la sensation de br\u00fblure, laissez la sensation exploser."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+            "id": 1887,
+            "original_language": "en",
+            "original_title": "Marie Antoinette",
+            "overview": "\u00c9vocation de la vie de la reine d'origine autrichienne, \u00e9pouse mal-aim\u00e9e de Louis XVI, guillotin\u00e9e en 1793. Au sortir de l'adolescence, une jeune fille d\u00e9couvre un monde hostile et codifi\u00e9, un univers frivole o\u00f9 chacun observe et juge l'autre sans am\u00e9nit\u00e9. Mari\u00e9e \u00e0 un homme maladroit qui la d\u00e9laisse, elle est rapidement lass\u00e9e par les devoirs de repr\u00e9sentation qu'on lui impose. Elle s'\u00e9vade dans l'ivresse de la f\u00eate et les plaisirs des sens pour r\u00e9inventer un monde \u00e0 elle. Y a-t-il un prix \u00e0 payer \u00e0 chercher le bonheur que certains vous refusent ?",
+            "popularity": 5.0704,
+            "poster_path": "/gyZQYEbG4ske29Uh8EO3JFrxq8e.jpg",
+            "release_date": "2006-05-24",
+            "title": "Marie Antoinette",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2890,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "runtime": 123,
+            "tagline": "L'histoire d'une reine qui vivait comme une Rock Star"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/69D57G3XqQMVNCwK0Z2PCcYC4Da.jpg",
+            "id": 25538,
+            "original_language": "zh",
+            "original_title": "\u4e00\u4e00",
+            "overview": "\u00c0 quarante ans, NJ se demande si sa vie n'aurait pas pu \u00eatre diff\u00e9rente. La rencontre fortuite avec un amour de jeunesse, Sherry, lui donne envie de tout laisser tomber et de repartir de z\u00e9ro. Mais avec une famille \u00e0 charge, il ne peut r\u00e9aliser ce s\u00e9duisant projet. Le jour du mariage de son beau-fr\u00e8re, sa belle-m\u00e8re tombe dans le coma. Pour les enfants de NJ, Ting-Ting et Yang-Yang, parler \u00e0 leur grand-m\u00e8re inanim\u00e9e est une \u00e9preuve. NJ d\u00e9cide de partir au Japon, officiellement pour des raisons professionnelles. Il a en fait d\u00e9cid\u00e9 de renouer avec son pass\u00e9 amoureux.",
+            "popularity": 5.4935,
+            "poster_path": "/fRmKe3M69gkAy3UPobRqVSqrDD1.jpg",
+            "release_date": "2000-09-20",
+            "title": "Yi Yi",
+            "video": false,
+            "vote_average": 7.917,
+            "vote_count": 630,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 173,
+            "tagline": "Une famille qui se bat ensemble"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k0HFJNOfwuWbYKon7BwCbnX8OkB.jpg",
+            "id": 10712,
+            "original_language": "en",
+            "original_title": "Far from Heaven",
+            "overview": "Dans l'Am\u00e9rique provinciale des ann\u00e9es cinquante, Cathy Whitaker est une femme au foyer exemplaire, une m\u00e8re attentive, une \u00e9pouse d\u00e9vou\u00e9e. Son sourire \u00e9clatant figure souvent dans les colonnes du journal local.Cathy sourit toujours. M\u00eame quand son mariage s'effondre, m\u00eame quand ses amies l'abandonnent. Quand l'amiti\u00e9 qui la lie \u00e0 son jardinier provoquera un scandale, elle sera forc\u00e9e, derri\u00e8re son sourire, d'affronter la r\u00e9alit\u00e9.",
+            "popularity": 1.8466,
+            "poster_path": "/nvBUhaOpl2RsiJ95QBetJhqwdX5.jpg",
+            "release_date": "2002-11-08",
+            "title": "Far from Heaven",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 655,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 107,
+            "tagline": "Qu\u2019est-ce qui emprisonne les d\u00e9sirs du c\u0153ur ?"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+            "id": 9693,
+            "original_language": "en",
+            "original_title": "Children of Men",
+            "overview": "Dans une soci\u00e9t\u00e9 futuriste o\u00f9 les \u00eatres humains ne parviennent plus \u00e0 se reproduire, l\u2019annonce de la mort de la plus jeune personne, \u00e2g\u00e9e de 18 ans, met la population en \u00e9moi. Au m\u00eame moment, une femme tombe enceinte - un fait qui ne s'est pas produit depuis une vingtaine d'ann\u00e9es - et devient par la m\u00eame occasion la personne la plus envi\u00e9e et la plus recherch\u00e9e de la Terre. Un homme est charg\u00e9 de sa protection\u2026",
+            "popularity": 5.5666,
+            "poster_path": "/zvABa9EuAK9XeqBojYyb3Yaahcf.jpg",
+            "release_date": "2006-09-22",
+            "title": "Children of Men",
+            "video": false,
+            "vote_average": 7.612,
+            "vote_count": 7599,
+            "genres": [
+                "Drame",
+                "Action",
+                "Thriller",
+                "Science-Fiction"
+            ],
+            "runtime": 109,
+            "tagline": "L\u2019avenir appartient au pass\u00e9."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+            "id": 1417,
+            "original_language": "es",
+            "original_title": "El laberinto del fauno",
+            "overview": "Espagne 1944. Ofelia s\u2019installe avec sa m\u00e8re dans une garnison dirig\u00e9e par Vidal, son beau\u2010p\u00e8re, capitaine autoritaire de l\u2019arm\u00e9e franquiste. \u00c0 proximit\u00e9 de la grande maison familiale, la jeune fille d\u00e9couvre un \u00e9trange labyrinthe gard\u00e9 par une cr\u00e9ature nomm\u00e9e Pan. Le monstre lui r\u00e9v\u00e8le qu\u2019elle n\u2019est autre que la princesse d\u2019un royaume enchant\u00e9. Afin de d\u00e9couvrir la v\u00e9rit\u00e9, Ofelia devra se soumettre \u00e0 trois \u00e9preuves que rien ne l\u2019a pr\u00e9par\u00e9e \u00e0 affronter\u2026",
+            "popularity": 9.4721,
+            "poster_path": "/bpzGLrQC5nXvU3wrLtp1TDIKYX9.jpg",
+            "release_date": "2006-10-11",
+            "title": "Pan's Labyrinth",
+            "video": false,
+            "vote_average": 7.757,
+            "vote_count": 11186,
+            "genres": [
+                "Fantastique",
+                "Drame",
+                "Guerre"
+            ],
+            "runtime": 113,
+            "tagline": "L\u2019innocence est plus forte que le mal."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGcfhstNqWEv31kRvwSVFw2JsBX.jpg",
+            "id": 1414,
+            "original_language": "es",
+            "original_title": "Los amantes del C\u00edrculo Polar",
+            "overview": "Dans la froide Laponie finlandaise, sous l'\u00e9ternel soleil de minuit, deux amants ardents se retrouvent une fois de plus apr\u00e8s une longue p\u00e9riode de s\u00e9paration, gouvern\u00e9e par un puissant et \u00e9loquent motif circulaire tiss\u00e9 par le destin, la foi et l'amour. Peuvent-ils refuser leur destin ?",
+            "popularity": 2.1935,
+            "poster_path": "/c2MSWUxtRxGyJhAzAkaDADYJT5h.jpg",
+            "release_date": "1998-09-04",
+            "title": "Lovers of the Arctic Circle",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 261,
+            "genres": [
+                "Drame",
+                "Myst\u00e8re",
+                "Romance"
+            ],
+            "runtime": 112,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mpfRchw4jh2cEBajB9EJltTnDH2.jpg",
+            "id": 1429,
+            "original_language": "en",
+            "original_title": "25th Hour",
+            "overview": "La derni\u00e8re nuit de libert\u00e9 de Monty, un trafiquant de drogue, avant qu'il ne purge une peine de prison de sept ans au p\u00e9nitencier d'Otisville. Autrefois l'un des rois de Manhattan, il s'appr\u00eate \u00e0 dire adieu \u00e0 une vie de faste et de plaisirs qui l'avait \u00e9galement \u00e9loign\u00e9 de ses proches. Une soir\u00e9e est organis\u00e9e \u00e0 cette occasion dans un night-club tenu par Oncle Nikolai, un mafieux russe. Tout son entourage y est r\u00e9uni: son p\u00e8re, avec qui il va tenter de renouer des liens, ses deux anciens potes Jakob et Slattery, Kostya, un ami et complice russe, et Naturelle, sa compagne... Monty pense d'ailleurs que c'est elle qui l'a d\u00e9nonc\u00e9 aux agents f\u00e9d\u00e9raux. Mais l'heure tourne et celui-ci doit faire des choix.",
+            "popularity": 3.1564,
+            "poster_path": "/24HzIjo9GKN43zLRI6Z3d13zDwO.jpg",
+            "release_date": "2002-12-19",
+            "title": "25th Hour",
+            "video": false,
+            "vote_average": 7.322,
+            "vote_count": 2495,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "runtime": 135,
+            "tagline": "Pouvez-vous changer toute votre vie en une journ\u00e9e?"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
+            "id": 44379,
+            "original_language": "fr",
+            "original_title": "Les Glaneurs et la Glaneuse",
+            "overview": "Un peu partout en France, Agn\u00e8s a rencontr\u00e9 des glaneurs et glaneuses, r\u00e9cupereurs, ramasseurs et trouvailleurs. Par n\u00e9cessit\u00e9, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant. On est loin des glaneuses d'autrefois qui ramassaient les \u00e9pis de bl\u00e9 apr\u00e8s la moisson. Patates, pommes et autres nourritures jet\u00e9es, objets sans ma\u00eetre et pendule sans aiguilles, c'est la glanure de notre temps. Mais Agn\u00e8s est aussi la glaneuse du titre et son documentaire est subjectif.",
+            "popularity": 1.6067,
+            "poster_path": "/581ikn6BkZ08GhKLQpqYJvajdfA.jpg",
+            "release_date": "2000-07-07",
+            "title": "The Gleaners and I",
+            "video": false,
+            "vote_average": 7.632,
+            "vote_count": 212,
+            "genres": [
+                "Documentaire"
+            ],
+            "runtime": 83,
+            "tagline": ""
+        }
+    ]
+}

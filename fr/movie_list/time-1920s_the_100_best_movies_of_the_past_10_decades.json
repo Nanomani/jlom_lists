@@ -1,0 +1,161 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 1920s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "11/01/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/jxD0pcORCx9j0C0AYjjudbHnOm4.jpg",
+            "id": 669,
+            "original_language": "en",
+            "original_title": "Nanook of the North",
+            "overview": "Dans le Grand Nord canadien, la vie quotidienne d'une famille d'Esquimaux au fil des saisons. Pr\u00e9sentation de Nanouk et des siens en \u00e9t\u00e9 : arriv\u00e9e du kayak pagay\u00e9 par Nanouk et d'o\u00f9 sortent successivement tous les membres de sa famille, sa femme, leurs deux enfants et sa belle-s\u0153ur ; vente au comptoir local des fourrures r\u00e9colt\u00e9es au cours de l'hiver ; \u00e9coute amus\u00e9e de la musique jou\u00e9e sur un gramophone (il mordille le disque en riant) ; chasse \u00e0 l'otarie ; p\u00eache en mer. En hiver : d\u00e9placement de la famille en tra\u00eeneau \u00e0 chiens, chasse au renard blanc, construction d'un igloo avec une niche pour les chiots, exercice du jeune fils \u00e0 la chasse aux phoques, installation pour la nuit dans l'igloo. Au cours d'un voyage, la famille est surprise par une temp\u00eate de neige et trouve refuge dans un igloo abandonn\u00e9 tandis que les chiens restent dehors, pelotonn\u00e9s sous le blizzard.",
+            "popularity": 0.8819,
+            "poster_path": "/b0FJ0GotJyivHdgaiXY4vyoKXBA.jpg",
+            "release_date": "1922-06-11",
+            "title": "Nanook of the North",
+            "video": false,
+            "vote_average": 7.076,
+            "vote_count": 317,
+            "genres": [
+                "Documentaire",
+                "Drame"
+            ],
+            "runtime": 78,
+            "tagline": "Les us et coutumes des Esquimaux du grand Nord canadien."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cuMvdjZVYKeCLBtWFc2FDiNAsUR.jpg",
+            "id": 28963,
+            "original_language": "en",
+            "original_title": "The Thief of Bagdad",
+            "overview": "A Bagdad, dans le pr\u00e9sent \u00e9temel des contes, Ahmed, jeune homme athl\u00e9tique et jovial, vit de rapines et de bonne humeur. Quand il est pris la main dans le sac, sa v\u00e9locit\u00e9 ou sa ruse lui permettent en g\u00e9n\u00e9ral d'\u00e9chapper au ch\u00e2timent. Il professe quAllah est un mythe et qu'il faut trouver son bonheur ici-bas. Un jour, il vole \u00e0 un magicien sa corde magique et gr\u00e2ce \u00e0 elle peut p\u00e9n\u00e9trer dans le palais du calife. Mais l\u00e0 il trouve un tr\u00e9sor beaucoup plus pr\u00e9cieux que les bijoux qu'il \u00e9tait venu voler : la princesse elle-m\u00eame, fille du calife.",
+            "popularity": 0.9705,
+            "poster_path": "/8t4CJ591N2FATf2yUiQNQk9p0tB.jpg",
+            "release_date": "1924-03-18",
+            "title": "The Thief of Bagdad",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 172,
+            "genres": [
+                "Romance",
+                "Aventure",
+                "Fantastique"
+            ],
+            "runtime": 149,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y3WwIEEDcbT88MxjCjM8mlBEF04.jpg",
+            "id": 905,
+            "original_language": "de",
+            "original_title": "Die B\u00fcchse der Pandora",
+            "overview": "Loulou est une jeune femme qui ne s'encombre d'aucun pr\u00e9jug\u00e9 et vit pour l'amour et le plaisir. Ses amis sont nombreux. Elle en a de tous les \u00e2ges et de toutes les conditions. Elle est pr\u00e9sentement la ma\u00eetresse en titre du Dr Sch\u00f6n, propri\u00e9taire de plusieurs journaux, qui a aid\u00e9 sa carri\u00e8re de danseuse en faisant beaucoup parler d'elle. Ce jour-l\u00e0, Sch\u00f6n fait grise mine en annon\u00e7ant \u00e0 Loulou son prochain mariage avec la fille du ministre de l'int\u00e9rieur.",
+            "popularity": 0.9891,
+            "poster_path": "/4ahuYM6PVAy75DHsSXuCrmwJOWr.jpg",
+            "release_date": "1929-01-30",
+            "title": "Pandora's Box",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 252,
+            "genres": [
+                "Drame",
+                "Crime",
+                "Romance"
+            ],
+            "runtime": 100,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cFgCf2XqnhErS3HmgSOBCe4kL4d.jpg",
+            "id": 780,
+            "original_language": "fr",
+            "original_title": "La Passion de Jeanne d'Arc",
+            "overview": "Le proc\u00e8s de Jeanne d'Arc, au terme duquel elle fut br\u00fbl\u00e9e sur le b\u00fbcher.",
+            "popularity": 1.9399,
+            "poster_path": "/A5OBsVmg6COi6nxyrjKNOr4dUPd.jpg",
+            "release_date": "1928-04-21",
+            "title": "The Passion of Joan of Arc",
+            "video": false,
+            "vote_average": 7.993,
+            "vote_count": 1048,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "runtime": 82,
+            "tagline": "Un classique immortel du cin\u00e9ma !"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+            "id": 631,
+            "original_language": "en",
+            "original_title": "Sunrise: A Song of Two Humans",
+            "overview": "Un p\u00eacheur s'\u00e9prend d'une citadine aux allures de vamp. Sous l'influence de celle-ci, il d\u00e9cide de noyer son \u00e9pouse, mais change d'avis une fois sur la barque. Effray\u00e9e, la femme fuit en ville. Elle est bient\u00f4t rejointe par son mari, d\u00e9sireux de se faire pardonner.",
+            "popularity": 1.1592,
+            "poster_path": "/9eFsmy7q3ze8pBdbnQOeK0E1CGB.jpg",
+            "release_date": "1927-11-04",
+            "title": "Sunrise: A Song of Two Humans",
+            "video": false,
+            "vote_average": 7.828,
+            "vote_count": 871,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 78,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6dgyXWl8yavsHISG4LXMcvpKnJw.jpg",
+            "id": 25768,
+            "original_language": "en",
+            "original_title": "Steamboat Bill, Jr.",
+            "overview": "Le jeune William Canfield retrouve son p\u00e8re propri\u00e9taire d'un vieux bateau qui navigue sur le Mississippi. Le vieux Canfield voudrait que son fils l'aide, mais William a mieux \u00e0 faire\u00a0: il est amoureux de Kitty, la fille d'un banquier qui poss\u00e8de un magnifique bateau \u00e0 vapeur.",
+            "popularity": 0.8699,
+            "poster_path": "/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+            "release_date": "1928-05-09",
+            "title": "Steamboat Bill, Jr.",
+            "video": false,
+            "vote_average": 7.597,
+            "vote_count": 378,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "runtime": 70,
+            "tagline": "Les retrouvailles d'un p\u00e8re rude et d'un fils fragile"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hC8i1b3rvz3omOD9PIqV3ziXvA8.jpg",
+            "id": 42511,
+            "original_language": "en",
+            "original_title": "Orphans of the Storm",
+            "overview": "\u00c0 Paris, peu avant la R\u00e9volution fran\u00e7aise. Deux orphelines sont s\u00e9par\u00e9es par le destin. L'une, aveugle, est exploit\u00e9e par une horrible m\u00e9g\u00e8re qui la fait mendier dans les rues. L'autre devient la proie d'un marquis d\u00e9bauch\u00e9, qui veut la s\u00e9duire de force.",
+            "popularity": 0.1802,
+            "poster_path": "/gbBzFuiVnuSPYZRXRArILc3Ywz3.jpg",
+            "release_date": "1921-12-28",
+            "title": "Orphans of the Storm",
+            "video": false,
+            "vote_average": 6.766,
+            "vote_count": 94,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Romance"
+            ],
+            "runtime": 150,
+            "tagline": ""
+        }
+    ]
+}

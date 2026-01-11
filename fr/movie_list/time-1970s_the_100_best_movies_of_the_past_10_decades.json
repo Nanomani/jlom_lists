@@ -1,0 +1,219 @@
+{
+    "type": "movie_list",
+    "title": "Time - The 100 best movies of the past 10 decades - 1970s",
+    "source": "https://time.com/collection/100-best-movies/",
+    "created_by": "lbnt",
+    "added": "04/26/24",
+    "modified": "11/01/26",
+    "ordered_by": "year",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/5Le4bfUJXFtQALJqwqzzPtyiwrX.jpg",
+            "id": 29005,
+            "original_language": "en",
+            "original_title": "McCabe & Mrs. Miller",
+            "overview": "En 1902, John McCabe arrive \u00e0 Presbyterian Church, une petite ville de l'Ouest am\u00e9ricain, pour ouvrir un bordel. Mme Constance Miller, une prostitu\u00e9e, lui propose son aide et son exp\u00e9rience en \u00e9change d'une partie des b\u00e9n\u00e9fices. Mc Cabe accepte, mais le succ\u00e8s de l'\u00e9tablissement fait des jaloux...",
+            "popularity": 1.8074,
+            "poster_path": "/cZ1ptOt7byjTbGQ8grH3EdOmzr6.jpg",
+            "release_date": "1971-06-24",
+            "title": "McCabe & Mrs. Miller",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 432,
+            "genres": [
+                "Western",
+                "Drame"
+            ],
+            "runtime": 116,
+            "tagline": "Nommez votre poison."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+            "id": 103,
+            "original_language": "en",
+            "original_title": "Taxi Driver",
+            "overview": "V\u00e9t\u00e9ran de la Guerre du Vietnam, Travis Bickle est chauffeur de taxi dans la ville de New York. Ses rencontres nocturnes et la violence quotidienne dont il est t\u00e9moin lui font peu \u00e0 peu perdre la t\u00eate. Il se charge bient\u00f4t de d\u00e9livrer une prostitu\u00e9e mineure de ses souteneurs.",
+            "popularity": 13.5594,
+            "poster_path": "/iyHQrfNsjZlfHJ8hyhNi0yAFnZa.jpg",
+            "release_date": "1976-02-09",
+            "title": "Taxi Driver",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 13083,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "runtime": 115,
+            "tagline": "Il est un homme oubli\u00e9, solitaire et d\u00e9sesp\u00e9r\u00e9 de prouver qu'il est vivant."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wKSJLUgJtCMSZOIU1By8g5FSaHk.jpg",
+            "id": 3034,
+            "original_language": "en",
+            "original_title": "Young Frankenstein",
+            "overview": "Peu fier de son ascendance, le Docteur Frederick Frankenstein accepte pourtant de retourner sur les terres de ses anc\u00eatres. Rattrap\u00e9 par la folie familiale, il d\u00e9cide de suivre les traces de son a\u00efeul et de cr\u00e9er \u00e0 son tour une cr\u00e9ature \u00e0 partir de cadavres, avec l\u2019aide de son fid\u00e8le serviteur Igor. Malheureusement, charg\u00e9 de trouver le cerveau d\u2019un g\u00e9nie, ce dernier se trompe et rapporte \u00e0 Frankenstein un cerveau anormal\u2026",
+            "popularity": 3.7179,
+            "poster_path": "/3FtQ2AKfLjGmoKXzYlqygItjNDQ.jpg",
+            "release_date": "1974-12-15",
+            "title": "Young Frankenstein",
+            "video": false,
+            "vote_average": 7.858,
+            "vote_count": 3316,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "runtime": 106,
+            "tagline": "La com\u00e9die la plus effrayante de tous les temps\u202f!"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+            "id": 1643,
+            "original_language": "it",
+            "original_title": "Ultimo tango a Parigi",
+            "overview": "Paul, un Am\u00e9ricain \u00e9tabli \u00e0 Paris, et Jeanne font connaissance alors qu'ils visitent, un matin d'hiver, un grand appartement vide. Ils font l'amour sans rien savoir l'un de l'autre, pas m\u00eame leurs pr\u00e9noms. Paul loue l'appartement et le couple s'y donne rendez-vous jusqu'\u00e0 ce que la situation devienne insoutenable.",
+            "popularity": 2.3116,
+            "poster_path": "/uwDMqa2XPimYiD76kbIUXewo4km.jpg",
+            "release_date": "1972-12-15",
+            "title": "Last Tango in Paris",
+            "video": false,
+            "vote_average": 6.914,
+            "vote_count": 1309,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 129,
+            "tagline": "Quand on voit une histoire d'amour, ce n'est qu'un film. Quand vous la ressentez avec chaque cellule de votre corps, c'est un chef-d'\u0153uvre."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVspyFNl8uE8jAoY3C973XkjTgB.jpg",
+            "id": 33324,
+            "original_language": "en",
+            "original_title": "Harlan County U.S.A.",
+            "overview": "",
+            "popularity": 0.7548,
+            "poster_path": "/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+            "release_date": "1977-01-23",
+            "title": "Harlan County U.S.A.",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 110,
+            "genres": [
+                "Documentaire"
+            ],
+            "runtime": 105,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "Depuis la mort de Don Vito Corleone, son fils Michael r\u00e8gne sur la famille. Amen\u00e9 \u00e0 n\u00e9gocier avec la mafia juive, il perd alors le soutien d'un de ses lieutenants, Frankie Pentageli. \u00c9chappant de justesse \u00e0 un attentat, Michael tente de retrouver le coupable, soup\u00e7onnant Hyman Roth, le chef de la mafia juive. Vito Corleone, immigrant italien, arrive \u00e0 New York au d\u00e9but du si\u00e8cle ; tr\u00e8s vite, il devient un des ca\u00efds du quartier, utilisant la violence comme moyen de r\u00e9gler toutes les affaires. Seul au d\u00e9part, il b\u00e2tit peu \u00e0 peu un v\u00e9ritable empire, origine de la fortune de la famille des Corleone.",
+            "popularity": 14.3178,
+            "poster_path": "/fATmEcLwO3tTiisa8gYxhV3x4sS.jpg",
+            "release_date": "1974-12-20",
+            "title": "The Godfather Part II",
+            "video": false,
+            "vote_average": 8.571,
+            "vote_count": 13460,
+            "genres": [
+                "Drame",
+                "Crime"
+            ],
+            "runtime": 202,
+            "tagline": "Les affaires reprennent."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z81DzVg9lrBPr4M88ldmZ3FbBUY.jpg",
+            "id": 44012,
+            "original_language": "fr",
+            "original_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+            "overview": "Une femme au foyer veuve et solitaire accomplit ses t\u00e2ches quotidiennes et s'occupe de son appartement o\u00f9 elle vit avec son fils adolescent, et fait des combines occasionnelles pour joindre les deux bouts. Lentement, son quotidien ritualis\u00e9 commence \u00e0 s'effondrer.",
+            "popularity": 1.2543,
+            "poster_path": "/lkCEM3GTOYKsM3EgDfuTLSJFdc2.jpg",
+            "release_date": "1976-01-21",
+            "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 370,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 201,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+            "id": 578,
+            "original_language": "en",
+            "original_title": "Jaws",
+            "overview": "\u00c0 quelques jours du d\u00e9but de la saison estivale, les habitants de la petite station baln\u00e9aire d'Amity sont mis en \u00e9moi par la d\u00e9couverte sur le littoral du corps atrocement mutil\u00e9 d'une jeune vacanci\u00e8re. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a \u00e9t\u00e9 victime d'un requin. Il d\u00e9cide alors d'interdire l'acc\u00e8s aux plages mais se heurte \u00e0 l'hostilit\u00e9 du maire uniquement int\u00e9ress\u00e9 par l'afflux des touristes. Pendant ce temps, le requin continue \u00e0 semer la terreur le long des c\u00f4tes et \u00e0 d\u00e9vorer les baigneurs\u2026",
+            "popularity": 15.2228,
+            "poster_path": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
+            "release_date": "1975-06-20",
+            "title": "Jaws",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 11239,
+            "genres": [
+                "Horreur",
+                "Thriller",
+                "Aventure"
+            ],
+            "runtime": 124,
+            "tagline": "Elle fut la premi\u00e8re\u2026"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2sTbxKAPjLsH4RzQAP6ibYduJv2.jpg",
+            "id": 27019,
+            "original_language": "fr",
+            "original_title": "C\u00e9line et Julie vont en bateau",
+            "overview": "Julie, sage biblioth\u00e9caire rang\u00e9e, rencontre C\u00e9line, magicienne un rien mythomane qui va l'entrainer dans un monde d'aventures. C\u00e9line lui raconte ainsi l'\u00e9trange histoire d'une petite fille \u00e9lev\u00e9e dans une vaste demeure par un p\u00e8re veuf et les deux ma\u00eetresses de celui-ci. Intrigu\u00e9e, Julie part \u00e0 la recherche de cette dr\u00f4le de famille\u2026",
+            "popularity": 0.9234,
+            "poster_path": "/hXylYeqDnWJtnDEl1ZXCI1Ed6vS.jpg",
+            "release_date": "1974-09-18",
+            "title": "C\u00e9line and Julie Go Boating",
+            "video": false,
+            "vote_average": 6.764,
+            "vote_count": 157,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Fantastique"
+            ],
+            "runtime": 193,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r763vsubExGcDJypctYuLLJmhB.jpg",
+            "id": 27432,
+            "original_language": "en",
+            "original_title": "Killer of Sheep",
+            "overview": "Dans le ghetto afro-am\u00e9ricain de Watts, \u00e0 Los Angeles, un ouvrier fier et m\u00e9lancolique, \u00e9puis\u00e9 par son emploi dans un abattoir de moutons et par ses responsabilit\u00e9s de p\u00e8re de famille, r\u00e9siste \u00e0 la tentation de l'argent facile, sous le regard de sa femme qui n'arrive plus \u00e0 communiquer avec lui.",
+            "popularity": 0.5212,
+            "poster_path": "/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
+            "release_date": "1978-11-14",
+            "title": "Killer of Sheep",
+            "video": false,
+            "vote_average": 6.549,
+            "vote_count": 134,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 80,
+            "tagline": ""
+        }
+    ]
+}
