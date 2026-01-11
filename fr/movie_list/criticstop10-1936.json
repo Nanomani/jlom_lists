@@ -9,50 +9,6 @@
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/cBre1N5vS1sbjDeU7qF1W6TadAe.jpg",
-            "id": 43277,
-            "original_language": "en",
-            "original_title": "The Great Ziegfeld",
-            "overview": "",
-            "popularity": 1.2564,
-            "poster_path": "/7wkIYI2r0ICajBcCW0JlIT3zSwc.jpg",
-            "release_date": "1936-04-08",
-            "title": "The Great Ziegfeld",
-            "video": false,
-            "vote_average": 6.3,
-            "vote_count": 137,
-            "genres": [
-                "Musique",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 185,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/CL7u2Zbh0oO5ppBvOkuoIX4xF8.jpg",
-            "id": 24807,
-            "original_language": "en",
-            "original_title": "Mr. Deeds Goes to Town",
-            "overview": "Longfellow Deeds est un homme simple et na\u00eff vivant dans une petite ville am\u00e9ricaine. Sa vie est boulevers\u00e9e quand il apprend qu'il vient d'h\u00e9riter de 20 millions de dollars. Il se rend alors \u00e0 New York pour toucher cet h\u00e9ritage. L\u00e0, il est la cible d'avocats v\u00e9reux et de journalistes peu scrupuleux.",
-            "popularity": 0.7361,
-            "poster_path": "/lHwsb2vmR7NYXQN7TmIMhK8QhGn.jpg",
-            "release_date": "1936-04-09",
-            "title": "Mr. Deeds Goes to Town",
-            "video": false,
-            "vote_average": 7.541,
-            "vote_count": 394,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 111,
-            "tagline": "Le rire fait trembler l'Am\u00e9rique !"
-        },
-        {
-            "adult": false,
             "backdrop_path": "/dNrOYlSjx9F6WPrtVaKai6OAa1k.jpg",
             "id": 74469,
             "original_language": "en",
@@ -61,7 +17,7 @@
             "popularity": 0.4098,
             "poster_path": "/tEYBb5ZKK22TWSwLY1hkFSD2rjG.jpg",
             "release_date": "1936-02-22",
-            "title": "The Story of Louis Pasteur",
+            "title": "La Vie de Louis Pasteur",
             "video": false,
             "vote_average": 6.896,
             "vote_count": 48,
@@ -74,6 +30,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+            "id": 31507,
+            "original_language": "en",
+            "original_title": "Dodsworth",
+            "overview": "Samuel Dodsworth, parti de rien, a b\u00e2ti une soci\u00e9t\u00e9 automobile puissante. Il est un pilier de la ville de Zenith, Indiana. Arriv\u00e9 dans la vie, il d\u00e9cide de vendre sa soci\u00e9t\u00e9 pour prendre sa retraite et partir visiter l'Europe avec son \u00e9pouse Frances Dodsworth. Ce voyage vers ce continent encore inconnu va r\u00e9v\u00e9ler le foss\u00e9 qui les s\u00e9pare. Sam ne d\u00e9sire que d\u00e9couvrir les beaut\u00e9s et la culture du vieux continent alors que son \u00e9pouse Fran ne r\u00eave que de mondanit\u00e9s o\u00f9 elle pourra rencontrer l'\u00e9lite europ\u00e9enne. Fran d\u00e9sire par-dessus tout retenir sa jeunesse qu'elle sent lui \u00e9chapper et flirte outrageusement avec des hommes plus jeunes qu'elle. De son c\u00f4t\u00e9, Sam rencontre Edith Cortright, une am\u00e9ricaine qui vit en Italie...",
+            "popularity": 0.7032,
+            "poster_path": "/ta6QWXAn3MFddz83BClODcVFb1x.jpg",
+            "release_date": "1936-09-23",
+            "title": "Jeunesse perdue",
+            "video": false,
+            "vote_average": 7.113,
+            "vote_count": 141,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 101,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
             "id": 37658,
             "original_language": "en",
@@ -82,7 +59,7 @@
             "popularity": 0.3882,
             "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
             "release_date": "1936-08-26",
-            "title": "Anthony Adverse",
+            "title": "Anthony Adverse, marchand d'esclaves",
             "video": false,
             "vote_average": 5.682,
             "vote_count": 33,
@@ -92,72 +69,6 @@
                 "Romance"
             ],
             "runtime": 141,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
-            "id": 43881,
-            "original_language": "en",
-            "original_title": "San Francisco",
-            "overview": "Mary Blake est une jeune chanteuse cherchant d\u00e9sesp\u00e9remment du travail \u00e0 San Francisco. Le g\u00e9rant de casino Blackie Norton lui fait signer un contrat qu'elle regrette lorsqu'elle se voit offrir une place \u00e0 l'Op\u00e9ra Tivoli. Apr\u00e8s une dispute avec Norton, elle rejoint la maison Tivoli de Jack Burley. Blackie menace de poursuivre Burley en justice, demande \u00e0 Mary de l'\u00e9pouser et arrive \u00e0 la convaincre de revenir travailler pour lui. L'idylle ne dure pas et Mary le quitte \u00e0 nouveau pour l'Op\u00e9ra Tivoli o\u00f9 elle devient la t\u00eate d'affiche. Alors que sa carri\u00e8re est \u00e0 son apog\u00e9e, un tremblement de terre frappe San Francisco et la ville n'est plus qu'un champ de ruines...",
-            "popularity": 0.6743,
-            "poster_path": "/pDgqwoJ4rSnbBfASIjWWIpYc0Cu.jpg",
-            "release_date": "1936-06-26",
-            "title": "San Francisco",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 77,
-            "genres": [
-                "Drame",
-                "Romance",
-                "Musique"
-            ],
-            "runtime": 115,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rvUITyIhqSxFDhg3SE5J1yiwgrn.jpg",
-            "id": 17831,
-            "original_language": "en",
-            "original_title": "A Tale of Two Cities",
-            "overview": "En 1789, Lucie Manette, dont Sydney Carton vient de s'\u00e9prendre, aime Charles Darney, neveu du tyrannique Marquis de Saint-\u00c9vremont. Celui-ci, responsable de la mort d'un enfant, sera tu\u00e9 par le p\u00e8re de ce dernier. En outre, la R\u00e9volution fran\u00e7aise gronde et bient\u00f4t, ce sera la Prise de la Bastille...",
-            "popularity": 0.4751,
-            "poster_path": "/mO8ezngn6ZYqpCQuhXUSEtDDwos.jpg",
-            "release_date": "1935-12-25",
-            "title": "A Tale of Two Cities",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 77,
-            "genres": [
-                "Histoire",
-                "Drame",
-                "Romance",
-                "Aventure"
-            ],
-            "runtime": 128,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kRY4Y3en26BiJCC0GO4YZ4EDyOb.jpg",
-            "id": 43879,
-            "original_language": "en",
-            "original_title": "Romeo and Juliet",
-            "overview": "A V\u00e9rone, malgr\u00e9 la haine qui s\u00e9pare leurs deux familles, Juliette, fille des Capulet et Rom\u00e9o, issu de la famille Montaigu, s'aiment passionn\u00e9ment. A tel point que les deux jeunes gens d\u00e9cident de se marier secr\u00e8tement.",
-            "popularity": 1.0111,
-            "poster_path": "/b86nN2e8IbSJVfqlhXLegvupK8H.jpg",
-            "release_date": "1936-09-03",
-            "title": "Romeo and Juliet",
-            "video": false,
-            "vote_average": 6.181,
-            "vote_count": 36,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 125,
             "tagline": ""
         },
         {
@@ -184,6 +95,29 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/rvUITyIhqSxFDhg3SE5J1yiwgrn.jpg",
+            "id": 17831,
+            "original_language": "en",
+            "original_title": "A Tale of Two Cities",
+            "overview": "En 1789, Lucie Manette, dont Sydney Carton vient de s'\u00e9prendre, aime Charles Darney, neveu du tyrannique Marquis de Saint-\u00c9vremont. Celui-ci, responsable de la mort d'un enfant, sera tu\u00e9 par le p\u00e8re de ce dernier. En outre, la R\u00e9volution fran\u00e7aise gronde et bient\u00f4t, ce sera la Prise de la Bastille...",
+            "popularity": 0.4751,
+            "poster_path": "/mO8ezngn6ZYqpCQuhXUSEtDDwos.jpg",
+            "release_date": "1935-12-25",
+            "title": "Le Marquis de Saint-\u00c9vremont",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 77,
+            "genres": [
+                "Histoire",
+                "Drame",
+                "Romance",
+                "Aventure"
+            ],
+            "runtime": 128,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/j6e4VqPMEWRo4ell3lcKEHDyIhO.jpg",
             "id": 95015,
             "original_language": "en",
@@ -205,64 +139,89 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
-            "id": 31507,
+            "backdrop_path": "/CL7u2Zbh0oO5ppBvOkuoIX4xF8.jpg",
+            "id": 24807,
             "original_language": "en",
-            "original_title": "Dodsworth",
-            "overview": "Samuel Dodsworth, parti de rien, a b\u00e2ti une soci\u00e9t\u00e9 automobile puissante. Il est un pilier de la ville de Zenith, Indiana. Arriv\u00e9 dans la vie, il d\u00e9cide de vendre sa soci\u00e9t\u00e9 pour prendre sa retraite et partir visiter l'Europe avec son \u00e9pouse Frances Dodsworth. Ce voyage vers ce continent encore inconnu va r\u00e9v\u00e9ler le foss\u00e9 qui les s\u00e9pare. Sam ne d\u00e9sire que d\u00e9couvrir les beaut\u00e9s et la culture du vieux continent alors que son \u00e9pouse Fran ne r\u00eave que de mondanit\u00e9s o\u00f9 elle pourra rencontrer l'\u00e9lite europ\u00e9enne. Fran d\u00e9sire par-dessus tout retenir sa jeunesse qu'elle sent lui \u00e9chapper et flirte outrageusement avec des hommes plus jeunes qu'elle. De son c\u00f4t\u00e9, Sam rencontre Edith Cortright, une am\u00e9ricaine qui vit en Italie...",
-            "popularity": 0.7032,
-            "poster_path": "/ta6QWXAn3MFddz83BClODcVFb1x.jpg",
-            "release_date": "1936-09-23",
-            "title": "Dodsworth",
+            "original_title": "Mr. Deeds Goes to Town",
+            "overview": "Longfellow Deeds est un homme simple et na\u00eff vivant dans une petite ville am\u00e9ricaine. Sa vie est boulevers\u00e9e quand il apprend qu'il vient d'h\u00e9riter de 20 millions de dollars. Il se rend alors \u00e0 New York pour toucher cet h\u00e9ritage. L\u00e0, il est la cible d'avocats v\u00e9reux et de journalistes peu scrupuleux.",
+            "popularity": 0.7361,
+            "poster_path": "/lHwsb2vmR7NYXQN7TmIMhK8QhGn.jpg",
+            "release_date": "1936-04-09",
+            "title": "L'extravagant M. Deeds",
             "video": false,
-            "vote_average": 7.113,
-            "vote_count": 141,
+            "vote_average": 7.541,
+            "vote_count": 394,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 111,
+            "tagline": "Le rire fait trembler l'Am\u00e9rique !"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kRY4Y3en26BiJCC0GO4YZ4EDyOb.jpg",
+            "id": 43879,
+            "original_language": "en",
+            "original_title": "Romeo and Juliet",
+            "overview": "A V\u00e9rone, malgr\u00e9 la haine qui s\u00e9pare leurs deux familles, Juliette, fille des Capulet et Rom\u00e9o, issu de la famille Montaigu, s'aiment passionn\u00e9ment. A tel point que les deux jeunes gens d\u00e9cident de se marier secr\u00e8tement.",
+            "popularity": 1.0111,
+            "poster_path": "/b86nN2e8IbSJVfqlhXLegvupK8H.jpg",
+            "release_date": "1936-09-03",
+            "title": "Rom\u00e9o et Juliette",
+            "video": false,
+            "vote_average": 6.181,
+            "vote_count": 36,
             "genres": [
                 "Drame",
                 "Romance"
             ],
-            "runtime": 101,
+            "runtime": 125,
             "tagline": ""
         },
         {
             "adult": false,
-            "backdrop_path": "/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
-            "id": 13562,
+            "backdrop_path": "/cBre1N5vS1sbjDeU7qF1W6TadAe.jpg",
+            "id": 43277,
             "original_language": "en",
-            "original_title": "My Man Godfrey",
-            "overview": "Pendant la Grande D\u00e9pression, alors que les bidonvilles s'\u00e9tendent dans les terrains vagues, les riches continuent \u00e0 faire la f\u00eate. Comme ce soir-l\u00e0 o\u00f9 la haute bourgeoisie s'est lanc\u00e9e dans une excentrique partie de chasse au tr\u00e9sor o\u00f9 le gagnant sera celui qui rapporte non pas un objet pr\u00e9cieux, mais quelque chose dont personne ne veut. C'est ainsi qu'Ir\u00e8ne, l'une des filles de la famille Bullock (famille qui ferait passer les patients de l\u2019asile d\u2019Arkham pour de charmants participants d'une convention Tupperware) ram\u00e8ne un sans-logis qu'elle exhibe, triomphante, \u00e0 la party. Godfrey devient le prot\u00e9g\u00e9 d\u2019Ir\u00e8ne qui lui offre un emploi de majordome... Mais on dirait que c'est celui que l'on surnomme \u00ab The Duke \u00bb qui tire les ficelles du jeu...",
-            "popularity": 0.9547,
-            "poster_path": "/p7qv9luconWAD19OVGsf0sEXpHj.jpg",
-            "release_date": "1936-09-02",
-            "title": "My Man Godfrey",
+            "original_title": "The Great Ziegfeld",
+            "overview": "",
+            "popularity": 1.2564,
+            "poster_path": "/7wkIYI2r0ICajBcCW0JlIT3zSwc.jpg",
+            "release_date": "1936-04-08",
+            "title": "Le Grand Ziegfeld",
             "video": false,
-            "vote_average": 7.546,
-            "vote_count": 377,
+            "vote_average": 6.3,
+            "vote_count": 137,
             "genres": [
-                "Com\u00e9die"
+                "Musique",
+                "Drame",
+                "Romance"
             ],
-            "runtime": 94,
+            "runtime": 185,
             "tagline": ""
         },
         {
             "adult": false,
-            "backdrop_path": "/nRBw8JYA3Li1d40kJN4AFMi5TT3.jpg",
-            "id": 14615,
+            "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+            "id": 43881,
             "original_language": "en",
-            "original_title": "Fury",
-            "overview": "Joe Wilson va rejoindre sa fianc\u00e9e, Katherine, mais il est arr\u00eat\u00e9 car on le prend par erreur pour un criminel qui a kidnapp\u00e9 un enfant et exig\u00e9 une ran\u00e7on. Il est incarc\u00e9r\u00e9, certaines co\u00efncidences suffisant \u00e0 \u00e9tablir sa culpabilit\u00e9 : il d\u00e9tient, par exemple, un billet qui faisait partie de la ran\u00e7on vers\u00e9e. La nouvelle se propage rapidement, et les gens s'assemblent autour de la prison pour glaner des informations. Le sh\u00e9rif les disperse, mais la col\u00e8re monte dans la foule. Il demande alors au gouverneur de faire envoyer la garde nationale pour pr\u00e9venir un \u00e9ventuel lynchage. Cependant, l'adjoint du sh\u00e9rif r\u00e9v\u00e8le aux meneurs l'indice qui a permis d'inculper le suspect\u2026",
-            "popularity": 0.8496,
-            "poster_path": "/gbAnal6GQfKKWUUr201novWsehs.jpg",
-            "release_date": "1936-06-05",
-            "title": "Fury",
+            "original_title": "San Francisco",
+            "overview": "Mary Blake est une jeune chanteuse cherchant d\u00e9sesp\u00e9remment du travail \u00e0 San Francisco. Le g\u00e9rant de casino Blackie Norton lui fait signer un contrat qu'elle regrette lorsqu'elle se voit offrir une place \u00e0 l'Op\u00e9ra Tivoli. Apr\u00e8s une dispute avec Norton, elle rejoint la maison Tivoli de Jack Burley. Blackie menace de poursuivre Burley en justice, demande \u00e0 Mary de l'\u00e9pouser et arrive \u00e0 la convaincre de revenir travailler pour lui. L'idylle ne dure pas et Mary le quitte \u00e0 nouveau pour l'Op\u00e9ra Tivoli o\u00f9 elle devient la t\u00eate d'affiche. Alors que sa carri\u00e8re est \u00e0 son apog\u00e9e, un tremblement de terre frappe San Francisco et la ville n'est plus qu'un champ de ruines...",
+            "popularity": 0.6743,
+            "poster_path": "/pDgqwoJ4rSnbBfASIjWWIpYc0Cu.jpg",
+            "release_date": "1936-06-26",
+            "title": "San Francisco",
             "video": false,
-            "vote_average": 7.437,
-            "vote_count": 246,
+            "vote_average": 6.5,
+            "vote_count": 77,
             "genres": [
-                "Crime",
-                "Drame"
+                "Drame",
+                "Romance",
+                "Musique"
             ],
-            "runtime": 92,
+            "runtime": 115,
             "tagline": ""
         },
         {
@@ -289,6 +248,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/nRBw8JYA3Li1d40kJN4AFMi5TT3.jpg",
+            "id": 14615,
+            "original_language": "en",
+            "original_title": "Fury",
+            "overview": "Joe Wilson va rejoindre sa fianc\u00e9e, Katherine, mais il est arr\u00eat\u00e9 car on le prend par erreur pour un criminel qui a kidnapp\u00e9 un enfant et exig\u00e9 une ran\u00e7on. Il est incarc\u00e9r\u00e9, certaines co\u00efncidences suffisant \u00e0 \u00e9tablir sa culpabilit\u00e9 : il d\u00e9tient, par exemple, un billet qui faisait partie de la ran\u00e7on vers\u00e9e. La nouvelle se propage rapidement, et les gens s'assemblent autour de la prison pour glaner des informations. Le sh\u00e9rif les disperse, mais la col\u00e8re monte dans la foule. Il demande alors au gouverneur de faire envoyer la garde nationale pour pr\u00e9venir un \u00e9ventuel lynchage. Cependant, l'adjoint du sh\u00e9rif r\u00e9v\u00e8le aux meneurs l'indice qui a permis d'inculper le suspect\u2026",
+            "popularity": 0.8496,
+            "poster_path": "/gbAnal6GQfKKWUUr201novWsehs.jpg",
+            "release_date": "1936-06-05",
+            "title": "Furie",
+            "video": false,
+            "vote_average": 7.437,
+            "vote_count": 246,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "runtime": 92,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/5F4vuX92TxKcZH5hdunrgl0mBRi.jpg",
             "id": 54569,
             "original_language": "en",
@@ -306,50 +286,6 @@
                 "Romance"
             ],
             "runtime": 93,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/yIj4Y2BXbjr8Qem6Ly8QJWt4PgL.jpg",
-            "id": 31773,
-            "original_language": "en",
-            "original_title": "Libeled Lady",
-            "overview": "R\u00e9dacteur en chef d'un journal \u00e0 scandales, Warren laisse publier, par erreur, un article infamant sur Connie Allenbury, une richissime h\u00e9riti\u00e8re qui demande aussit\u00f4t r\u00e9paration. Une affaire embarrassante, qui contraint Warren \u00e0 ajourner \u00e0 nouveau son union, avec sa fianc\u00e9e Gladys. Pour sortir de l'impasse, Warren fait appel \u00e0 Bill, un ancien collaborateur, et le charge de compromettre Connie.",
-            "popularity": 1.642,
-            "poster_path": "/mu2zGdHZJ9IASvnQktjGLZ4kU13.jpg",
-            "release_date": "1936-10-09",
-            "title": "Libeled Lady",
-            "video": false,
-            "vote_average": 7.272,
-            "vote_count": 127,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 98,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/g0SCy0sGaJa381iDQRxqonCMTGN.jpg",
-            "id": 17030,
-            "original_language": "en",
-            "original_title": "The Petrified Forest",
-            "overview": "Dans la r\u00e9gion d\u00e9sertique de la For\u00eat P\u00e9trifi\u00e9e, l'\u00e9crivain-voyageur Alan Squier fait une halte pour se restaurer dans la petite station multiservices tenue par trois g\u00e9n\u00e9rations de Maple, dont la jeune et jolie Gabrielle, qui r\u00eave de partir en France rejoindre sa m\u00e8re \u00e0 Bourges pour \u00e9tudier l'art. Celle-ci lui lit son po\u00e8me pr\u00e9f\u00e9r\u00e9 de Fran\u00e7ois Villon, lui montre ses dessins. L'affinit\u00e9 se cr\u00e9e entre les deux \u00e2mes cherchant \u00e0 fuir. Car l'\u00e9crivain est sans \u0153uvres et erre sans le sou. Le soupirant du coin interrompt leurs adieux qui seront bient\u00f4t rendus provisoires par l'irruption d'un gangster sans foi ni loi...",
-            "popularity": 0.9262,
-            "poster_path": "/kjE4pw6mqoA1OJHNLq1aol4y4C1.jpg",
-            "release_date": "1936-02-08",
-            "title": "The Petrified Forest",
-            "video": false,
-            "vote_average": 7.087,
-            "vote_count": 206,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Romance",
-                "Thriller"
-            ],
-            "runtime": 82,
             "tagline": ""
         },
         {
@@ -372,6 +308,27 @@
                 "Musique"
             ],
             "runtime": 113,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yIj4Y2BXbjr8Qem6Ly8QJWt4PgL.jpg",
+            "id": 31773,
+            "original_language": "en",
+            "original_title": "Libeled Lady",
+            "overview": "R\u00e9dacteur en chef d'un journal \u00e0 scandales, Warren laisse publier, par erreur, un article infamant sur Connie Allenbury, une richissime h\u00e9riti\u00e8re qui demande aussit\u00f4t r\u00e9paration. Une affaire embarrassante, qui contraint Warren \u00e0 ajourner \u00e0 nouveau son union, avec sa fianc\u00e9e Gladys. Pour sortir de l'impasse, Warren fait appel \u00e0 Bill, un ancien collaborateur, et le charge de compromettre Connie.",
+            "popularity": 1.642,
+            "poster_path": "/mu2zGdHZJ9IASvnQktjGLZ4kU13.jpg",
+            "release_date": "1936-10-09",
+            "title": "Une fine mouche",
+            "video": false,
+            "vote_average": 7.272,
+            "vote_count": 127,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "runtime": 98,
             "tagline": ""
         },
         {
@@ -399,21 +356,43 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/oBlTxZS8aSLH1i67nczMeSuwg2a.jpg",
-            "id": 52429,
+            "backdrop_path": "/g0SCy0sGaJa381iDQRxqonCMTGN.jpg",
+            "id": 17030,
             "original_language": "en",
-            "original_title": "Theodora Goes Wild",
-            "overview": "",
-            "popularity": 0.7252,
-            "poster_path": "/rCrLr32lMOeqKHrBuxAPYpDEDJX.jpg",
-            "release_date": "1936-11-12",
-            "title": "Theodora Goes Wild",
+            "original_title": "The Petrified Forest",
+            "overview": "Dans la r\u00e9gion d\u00e9sertique de la For\u00eat P\u00e9trifi\u00e9e, l'\u00e9crivain-voyageur Alan Squier fait une halte pour se restaurer dans la petite station multiservices tenue par trois g\u00e9n\u00e9rations de Maple, dont la jeune et jolie Gabrielle, qui r\u00eave de partir en France rejoindre sa m\u00e8re \u00e0 Bourges pour \u00e9tudier l'art. Celle-ci lui lit son po\u00e8me pr\u00e9f\u00e9r\u00e9 de Fran\u00e7ois Villon, lui montre ses dessins. L'affinit\u00e9 se cr\u00e9e entre les deux \u00e2mes cherchant \u00e0 fuir. Car l'\u00e9crivain est sans \u0153uvres et erre sans le sou. Le soupirant du coin interrompt leurs adieux qui seront bient\u00f4t rendus provisoires par l'irruption d'un gangster sans foi ni loi...",
+            "popularity": 0.9262,
+            "poster_path": "/kjE4pw6mqoA1OJHNLq1aol4y4C1.jpg",
+            "release_date": "1936-02-08",
+            "title": "La For\u00eat p\u00e9trifi\u00e9e",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 47,
+            "vote_average": 7.087,
+            "vote_count": 206,
             "genres": [
-                "Com\u00e9die",
-                "Romance"
+                "Crime",
+                "Drame",
+                "Romance",
+                "Thriller"
+            ],
+            "runtime": 82,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
+            "id": 13562,
+            "original_language": "en",
+            "original_title": "My Man Godfrey",
+            "overview": "Pendant la Grande D\u00e9pression, alors que les bidonvilles s'\u00e9tendent dans les terrains vagues, les riches continuent \u00e0 faire la f\u00eate. Comme ce soir-l\u00e0 o\u00f9 la haute bourgeoisie s'est lanc\u00e9e dans une excentrique partie de chasse au tr\u00e9sor o\u00f9 le gagnant sera celui qui rapporte non pas un objet pr\u00e9cieux, mais quelque chose dont personne ne veut. C'est ainsi qu'Ir\u00e8ne, l'une des filles de la famille Bullock (famille qui ferait passer les patients de l\u2019asile d\u2019Arkham pour de charmants participants d'une convention Tupperware) ram\u00e8ne un sans-logis qu'elle exhibe, triomphante, \u00e0 la party. Godfrey devient le prot\u00e9g\u00e9 d\u2019Ir\u00e8ne qui lui offre un emploi de majordome... Mais on dirait que c'est celui que l'on surnomme \u00ab The Duke \u00bb qui tire les ficelles du jeu...",
+            "popularity": 0.9547,
+            "poster_path": "/p7qv9luconWAD19OVGsf0sEXpHj.jpg",
+            "release_date": "1936-09-02",
+            "title": "Mon homme Godfrey",
+            "video": false,
+            "vote_average": 7.546,
+            "vote_count": 377,
+            "genres": [
+                "Com\u00e9die"
             ],
             "runtime": 94,
             "tagline": ""
@@ -440,24 +419,45 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/f0XZOJYk9sNk22qDbzGfR7Q0wbf.jpg",
-            "id": 43885,
+            "backdrop_path": "/oBlTxZS8aSLH1i67nczMeSuwg2a.jpg",
+            "id": 52429,
             "original_language": "en",
-            "original_title": "The Plainsman",
-            "overview": "Les exploits de Buffalo Bill et de son ami Bill Hickcok, amoureux de la blonde Calamity Jane...",
-            "popularity": 0.4348,
-            "poster_path": "/po9nD2uBMRB9H3QokrdSyzvpmjb.jpg",
-            "release_date": "1936-11-16",
-            "title": "The Plainsman",
+            "original_title": "Theodora Goes Wild",
+            "overview": "",
+            "popularity": 0.7252,
+            "poster_path": "/rCrLr32lMOeqKHrBuxAPYpDEDJX.jpg",
+            "release_date": "1936-11-12",
+            "title": "Theodora Goes Wild",
             "video": false,
-            "vote_average": 6.3,
-            "vote_count": 34,
+            "vote_average": 6.5,
+            "vote_count": 47,
             "genres": [
-                "Western",
-                "Guerre",
+                "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 100,
+            "runtime": 94,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s7DtYI6KPd5s5UDdpTbXcbmDamB.jpg",
+            "id": 132263,
+            "original_language": "en",
+            "original_title": "The Ghost Goes West",
+            "overview": "Ch\u00e2telain \u00e9cossais ruin\u00e9, Donald Glourie est contraint de vendre son ch\u00e2teau. Il trouve acqu\u00e9reur en la personne de Joe Martin, un milliardaire am\u00e9ricain \u00e9pais dont la fille, Peggy, est charmante. Le ch\u00e2teau est d\u00e9mont\u00e9 pierre par pierre pour \u00eatre reconstruit \u00e0 l'identique en Am\u00e9rique. Or, le fant\u00f4me qui hantait ce ch\u00e2teau, Murdoch, n'aime pas les voyages. Il ne jouira du repos \u00e9ternel que lorsqu'il aura veng\u00e9 l'honneur des Glourie en giflant un repr\u00e9sentant du clan adverse. Il trouvera ce personnage outre-Atlantique.",
+            "popularity": 0.3889,
+            "poster_path": "/pZnbP4yIrazmXogahHqvpyOay7J.jpg",
+            "release_date": "1935-12-17",
+            "title": "Fant\u00f4me \u00e0 vendre",
+            "video": false,
+            "vote_average": 6.597,
+            "vote_count": 36,
+            "genres": [
+                "Romance",
+                "Com\u00e9die",
+                "Fantastique"
+            ],
+            "runtime": 95,
             "tagline": ""
         },
         {
@@ -483,24 +483,24 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/s7DtYI6KPd5s5UDdpTbXcbmDamB.jpg",
-            "id": 132263,
+            "backdrop_path": "/f0XZOJYk9sNk22qDbzGfR7Q0wbf.jpg",
+            "id": 43885,
             "original_language": "en",
-            "original_title": "The Ghost Goes West",
-            "overview": "Ch\u00e2telain \u00e9cossais ruin\u00e9, Donald Glourie est contraint de vendre son ch\u00e2teau. Il trouve acqu\u00e9reur en la personne de Joe Martin, un milliardaire am\u00e9ricain \u00e9pais dont la fille, Peggy, est charmante. Le ch\u00e2teau est d\u00e9mont\u00e9 pierre par pierre pour \u00eatre reconstruit \u00e0 l'identique en Am\u00e9rique. Or, le fant\u00f4me qui hantait ce ch\u00e2teau, Murdoch, n'aime pas les voyages. Il ne jouira du repos \u00e9ternel que lorsqu'il aura veng\u00e9 l'honneur des Glourie en giflant un repr\u00e9sentant du clan adverse. Il trouvera ce personnage outre-Atlantique.",
-            "popularity": 0.3889,
-            "poster_path": "/pZnbP4yIrazmXogahHqvpyOay7J.jpg",
-            "release_date": "1935-12-17",
-            "title": "The Ghost Goes West",
+            "original_title": "The Plainsman",
+            "overview": "Les exploits de Buffalo Bill et de son ami Bill Hickcok, amoureux de la blonde Calamity Jane...",
+            "popularity": 0.4348,
+            "poster_path": "/po9nD2uBMRB9H3QokrdSyzvpmjb.jpg",
+            "release_date": "1936-11-16",
+            "title": "Une Aventure de Buffalo Bill",
             "video": false,
-            "vote_average": 6.597,
-            "vote_count": 36,
+            "vote_average": 6.3,
+            "vote_count": 34,
             "genres": [
-                "Romance",
-                "Com\u00e9die",
-                "Fantastique"
+                "Western",
+                "Guerre",
+                "Romance"
             ],
-            "runtime": 95,
+            "runtime": 100,
             "tagline": ""
         },
         {
@@ -513,7 +513,7 @@
             "popularity": 0.4129,
             "poster_path": "/gX3QtoUbcRSCRFMzeyqkz2EqWJ4.jpg",
             "release_date": "1936-03-13",
-            "title": "The Trail of the Lonesome Pine",
+            "title": "La Fille du bois maudit",
             "video": false,
             "vote_average": 6.5,
             "vote_count": 31,
@@ -535,7 +535,7 @@
             "popularity": 0.2308,
             "poster_path": "/mogNwFf7uEKq22Kim40hGa20tRZ.jpg",
             "release_date": "1936-07-28",
-            "title": "Mary of Scotland",
+            "title": "Marie Stuart",
             "video": false,
             "vote_average": 6.2,
             "vote_count": 38,
@@ -549,28 +549,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/vzKzz7ObY3zNIV4ZYFY6Ib3X6ig.jpg",
-            "id": 3082,
-            "original_language": "en",
-            "original_title": "Modern Times",
-            "overview": "Charlot est ouvrier dans une gigantesque usine. Il resserre quotidiennement des boulons. Mais les machines, le travail \u00e0 la cha\u00eene le rendent malade, il abandonne son poste, recueille une orpheline et vit d'exp\u00e9dients. Le vagabond et la jeune fille vont s'allier pour affronter ensemble les difficult\u00e9s de la vie\u2026",
-            "popularity": 2.6318,
-            "poster_path": "/3BBRjJLZVhKbZTKci5kdKwGLynj.jpg",
-            "release_date": "1936-02-05",
-            "title": "Modern Times",
-            "video": false,
-            "vote_average": 8.284,
-            "vote_count": 3950,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 87,
-            "tagline": "L'humanit\u00e9 \u00e0 la recherche du bonheur."
-        },
-        {
-            "adult": false,
             "backdrop_path": "/iuqShSmgUOCM72Mu4u7Btqelflx.jpg",
             "id": 64142,
             "original_language": "en",
@@ -579,7 +557,7 @@
             "popularity": 1.0783,
             "poster_path": "/zae2mPsb621u2U4vLa2KkDGG7el.jpg",
             "release_date": "1936-12-20",
-            "title": "Three Smart Girls",
+            "title": "Trois jeunes filles \u00e0 la page",
             "video": false,
             "vote_average": 6.4,
             "vote_count": 21,
@@ -593,6 +571,28 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/vzKzz7ObY3zNIV4ZYFY6Ib3X6ig.jpg",
+            "id": 3082,
+            "original_language": "en",
+            "original_title": "Modern Times",
+            "overview": "Charlot est ouvrier dans une gigantesque usine. Il resserre quotidiennement des boulons. Mais les machines, le travail \u00e0 la cha\u00eene le rendent malade, il abandonne son poste, recueille une orpheline et vit d'exp\u00e9dients. Le vagabond et la jeune fille vont s'allier pour affronter ensemble les difficult\u00e9s de la vie\u2026",
+            "popularity": 2.6318,
+            "poster_path": "/3BBRjJLZVhKbZTKci5kdKwGLynj.jpg",
+            "release_date": "1936-02-05",
+            "title": "Les Temps Modernes",
+            "video": false,
+            "vote_average": 8.284,
+            "vote_count": 3950,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 87,
+            "tagline": "L'humanit\u00e9 \u00e0 la recherche du bonheur."
+        },
+        {
+            "adult": false,
             "backdrop_path": "/9aiwz7W64ngTBf7v3pSs6lSEj0I.jpg",
             "id": 93313,
             "original_language": "en",
@@ -601,7 +601,7 @@
             "popularity": 0.3826,
             "poster_path": "/1XrclgIlth8nt2Hh7gl3LpRyCfV.jpg",
             "release_date": "1936-11-06",
-            "title": "Come and Get It",
+            "title": "Le vandale",
             "video": false,
             "vote_average": 6.838,
             "vote_count": 39,
@@ -622,7 +622,7 @@
             "popularity": 1.0388,
             "poster_path": "/4BvTBZhJIkdCAiqQavrNX5KuiJy.jpg",
             "release_date": "1936-03-06",
-            "title": "Little Lord Fauntleroy",
+            "title": "Le petit lord Fauntleroy",
             "video": false,
             "vote_average": 6.7,
             "vote_count": 58,
@@ -663,34 +663,13 @@
             "popularity": 0.4449,
             "poster_path": "/jvqWDuu9NRjB8MnIMunYH9GchfZ.jpg",
             "release_date": "1936-08-28",
-            "title": "The Gorgeous Hussy",
+            "title": "L'enchanteresse",
             "video": false,
             "vote_average": 5.3,
             "vote_count": 14,
             "genres": [
                 "Drame",
                 "Histoire"
-            ],
-            "runtime": 103,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/berFcW4jty3bPar7SVPIyIcqru9.jpg",
-            "id": 20325,
-            "original_language": "en",
-            "original_title": "Swing Time",
-            "overview": "Pour prot\u00e9ger sa carri\u00e8re de danseur, les amis de Lucky Garnett l'emp\u00e8chent de se marier avec Margaret Watson en lui volant son pantalon. Arriv\u00e9 \u00e0 son mariage apr\u00e8s que les invit\u00e9s sont rentr\u00e9s chez eux, il parvient \u00e0 se r\u00e9concilier avec son futur beau-p\u00e8re, le juge Watson, \u00e0 condition qu'il aille \u00e0 New York faire fortune et ne revienne qu'avec 25 000$.\r Accompagn\u00e9 de Pop, il se rend donc \u00e0 New York, sans un sou en poche (il avait pari\u00e9 qu'il parviendrait \u00e0 se marier). Il fait la rencontre de Penny Carroll, qui enseigne la danse. Pour la conqu\u00e9rir, il joue et gagne jusqu'au moment o\u00f9 il approche de la somme fatidique...",
-            "popularity": 0.7598,
-            "poster_path": "/yjoduUg87Tz1EPn7cTVKAa34uBG.jpg",
-            "release_date": "1936-08-28",
-            "title": "Swing Time",
-            "video": false,
-            "vote_average": 6.838,
-            "vote_count": 244,
-            "genres": [
-                "Romance",
-                "Com\u00e9die"
             ],
             "runtime": 103,
             "tagline": ""
@@ -705,7 +684,7 @@
             "popularity": 0.2784,
             "poster_path": "/9CFgJmBayIWXvkKsKq3kmL621ib.jpg",
             "release_date": "1936-11-17",
-            "title": "The General Died at Dawn",
+            "title": "Le g\u00e9n\u00e9ral est mort \u00e0 l'aube",
             "video": false,
             "vote_average": 6.3,
             "vote_count": 21,
@@ -739,6 +718,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/berFcW4jty3bPar7SVPIyIcqru9.jpg",
+            "id": 20325,
+            "original_language": "en",
+            "original_title": "Swing Time",
+            "overview": "Pour prot\u00e9ger sa carri\u00e8re de danseur, les amis de Lucky Garnett l'emp\u00e8chent de se marier avec Margaret Watson en lui volant son pantalon. Arriv\u00e9 \u00e0 son mariage apr\u00e8s que les invit\u00e9s sont rentr\u00e9s chez eux, il parvient \u00e0 se r\u00e9concilier avec son futur beau-p\u00e8re, le juge Watson, \u00e0 condition qu'il aille \u00e0 New York faire fortune et ne revienne qu'avec 25 000$.\r Accompagn\u00e9 de Pop, il se rend donc \u00e0 New York, sans un sou en poche (il avait pari\u00e9 qu'il parviendrait \u00e0 se marier). Il fait la rencontre de Penny Carroll, qui enseigne la danse. Pour la conqu\u00e9rir, il joue et gagne jusqu'au moment o\u00f9 il approche de la somme fatidique...",
+            "popularity": 0.7598,
+            "poster_path": "/yjoduUg87Tz1EPn7cTVKAa34uBG.jpg",
+            "release_date": "1936-08-28",
+            "title": "Sur les ailes de la danse",
+            "video": false,
+            "vote_average": 6.838,
+            "vote_count": 244,
+            "genres": [
+                "Romance",
+                "Com\u00e9die"
+            ],
+            "runtime": 103,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/kIvFFWx0iDY9EA39xJFmXcVmK6H.jpg",
             "id": 88031,
             "original_language": "en",
@@ -756,6 +756,50 @@
                 "Drame"
             ],
             "runtime": 92,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dsrHhe5Ljve2WKwDUHJPIfyG3f1.jpg",
+            "id": 43884,
+            "original_language": "en",
+            "original_title": "The Charge of the Light Brigade",
+            "overview": "Suite \u00e0 l'imminence d'un conflit impliquant l'Angleterre et la Russie, un officier des Indes est charg\u00e9 de fournir des chevaux en Arabie. Faisant escale \u00e0 Calcutta pour voir sa fianc\u00e9e, la garnison est attaqu\u00e9e par le sultan Surat Khan, nouvel alli\u00e9 des Russes.",
+            "popularity": 0.6982,
+            "poster_path": "/usyiTOY9IuiPNao8fIQQPhA7A78.jpg",
+            "release_date": "1936-10-20",
+            "title": "La Charge de la brigade l\u00e9g\u00e8re",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 78,
+            "genres": [
+                "Drame",
+                "Aventure",
+                "Guerre"
+            ],
+            "runtime": 111,
+            "tagline": "Ce n'est pas \u00e0 eux de raisonner, c'est \u00e0 eux mais de faire et de mourir"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wCKoZibsAdSbtNkLZOJphPeG5w0.jpg",
+            "id": 151848,
+            "original_language": "en",
+            "original_title": "The Garden of Allah",
+            "overview": "Dans le train pour le Sahara, Domini Enfelden rencontre Boris Androvsky,s\u00e9duisant mais amer, qui la prend sous sa protection...",
+            "popularity": 1.3726,
+            "poster_path": "/ilEUSPjSJC50sgsJgQkDesW7iok.jpg",
+            "release_date": "1936-10-14",
+            "title": "Le jardin d'Allah",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 33,
+            "genres": [
+                "Drame",
+                "Romance",
+                "Aventure"
+            ],
+            "runtime": 79,
             "tagline": ""
         },
         {
@@ -782,28 +826,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/dsrHhe5Ljve2WKwDUHJPIfyG3f1.jpg",
-            "id": 43884,
-            "original_language": "en",
-            "original_title": "The Charge of the Light Brigade",
-            "overview": "Suite \u00e0 l'imminence d'un conflit impliquant l'Angleterre et la Russie, un officier des Indes est charg\u00e9 de fournir des chevaux en Arabie. Faisant escale \u00e0 Calcutta pour voir sa fianc\u00e9e, la garnison est attaqu\u00e9e par le sultan Surat Khan, nouvel alli\u00e9 des Russes.",
-            "popularity": 0.6982,
-            "poster_path": "/usyiTOY9IuiPNao8fIQQPhA7A78.jpg",
-            "release_date": "1936-10-20",
-            "title": "The Charge of the Light Brigade",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 78,
-            "genres": [
-                "Drame",
-                "Aventure",
-                "Guerre"
-            ],
-            "runtime": 111,
-            "tagline": "Ce n'est pas \u00e0 eux de raisonner, c'est \u00e0 eux mais de faire et de mourir"
-        },
-        {
-            "adult": false,
             "backdrop_path": "/AnKzR6MedfZC3jbdaUBM1WucT0G.jpg",
             "id": 114057,
             "original_language": "en",
@@ -820,28 +842,6 @@
                 "Drame"
             ],
             "runtime": 110,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wCKoZibsAdSbtNkLZOJphPeG5w0.jpg",
-            "id": 151848,
-            "original_language": "en",
-            "original_title": "The Garden of Allah",
-            "overview": "Dans le train pour le Sahara, Domini Enfelden rencontre Boris Androvsky,s\u00e9duisant mais amer, qui la prend sous sa protection...",
-            "popularity": 1.3726,
-            "poster_path": "/ilEUSPjSJC50sgsJgQkDesW7iok.jpg",
-            "release_date": "1936-10-14",
-            "title": "The Garden of Allah",
-            "video": false,
-            "vote_average": 5.8,
-            "vote_count": 33,
-            "genres": [
-                "Drame",
-                "Romance",
-                "Aventure"
-            ],
-            "runtime": 79,
             "tagline": ""
         },
         {
@@ -897,7 +897,7 @@
             "popularity": 0.3028,
             "poster_path": "/7PPstjjngZpYRcLrVCFrcHBazMx.jpg",
             "release_date": "1936-10-02",
-            "title": "The Gay Desperado",
+            "title": "Le Joyeux bandit",
             "video": false,
             "vote_average": 2.8,
             "vote_count": 5,
@@ -906,49 +906,6 @@
                 "Com\u00e9die"
             ],
             "runtime": 86,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xRyu3WKWBATP8T4afJ5vArNlElB.jpg",
-            "id": 14588,
-            "original_language": "en",
-            "original_title": "After the Thin Man",
-            "overview": "Nick Charles vit luxueusement de la richesse de sa femme Nora qui lui permet de s'adonner \u00e0 sa mauvaise habitude de boire. Sa cousine Selma Landis le charge d'une nouvelle affaire \u00e0 San Fransisco : retrouver son mari volage dont elle pense qu'il la trompe avec une chanteuse de nightclub nomm\u00e9e Polly Bymes.",
-            "popularity": 0.8043,
-            "poster_path": "/qFLtGUw4r5cEgLx8zCJPQC6zUXH.jpg",
-            "release_date": "1936-12-25",
-            "title": "After the Thin Man",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 188,
-            "genres": [
-                "Com\u00e9die",
-                "Myst\u00e8re",
-                "Crime"
-            ],
-            "runtime": 102,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/389kf36hGoXwAmT4UwXiAQgFtlU.jpg",
-            "id": 140276,
-            "original_language": "en",
-            "original_title": "The Road to Glory",
-            "overview": "En 1916, sur le front fran\u00e7ais. Le capitaine Laroche, r\u00e9put\u00e9 pour son inflexibilit\u00e9, tombe amoureux de Monique, une jeune infirmi\u00e8re. Il n'est pas le seul \u00e0 lui faire des avances: en effet le lieutenant Denet, qui fait partie du r\u00e9giment de Laroche, tombe sous les charmes de Monique. Apprenant cette liaison, Laroche est volontaire pour une mission tr\u00e8s p\u00e9rilleuse, tandis que Denet prend la t\u00eate du r\u00e9giment...",
-            "popularity": 0.7968,
-            "poster_path": "/7iOEPjRFhRNXPWnMr6C1lFYy0df.jpg",
-            "release_date": "1936-09-04",
-            "title": "The Road to Glory",
-            "video": false,
-            "vote_average": 6.3,
-            "vote_count": 6,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 103,
             "tagline": ""
         },
         {
@@ -973,6 +930,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/389kf36hGoXwAmT4UwXiAQgFtlU.jpg",
+            "id": 140276,
+            "original_language": "en",
+            "original_title": "The Road to Glory",
+            "overview": "En 1916, sur le front fran\u00e7ais. Le capitaine Laroche, r\u00e9put\u00e9 pour son inflexibilit\u00e9, tombe amoureux de Monique, une jeune infirmi\u00e8re. Il n'est pas le seul \u00e0 lui faire des avances: en effet le lieutenant Denet, qui fait partie du r\u00e9giment de Laroche, tombe sous les charmes de Monique. Apprenant cette liaison, Laroche est volontaire pour une mission tr\u00e8s p\u00e9rilleuse, tandis que Denet prend la t\u00eate du r\u00e9giment...",
+            "popularity": 0.7968,
+            "poster_path": "/7iOEPjRFhRNXPWnMr6C1lFYy0df.jpg",
+            "release_date": "1936-09-04",
+            "title": "Les chemins de la gloire",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 6,
+            "genres": [
+                "Drame",
+                "Guerre"
+            ],
+            "runtime": 103,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/sv6KLwDXi7QNSDcdSofc2NF3tk.jpg",
             "id": 77245,
             "original_language": "en",
@@ -981,7 +959,7 @@
             "popularity": 0.3955,
             "poster_path": "/sRwHEfjPmRhK9rbqV3XNThERKCX.jpg",
             "release_date": "1936-02-28",
-            "title": "The Prisoner of Shark Island",
+            "title": "Je n'ai pas tu\u00e9 Lincoln",
             "video": false,
             "vote_average": 6.8,
             "vote_count": 58,
@@ -990,27 +968,6 @@
                 "Histoire"
             ],
             "runtime": 93,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/a4uWcOpL9fpdOdCNlod0esC4iY3.jpg",
-            "id": 28292,
-            "original_language": "en",
-            "original_title": "Follow the Fleet",
-            "overview": "Lors d'une escale \u00e0 San Francisco, le marin Bake Baker tente de ranimer la flamme de son ancienne partenaire de danse, Sherry Martin. Pendant ce temps, le meilleur ami de Bake, Bilge Smith, tombe amoureux de la soeur de Connie ...",
-            "popularity": 1.2949,
-            "poster_path": "/ffOCDi0mnG7AuvQ8i8qjWtmkMVq.jpg",
-            "release_date": "1936-02-20",
-            "title": "Follow the Fleet",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 72,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 110,
             "tagline": ""
         },
         {
@@ -1031,6 +988,49 @@
                 "Drame"
             ],
             "runtime": 87,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a4uWcOpL9fpdOdCNlod0esC4iY3.jpg",
+            "id": 28292,
+            "original_language": "en",
+            "original_title": "Follow the Fleet",
+            "overview": "Lors d'une escale \u00e0 San Francisco, le marin Bake Baker tente de ranimer la flamme de son ancienne partenaire de danse, Sherry Martin. Pendant ce temps, le meilleur ami de Bake, Bilge Smith, tombe amoureux de la soeur de Connie ...",
+            "popularity": 1.2949,
+            "poster_path": "/ffOCDi0mnG7AuvQ8i8qjWtmkMVq.jpg",
+            "release_date": "1936-02-20",
+            "title": "En suivant la flotte",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 72,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "runtime": 110,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xRyu3WKWBATP8T4afJ5vArNlElB.jpg",
+            "id": 14588,
+            "original_language": "en",
+            "original_title": "After the Thin Man",
+            "overview": "Nick Charles vit luxueusement de la richesse de sa femme Nora qui lui permet de s'adonner \u00e0 sa mauvaise habitude de boire. Sa cousine Selma Landis le charge d'une nouvelle affaire \u00e0 San Fransisco : retrouver son mari volage dont elle pense qu'il la trompe avec une chanteuse de nightclub nomm\u00e9e Polly Bymes.",
+            "popularity": 0.8043,
+            "poster_path": "/qFLtGUw4r5cEgLx8zCJPQC6zUXH.jpg",
+            "release_date": "1936-12-25",
+            "title": "Nick, Gentleman d\u00e9tective",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 188,
+            "genres": [
+                "Com\u00e9die",
+                "Myst\u00e8re",
+                "Crime"
+            ],
+            "runtime": 102,
             "tagline": ""
         },
         {
@@ -1064,7 +1064,7 @@
             "popularity": 2.0224,
             "poster_path": "/yUsasw5UCRbebpD8wk6S0z4C1Ll.jpg",
             "release_date": "1936-01-16",
-            "title": "Ceiling Zero",
+            "title": "Brumes",
             "video": false,
             "vote_average": 5.778,
             "vote_count": 18,

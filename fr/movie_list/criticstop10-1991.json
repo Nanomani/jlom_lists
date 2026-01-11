@@ -9,6 +9,28 @@
     "movies": [
         {
             "adult": false,
+            "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+            "id": 274,
+            "original_language": "en",
+            "original_title": "The Silence of the Lambs",
+            "overview": "Un psychopathe connu sous le nom de Buffalo Bill s\u00e8me la terreur dans le Middle West en kidnappant et en assassinant de jeunes femmes. Clarice Starling, une jeune stagiaire du FBI, est charg\u00e9e d\u2019interroger l\u2019ex\u2010psychiatre Hannibal Lecter. Psychopathe redoutablement intelligent et port\u00e9 sur le cannibalisme, Lecter est capable de lui fournir des informations concernant Buffalo Bill ainsi que son portrait psychologique. Mais il n\u2019accepte de l\u2019aider qu\u2019en \u00e9change d\u2019informations sur la vie priv\u00e9e de la jeune femme. Entre eux s\u2019\u00e9tablit un lien de fascination et de r\u00e9pulsion.",
+            "popularity": 3.5588,
+            "poster_path": "/sSQDxwm4r28YpJSQVyVOtpYVs0E.jpg",
+            "release_date": "1991-02-14",
+            "title": "Le Silence des agneaux",
+            "video": false,
+            "vote_average": 8.346,
+            "vote_count": 17436,
+            "genres": [
+                "Crime",
+                "Thriller",
+                "Drame"
+            ],
+            "runtime": 118,
+            "tagline": "Elle doit deviner les pens\u00e9es d'un criminel en p\u00e9n\u00e9trant dans le monde d'un psychopathe."
+        },
+        {
+            "adult": false,
             "backdrop_path": "/4EwtX20mFGsT0Ws3iRXMS6yffTJ.jpg",
             "id": 1541,
             "original_language": "en",
@@ -32,111 +54,26 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
-            "id": 820,
+            "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+            "id": 10020,
             "original_language": "en",
-            "original_title": "JFK",
-            "overview": "En 1966, trois ans apr\u00e8s l'assassinat du pr\u00e9sident John F. Kennedy \u00e0 Dallas, Jim Garrison, procureur de La Nouvelle-Orl\u00e9ans (Louisiane), se plonge dans la lecture du rapport de la commission Warren charg\u00e9e d'\u00e9lucider le crime et ayant \u00e9tabli la culpabilit\u00e9 de Lee Harvey Oswald. Les invraisemblances et les \u00ab trous \u00bb du rapport Warren \u00e9tonnent Garrison qui d\u00e9cide d'enqu\u00eater lui-m\u00eame sur l'assassinat. Les pistes qu'il d\u00e9couvre avec l'aide d'une petite \u00e9quipe gagn\u00e9e \u00e0 sa cause le m\u00e8nent \u00e0 la conclusion que Oswald n'\u00e9tait qu'une \u00ab couverture \u00bb masquant en fait un v\u00e9ritable complot minutieusement organis\u00e9 par la CIA, le FBI et le Pentagone afin d'\u00e9liminer Kennedy.",
-            "popularity": 4.1911,
-            "poster_path": "/aXBz7t4TO5Ln3u5CQLIS96Kzuvl.jpg",
-            "release_date": "1991-12-20",
-            "title": "JFK",
+            "original_title": "Beauty and the Beast",
+            "overview": "La courageuse et ind\u00e9pendante Belle vit l\u2019aventure de sa vie alors qu\u2019elle vole au secours de son p\u00e8re et d\u00e9couvre le ch\u00e2teau enchant\u00e9 d\u2019une b\u00eate myst\u00e9rieuse. Un conte intemporel plein de personnages et d\u2019airs inoubliables, et l\u2019un des dessins anim\u00e9s les plus acclam\u00e9s de Walt Disney Animation Studios.",
+            "popularity": 12.5293,
+            "poster_path": "/sIhRrRapijHVKOTfTp93YsP89e4.jpg",
+            "release_date": "1991-10-22",
+            "title": "La Belle et la B\u00eate",
             "video": false,
-            "vote_average": 7.606,
-            "vote_count": 2317,
+            "vote_average": 7.727,
+            "vote_count": 10448,
             "genres": [
-                "Drame",
-                "Thriller",
-                "Histoire"
+                "Romance",
+                "Familial",
+                "Animation",
+                "Fantastique"
             ],
-            "runtime": 189,
-            "tagline": "Il est pr\u00eat \u00e0 risquer tout ce qu'il a de plus cher pour ce qu'il a de plus sacr\u00e9...  La v\u00e9rit\u00e9."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
-            "id": 177,
-            "original_language": "en",
-            "original_title": "The Fisher King",
-            "overview": "Jack, cynique et c\u00e9l\u00e8bre pr\u00e9sentateur de radio en rupture de ban, est sauv\u00e9 de l'attaque d'une bande de loubards par Henry, clochard ex-professeur de lettres, dont la femme fut la victime d'un auditeur trop attentif de Jack. Ensemble ils partent \u00e0 la recherche du bonheur...",
-            "popularity": 2.8635,
-            "poster_path": "/ryu0IHA4j6JI5fdWJYjUzTYfbQ1.jpg",
-            "release_date": "1991-09-20",
-            "title": "The Fisher King",
-            "video": false,
-            "vote_average": 7.305,
-            "vote_count": 1419,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 137,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
-            "id": 280,
-            "original_language": "en",
-            "original_title": "Terminator 2: Judgment Day",
-            "overview": "En 2029, apr\u00e8s leur \u00e9chec pour \u00e9liminer Sarah Connor, les robots de Skynet programment un nouveau Terminator, le T\u20101000, pour retourner dans le pass\u00e9 et \u00e9liminer son fils John Connor, futur leader de la r\u00e9sistance humaine. Ce dernier programme un autre cyborg, le T\u2010800, et l\u2019envoie \u00e9galement en 1995, pour le prot\u00e9ger. Une seule question d\u00e9terminera le sort de l\u2019humanit\u00e9\u00a0: laquelle des deux machines trouvera John la premi\u00e8re\u202f?",
-            "popularity": 13.119,
-            "poster_path": "/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg",
-            "release_date": "1991-07-03",
-            "title": "Terminator 2: Judgment Day",
-            "video": false,
-            "vote_average": 8.137,
-            "vote_count": 13840,
-            "genres": [
-                "Action",
-                "Thriller",
-                "Science-Fiction"
-            ],
-            "runtime": 127,
-            "tagline": "M\u00eame fabrication, m\u00eame mod\u00e8le, nouvelle mission."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
-            "id": 274,
-            "original_language": "en",
-            "original_title": "The Silence of the Lambs",
-            "overview": "Un psychopathe connu sous le nom de Buffalo Bill s\u00e8me la terreur dans le Middle West en kidnappant et en assassinant de jeunes femmes. Clarice Starling, une jeune stagiaire du FBI, est charg\u00e9e d\u2019interroger l\u2019ex\u2010psychiatre Hannibal Lecter. Psychopathe redoutablement intelligent et port\u00e9 sur le cannibalisme, Lecter est capable de lui fournir des informations concernant Buffalo Bill ainsi que son portrait psychologique. Mais il n\u2019accepte de l\u2019aider qu\u2019en \u00e9change d\u2019informations sur la vie priv\u00e9e de la jeune femme. Entre eux s\u2019\u00e9tablit un lien de fascination et de r\u00e9pulsion.",
-            "popularity": 3.5588,
-            "poster_path": "/sSQDxwm4r28YpJSQVyVOtpYVs0E.jpg",
-            "release_date": "1991-02-14",
-            "title": "The Silence of the Lambs",
-            "video": false,
-            "vote_average": 8.346,
-            "vote_count": 17436,
-            "genres": [
-                "Crime",
-                "Thriller",
-                "Drame"
-            ],
-            "runtime": 118,
-            "tagline": "Elle doit deviner les pens\u00e9es d'un criminel en p\u00e9n\u00e9trant dans le monde d'un psychopathe."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6N2aaG46UYcgef7Vg8aUKp59poe.jpg",
-            "id": 650,
-            "original_language": "en",
-            "original_title": "Boyz n the Hood",
-            "overview": "Le passage de l'adolescence a l'age d'homme pour trois heros de la rue d'une banlieue de Los Angeles. Premier film de John Singleton fortement inspire de sa propre experience.",
-            "popularity": 4.3666,
-            "poster_path": "/pPhJFt6fqaJjHwnk43oPSFFpyum.jpg",
-            "release_date": "1991-07-12",
-            "title": "Boyz n the Hood",
-            "video": false,
-            "vote_average": 7.617,
-            "vote_count": 2162,
-            "genres": [
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 112,
-            "tagline": ""
+            "runtime": 87,
+            "tagline": "La plus belle des histoires d\u2019amour comme vous ne l\u2019avez jamais vue."
         },
         {
             "adult": false,
@@ -162,48 +99,24 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/bQHHEFYBZc23nhbo0z0qB7nxW31.jpg",
-            "id": 11663,
+            "backdrop_path": "/6N2aaG46UYcgef7Vg8aUKp59poe.jpg",
+            "id": 650,
             "original_language": "en",
-            "original_title": "The Commitments",
-            "overview": "Splendeur et mis\u00e8res d'un groupe de soul music de Dublin, les Commitments, form\u00e9 par Jimmy Rabitte. C'est au moment o\u00f9 leur musique devient parfaite que leur groupe \u00e9clate.",
-            "popularity": 1.5161,
-            "poster_path": "/t8TpXTlynmjyHNkMC3YpyXTi459.jpg",
-            "release_date": "1991-08-14",
-            "title": "The Commitments",
+            "original_title": "Boyz n the Hood",
+            "overview": "Le passage de l'adolescence a l'age d'homme pour trois heros de la rue d'une banlieue de Los Angeles. Premier film de John Singleton fortement inspire de sa propre experience.",
+            "popularity": 4.3666,
+            "poster_path": "/pPhJFt6fqaJjHwnk43oPSFFpyum.jpg",
+            "release_date": "1991-07-12",
+            "title": "Boyz n the Hood : La loi de la rue",
             "video": false,
-            "vote_average": 7.26,
-            "vote_count": 579,
+            "vote_average": 7.617,
+            "vote_count": 2162,
             "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Musique"
+                "Crime",
+                "Drame"
             ],
-            "runtime": 118,
-            "tagline": "Ils ont la rage au ventre et de la soul music plein la t\u00eate."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
-            "id": 10020,
-            "original_language": "en",
-            "original_title": "Beauty and the Beast",
-            "overview": "La courageuse et ind\u00e9pendante Belle vit l\u2019aventure de sa vie alors qu\u2019elle vole au secours de son p\u00e8re et d\u00e9couvre le ch\u00e2teau enchant\u00e9 d\u2019une b\u00eate myst\u00e9rieuse. Un conte intemporel plein de personnages et d\u2019airs inoubliables, et l\u2019un des dessins anim\u00e9s les plus acclam\u00e9s de Walt Disney Animation Studios.",
-            "popularity": 12.5293,
-            "poster_path": "/sIhRrRapijHVKOTfTp93YsP89e4.jpg",
-            "release_date": "1991-10-22",
-            "title": "Beauty and the Beast",
-            "video": false,
-            "vote_average": 7.727,
-            "vote_count": 10448,
-            "genres": [
-                "Romance",
-                "Familial",
-                "Animation",
-                "Fantastique"
-            ],
-            "runtime": 87,
-            "tagline": "La plus belle des histoires d\u2019amour comme vous ne l\u2019avez jamais vue."
+            "runtime": 112,
+            "tagline": ""
         },
         {
             "adult": false,
@@ -229,6 +142,115 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/bQHHEFYBZc23nhbo0z0qB7nxW31.jpg",
+            "id": 11663,
+            "original_language": "en",
+            "original_title": "The Commitments",
+            "overview": "Splendeur et mis\u00e8res d'un groupe de soul music de Dublin, les Commitments, form\u00e9 par Jimmy Rabitte. C'est au moment o\u00f9 leur musique devient parfaite que leur groupe \u00e9clate.",
+            "popularity": 1.5161,
+            "poster_path": "/t8TpXTlynmjyHNkMC3YpyXTi459.jpg",
+            "release_date": "1991-08-14",
+            "title": "Les Commitments",
+            "video": false,
+            "vote_average": 7.26,
+            "vote_count": 579,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Musique"
+            ],
+            "runtime": 118,
+            "tagline": "Ils ont la rage au ventre et de la soul music plein la t\u00eate."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+            "id": 177,
+            "original_language": "en",
+            "original_title": "The Fisher King",
+            "overview": "Jack, cynique et c\u00e9l\u00e8bre pr\u00e9sentateur de radio en rupture de ban, est sauv\u00e9 de l'attaque d'une bande de loubards par Henry, clochard ex-professeur de lettres, dont la femme fut la victime d'un auditeur trop attentif de Jack. Ensemble ils partent \u00e0 la recherche du bonheur...",
+            "popularity": 2.8635,
+            "poster_path": "/ryu0IHA4j6JI5fdWJYjUzTYfbQ1.jpg",
+            "release_date": "1991-09-20",
+            "title": "Fisher King : Le Roi p\u00eacheur",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 1419,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "runtime": 137,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
+            "id": 280,
+            "original_language": "en",
+            "original_title": "Terminator 2: Judgment Day",
+            "overview": "En 2029, apr\u00e8s leur \u00e9chec pour \u00e9liminer Sarah Connor, les robots de Skynet programment un nouveau Terminator, le T\u20101000, pour retourner dans le pass\u00e9 et \u00e9liminer son fils John Connor, futur leader de la r\u00e9sistance humaine. Ce dernier programme un autre cyborg, le T\u2010800, et l\u2019envoie \u00e9galement en 1995, pour le prot\u00e9ger. Une seule question d\u00e9terminera le sort de l\u2019humanit\u00e9\u00a0: laquelle des deux machines trouvera John la premi\u00e8re\u202f?",
+            "popularity": 13.119,
+            "poster_path": "/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg",
+            "release_date": "1991-07-03",
+            "title": "Terminator 2 : Le Jugement dernier",
+            "video": false,
+            "vote_average": 8.137,
+            "vote_count": 13840,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Science-Fiction"
+            ],
+            "runtime": 127,
+            "tagline": "M\u00eame fabrication, m\u00eame mod\u00e8le, nouvelle mission."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+            "id": 820,
+            "original_language": "en",
+            "original_title": "JFK",
+            "overview": "En 1966, trois ans apr\u00e8s l'assassinat du pr\u00e9sident John F. Kennedy \u00e0 Dallas, Jim Garrison, procureur de La Nouvelle-Orl\u00e9ans (Louisiane), se plonge dans la lecture du rapport de la commission Warren charg\u00e9e d'\u00e9lucider le crime et ayant \u00e9tabli la culpabilit\u00e9 de Lee Harvey Oswald. Les invraisemblances et les \u00ab trous \u00bb du rapport Warren \u00e9tonnent Garrison qui d\u00e9cide d'enqu\u00eater lui-m\u00eame sur l'assassinat. Les pistes qu'il d\u00e9couvre avec l'aide d'une petite \u00e9quipe gagn\u00e9e \u00e0 sa cause le m\u00e8nent \u00e0 la conclusion que Oswald n'\u00e9tait qu'une \u00ab couverture \u00bb masquant en fait un v\u00e9ritable complot minutieusement organis\u00e9 par la CIA, le FBI et le Pentagone afin d'\u00e9liminer Kennedy.",
+            "popularity": 4.1911,
+            "poster_path": "/aXBz7t4TO5Ln3u5CQLIS96Kzuvl.jpg",
+            "release_date": "1991-12-20",
+            "title": "JFK",
+            "video": false,
+            "vote_average": 7.606,
+            "vote_count": 2317,
+            "genres": [
+                "Drame",
+                "Thriller",
+                "Histoire"
+            ],
+            "runtime": 189,
+            "tagline": "Il est pr\u00eat \u00e0 risquer tout ce qu'il a de plus cher pour ce qu'il a de plus sacr\u00e9...  La v\u00e9rit\u00e9."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+            "id": 1598,
+            "original_language": "en",
+            "original_title": "Cape Fear",
+            "overview": "Condamn\u00e9 \u00e0 quatorze ans de prison pour viol et voie de fait sur une mineure, Max Cady n'a jamais pardonn\u00e9 \u00e0 son avocat Sam Bowden de l'avoir abandonn\u00e9. Tout au long de sa peine, il s'est employ\u00e9 \u00e0 discipliner son corps et son esprit, se fixant pour unique but de ch\u00e2tier Bowden, de briser les siens. Et aujourd'hui, Max Cady est libre\u2026",
+            "popularity": 3.5025,
+            "poster_path": "/gxHK0rpwyphzmBDFqjFTd7z54J5.jpg",
+            "release_date": "1991-11-13",
+            "title": "Les Nerfs \u00e0 vif",
+            "video": false,
+            "vote_average": 7.252,
+            "vote_count": 3735,
+            "genres": [
+                "Drame",
+                "Crime",
+                "Thriller"
+            ],
+            "runtime": 128,
+            "tagline": "Le pass\u00e9 revient les hanter."
+        },
+        {
+            "adult": false,
             "backdrop_path": "/stSaFz5CtMXwIj3r4MDjqxqWRot.jpg",
             "id": 468,
             "original_language": "en",
@@ -249,6 +271,49 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/uAr9ideK1TCMDVTwRRaXr36Kha2.jpg",
+            "id": 32221,
+            "original_language": "en",
+            "original_title": "Rambling Rose",
+            "overview": "1930. Rose est engag\u00e9 par la famille Hiller en tant que femme de chambre afin d'\u00e9viter de tomber dans la prostitution. Mais Rose ne laisse pas les homme indiff\u00e9rents, et elle le sait...",
+            "popularity": 0.779,
+            "poster_path": "/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg",
+            "release_date": "1991-09-10",
+            "title": "Rambling Rose",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 78,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 112,
+            "tagline": "L\u2019innocence n\u2019a jamais \u00e9t\u00e9 aussi s\u00e9duisante."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6bxczMh3QJBbDyMTJ2pEJxrohzs.jpg",
+            "id": 11498,
+            "original_language": "en",
+            "original_title": "Dead Again",
+            "overview": "Le d\u00e9tective priv\u00e9 Mike Church enqu\u00eate sur les personnes disparues. Appel\u00e9 par les soeurs d'un couvent de Los Angeles, il accepte d'aider Grace, une jeune femme amn\u00e9sique, \u00e0 retrouver sa famille. Son enqu\u00eate le m\u00e8ne jusqu'\u00e0 Franklyn Madson, un antiquaire-hypnotiseur, gr\u00e2ce auquel il d\u00e9couvre que les cauchemars de Grace se r\u00e9f\u00e8rent \u00e0 l'assassinat de la pianiste Margaret Strauss par son mari en 1949.",
+            "popularity": 1.0452,
+            "poster_path": "/2DURawsocnCLef5mWv2aLNJr6nY.jpg",
+            "release_date": "1991-08-23",
+            "title": "Dead Again",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 398,
+            "genres": [
+                "Myst\u00e8re",
+                "Drame",
+                "Crime",
+                "Thriller"
+            ],
+            "runtime": 103,
+            "tagline": "Combien de fois peut-on mourir par amour ?"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/8yJg7SOv0hbuOYhFwq3FW8GajuM.jpg",
             "id": 31225,
             "original_language": "en",
@@ -266,6 +331,47 @@
             ],
             "runtime": 78,
             "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kbqpkmB1hxQqxXcEnIMEWECXoOk.jpg",
+            "id": 36843,
+            "original_language": "en",
+            "original_title": "Life Is Sweet",
+            "overview": "Portrait d'une famille britannique modeste, compos\u00e9e de Andy, p\u00e8re cuisinier d\u00e9pourvu d'ambition, de son \u00e9pouse Wendy, \u00e0 l'optimisme in\u00e9branlable, et de leurs filles jumelles, Natalie et Nicola.",
+            "popularity": 1.264,
+            "poster_path": "/zdkKNQzzwyciP9vAohAPFZdujlA.jpg",
+            "release_date": "1990-11-15",
+            "title": "Life Is Sweet",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 170,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "runtime": 90,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eDX4FucYbcuK1qKGEuh7gbE97SX.jpg",
+            "id": 2891,
+            "original_language": "en",
+            "original_title": "An Angel at My Table",
+            "overview": "Janet Frame vit en Nouvelle-Z\u00e9lande dans une famille pauvre et nombreuse. Son enfance est marqu\u00e9e par de tristes \u00e9v\u00e9nements : sa soeur a\u00een\u00e9e se noie et son fr\u00e8re est frapp\u00e9 de crises d'\u00e9pilepsie. Janet a du mal \u00e0 communiquer avec ses camarades et se r\u00e9fugie dans la lecture. Lorsqu'elle entre en facult\u00e9, elle tombe amoureuse de l'un de ses professeurs. Apr\u00e8s une tentative de suicide, elle suit ses conseils et demande \u00e0 \u00eatre soign\u00e9e dans un h\u00f4pital psychiatrique. Les m\u00e9decins diagnostiquent un cas de schizophr\u00e9nie et la traitent sans m\u00e9nagement, \u00e0 coups d'\u00e9lectrochocs et de supputations sur une \u00e9ventuelle lobotomie exp\u00e9rimentale. Seule l'\u00e9criture la sauve de ce funeste destin...",
+            "popularity": 1.4888,
+            "poster_path": "/pRVYLCGCKjYvcSGbtVeK1IYAi5D.jpg",
+            "release_date": "1990-09-20",
+            "title": "Un ange \u00e0 ma table",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 179,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 158,
+            "tagline": "Film bas\u00e9 sur la biographie de Janet Frame"
         },
         {
             "adult": false,
@@ -310,69 +416,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/uAr9ideK1TCMDVTwRRaXr36Kha2.jpg",
-            "id": 32221,
-            "original_language": "en",
-            "original_title": "Rambling Rose",
-            "overview": "1930. Rose est engag\u00e9 par la famille Hiller en tant que femme de chambre afin d'\u00e9viter de tomber dans la prostitution. Mais Rose ne laisse pas les homme indiff\u00e9rents, et elle le sait...",
-            "popularity": 0.779,
-            "poster_path": "/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg",
-            "release_date": "1991-09-10",
-            "title": "Rambling Rose",
-            "video": false,
-            "vote_average": 6.1,
-            "vote_count": 78,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 112,
-            "tagline": "L\u2019innocence n\u2019a jamais \u00e9t\u00e9 aussi s\u00e9duisante."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kbqpkmB1hxQqxXcEnIMEWECXoOk.jpg",
-            "id": 36843,
-            "original_language": "en",
-            "original_title": "Life Is Sweet",
-            "overview": "Portrait d'une famille britannique modeste, compos\u00e9e de Andy, p\u00e8re cuisinier d\u00e9pourvu d'ambition, de son \u00e9pouse Wendy, \u00e0 l'optimisme in\u00e9branlable, et de leurs filles jumelles, Natalie et Nicola.",
-            "popularity": 1.264,
-            "poster_path": "/zdkKNQzzwyciP9vAohAPFZdujlA.jpg",
-            "release_date": "1990-11-15",
-            "title": "Life Is Sweet",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 170,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
-            "id": 1598,
-            "original_language": "en",
-            "original_title": "Cape Fear",
-            "overview": "Condamn\u00e9 \u00e0 quatorze ans de prison pour viol et voie de fait sur une mineure, Max Cady n'a jamais pardonn\u00e9 \u00e0 son avocat Sam Bowden de l'avoir abandonn\u00e9. Tout au long de sa peine, il s'est employ\u00e9 \u00e0 discipliner son corps et son esprit, se fixant pour unique but de ch\u00e2tier Bowden, de briser les siens. Et aujourd'hui, Max Cady est libre\u2026",
-            "popularity": 3.5025,
-            "poster_path": "/gxHK0rpwyphzmBDFqjFTd7z54J5.jpg",
-            "release_date": "1991-11-13",
-            "title": "Cape Fear",
-            "video": false,
-            "vote_average": 7.252,
-            "vote_count": 3735,
-            "genres": [
-                "Drame",
-                "Crime",
-                "Thriller"
-            ],
-            "runtime": 128,
-            "tagline": "Le pass\u00e9 revient les hanter."
-        },
-        {
-            "adult": false,
             "backdrop_path": "/9vOfO3CP8mqqq0oqCNl9R7M07xE.jpg",
             "id": 9065,
             "original_language": "de",
@@ -392,90 +435,6 @@
             ],
             "runtime": 112,
             "tagline": "La Seconde Guerre mondiale est termin\u00e9e, mais elle a laiss\u00e9 des traces ind\u00e9l\u00e9biles"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6bxczMh3QJBbDyMTJ2pEJxrohzs.jpg",
-            "id": 11498,
-            "original_language": "en",
-            "original_title": "Dead Again",
-            "overview": "Le d\u00e9tective priv\u00e9 Mike Church enqu\u00eate sur les personnes disparues. Appel\u00e9 par les soeurs d'un couvent de Los Angeles, il accepte d'aider Grace, une jeune femme amn\u00e9sique, \u00e0 retrouver sa famille. Son enqu\u00eate le m\u00e8ne jusqu'\u00e0 Franklyn Madson, un antiquaire-hypnotiseur, gr\u00e2ce auquel il d\u00e9couvre que les cauchemars de Grace se r\u00e9f\u00e8rent \u00e0 l'assassinat de la pianiste Margaret Strauss par son mari en 1949.",
-            "popularity": 1.0452,
-            "poster_path": "/2DURawsocnCLef5mWv2aLNJr6nY.jpg",
-            "release_date": "1991-08-23",
-            "title": "Dead Again",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 398,
-            "genres": [
-                "Myst\u00e8re",
-                "Drame",
-                "Crime",
-                "Thriller"
-            ],
-            "runtime": 103,
-            "tagline": "Combien de fois peut-on mourir par amour ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/eDX4FucYbcuK1qKGEuh7gbE97SX.jpg",
-            "id": 2891,
-            "original_language": "en",
-            "original_title": "An Angel at My Table",
-            "overview": "Janet Frame vit en Nouvelle-Z\u00e9lande dans une famille pauvre et nombreuse. Son enfance est marqu\u00e9e par de tristes \u00e9v\u00e9nements : sa soeur a\u00een\u00e9e se noie et son fr\u00e8re est frapp\u00e9 de crises d'\u00e9pilepsie. Janet a du mal \u00e0 communiquer avec ses camarades et se r\u00e9fugie dans la lecture. Lorsqu'elle entre en facult\u00e9, elle tombe amoureuse de l'un de ses professeurs. Apr\u00e8s une tentative de suicide, elle suit ses conseils et demande \u00e0 \u00eatre soign\u00e9e dans un h\u00f4pital psychiatrique. Les m\u00e9decins diagnostiquent un cas de schizophr\u00e9nie et la traitent sans m\u00e9nagement, \u00e0 coups d'\u00e9lectrochocs et de supputations sur une \u00e9ventuelle lobotomie exp\u00e9rimentale. Seule l'\u00e9criture la sauve de ce funeste destin...",
-            "popularity": 1.4888,
-            "poster_path": "/pRVYLCGCKjYvcSGbtVeK1IYAi5D.jpg",
-            "release_date": "1990-09-20",
-            "title": "An Angel at My Table",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 179,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 158,
-            "tagline": "Film bas\u00e9 sur la biographie de Janet Frame"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mYJGGapqhHhKMSwJpy9e6DvUg7i.jpg",
-            "id": 1406,
-            "original_language": "en",
-            "original_title": "City Slickers",
-            "overview": "Un citadin en pleine crise existentielle d\u00e9cide de partir avec ses deux meilleurs amis en vacances dans le Middle West, afin de conduire un troupeau de vaches du Nouveau Mexique au Colorado. Cette aventure sera l'occasion pour les trois quadrag\u00e9naires de se retrouver et surtout de faire un premier bilan de leurs vies respectives.",
-            "popularity": 3.5338,
-            "poster_path": "/AfIV9x5LxBq4mM0SKffPhILAN3S.jpg",
-            "release_date": "1991-06-07",
-            "title": "City Slickers",
-            "video": false,
-            "vote_average": 6.45,
-            "vote_count": 836,
-            "genres": [
-                "Com\u00e9die",
-                "Western"
-            ],
-            "runtime": 112,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/AtpGRYssyHXhSKMRxyWW8ezHDIo.jpg",
-            "id": 12627,
-            "original_language": "fr",
-            "original_title": "La Belle Noiseuse",
-            "overview": "Un peintre vieillissant est rong\u00e9 par un secret qui l'obs\u00e8de : l'abandon, il y a dix ans, d'un grand tableau qui devait \u00eatre son chef-d\u2019\u0153uvre et dont sa femme \u00e9tait le mod\u00e8le. L'arriv\u00e9e d'un jeune couple dans sa propri\u00e9t\u00e9 du Midi va lui permettre de reprendre cette \u0153uvre et c'est la jeune femme, qui cette fois, lui sert de mod\u00e8le. Pendant les cinq journ\u00e9es de pose, la tension va monter entre les diff\u00e9rents protagonistes.",
-            "popularity": 1.5904,
-            "poster_path": "/gKbIzMqA1XW5uLsZ2b8CyLOsVqY.jpg",
-            "release_date": "1991-09-04",
-            "title": "La Belle Noiseuse",
-            "video": false,
-            "vote_average": 7.252,
-            "vote_count": 282,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 236,
-            "tagline": "Le tourment de cr\u00e9er la beaut\u00e9 nue sur toile !"
         },
         {
             "adult": false,
@@ -499,6 +458,50 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/mYJGGapqhHhKMSwJpy9e6DvUg7i.jpg",
+            "id": 1406,
+            "original_language": "en",
+            "original_title": "City Slickers",
+            "overview": "Un citadin en pleine crise existentielle d\u00e9cide de partir avec ses deux meilleurs amis en vacances dans le Middle West, afin de conduire un troupeau de vaches du Nouveau Mexique au Colorado. Cette aventure sera l'occasion pour les trois quadrag\u00e9naires de se retrouver et surtout de faire un premier bilan de leurs vies respectives.",
+            "popularity": 3.5338,
+            "poster_path": "/AfIV9x5LxBq4mM0SKffPhILAN3S.jpg",
+            "release_date": "1991-06-07",
+            "title": "La vie, l'amour\u2026 les vaches",
+            "video": false,
+            "vote_average": 6.45,
+            "vote_count": 836,
+            "genres": [
+                "Com\u00e9die",
+                "Western"
+            ],
+            "runtime": 112,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9BQtqeJGKnSGdn6UF2SxhShUTgy.jpg",
+            "id": 12186,
+            "original_language": "en",
+            "original_title": "Defending Your Life",
+            "overview": "Daniel Miller meurt dans un accident de voiture et se retrouve \u00e0 Judgment City, la cit\u00e9 du Jugement Dernier ville d\u2019attente pour le pr\u00e9parer \u00e0 la vie \u00e9ternelle. En quatre jours, il doit \u00e0 l\u2019aide d\u2019un avocat commis d\u2019office, d\u00e9montrer \u00e0 un juge qu\u2019il a \u00e9t\u00e9 courageux et g\u00e9n\u00e9reux lors de sa vie afin de pouvoir monter l\u00e0-haut.  Au cours des jours qu\u2019il passe l\u00e0-bas, il rencontre Julia en ville, une jeune femme m\u00e8re de deux enfants, et en tombe amoureux\u2026",
+            "popularity": 2.7785,
+            "poster_path": "/i5qYCaNczs85kAVeXc8DLwFInBS.jpg",
+            "release_date": "1991-03-22",
+            "title": "Rendez-vous au Paradis",
+            "video": false,
+            "vote_average": 6.908,
+            "vote_count": 293,
+            "genres": [
+                "Com\u00e9die",
+                "Fantastique",
+                "Romance",
+                "Drame"
+            ],
+            "runtime": 111,
+            "tagline": "Un accus\u00e9, un tribunal, un enjeu : le paradis !"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/lrhZ2Zfgsgu078X3EC4XMCTe3Vf.jpg",
             "id": 10333,
             "original_language": "en",
@@ -507,7 +510,7 @@
             "popularity": 1.0371,
             "poster_path": "/oyCjxBZqD3L8zqOB2EfTHrmn7Y5.jpg",
             "release_date": "1991-12-25",
-            "title": "The Prince of Tides",
+            "title": "Le Prince des mar\u00e9es",
             "video": false,
             "vote_average": 6.6,
             "vote_count": 294,
@@ -520,6 +523,26 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/AtpGRYssyHXhSKMRxyWW8ezHDIo.jpg",
+            "id": 12627,
+            "original_language": "fr",
+            "original_title": "La Belle Noiseuse",
+            "overview": "Un peintre vieillissant est rong\u00e9 par un secret qui l'obs\u00e8de : l'abandon, il y a dix ans, d'un grand tableau qui devait \u00eatre son chef-d\u2019\u0153uvre et dont sa femme \u00e9tait le mod\u00e8le. L'arriv\u00e9e d'un jeune couple dans sa propri\u00e9t\u00e9 du Midi va lui permettre de reprendre cette \u0153uvre et c'est la jeune femme, qui cette fois, lui sert de mod\u00e8le. Pendant les cinq journ\u00e9es de pose, la tension va monter entre les diff\u00e9rents protagonistes.",
+            "popularity": 1.5904,
+            "poster_path": "/gKbIzMqA1XW5uLsZ2b8CyLOsVqY.jpg",
+            "release_date": "1991-09-04",
+            "title": "La Belle Noiseuse",
+            "video": false,
+            "vote_average": 7.252,
+            "vote_count": 282,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 236,
+            "tagline": "Le tourment de cr\u00e9er la beaut\u00e9 nue sur toile !"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/7Gm9NXq1Ydje7uyx9Ogr1FxFkIa.jpg",
             "id": 41784,
             "original_language": "en",
@@ -528,7 +551,7 @@
             "popularity": 2.167,
             "poster_path": "/fsqwLjRIVgaykvf2jCwGNOfGoC1.jpg",
             "release_date": "1991-10-04",
-            "title": "Black Robe",
+            "title": "Robe noire",
             "video": false,
             "vote_average": 6.5,
             "vote_count": 111,
@@ -539,29 +562,6 @@
             ],
             "runtime": 97,
             "tagline": "Au cours de l'hiver 1634, un homme extraordinaire entreprend un p\u00e9rilleux voyage dans la nature nord-am\u00e9ricaine."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9BQtqeJGKnSGdn6UF2SxhShUTgy.jpg",
-            "id": 12186,
-            "original_language": "en",
-            "original_title": "Defending Your Life",
-            "overview": "Daniel Miller meurt dans un accident de voiture et se retrouve \u00e0 Judgment City, la cit\u00e9 du Jugement Dernier ville d\u2019attente pour le pr\u00e9parer \u00e0 la vie \u00e9ternelle. En quatre jours, il doit \u00e0 l\u2019aide d\u2019un avocat commis d\u2019office, d\u00e9montrer \u00e0 un juge qu\u2019il a \u00e9t\u00e9 courageux et g\u00e9n\u00e9reux lors de sa vie afin de pouvoir monter l\u00e0-haut.  Au cours des jours qu\u2019il passe l\u00e0-bas, il rencontre Julia en ville, une jeune femme m\u00e8re de deux enfants, et en tombe amoureux\u2026",
-            "popularity": 2.7785,
-            "poster_path": "/i5qYCaNczs85kAVeXc8DLwFInBS.jpg",
-            "release_date": "1991-03-22",
-            "title": "Defending Your Life",
-            "video": false,
-            "vote_average": 6.908,
-            "vote_count": 293,
-            "genres": [
-                "Com\u00e9die",
-                "Fantastique",
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 111,
-            "tagline": "Un accus\u00e9, un tribunal, un enjeu : le paradis !"
         },
         {
             "adult": false,
@@ -584,6 +584,26 @@
                 "Thriller"
             ],
             "runtime": 102,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gQe6gGBozQ5Gj8GUUD6UFhDBDL6.jpg",
+            "id": 26142,
+            "original_language": "en",
+            "original_title": "The Doctor",
+            "overview": "Jack McKee est un docteur \u00e0 qui tout r\u00e9ussi. Mais lorsqu'on lui annonce qu'il a un cancer de la gorge, sa perception du monde m\u00e9dical en tant que patient lui fait prendre conscience que son m\u00e9tier devrait impliquer plus de choses\u2026",
+            "popularity": 1.8044,
+            "poster_path": "/tt12YYZk3HVAJon1Bl4FgFMb94.jpg",
+            "release_date": "1991-07-24",
+            "title": "Le Docteur",
+            "video": false,
+            "vote_average": 6.432,
+            "vote_count": 81,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 123,
             "tagline": ""
         },
         {
@@ -611,26 +631,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/gQe6gGBozQ5Gj8GUUD6UFhDBDL6.jpg",
-            "id": 26142,
-            "original_language": "en",
-            "original_title": "The Doctor",
-            "overview": "Jack McKee est un docteur \u00e0 qui tout r\u00e9ussi. Mais lorsqu'on lui annonce qu'il a un cancer de la gorge, sa perception du monde m\u00e9dical en tant que patient lui fait prendre conscience que son m\u00e9tier devrait impliquer plus de choses\u2026",
-            "popularity": 1.8044,
-            "poster_path": "/tt12YYZk3HVAJon1Bl4FgFMb94.jpg",
-            "release_date": "1991-07-24",
-            "title": "The Doctor",
-            "video": false,
-            "vote_average": 6.432,
-            "vote_count": 81,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 123,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/mBteXONDhdVyXRNxj54eMNGNqyT.jpg",
             "id": 2742,
             "original_language": "en",
@@ -639,7 +639,7 @@
             "popularity": 1.5581,
             "poster_path": "/zCXB1sm5CzBFeRmQErI6CIvNKGR.jpg",
             "release_date": "1991-12-27",
-            "title": "Naked Lunch",
+            "title": "Le festin nu",
             "video": false,
             "vote_average": 7.009,
             "vote_count": 1167,
@@ -694,6 +694,50 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/efIOutMvLd7ik1wO7MKi9zUWLnz.jpg",
+            "id": 12717,
+            "original_language": "fr",
+            "original_title": "Le ch\u00e2teau de ma m\u00e8re",
+            "overview": "Chaque fin de semaine et en \u00e9t\u00e9 le jeune Marcel et sa famille passent leurs vacances dans les collines au-dessus de Marseille. Marcel a h\u00e2te de retrouver son \u00abpetit fr\u00e8re des collines\u00bb, Lili des Bellons. Mais le passage par les berges du canal \u00e0 travers des domaines de ch\u00e2telains est une v\u00e9ritable aventure, et une angoisse renouvel\u00e9e pour Augustine, quand Bouzigue offre la possibilit\u00e9 de gagner du temps pour rejoindre par ce raccourci le lieu de leur vill\u00e9giature. C'est toutefois Isabelle, fille d'un pr\u00e9tendu po\u00e8te, qui monopolise l'attention du jeune Marcel, et pour laquelle il consent des sacrifices qui inqui\u00e8tent sa famille et son ami.",
+            "popularity": 0.8558,
+            "poster_path": "/sdLkKpZ89HrdUARyHYgBGEB62cB.jpg",
+            "release_date": "1990-10-26",
+            "title": "Le Ch\u00e2teau de ma m\u00e8re",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 293,
+            "genres": [
+                "Aventure",
+                "Com\u00e9die",
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 97,
+            "tagline": "Retour en enfance en Provence"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bjvKom2HhetBSCjBCtAf88tEQSp.jpg",
+            "id": 12716,
+            "original_language": "fr",
+            "original_title": "La Gloire de mon P\u00e8re",
+            "overview": "Le jeune Marcel Pagnol part en Provence avec toute sa famille pour les vacances d'\u00e9t\u00e9. Enfant de la ville, c'est la d\u00e9couverte de la nature, des grands espaces et la fiert\u00e9 d'avoir un p\u00e8re grand chasseur. Des vacances qui marqueront \u00e0 jamais ses souvenirs d'enfance.",
+            "popularity": 0.6124,
+            "poster_path": "/2QLqaQCb8K5LXavGr3iGs1ps5nk.jpg",
+            "release_date": "1990-08-29",
+            "title": "La Gloire de mon p\u00e8re",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 327,
+            "genres": [
+                "Aventure",
+                "Drame"
+            ],
+            "runtime": 109,
+            "tagline": "Une enfance en Provence."
+        },
+        {
+            "adult": false,
             "backdrop_path": "/zmdxPaKFMu1dpBw78jsCMbpOxJo.jpg",
             "id": 4539,
             "original_language": "en",
@@ -702,7 +746,7 @@
             "popularity": 1.2017,
             "poster_path": "/nVMCtL3r2nj4fySihDDvamaVkfx.jpg",
             "release_date": "1991-11-27",
-            "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+            "title": "Aux c\u0153urs des t\u00e9n\u00e8bres : L'Apocalypse d'un metteur en sc\u00e8ne",
             "video": false,
             "vote_average": 7.9,
             "vote_count": 397,
@@ -722,7 +766,7 @@
             "popularity": 1.8524,
             "poster_path": "/dC0WaoOLkUdFpwHgIXMIJdB1sT1.jpg",
             "release_date": "1991-05-15",
-            "title": "The Double Life of V\u00e9ronique",
+            "title": "La Double Vie de V\u00e9ronique",
             "video": false,
             "vote_average": 7.491,
             "vote_count": 867,
@@ -735,47 +779,44 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/bjvKom2HhetBSCjBCtAf88tEQSp.jpg",
-            "id": 12716,
-            "original_language": "fr",
-            "original_title": "La Gloire de mon P\u00e8re",
-            "overview": "Le jeune Marcel Pagnol part en Provence avec toute sa famille pour les vacances d'\u00e9t\u00e9. Enfant de la ville, c'est la d\u00e9couverte de la nature, des grands espaces et la fiert\u00e9 d'avoir un p\u00e8re grand chasseur. Des vacances qui marqueront \u00e0 jamais ses souvenirs d'enfance.",
-            "popularity": 0.6124,
-            "poster_path": "/2QLqaQCb8K5LXavGr3iGs1ps5nk.jpg",
-            "release_date": "1990-08-29",
-            "title": "My Father's Glory",
+            "backdrop_path": "/ns6V1elw5gDg1ouDDDjy5HsHM6z.jpg",
+            "id": 54405,
+            "original_language": "en",
+            "original_title": "Hear My Song",
+            "overview": "",
+            "popularity": 0.6311,
+            "poster_path": "/xD8hh10Atodan4tzYg3K2QFCrJ1.jpg",
+            "release_date": "1991-12-27",
+            "title": "Hear My Song",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 327,
+            "vote_average": 5.8,
+            "vote_count": 31,
             "genres": [
-                "Aventure",
-                "Drame"
+                "Com\u00e9die"
             ],
-            "runtime": 109,
-            "tagline": "Une enfance en Provence."
+            "runtime": 104,
+            "tagline": ""
         },
         {
             "adult": false,
-            "backdrop_path": "/efIOutMvLd7ik1wO7MKi9zUWLnz.jpg",
-            "id": 12717,
-            "original_language": "fr",
-            "original_title": "Le ch\u00e2teau de ma m\u00e8re",
-            "overview": "Chaque fin de semaine et en \u00e9t\u00e9 le jeune Marcel et sa famille passent leurs vacances dans les collines au-dessus de Marseille. Marcel a h\u00e2te de retrouver son \u00abpetit fr\u00e8re des collines\u00bb, Lili des Bellons. Mais le passage par les berges du canal \u00e0 travers des domaines de ch\u00e2telains est une v\u00e9ritable aventure, et une angoisse renouvel\u00e9e pour Augustine, quand Bouzigue offre la possibilit\u00e9 de gagner du temps pour rejoindre par ce raccourci le lieu de leur vill\u00e9giature. C'est toutefois Isabelle, fille d'un pr\u00e9tendu po\u00e8te, qui monopolise l'attention du jeune Marcel, et pour laquelle il consent des sacrifices qui inqui\u00e8tent sa famille et son ami.",
-            "popularity": 0.8558,
-            "poster_path": "/sdLkKpZ89HrdUARyHYgBGEB62cB.jpg",
-            "release_date": "1990-10-26",
-            "title": "My Mother's Castle",
+            "backdrop_path": "/lY1dSP8rtLxtnTPS1KM6ywYQK6Z.jpg",
+            "id": 11521,
+            "original_language": "en",
+            "original_title": "Little Man Tate",
+            "overview": "L'histoire de Fred Tate, enfant surdou\u00e9 s\u00e9par\u00e9 de sa m\u00e8re pour d\u00e9velopper son g\u00e9nie au sein d'une institution sp\u00e9cialis\u00e9e.",
+            "popularity": 1.7264,
+            "poster_path": "/48eFKJAzDua9tcSIg7x3GDPDGhq.jpg",
+            "release_date": "1991-09-06",
+            "title": "Le Petit Homme",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 293,
+            "vote_average": 6.547,
+            "vote_count": 328,
             "genres": [
-                "Aventure",
-                "Com\u00e9die",
                 "Drame",
-                "Romance"
+                "Familial"
             ],
-            "runtime": 97,
-            "tagline": "Retour en enfance en Provence"
+            "runtime": 99,
+            "tagline": "Ce n'est pas ce qu'il sait. C'est ce qu'il comprend."
         },
         {
             "adult": false,
@@ -787,7 +828,7 @@
             "popularity": 2.7831,
             "poster_path": "/2cLKhRtAvFm5iTxwttS6pH8NOtv.jpg",
             "release_date": "1991-09-30",
-            "title": "The Man in the Moon",
+            "title": "Un \u00e9t\u00e9 en Louisiane",
             "video": false,
             "vote_average": 7.3,
             "vote_count": 338,
@@ -822,47 +863,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/ns6V1elw5gDg1ouDDDjy5HsHM6z.jpg",
-            "id": 54405,
-            "original_language": "en",
-            "original_title": "Hear My Song",
-            "overview": "",
-            "popularity": 0.6311,
-            "poster_path": "/xD8hh10Atodan4tzYg3K2QFCrJ1.jpg",
-            "release_date": "1991-12-27",
-            "title": "Hear My Song",
-            "video": false,
-            "vote_average": 5.8,
-            "vote_count": 31,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 104,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/lY1dSP8rtLxtnTPS1KM6ywYQK6Z.jpg",
-            "id": 11521,
-            "original_language": "en",
-            "original_title": "Little Man Tate",
-            "overview": "L'histoire de Fred Tate, enfant surdou\u00e9 s\u00e9par\u00e9 de sa m\u00e8re pour d\u00e9velopper son g\u00e9nie au sein d'une institution sp\u00e9cialis\u00e9e.",
-            "popularity": 1.7264,
-            "poster_path": "/48eFKJAzDua9tcSIg7x3GDPDGhq.jpg",
-            "release_date": "1991-09-06",
-            "title": "Little Man Tate",
-            "video": false,
-            "vote_average": 6.547,
-            "vote_count": 328,
-            "genres": [
-                "Drame",
-                "Familial"
-            ],
-            "runtime": 99,
-            "tagline": "Ce n'est pas ce qu'il sait. C'est ce qu'il comprend."
-        },
-        {
-            "adult": false,
             "backdrop_path": "/tIj48gA5trtzHv5onQd5HpC5pmS.jpg",
             "id": 10174,
             "original_language": "en",
@@ -871,7 +871,7 @@
             "popularity": 0.9209,
             "poster_path": "/5R2qu2kNK2Du7dRsHZJm6berR1I.jpg",
             "release_date": "1991-05-10",
-            "title": "Madonna: Truth or Dare",
+            "title": "In Bed with Madonna",
             "video": false,
             "vote_average": 6.2,
             "vote_count": 159,
@@ -884,27 +884,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/ApnB7gY4MrWoPqIw17lEMp1mXJD.jpg",
-            "id": 1633,
-            "original_language": "en",
-            "original_title": "Fried Green Tomatoes",
-            "overview": "De nos jours, en Alabama, Evelyn Couch, femme au foyer, m\u00e8ne une existence monotone jusqu'\u00e0 ce qu'elle rencontre Ninny Threadgood, une dame \u00e2g\u00e9e extraordinaire, qui va lui redonner go\u00fbt \u00e0 la vie. Celle-ci lui raconte sa jeunesse, 60 ans plus t\u00f4t, \u00e0 Whistle Stop, petite bourgade du Sud des \u00c9tats-Unis. L'histoire de Ninny est celle de l'amiti\u00e9 entre deux femmes: Idgie Threadgoode, forte t\u00eate, ind\u00e9pendante, v\u00e9ritable gar\u00e7on manqu\u00e9, et Ruth Jamison, douce et remarquable cuisini\u00e8re. Mari\u00e9e \u00e0 Franck Bennett, un homme violent, Ruth le quittera, sauv\u00e9e par Idgie, et s'enfuiera avec elle. Les deux femmes d\u00e9cideront d'ouvrir un restaurant dans lequel elles servent des beignets chauds de tomates vertes. Mais Bennett n'a pas dit son dernier mot...",
-            "popularity": 3.2882,
-            "poster_path": "/lSuuXf45t5hWEnvNgbTd314IwEF.jpg",
-            "release_date": "1991-12-27",
-            "title": "Fried Green Tomatoes",
-            "video": false,
-            "vote_average": 7.681,
-            "vote_count": 1423,
-            "genres": [
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 130,
-            "tagline": "Le secret de la vie ? Tout est dans la sauce !"
-        },
-        {
-            "adult": false,
             "backdrop_path": "/mXn2VhwaRKAKahulvqLdM5i3t7D.jpg",
             "id": 3784,
             "original_language": "en",
@@ -913,7 +892,7 @@
             "popularity": 1.8787,
             "poster_path": "/kQBpGNm2G4V9ckzYr76w1EphiYF.jpg",
             "release_date": "1991-10-11",
-            "title": "Frankie and Johnny",
+            "title": "Frankie et Johnny",
             "video": false,
             "vote_average": 6.8,
             "vote_count": 619,
@@ -924,6 +903,27 @@
             ],
             "runtime": 121,
             "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ApnB7gY4MrWoPqIw17lEMp1mXJD.jpg",
+            "id": 1633,
+            "original_language": "en",
+            "original_title": "Fried Green Tomatoes",
+            "overview": "De nos jours, en Alabama, Evelyn Couch, femme au foyer, m\u00e8ne une existence monotone jusqu'\u00e0 ce qu'elle rencontre Ninny Threadgood, une dame \u00e2g\u00e9e extraordinaire, qui va lui redonner go\u00fbt \u00e0 la vie. Celle-ci lui raconte sa jeunesse, 60 ans plus t\u00f4t, \u00e0 Whistle Stop, petite bourgade du Sud des \u00c9tats-Unis. L'histoire de Ninny est celle de l'amiti\u00e9 entre deux femmes: Idgie Threadgoode, forte t\u00eate, ind\u00e9pendante, v\u00e9ritable gar\u00e7on manqu\u00e9, et Ruth Jamison, douce et remarquable cuisini\u00e8re. Mari\u00e9e \u00e0 Franck Bennett, un homme violent, Ruth le quittera, sauv\u00e9e par Idgie, et s'enfuiera avec elle. Les deux femmes d\u00e9cideront d'ouvrir un restaurant dans lequel elles servent des beignets chauds de tomates vertes. Mais Bennett n'a pas dit son dernier mot...",
+            "popularity": 3.2882,
+            "poster_path": "/lSuuXf45t5hWEnvNgbTd314IwEF.jpg",
+            "release_date": "1991-12-27",
+            "title": "Beignets de tomates vertes",
+            "video": false,
+            "vote_average": 7.681,
+            "vote_count": 1423,
+            "genres": [
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "runtime": 130,
+            "tagline": "Le secret de la vie ? Tout est dans la sauce !"
         }
     ]
 }

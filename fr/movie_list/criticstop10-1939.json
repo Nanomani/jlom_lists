@@ -9,24 +9,89 @@
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
-            "id": 3083,
+            "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+            "id": 42852,
             "original_language": "en",
-            "original_title": "Mr. Smith Goes to Washington",
-            "overview": "Jefferson Smith est tr\u00e8s aim\u00e9 des Boys Rangers, un club de jeunes gar\u00e7ons qu'il dirige. Cet homme populaire et na\u00eff est une affaire pour le gouverneur Hopper et son chef politique Jim Taylor, qui en font un s\u00e9nateur id\u00e9al pour couvrir leurs sombres histoires. Mr. Smith devient alors vite la ris\u00e9e du Congr\u00e8s et est, malgr\u00e9 lui, compromis dans une affaire louche. Apr\u00e8s un moment de d\u00e9couragement et gr\u00e2ce \u00e0 sa secr\u00e9taire, il prend la parole au S\u00e9nat et la garde vingt-trois heures durant.",
-            "popularity": 1.8378,
-            "poster_path": "/zYfNBX3gvlFvmsvTp2QqgRDmQwn.jpg",
-            "release_date": "1939-10-19",
-            "title": "Mr. Smith Goes to Washington",
+            "original_title": "Goodbye, Mr. Chips",
+            "overview": "Charles Chipping, un enseignant \u00e0 la fin de sa carri\u00e8re, se rem\u00e9more ses d\u00e9buts et sa vie d'enseignant. A la fin du XIXe si\u00e8cle, il arrive au coll\u00e8ge de Brookfield pour y occuper son premier poste. Il ne tarde pas \u00e0 se frotter \u00e0 la r\u00e9alit\u00e9 d'une classe avec des \u00e9l\u00e8ves aux sensibilit\u00e9s diff\u00e9rentes. Mais il fait \u00e9galement connaissance de Katherine, avec laquelle une idylle se noue.",
+            "popularity": 0.696,
+            "poster_path": "/pS664lZXxuJceOtMa5kysWF10IW.jpg",
+            "release_date": "1939-07-28",
+            "title": "Au revoir Mr. Chips!",
             "video": false,
-            "vote_average": 7.837,
-            "vote_count": 1150,
+            "vote_average": 7.372,
+            "vote_count": 133,
             "genres": [
-                "Com\u00e9die",
-                "Drame"
+                "Drame",
+                "Romance"
             ],
-            "runtime": 124,
-            "tagline": "Romance, drame, rires et chagrins ... cr\u00e9\u00e9s du c\u0153ur et du sol Am\u00e9ricain!"
+            "runtime": 114,
+            "tagline": "Au Top des 'Dix meilleurs' de l'ann\u00e9e - L'image qui vaut \u00e0 1939 une place de choix dans l'histoire du cin\u00e9ma\u00a0!"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
+            "id": 78318,
+            "original_language": "en",
+            "original_title": "Juarez",
+            "overview": "La lutte de Juarez contre l'empereur Maximilien de Habsbourg impos\u00e9 par Napol\u00e9on III au Mexique.",
+            "popularity": 1.8425,
+            "poster_path": "/khymYF2OFEkSukQouLdrjchugph.jpg",
+            "release_date": "1939-06-10",
+            "title": "Juarez et Maximilien",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 24,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Romance"
+            ],
+            "runtime": 132,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
+            "id": 770,
+            "original_language": "en",
+            "original_title": "Gone with the Wind",
+            "overview": "En G\u00e9orgie, en 1861, Scarlett O'Hara est une jeune femme fi\u00e8re et volontaire de la haute soci\u00e9t\u00e9 sudiste. Courtis\u00e9e par tous les bons partis du pays, elle n'a d'yeux que pour Ashley Wilkes malgr\u00e9 ses fian\u00e7ailles avec sa douce et timide cousine, Melanie Hamilton. Scarlett est pourtant bien d\u00e9cid\u00e9e \u00e0 le faire changer d'avis, mais \u00e0 la r\u00e9ception des Douze Ch\u00eanes c'est du cynique Rhett Butler qu'elle retient l'attention\u2026",
+            "popularity": 6.9283,
+            "poster_path": "/z5cBuLqlIho5k6rIqjOVIKbwvg6.jpg",
+            "release_date": "1939-12-15",
+            "title": "Autant en emporte le vent",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 4273,
+            "genres": [
+                "Drame",
+                "Guerre",
+                "Romance"
+            ],
+            "runtime": 233,
+            "tagline": "La plus grande romance de tous les temps\u00a0!"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jsIYE5ntyzkJlGKiJcKFGYqH9yN.jpg",
+            "id": 27972,
+            "original_language": "en",
+            "original_title": "Dark Victory",
+            "overview": "Judith Traherne, jeune fille de la haute soci\u00e9t\u00e9, apprend lors d'examens m\u00e9dicaux qu'elle est atteinte d'une tumeur au cerveau et n'a plus qu'un an a vivre. Elle d\u00e9cide de vivre pleinement cette ann\u00e9e et \u00e9pouse son m\u00e9decin, le docteur Steele, avant de partir, avec lui, s'installer dans une ferme.",
+            "popularity": 0.5246,
+            "poster_path": "/yv1FcUpx5pVYrv8WAl4rt51uK4K.jpg",
+            "release_date": "1939-04-20",
+            "title": "Victoire sur la nuit",
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 154,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 104,
+            "tagline": ""
         },
         {
             "adult": false,
@@ -51,6 +116,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/v7d5LDcIhNn9j3wWeSWp1mesgBe.jpg",
+            "id": 22490,
+            "original_language": "en",
+            "original_title": "The Women",
+            "overview": "Mary Haines est l\u2019\u00e9pouse exemplaire d\u2019un homme d\u2019affaires Stephen Haines et m\u00e8re d\u2019une petite fille. Elle est entour\u00e9e d\u2019amies plut\u00f4t cancani\u00e8res, sp\u00e9cialement Sylvia Fowler qui sait quelque chose que Mary ignore. Stephen a une liaison avec Crystal Allen, une vendeuse arriviste. Gr\u00e2ce \u00ab aux bons soins \u00bb de Sylvia, Mary d\u00e9couvre la v\u00e9rit\u00e9. Apr\u00e8s une forte confrontation avec Crystal, et pouss\u00e9e par Sylvia, Mary part \u00e0 Reno pour y obtenir rapidement le divorce.",
+            "popularity": 2.5186,
+            "poster_path": "/homdSsNSw6QVsXneaD3nVGTCrGR.jpg",
+            "release_date": "1939-09-01",
+            "title": "Femmes",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 170,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "runtime": 133,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
             "id": 630,
             "original_language": "en",
@@ -59,7 +145,7 @@
             "popularity": 10.9454,
             "poster_path": "/jBIVN3Ot73d4eGlL34T3jI5W0au.jpg",
             "release_date": "1939-08-15",
-            "title": "The Wizard of Oz",
+            "title": "Le Magicien d'Oz",
             "video": false,
             "vote_average": 7.6,
             "vote_count": 5955,
@@ -73,6 +159,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+            "id": 3083,
+            "original_language": "en",
+            "original_title": "Mr. Smith Goes to Washington",
+            "overview": "Jefferson Smith est tr\u00e8s aim\u00e9 des Boys Rangers, un club de jeunes gar\u00e7ons qu'il dirige. Cet homme populaire et na\u00eff est une affaire pour le gouverneur Hopper et son chef politique Jim Taylor, qui en font un s\u00e9nateur id\u00e9al pour couvrir leurs sombres histoires. Mr. Smith devient alors vite la ris\u00e9e du Congr\u00e8s et est, malgr\u00e9 lui, compromis dans une affaire louche. Apr\u00e8s un moment de d\u00e9couragement et gr\u00e2ce \u00e0 sa secr\u00e9taire, il prend la parole au S\u00e9nat et la garde vingt-trois heures durant.",
+            "popularity": 1.8378,
+            "poster_path": "/zYfNBX3gvlFvmsvTp2QqgRDmQwn.jpg",
+            "release_date": "1939-10-19",
+            "title": "Monsieur Smith au S\u00e9nat",
+            "video": false,
+            "vote_average": 7.837,
+            "vote_count": 1150,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "runtime": 124,
+            "tagline": "Romance, drame, rires et chagrins ... cr\u00e9\u00e9s du c\u0153ur et du sol Am\u00e9ricain!"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/qWSWJnq38eVYrMzs6YkxRT8yMYK.jpg",
             "id": 3084,
             "original_language": "en",
@@ -81,7 +188,7 @@
             "popularity": 2.0579,
             "poster_path": "/iNrh2MVnk1kUF12luC1QgIeGSD9.jpg",
             "release_date": "1939-04-07",
-            "title": "Wuthering Heights",
+            "title": "Les Hauts de Hurlevent",
             "video": false,
             "vote_average": 7.172,
             "vote_count": 299,
@@ -94,49 +201,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
-            "id": 770,
-            "original_language": "en",
-            "original_title": "Gone with the Wind",
-            "overview": "En G\u00e9orgie, en 1861, Scarlett O'Hara est une jeune femme fi\u00e8re et volontaire de la haute soci\u00e9t\u00e9 sudiste. Courtis\u00e9e par tous les bons partis du pays, elle n'a d'yeux que pour Ashley Wilkes malgr\u00e9 ses fian\u00e7ailles avec sa douce et timide cousine, Melanie Hamilton. Scarlett est pourtant bien d\u00e9cid\u00e9e \u00e0 le faire changer d'avis, mais \u00e0 la r\u00e9ception des Douze Ch\u00eanes c'est du cynique Rhett Butler qu'elle retient l'attention\u2026",
-            "popularity": 6.9283,
-            "poster_path": "/z5cBuLqlIho5k6rIqjOVIKbwvg6.jpg",
-            "release_date": "1939-12-15",
-            "title": "Gone with the Wind",
-            "video": false,
-            "vote_average": 7.9,
-            "vote_count": 4273,
-            "genres": [
-                "Drame",
-                "Guerre",
-                "Romance"
-            ],
-            "runtime": 233,
-            "tagline": "La plus grande romance de tous les temps\u00a0!"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
-            "id": 42852,
-            "original_language": "en",
-            "original_title": "Goodbye, Mr. Chips",
-            "overview": "Charles Chipping, un enseignant \u00e0 la fin de sa carri\u00e8re, se rem\u00e9more ses d\u00e9buts et sa vie d'enseignant. A la fin du XIXe si\u00e8cle, il arrive au coll\u00e8ge de Brookfield pour y occuper son premier poste. Il ne tarde pas \u00e0 se frotter \u00e0 la r\u00e9alit\u00e9 d'une classe avec des \u00e9l\u00e8ves aux sensibilit\u00e9s diff\u00e9rentes. Mais il fait \u00e9galement connaissance de Katherine, avec laquelle une idylle se noue.",
-            "popularity": 0.696,
-            "poster_path": "/pS664lZXxuJceOtMa5kysWF10IW.jpg",
-            "release_date": "1939-07-28",
-            "title": "Goodbye, Mr. Chips",
-            "video": false,
-            "vote_average": 7.372,
-            "vote_count": 133,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 114,
-            "tagline": "Au Top des 'Dix meilleurs' de l'ann\u00e9e - L'image qui vaut \u00e0 1939 une place de choix dans l'histoire du cin\u00e9ma\u00a0!"
-        },
-        {
-            "adult": false,
             "backdrop_path": "/8LerY6up6Q6WDbDvDInxBxr5IWr.jpg",
             "id": 89086,
             "original_language": "en",
@@ -145,7 +209,7 @@
             "popularity": 1.0652,
             "poster_path": "/y64i81vUjB8rpUSH4XWAy6oniiq.jpg",
             "release_date": "1939-08-18",
-            "title": "Stanley and Livingstone",
+            "title": "Stanley et Livingstone",
             "video": false,
             "vote_average": 6.3,
             "vote_count": 22,
@@ -158,107 +222,22 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/jsIYE5ntyzkJlGKiJcKFGYqH9yN.jpg",
-            "id": 27972,
+            "backdrop_path": "/rHnYpnvR2pFMk2wTVKs3sWU5hLF.jpg",
+            "id": 44919,
             "original_language": "en",
-            "original_title": "Dark Victory",
-            "overview": "Judith Traherne, jeune fille de la haute soci\u00e9t\u00e9, apprend lors d'examens m\u00e9dicaux qu'elle est atteinte d'une tumeur au cerveau et n'a plus qu'un an a vivre. Elle d\u00e9cide de vivre pleinement cette ann\u00e9e et \u00e9pouse son m\u00e9decin, le docteur Steele, avant de partir, avec lui, s'installer dans une ferme.",
-            "popularity": 0.5246,
-            "poster_path": "/yv1FcUpx5pVYrv8WAl4rt51uK4K.jpg",
-            "release_date": "1939-04-20",
-            "title": "Dark Victory",
+            "original_title": "The Old Maid",
+            "overview": "Philadelphie, 1860. \u00c0 la veille de la Guerre de S\u00e9cession, Delia Lovell a rompu ses fian\u00e7ailles avec Clem Spender pour \u00e9pouser le riche Joe Ralston. La cousine de Delia, Charlotte, console l\u2019ancien fianc\u00e9. Ils se promettent le mariage \u00e0 son retour de la guerre. Mais Clem meurt au combat et Charlotte se retrouve seule et enceinte. Le m\u00e9decin de la famille, le docteur Lanskell, l\u2019envoie accoucher en Arizona pour \u00e9viter le scandale. De retour \u00e0 Philadelphie \u00e0 la fin des conflits, Charlotte s\u2019occupe d\u2019une \u00e9cole d\u2019orphelins de guerre dans laquelle elle peut \u00e9lever sa petite Tina sans avoir \u00e0 subir de questions sur sa fille ill\u00e9gitime. Apr\u00e8s la mort accidentelle de son mari, Delia, sachant le secret de Charlotte, lui propose de venir vivre chez elle avec sa fille. Tina en grandissant se rapproche plus en plus de Delia jusqu\u2019\u00e0 se donner l\u2019illusion que cette derni\u00e8re est sa m\u00e8re et que Charlotte est sa tante \u00ab vieille fille \u00bb...",
+            "popularity": 0.5851,
+            "poster_path": "/22nTuvtaSMnetvoMVoHl4EcBhDh.jpg",
+            "release_date": "1939-08-16",
+            "title": "La Vieille Fille",
             "video": false,
-            "vote_average": 6.951,
-            "vote_count": 154,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 104,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wIkio1H3an8DidlNmosy1DZaXvN.jpg",
-            "id": 78318,
-            "original_language": "en",
-            "original_title": "Juarez",
-            "overview": "La lutte de Juarez contre l'empereur Maximilien de Habsbourg impos\u00e9 par Napol\u00e9on III au Mexique.",
-            "popularity": 1.8425,
-            "poster_path": "/khymYF2OFEkSukQouLdrjchugph.jpg",
-            "release_date": "1939-06-10",
-            "title": "Juarez",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 24,
-            "genres": [
-                "Drame",
-                "Histoire",
-                "Romance"
-            ],
-            "runtime": 132,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/v7d5LDcIhNn9j3wWeSWp1mesgBe.jpg",
-            "id": 22490,
-            "original_language": "en",
-            "original_title": "The Women",
-            "overview": "Mary Haines est l\u2019\u00e9pouse exemplaire d\u2019un homme d\u2019affaires Stephen Haines et m\u00e8re d\u2019une petite fille. Elle est entour\u00e9e d\u2019amies plut\u00f4t cancani\u00e8res, sp\u00e9cialement Sylvia Fowler qui sait quelque chose que Mary ignore. Stephen a une liaison avec Crystal Allen, une vendeuse arriviste. Gr\u00e2ce \u00ab aux bons soins \u00bb de Sylvia, Mary d\u00e9couvre la v\u00e9rit\u00e9. Apr\u00e8s une forte confrontation avec Crystal, et pouss\u00e9e par Sylvia, Mary part \u00e0 Reno pour y obtenir rapidement le divorce.",
-            "popularity": 2.5186,
-            "poster_path": "/homdSsNSw6QVsXneaD3nVGTCrGR.jpg",
-            "release_date": "1939-09-01",
-            "title": "The Women",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 170,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 133,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
-            "id": 995,
-            "original_language": "en",
-            "original_title": "Stagecoach",
-            "overview": "La diligence est le lieu de rencontre de neuf personnes qui font route, en Arizona, sur une piste menac\u00e9e par les Indiens de Geronimo. Dallas, une prostitu\u00e9e, est chass\u00e9e de la ville, tout comme Josiah Boone, un vieux m\u00e9decin alcoolique. Mrs Mallory, enceinte, va rejoindre son mari, un officier, tandis que Hatfield, un joueur, d\u00e9cide de l'accompagner par galanterie. Gatewood, le banquier, s'enfuit avec l'or d\u00e9pos\u00e9 chez lui. Mr Peacok, qui place du whisky dans les saloons, regagne sa famille \u00e0 Kansas City. Curly Wilcox, le sh\u00e9rif, accompagne le conducteur Buck, sur cette route dangereuse. \u00c0 la sortie de la ville, ils prennent un autre passager, Ringo Kid, qui souhaite ex\u00e9cuter les trois fr\u00e8res Plummer, assassins de son p\u00e8re et de son fr\u00e8re. Toutes ces personnes font le difficile apprentissage de la cohabitation dans un espace clos. Le voyage se poursuit dans une atmosph\u00e8re de plus en plus tendue.",
-            "popularity": 2.3363,
-            "poster_path": "/xohHfi6MijvL7EA5S745vlShZWz.jpg",
-            "release_date": "1939-03-02",
-            "title": "Stagecoach",
-            "video": false,
-            "vote_average": 7.616,
-            "vote_count": 1194,
-            "genres": [
-                "Western",
-                "Aventure"
-            ],
-            "runtime": 97,
-            "tagline": "2 femmes en voyage d\u00e9sesp\u00e9r\u00e9 avec 7 hommes \u00e9tranges."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
-            "id": 51802,
-            "original_language": "en",
-            "original_title": "Of Mice and Men",
-            "overview": "Un g\u00e9ant handicap\u00e9 mental et son tuteur trouvent du travail dans un ranch de cow-boy sadique \u00e0 l'\u00e9poque de la grande d\u00e9pression en Am\u00e9rique.",
-            "popularity": 0.8728,
-            "poster_path": "/mHlmikPFj9uXdWgncxql5OlBxmF.jpg",
-            "release_date": "1939-12-24",
-            "title": "Of Mice and Men",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 96,
+            "vote_average": 7.0,
+            "vote_count": 53,
             "genres": [
                 "Drame"
             ],
-            "runtime": 106,
+            "runtime": 95,
             "tagline": ""
         },
         {
@@ -271,7 +250,7 @@
             "popularity": 1.1118,
             "poster_path": "/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg",
             "release_date": "1939-06-09",
-            "title": "Young Mr. Lincoln",
+            "title": "Vers sa destin\u00e9e",
             "video": false,
             "vote_average": 7.2,
             "vote_count": 184,
@@ -284,6 +263,68 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/2irUfjyGZibkM2sR2AsBHTtgeuo.jpg",
+            "id": 43837,
+            "original_language": "en",
+            "original_title": "Union Pacific",
+            "overview": "Deux compagnies rivales ne m\u00e9nagent pas leurs forces pour la construction, peu avant 1870, de la ligne de chemin de fer qui reliera New York a la cote Ouest.",
+            "popularity": 0.6214,
+            "poster_path": "/o2pa9c80GuHoMsTFMr624VDHbMk.jpg",
+            "release_date": "1939-05-05",
+            "title": "Pacific Express",
+            "video": false,
+            "vote_average": 6.578,
+            "vote_count": 77,
+            "genres": [
+                "Drame",
+                "Western"
+            ],
+            "runtime": 117,
+            "tagline": "\"Union Pacific\" arrive!"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
+            "id": 51802,
+            "original_language": "en",
+            "original_title": "Of Mice and Men",
+            "overview": "Un g\u00e9ant handicap\u00e9 mental et son tuteur trouvent du travail dans un ranch de cow-boy sadique \u00e0 l'\u00e9poque de la grande d\u00e9pression en Am\u00e9rique.",
+            "popularity": 0.8728,
+            "poster_path": "/mHlmikPFj9uXdWgncxql5OlBxmF.jpg",
+            "release_date": "1939-12-24",
+            "title": "Des souris et des hommes",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 96,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 106,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
+            "id": 43739,
+            "original_language": "en",
+            "original_title": "Love Affair",
+            "overview": "Le playboy fran\u00e7ais Michel Marnet et l'Am\u00e9ricain Terry McKay tombent amoureux lors du passage transatlantique d'un navire. Ils s'arrangent pour se r\u00e9unir six mois plus tard, si aucun des deux n'a chang\u00e9 d'avis.",
+            "popularity": 2.3895,
+            "poster_path": "/6dj27ibPpyEdqujvjVOehFSLzj0.jpg",
+            "release_date": "1939-04-07",
+            "title": "Elle et lui",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 119,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 88,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/aBid3Ug0ZHiFwqtVXNKETxviVkd.jpg",
             "id": 32610,
             "original_language": "en",
@@ -292,7 +333,7 @@
             "popularity": 1.0554,
             "poster_path": "/hCE0OHNjMI2LNpoqJxDX4Otb06X.jpg",
             "release_date": "1939-10-10",
-            "title": "Babes in Arms",
+            "title": "Place au Rythme",
             "video": false,
             "vote_average": 6.4,
             "vote_count": 44,
@@ -301,26 +342,6 @@
                 "Musique"
             ],
             "runtime": 96,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rHnYpnvR2pFMk2wTVKs3sWU5hLF.jpg",
-            "id": 44919,
-            "original_language": "en",
-            "original_title": "The Old Maid",
-            "overview": "Philadelphie, 1860. \u00c0 la veille de la Guerre de S\u00e9cession, Delia Lovell a rompu ses fian\u00e7ailles avec Clem Spender pour \u00e9pouser le riche Joe Ralston. La cousine de Delia, Charlotte, console l\u2019ancien fianc\u00e9. Ils se promettent le mariage \u00e0 son retour de la guerre. Mais Clem meurt au combat et Charlotte se retrouve seule et enceinte. Le m\u00e9decin de la famille, le docteur Lanskell, l\u2019envoie accoucher en Arizona pour \u00e9viter le scandale. De retour \u00e0 Philadelphie \u00e0 la fin des conflits, Charlotte s\u2019occupe d\u2019une \u00e9cole d\u2019orphelins de guerre dans laquelle elle peut \u00e9lever sa petite Tina sans avoir \u00e0 subir de questions sur sa fille ill\u00e9gitime. Apr\u00e8s la mort accidentelle de son mari, Delia, sachant le secret de Charlotte, lui propose de venir vivre chez elle avec sa fille. Tina en grandissant se rapproche plus en plus de Delia jusqu\u2019\u00e0 se donner l\u2019illusion que cette derni\u00e8re est sa m\u00e8re et que Charlotte est sa tante \u00ab vieille fille \u00bb...",
-            "popularity": 0.5851,
-            "poster_path": "/22nTuvtaSMnetvoMVoHl4EcBhDh.jpg",
-            "release_date": "1939-08-16",
-            "title": "The Old Maid",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 53,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 95,
             "tagline": ""
         },
         {
@@ -347,6 +368,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+            "id": 995,
+            "original_language": "en",
+            "original_title": "Stagecoach",
+            "overview": "La diligence est le lieu de rencontre de neuf personnes qui font route, en Arizona, sur une piste menac\u00e9e par les Indiens de Geronimo. Dallas, une prostitu\u00e9e, est chass\u00e9e de la ville, tout comme Josiah Boone, un vieux m\u00e9decin alcoolique. Mrs Mallory, enceinte, va rejoindre son mari, un officier, tandis que Hatfield, un joueur, d\u00e9cide de l'accompagner par galanterie. Gatewood, le banquier, s'enfuit avec l'or d\u00e9pos\u00e9 chez lui. Mr Peacok, qui place du whisky dans les saloons, regagne sa famille \u00e0 Kansas City. Curly Wilcox, le sh\u00e9rif, accompagne le conducteur Buck, sur cette route dangereuse. \u00c0 la sortie de la ville, ils prennent un autre passager, Ringo Kid, qui souhaite ex\u00e9cuter les trois fr\u00e8res Plummer, assassins de son p\u00e8re et de son fr\u00e8re. Toutes ces personnes font le difficile apprentissage de la cohabitation dans un espace clos. Le voyage se poursuit dans une atmosph\u00e8re de plus en plus tendue.",
+            "popularity": 2.3363,
+            "poster_path": "/xohHfi6MijvL7EA5S745vlShZWz.jpg",
+            "release_date": "1939-03-02",
+            "title": "La Chevauch\u00e9e fantastique",
+            "video": false,
+            "vote_average": 7.616,
+            "vote_count": 1194,
+            "genres": [
+                "Western",
+                "Aventure"
+            ],
+            "runtime": 97,
+            "tagline": "2 femmes en voyage d\u00e9sesp\u00e9r\u00e9 avec 7 hommes \u00e9tranges."
+        },
+        {
+            "adult": false,
             "backdrop_path": "/2QL4R2BF7POan6b73Il8O1X2Yi0.jpg",
             "id": 36488,
             "original_language": "en",
@@ -355,7 +397,7 @@
             "popularity": 2.2497,
             "poster_path": "/ni1Svn2VSWKkC5MU3HA9pQl05vT.jpg",
             "release_date": "1939-06-30",
-            "title": "Bachelor Mother",
+            "title": "Mademoiselle et son b\u00e9b\u00e9",
             "video": false,
             "vote_average": 7.135,
             "vote_count": 74,
@@ -368,27 +410,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
-            "id": 43739,
-            "original_language": "en",
-            "original_title": "Love Affair",
-            "overview": "Le playboy fran\u00e7ais Michel Marnet et l'Am\u00e9ricain Terry McKay tombent amoureux lors du passage transatlantique d'un navire. Ils s'arrangent pour se r\u00e9unir six mois plus tard, si aucun des deux n'a chang\u00e9 d'avis.",
-            "popularity": 2.3895,
-            "poster_path": "/6dj27ibPpyEdqujvjVOehFSLzj0.jpg",
-            "release_date": "1939-04-07",
-            "title": "Love Affair",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 119,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 88,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/6FqJf99xrNYvdputt2ssezNNOOr.jpg",
             "id": 218326,
             "original_language": "en",
@@ -397,7 +418,7 @@
             "popularity": 0.4828,
             "poster_path": "/ydEquMTPU1tdsNyzpbt9tBBoAqU.jpg",
             "release_date": "1939-08-31",
-            "title": "Nurse Edith Cavell",
+            "title": "Edith Cavell",
             "video": false,
             "vote_average": 6.4,
             "vote_count": 11,
@@ -407,27 +428,6 @@
             ],
             "runtime": 108,
             "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/2irUfjyGZibkM2sR2AsBHTtgeuo.jpg",
-            "id": 43837,
-            "original_language": "en",
-            "original_title": "Union Pacific",
-            "overview": "Deux compagnies rivales ne m\u00e9nagent pas leurs forces pour la construction, peu avant 1870, de la ligne de chemin de fer qui reliera New York a la cote Ouest.",
-            "popularity": 0.6214,
-            "poster_path": "/o2pa9c80GuHoMsTFMr624VDHbMk.jpg",
-            "release_date": "1939-05-05",
-            "title": "Union Pacific",
-            "video": false,
-            "vote_average": 6.578,
-            "vote_count": 77,
-            "genres": [
-                "Drame",
-                "Western"
-            ],
-            "runtime": 117,
-            "tagline": "\"Union Pacific\" arrive!"
         },
         {
             "adult": false,
@@ -454,28 +454,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
-            "id": 115109,
-            "original_language": "en",
-            "original_title": "The Rains Came",
-            "overview": "En Inde, Tom Ransome, un haut fonctionnaire bourgeois m\u00e8ne une vie opulente entre ses conqu\u00eates et son ancienne \u00e9pouse Lady Edwina Esketh. Celle-ci fait la connaissance d'un jeune m\u00e9decin indien, le major Rama Safti, et s'\u00e9prend de lui. La ville de Ranchipur est d\u00e9vast\u00e9e par un tremblement de terre, des inondations et une \u00e9pid\u00e9mie de peste. Lady Esketh renonce \u00e0 sa vie de bourgeoise et d\u00e9cide de s'impliquer aux c\u00f4t\u00e9s des malades, tout en restant avec Rama Safti qu'elle aime profond\u00e9ment. Malheureusement, \u00e0 la suite d'un moment d'inattention, elle est infect\u00e9e par un virus. Touch\u00e9e par la maladie, elle meurt. Rama Safti deviendra le souverain du royaume. Tom Ransome se liera avec une jeune missionnaire",
-            "popularity": 0.7313,
-            "poster_path": "/kBxQrF81yyp8wog275ll0uznJfH.jpg",
-            "release_date": "1939-09-15",
-            "title": "The Rains Came",
-            "video": false,
-            "vote_average": 5.8,
-            "vote_count": 24,
-            "genres": [
-                "Drame",
-                "Romance",
-                "Aventure"
-            ],
-            "runtime": 103,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/7Gy9bSYod5QolabzAm4Ol1P6wHZ.jpg",
             "id": 43828,
             "original_language": "en",
@@ -484,7 +462,7 @@
             "popularity": 0.7227,
             "poster_path": "/le1E2c8zBCruKiFXvaw3Cda6792.jpg",
             "release_date": "1939-11-30",
-            "title": "Destry Rides Again",
+            "title": "Femme ou d\u00e9mon",
             "video": false,
             "vote_average": 7.2,
             "vote_count": 184,
@@ -505,7 +483,7 @@
             "popularity": 0.3291,
             "poster_path": "/rk4KKIQ92YYjJI5qxhof09YsCKu.jpg",
             "release_date": "1939-03-29",
-            "title": "The Story of Vernon and Irene Castle",
+            "title": "La Grande Farandole",
             "video": false,
             "vote_average": 6.9,
             "vote_count": 40,
@@ -515,48 +493,6 @@
             ],
             "runtime": 90,
             "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wvM3T2lzv1QdByTMrizjyECuEBy.jpg",
-            "id": 43829,
-            "original_language": "en",
-            "original_title": "Jesse James",
-            "overview": "\u00c0 la fin de la guerre de S\u00e9cession, les entrepreneurs du chemin de fer exproprient les propri\u00e9taires des terres situ\u00e9es sur le parcours du rail. N'h\u00e9sitant pas \u00e0 recourir \u00e0 la violence, ils s'en prennent bient\u00f4t aux James et abattent la m\u00e8re de cette paisible famille d'\u00e9leveurs. Jesse, le fils cadet, venge sa mort, avant de se r\u00e9fugier dans les collines avec Frank, son fr\u00e8re a\u00een\u00e9. Contraints \u00e0 la clandestinit\u00e9, les deux fuyards deviennent des bandits redout\u00e9s.",
-            "popularity": 2.3026,
-            "poster_path": "/XngXfD60nNtS5keBC6dV5gNj9P.jpg",
-            "release_date": "1939-01-14",
-            "title": "Jesse James",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 101,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 106,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
-            "id": 31685,
-            "original_language": "en",
-            "original_title": "The Hunchback of Notre Dame",
-            "overview": "La Guerre de Cent Ans ayant pris fin, la France conna\u00eet enfin la paix. Mais alors que les gitans continuent \u00e0 \u00eatre chass\u00e9s de partout, Esmeralda, une danseuse boh\u00e9mienne d\u2019une rare beaut\u00e9, r\u00e9ussit \u00e0 s\u2019introduire dans Paris avec pour but de d\u00e9fendre son peuple aupr\u00e8s du roi Louis XI, souverain plus ouvert que ses pr\u00e9d\u00e9cesseurs. Elle devient l\u2019objet de nombreuses convoitises, celle de Frollo, l\u2019intransigeant conseiller du roi, de Phoebus, un soldat gouailleur, mais aussi du bossu Quasimodo, le sonneur de cloches de Notre-Dame tomb\u00e9 amoureux d\u2019elle depuis le jour o\u00f9 elle le prit en piti\u00e9 alors, qu\u2019attach\u00e9 au pilori, il \u00e9tait devenu la ris\u00e9e du peuple. Une fois d\u00e9livr\u00e9, il va se faire le protecteur d\u2019Esmeralda alors qu\u2019elle est accus\u00e9e de meurtre.",
-            "popularity": 2.073,
-            "poster_path": "/9j6rAo92tDNoW5mCJNhKl9hADlQ.jpg",
-            "release_date": "1939-08-31",
-            "title": "The Hunchback of Notre Dame",
-            "video": false,
-            "vote_average": 7.293,
-            "vote_count": 210,
-            "genres": [
-                "Drame",
-                "Romance",
-                "Horreur"
-            ],
-            "runtime": 113,
-            "tagline": "Impact\u00a0! Puissance\u00a0! Feu\u00a0! Path\u00e9tique\u00a0! Drame\u00a0!"
         },
         {
             "adult": false,
@@ -581,24 +517,25 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/oGrBAl69RJ03KKz5brTkUBVG0CL.jpg",
-            "id": 67375,
+            "backdrop_path": "/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
+            "id": 31685,
             "original_language": "en",
-            "original_title": "The Story of Alexander Graham Bell",
-            "overview": "Le futur inventeur Alexander Graham Bell tombe amoureux d'une femme atteinte de surdit\u00e9, Mabel Hubbard, qui enseigne dans une \u00e9cole pour sourds. Elle repousse les demandes en mariage de l'inventeur tant que les exp\u00e9riences de ce dernier n'auront pas abouti. Finalement, il r\u00e9ussit \u00e0 inventer le t\u00e9l\u00e9phone, se marie et devient riche, mais son bonheur est menac\u00e9 par une soci\u00e9t\u00e9 concurrente qui veut le ruiner...",
-            "popularity": 0.5296,
-            "poster_path": "/xLl79sKGfGCCC08v1EWoQiF05EQ.jpg",
-            "release_date": "1939-04-04",
-            "title": "The Story of Alexander Graham Bell",
+            "original_title": "The Hunchback of Notre Dame",
+            "overview": "La Guerre de Cent Ans ayant pris fin, la France conna\u00eet enfin la paix. Mais alors que les gitans continuent \u00e0 \u00eatre chass\u00e9s de partout, Esmeralda, une danseuse boh\u00e9mienne d\u2019une rare beaut\u00e9, r\u00e9ussit \u00e0 s\u2019introduire dans Paris avec pour but de d\u00e9fendre son peuple aupr\u00e8s du roi Louis XI, souverain plus ouvert que ses pr\u00e9d\u00e9cesseurs. Elle devient l\u2019objet de nombreuses convoitises, celle de Frollo, l\u2019intransigeant conseiller du roi, de Phoebus, un soldat gouailleur, mais aussi du bossu Quasimodo, le sonneur de cloches de Notre-Dame tomb\u00e9 amoureux d\u2019elle depuis le jour o\u00f9 elle le prit en piti\u00e9 alors, qu\u2019attach\u00e9 au pilori, il \u00e9tait devenu la ris\u00e9e du peuple. Une fois d\u00e9livr\u00e9, il va se faire le protecteur d\u2019Esmeralda alors qu\u2019elle est accus\u00e9e de meurtre.",
+            "popularity": 2.073,
+            "poster_path": "/9j6rAo92tDNoW5mCJNhKl9hADlQ.jpg",
+            "release_date": "1939-08-31",
+            "title": "Quasimodo",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 17,
+            "vote_average": 7.293,
+            "vote_count": 210,
             "genres": [
                 "Drame",
-                "Histoire"
+                "Romance",
+                "Horreur"
             ],
-            "runtime": 98,
-            "tagline": ""
+            "runtime": 113,
+            "tagline": "Impact\u00a0! Puissance\u00a0! Feu\u00a0! Path\u00e9tique\u00a0! Drame\u00a0!"
         },
         {
             "adult": false,
@@ -623,6 +560,69 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/wvM3T2lzv1QdByTMrizjyECuEBy.jpg",
+            "id": 43829,
+            "original_language": "en",
+            "original_title": "Jesse James",
+            "overview": "\u00c0 la fin de la guerre de S\u00e9cession, les entrepreneurs du chemin de fer exproprient les propri\u00e9taires des terres situ\u00e9es sur le parcours du rail. N'h\u00e9sitant pas \u00e0 recourir \u00e0 la violence, ils s'en prennent bient\u00f4t aux James et abattent la m\u00e8re de cette paisible famille d'\u00e9leveurs. Jesse, le fils cadet, venge sa mort, avant de se r\u00e9fugier dans les collines avec Frank, son fr\u00e8re a\u00een\u00e9. Contraints \u00e0 la clandestinit\u00e9, les deux fuyards deviennent des bandits redout\u00e9s.",
+            "popularity": 2.3026,
+            "poster_path": "/XngXfD60nNtS5keBC6dV5gNj9P.jpg",
+            "release_date": "1939-01-14",
+            "title": "Le brigand bien-aim\u00e9",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 101,
+            "genres": [
+                "Western"
+            ],
+            "runtime": 106,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+            "id": 115109,
+            "original_language": "en",
+            "original_title": "The Rains Came",
+            "overview": "En Inde, Tom Ransome, un haut fonctionnaire bourgeois m\u00e8ne une vie opulente entre ses conqu\u00eates et son ancienne \u00e9pouse Lady Edwina Esketh. Celle-ci fait la connaissance d'un jeune m\u00e9decin indien, le major Rama Safti, et s'\u00e9prend de lui. La ville de Ranchipur est d\u00e9vast\u00e9e par un tremblement de terre, des inondations et une \u00e9pid\u00e9mie de peste. Lady Esketh renonce \u00e0 sa vie de bourgeoise et d\u00e9cide de s'impliquer aux c\u00f4t\u00e9s des malades, tout en restant avec Rama Safti qu'elle aime profond\u00e9ment. Malheureusement, \u00e0 la suite d'un moment d'inattention, elle est infect\u00e9e par un virus. Touch\u00e9e par la maladie, elle meurt. Rama Safti deviendra le souverain du royaume. Tom Ransome se liera avec une jeune missionnaire",
+            "popularity": 0.7313,
+            "poster_path": "/kBxQrF81yyp8wog275ll0uznJfH.jpg",
+            "release_date": "1939-09-15",
+            "title": "La Mousson",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 24,
+            "genres": [
+                "Drame",
+                "Romance",
+                "Aventure"
+            ],
+            "runtime": 103,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oGrBAl69RJ03KKz5brTkUBVG0CL.jpg",
+            "id": 67375,
+            "original_language": "en",
+            "original_title": "The Story of Alexander Graham Bell",
+            "overview": "Le futur inventeur Alexander Graham Bell tombe amoureux d'une femme atteinte de surdit\u00e9, Mabel Hubbard, qui enseigne dans une \u00e9cole pour sourds. Elle repousse les demandes en mariage de l'inventeur tant que les exp\u00e9riences de ce dernier n'auront pas abouti. Finalement, il r\u00e9ussit \u00e0 inventer le t\u00e9l\u00e9phone, se marie et devient riche, mais son bonheur est menac\u00e9 par une soci\u00e9t\u00e9 concurrente qui veut le ruiner...",
+            "popularity": 0.5296,
+            "poster_path": "/xLl79sKGfGCCC08v1EWoQiF05EQ.jpg",
+            "release_date": "1939-04-04",
+            "title": "Et La Parole Fut\u2026",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 17,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "runtime": 98,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/3FXfrGh6gPU5gaaiz8h7zu53APE.jpg",
             "id": 10568,
             "original_language": "en",
@@ -631,7 +631,7 @@
             "popularity": 0.461,
             "poster_path": "/mlHWbz2Z8gbgxYwdQ7VYZkeZDvN.jpg",
             "release_date": "1939-04-20",
-            "title": "The Four Feathers",
+            "title": "Les Quatre Plumes blanches",
             "video": false,
             "vote_average": 7.08,
             "vote_count": 100,
@@ -654,7 +654,7 @@
             "popularity": 1.8506,
             "poster_path": "/be1EaAWb2CQvXEb8rzJ5wWs1Onp.jpg",
             "release_date": "1939-05-15",
-            "title": "Only Angels Have Wings",
+            "title": "Seuls les anges ont des ailes",
             "video": false,
             "vote_average": 7.3,
             "vote_count": 263,
@@ -668,46 +668,24 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
-            "id": 16902,
+            "backdrop_path": "/xJrsqrOuRlZAI86XfVZsREP4HVg.jpg",
+            "id": 51386,
             "original_language": "en",
-            "original_title": "The Private Lives of Elizabeth and Essex",
-            "overview": "Les amours tumultueuses de la reine Elisabeth 1\u00e8re et de son amant le comte d'Essex.",
-            "popularity": 0.315,
-            "poster_path": "/kIHGBaquobN6yH4R1eGxcnKCbry.jpg",
-            "release_date": "1939-11-11",
-            "title": "The Private Lives of Elizabeth and Essex",
+            "original_title": "Hollywood Cavalcade",
+            "overview": "\u00c0 partir de 1913, le r\u00e9alisateur Connors d\u00e9couvre la chanteuse Molly Adair. En devenant une star, elle \u00e9pouse un acteur, alors Connors les vire. Elle le demande comme r\u00e9alisateur de son prochain film. De nombreuses \u00e9toiles silencieuses montr\u00e9es faisant la transition vers le son.",
+            "popularity": 1.5119,
+            "poster_path": "/3vDvH3IDcUqU2eGtCoPwirJ9Ls2.jpg",
+            "release_date": "1939-10-13",
+            "title": "Hollywood Cavalcade",
             "video": false,
-            "vote_average": 6.264,
-            "vote_count": 91,
+            "vote_average": 5.3,
+            "vote_count": 5,
             "genres": [
+                "Com\u00e9die",
                 "Drame",
-                "Histoire",
-                "Romance"
+                "Histoire"
             ],
-            "runtime": 106,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7WAIVDbISW49JZapha2Do88v8mr.jpg",
-            "id": 73194,
-            "original_language": "en",
-            "original_title": "Drums Along the Mohawk",
-            "overview": "En pleine guerre d'ind\u00e9pendance am\u00e9ricaine, Gil Martin, un jeune colon de Deerfield, se rend \u00e0 Albany pour \u00e9pouser Lana Borst. Apr\u00e8s la c\u00e9r\u00e9monie, le couple part en chariot vers la ferme de Gil. En s'arr\u00eatant dans une auberge, ils font la connaissance de Caldwell, un espion anglais qui porte un bandeau noir \u00e0 l\u2019\u0153il\u2026",
-            "popularity": 0.8304,
-            "poster_path": "/gQlIItt9eIFTZTiyRhgUGImndZJ.jpg",
-            "release_date": "1939-11-10",
-            "title": "Drums Along the Mohawk",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 117,
-            "genres": [
-                "Drame",
-                "Histoire",
-                "Guerre"
-            ],
-            "runtime": 100,
+            "runtime": 97,
             "tagline": ""
         },
         {
@@ -755,28 +733,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/xJrsqrOuRlZAI86XfVZsREP4HVg.jpg",
-            "id": 51386,
-            "original_language": "en",
-            "original_title": "Hollywood Cavalcade",
-            "overview": "\u00c0 partir de 1913, le r\u00e9alisateur Connors d\u00e9couvre la chanteuse Molly Adair. En devenant une star, elle \u00e9pouse un acteur, alors Connors les vire. Elle le demande comme r\u00e9alisateur de son prochain film. De nombreuses \u00e9toiles silencieuses montr\u00e9es faisant la transition vers le son.",
-            "popularity": 1.5119,
-            "poster_path": "/3vDvH3IDcUqU2eGtCoPwirJ9Ls2.jpg",
-            "release_date": "1939-10-13",
-            "title": "Hollywood Cavalcade",
-            "video": false,
-            "vote_average": 5.3,
-            "vote_count": 5,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 97,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/wYWYya66V84JT8l8jqIuYTF5JZV.jpg",
             "id": 17660,
             "original_language": "en",
@@ -785,7 +741,7 @@
             "popularity": 3.3195,
             "poster_path": "/nkIhcpWKJbUa02xuyQOy2pnzetU.jpg",
             "release_date": "1939-04-08",
-            "title": "Dodge City",
+            "title": "Les Conqu\u00e9rants",
             "video": false,
             "vote_average": 6.904,
             "vote_count": 104,
@@ -805,7 +761,7 @@
             "popularity": 0.266,
             "poster_path": "/1oKjFxI5sHaFaI22nrSdMbhH7ZV.jpg",
             "release_date": "1939-05-06",
-            "title": "Confessions of a Nazi Spy",
+            "title": "Les aveux d'un espion nazi",
             "video": false,
             "vote_average": 6.0,
             "vote_count": 31,
@@ -814,6 +770,28 @@
                 "Guerre"
             ],
             "runtime": 104,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+            "id": 16902,
+            "original_language": "en",
+            "original_title": "The Private Lives of Elizabeth and Essex",
+            "overview": "Les amours tumultueuses de la reine Elisabeth 1\u00e8re et de son amant le comte d'Essex.",
+            "popularity": 0.315,
+            "poster_path": "/kIHGBaquobN6yH4R1eGxcnKCbry.jpg",
+            "release_date": "1939-11-11",
+            "title": "La Vie priv\u00e9e d'\u00c9lisabeth d'Angleterre",
+            "video": false,
+            "vote_average": 6.264,
+            "vote_count": 91,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Romance"
+            ],
+            "runtime": 106,
             "tagline": ""
         },
         {
@@ -835,6 +813,28 @@
                 "Romance"
             ],
             "runtime": 107,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WAIVDbISW49JZapha2Do88v8mr.jpg",
+            "id": 73194,
+            "original_language": "en",
+            "original_title": "Drums Along the Mohawk",
+            "overview": "En pleine guerre d'ind\u00e9pendance am\u00e9ricaine, Gil Martin, un jeune colon de Deerfield, se rend \u00e0 Albany pour \u00e9pouser Lana Borst. Apr\u00e8s la c\u00e9r\u00e9monie, le couple part en chariot vers la ferme de Gil. En s'arr\u00eatant dans une auberge, ils font la connaissance de Caldwell, un espion anglais qui porte un bandeau noir \u00e0 l\u2019\u0153il\u2026",
+            "popularity": 0.8304,
+            "poster_path": "/gQlIItt9eIFTZTiyRhgUGImndZJ.jpg",
+            "release_date": "1939-11-10",
+            "title": "Sur la piste des Mohawks",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 117,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Guerre"
+            ],
+            "runtime": 100,
             "tagline": ""
         },
         {
@@ -883,23 +883,23 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/ye9wO7oHbae13trtAEvS32vFOLZ.jpg",
-            "id": 31868,
+            "backdrop_path": "/mbHljOan8c6S9abx57ewg7eMf7h.jpg",
+            "id": 131462,
             "original_language": "en",
-            "original_title": "Intermezzo: A Love Story",
-            "overview": "Cette idylle douce et am\u00e8re a pour vedette Ingrid Bergman et Leslie Howard, amants tourment\u00e9s, forc\u00e9s de choisir entre la passion et l'honneur. Quand Holger Brandt, violoniste renomm\u00e9, d\u00e9couvre pour la premi\u00e8re fois la professeur de piano de sa fille, il est imm\u00e9diatement frapp\u00e9 par sa beaut\u00e9 et son talent. Ils tombent amoureux, et Holger quitte sa famille pour vivre avec elle. Mais il ne lui faut pas longtemps pour se rendre compte combien sa femme et sa fille lui manquent et il se fait beaucoup de soucis pour la peine qu'il leur a caus\u00e9e.",
-            "popularity": 0.5232,
-            "poster_path": "/cv5uM09kqnc2GWfgaouNQ8rgYak.jpg",
-            "release_date": "1939-10-06",
-            "title": "Intermezzo: A Love Story",
+            "original_title": "Disputed Passage",
+            "overview": "",
+            "popularity": 0.193,
+            "poster_path": "/e2H8VhL6NwLeyqseKn2dijGe2YT.jpg",
+            "release_date": "1939-10-25",
+            "title": "Disputed Passage",
             "video": false,
-            "vote_average": 6.628,
-            "vote_count": 43,
+            "vote_average": 5.5,
+            "vote_count": 2,
             "genres": [
                 "Drame",
-                "Romance"
+                "Guerre"
             ],
-            "runtime": 70,
+            "runtime": 91,
             "tagline": ""
         },
         {
@@ -946,23 +946,23 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/mbHljOan8c6S9abx57ewg7eMf7h.jpg",
-            "id": 131462,
+            "backdrop_path": "/88ZGBLeS5Qymfxb2Ke9cW4ssX3D.jpg",
+            "id": 98125,
             "original_language": "en",
-            "original_title": "Disputed Passage",
+            "original_title": "Honeymoon in Bali",
             "overview": "",
-            "popularity": 0.193,
-            "poster_path": "/e2H8VhL6NwLeyqseKn2dijGe2YT.jpg",
-            "release_date": "1939-10-25",
-            "title": "Disputed Passage",
+            "popularity": 1.7436,
+            "poster_path": "/8a4HXvql8Ck85AJAUOqq8DI0NVB.jpg",
+            "release_date": "1939-09-29",
+            "title": "Honeymoon in Bali",
             "video": false,
-            "vote_average": 5.5,
+            "vote_average": 6.2,
             "vote_count": 2,
             "genres": [
-                "Drame",
-                "Guerre"
+                "Com\u00e9die",
+                "Romance"
             ],
-            "runtime": 91,
+            "runtime": 95,
             "tagline": ""
         },
         {
@@ -975,7 +975,7 @@
             "popularity": 0.7475,
             "poster_path": "/8mlhHKZhkHu6ZnjEequih5AxqN6.jpg",
             "release_date": "1939-05-11",
-            "title": "Jamaica Inn",
+            "title": "La Taverne de la Jama\u00efque",
             "video": false,
             "vote_average": 6.114,
             "vote_count": 236,
@@ -986,27 +986,6 @@
             ],
             "runtime": 100,
             "tagline": "Il r\u00e9gnait sur la Taverne... citadelle du p\u00e9ch\u00e9 sur les landes, maudite, \u00e9vit\u00e9e, vilipend\u00e9e. Assez de sensations pour une douzaine de films. Laughton \u00e0 son plus haut niveau."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1L9o78czEQxRyLdsVUXvnx7oq9d.jpg",
-            "id": 278283,
-            "original_language": "en",
-            "original_title": "The Great Man Votes",
-            "overview": "",
-            "popularity": 0.2097,
-            "poster_path": "/e0CEIrunK4yqFiUej14A8dB0aVe.jpg",
-            "release_date": "1939-01-13",
-            "title": "The Great Man Votes",
-            "video": false,
-            "vote_average": 6.1,
-            "vote_count": 6,
-            "genres": [
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 72,
-            "tagline": ""
         },
         {
             "adult": false,
@@ -1031,44 +1010,44 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/88ZGBLeS5Qymfxb2Ke9cW4ssX3D.jpg",
-            "id": 98125,
+            "backdrop_path": "/1L9o78czEQxRyLdsVUXvnx7oq9d.jpg",
+            "id": 278283,
             "original_language": "en",
-            "original_title": "Honeymoon in Bali",
+            "original_title": "The Great Man Votes",
             "overview": "",
-            "popularity": 1.7436,
-            "poster_path": "/8a4HXvql8Ck85AJAUOqq8DI0NVB.jpg",
-            "release_date": "1939-09-29",
-            "title": "Honeymoon in Bali",
+            "popularity": 0.2097,
+            "poster_path": "/e0CEIrunK4yqFiUej14A8dB0aVe.jpg",
+            "release_date": "1939-01-13",
+            "title": "The Great Man Votes",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 2,
+            "vote_average": 6.1,
+            "vote_count": 6,
             "genres": [
-                "Com\u00e9die",
-                "Romance"
+                "Drame",
+                "Com\u00e9die"
             ],
-            "runtime": 95,
+            "runtime": 72,
             "tagline": ""
         },
         {
             "adult": false,
-            "backdrop_path": "/nWwzoR4NYbn1IGlA5VQjna4nO0g.jpg",
-            "id": 43849,
+            "backdrop_path": "/ye9wO7oHbae13trtAEvS32vFOLZ.jpg",
+            "id": 31868,
             "original_language": "en",
-            "original_title": "Sweethearts",
-            "overview": "",
-            "popularity": 0.5156,
-            "poster_path": "/oBj60AHDKS9Bf4UxezVf2N8xqze.jpg",
-            "release_date": "1938-12-30",
-            "title": "Sweethearts",
+            "original_title": "Intermezzo: A Love Story",
+            "overview": "Cette idylle douce et am\u00e8re a pour vedette Ingrid Bergman et Leslie Howard, amants tourment\u00e9s, forc\u00e9s de choisir entre la passion et l'honneur. Quand Holger Brandt, violoniste renomm\u00e9, d\u00e9couvre pour la premi\u00e8re fois la professeur de piano de sa fille, il est imm\u00e9diatement frapp\u00e9 par sa beaut\u00e9 et son talent. Ils tombent amoureux, et Holger quitte sa famille pour vivre avec elle. Mais il ne lui faut pas longtemps pour se rendre compte combien sa femme et sa fille lui manquent et il se fait beaucoup de soucis pour la peine qu'il leur a caus\u00e9e.",
+            "popularity": 0.5232,
+            "poster_path": "/cv5uM09kqnc2GWfgaouNQ8rgYak.jpg",
+            "release_date": "1939-10-06",
+            "title": "La ran\u00e7on du bonheur",
             "video": false,
-            "vote_average": 5.7,
-            "vote_count": 12,
+            "vote_average": 6.628,
+            "vote_count": 43,
             "genres": [
-                "Musique",
-                "Com\u00e9die"
+                "Drame",
+                "Romance"
             ],
-            "runtime": 114,
+            "runtime": 70,
             "tagline": ""
         },
         {
@@ -1092,6 +1071,27 @@
                 "Musique"
             ],
             "runtime": 90,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWwzoR4NYbn1IGlA5VQjna4nO0g.jpg",
+            "id": 43849,
+            "original_language": "en",
+            "original_title": "Sweethearts",
+            "overview": "",
+            "popularity": 0.5156,
+            "poster_path": "/oBj60AHDKS9Bf4UxezVf2N8xqze.jpg",
+            "release_date": "1938-12-30",
+            "title": "Amants",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 12,
+            "genres": [
+                "Musique",
+                "Com\u00e9die"
+            ],
+            "runtime": 114,
             "tagline": ""
         }
     ]

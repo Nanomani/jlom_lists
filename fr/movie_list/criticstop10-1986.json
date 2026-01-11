@@ -9,25 +9,44 @@
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
-            "id": 793,
+            "backdrop_path": "/nxxdhhcKreBWItIzN2MQohoIeCY.jpg",
+            "id": 14670,
             "original_language": "en",
-            "original_title": "Blue Velvet",
-            "overview": "Il se passe quelque chose d\u2019\u00e9trange derri\u00e8re les palissades blanches de Lumberton, Caroline du Nord. Apr\u00e8s avoir fait la d\u00e9couverte d\u2019une oreille humaine coup\u00e9e dans un champ, Jeffrey Beaumont, un \u00e9tudiant attir\u00e9 par le myst\u00e8re, est bien d\u00e9termin\u00e9 \u00e0 enqu\u00eater. Avec l\u2019aide de sa petite amie, Jeffrey p\u00e9n\u00e8tre dans l\u2019univers sombre et dangereux de Dorothy Vallens, une chanteuse de bo\u00eete de nuit myst\u00e9rieusement unie \u00e0 Frank, un gangster sadique, autour d\u2019une histoire de kidnapping.",
-            "popularity": 4.2844,
-            "poster_path": "/zw0JOpVE5IFE8IfAm8zRX0AkB3O.jpg",
-            "release_date": "1986-09-19",
-            "title": "Blue Velvet",
+            "original_title": "'Round Midnight",
+            "overview": "Une passion d\u00e9vorante\u00a0: C'est ce que repr\u00e9sente le jazz pour Francis. Une passion que Sylvie, son ex-compagne, n'a jamais partag\u00e9e. En cette fin des ann\u00e9es 50, apr\u00e8s une longue \u00e9clipse, son saxophoniste pr\u00e9f\u00e9r\u00e9, Dale Turner, revient jouer \u00e0 Paris au Blue Note. Pour l'\u00e9couter, Francis, d\u00e9sargent\u00e9, n'a d'autre ressource que d'aller chaque soir coller son oreille au soupirail du club, quitte \u00e0 d\u00e9laisser son travail de dessinateur et surtout sa fille, B\u00e9rang\u00e8re. Si Dale poss\u00e8de encore un son merveilleux, c'est un homme us\u00e9, las, guettant la moindre occasion de s'imbiber d'alcool\u2026",
+            "popularity": 1.7112,
+            "poster_path": "/25AMFhwHF1vA6HcshtKdc3XsPiz.jpg",
+            "release_date": "1986-09-23",
+            "title": "Autour de minuit",
             "video": false,
-            "vote_average": 7.613,
-            "vote_count": 3674,
+            "vote_average": 7.1,
+            "vote_count": 102,
             "genres": [
-                "Myst\u00e8re",
-                "Thriller",
-                "Crime"
+                "Drame",
+                "Musique"
             ],
-            "runtime": 120,
-            "tagline": "C'est un monde bien \u00e9trange, n'est-ce pas ?"
+            "runtime": 126,
+            "tagline": "La musique et la magie se rencontrent\u2026"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg",
+            "id": 11873,
+            "original_language": "en",
+            "original_title": "The Color of Money",
+            "overview": "Eddie Felson a quitt\u00e9 le monde du billard professionnel alors qu'il \u00e9tait au sommet de sa gloire. Mais quand il voit jouer Vincent Lauria, son sang ne fait qu'un tour. Il d\u00e9cide de le prendre en main et de lui apprendre toutes les ficelles du m\u00e9tier. Pouss\u00e9 par sa petite amie, une jeune femme qui partage le m\u00eame amour de l'argent qu'Eddie, Vincent finit par accepter. Eddie emm\u00e8ne ensuite les deux jeunes gens dans un voyage de six semaines, au cours duquel il compte apprendre \u00e0 ce joueur encore inexp\u00e9riment\u00e9, comment devenir un parfait \u00abarnaqueur\u00bb, en se servant de sa na\u00efvet\u00e9 naturelle pour berner ses adversaires, et empocher un maximum de fric.",
+            "popularity": 2.5837,
+            "poster_path": "/GhkdAs4jfxhXAUZbszBO8Y1TJ1.jpg",
+            "release_date": "1986-10-17",
+            "title": "La Couleur de l'argent",
+            "video": false,
+            "vote_average": 6.853,
+            "vote_count": 1454,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 119,
+            "tagline": "L'arnaqueur n'est plus ce qu'il \u00e9tait."
         },
         {
             "adult": false,
@@ -53,45 +72,26 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
-            "id": 11257,
+            "backdrop_path": "/ejnFWUUTYbeQ70WqYFsx8iaDadW.jpg",
+            "id": 10002,
             "original_language": "en",
-            "original_title": "A Room with a View",
-            "overview": "Nous sommes en 1905. Lucy Honeychurch, une jeune et charmante Anglaise de bonne famille, est en vill\u00e9giature \u00e0 Florence en compagnie de sa cousine plus \u00e2g\u00e9e. Les hasards du voyage leur font croiser la route d\u2019autres touristes britanniques : pour la plupart de dignes vieilles filles parties \u00e0 la d\u00e9couverte du Continent, mais aussi des hommes...",
-            "popularity": 1.8732,
-            "poster_path": "/egKYKKa9Cpfsvbwod89QfAQwc2l.jpg",
-            "release_date": "1986-03-07",
-            "title": "A Room with a View",
-            "video": false,
-            "vote_average": 6.939,
-            "vote_count": 807,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 116,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fiC5azwRjJmrwI59BlVpLqIegU1.jpg",
-            "id": 1890,
-            "original_language": "en",
-            "original_title": "Children of a Lesser God",
-            "overview": "James Leed est un novateur dans sa profession. Il est professeur pour enfants sourds et ne fait preuve d'aucune compassion. Il pense et parle librement, aborde tous les sujets tabous et obtient des r\u00e9sultats qui surprennent ses coll\u00e8gues et sup\u00e9rieurs hi\u00e9rarchiques qui l'estiment et l'admirent. L'arriv\u00e9e de Sarah, n\u00e9e compl\u00e9tement sourde, va representer un d\u00e9fi pour le jeune professeur. Vite amoureux d'elle, il va d\u00e9couvrir une femme qui refuse tout compromis.",
-            "popularity": 1.1449,
-            "poster_path": "/jJoAWtK0IiEC39iosjL5YZg43Dw.jpg",
-            "release_date": "1986-09-13",
-            "title": "Children of a Lesser God",
+            "original_title": "Mona Lisa",
+            "overview": "Un truand sert de chauffeur \u00e0 une ravissante noire qui se prostitue dans des h\u00f4tels de luxe. Ce truand est un sentimental, qui d\u00e9panne ainsi un patron-ami, mafieu de haute voltige. Ses maladresses attendrissantes vont l'exposer \u00e0 des dangers qui le sont beaucoup moins.",
+            "popularity": 3.1084,
+            "poster_path": "/eruv6oUbndbevNcmFZjdsMfSac3.jpg",
+            "release_date": "1986-06-13",
+            "title": "Mona Lisa",
             "video": false,
             "vote_average": 6.9,
-            "vote_count": 334,
+            "vote_count": 282,
             "genres": [
+                "Crime",
                 "Drame",
-                "Romance"
+                "Romance",
+                "Thriller"
             ],
-            "runtime": 84,
-            "tagline": "L'amour a son propre langage."
+            "runtime": 105,
+            "tagline": "Parfois, l\u2019amour est un jeu \u00e9trange et m\u00e9chant."
         },
         {
             "adult": false,
@@ -103,7 +103,7 @@
             "popularity": 1.9573,
             "poster_path": "/y2irYZdDMXbbYGf02zSueCC9qnK.jpg",
             "release_date": "1986-02-07",
-            "title": "Hannah and Her Sisters",
+            "title": "Hannah et ses s\u0153urs",
             "video": false,
             "vote_average": 7.469,
             "vote_count": 1117,
@@ -116,23 +116,67 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg",
-            "id": 11873,
+            "backdrop_path": "/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
+            "id": 11257,
             "original_language": "en",
-            "original_title": "The Color of Money",
-            "overview": "Eddie Felson a quitt\u00e9 le monde du billard professionnel alors qu'il \u00e9tait au sommet de sa gloire. Mais quand il voit jouer Vincent Lauria, son sang ne fait qu'un tour. Il d\u00e9cide de le prendre en main et de lui apprendre toutes les ficelles du m\u00e9tier. Pouss\u00e9 par sa petite amie, une jeune femme qui partage le m\u00eame amour de l'argent qu'Eddie, Vincent finit par accepter. Eddie emm\u00e8ne ensuite les deux jeunes gens dans un voyage de six semaines, au cours duquel il compte apprendre \u00e0 ce joueur encore inexp\u00e9riment\u00e9, comment devenir un parfait \u00abarnaqueur\u00bb, en se servant de sa na\u00efvet\u00e9 naturelle pour berner ses adversaires, et empocher un maximum de fric.",
-            "popularity": 2.5837,
-            "poster_path": "/GhkdAs4jfxhXAUZbszBO8Y1TJ1.jpg",
-            "release_date": "1986-10-17",
-            "title": "The Color of Money",
+            "original_title": "A Room with a View",
+            "overview": "Nous sommes en 1905. Lucy Honeychurch, une jeune et charmante Anglaise de bonne famille, est en vill\u00e9giature \u00e0 Florence en compagnie de sa cousine plus \u00e2g\u00e9e. Les hasards du voyage leur font croiser la route d\u2019autres touristes britanniques : pour la plupart de dignes vieilles filles parties \u00e0 la d\u00e9couverte du Continent, mais aussi des hommes...",
+            "popularity": 1.8732,
+            "poster_path": "/egKYKKa9Cpfsvbwod89QfAQwc2l.jpg",
+            "release_date": "1986-03-07",
+            "title": "Chambre avec vue",
             "video": false,
-            "vote_average": 6.853,
-            "vote_count": 1454,
+            "vote_average": 6.939,
+            "vote_count": 807,
             "genres": [
-                "Drame"
+                "Drame",
+                "Romance"
             ],
-            "runtime": 119,
-            "tagline": "L'arnaqueur n'est plus ce qu'il \u00e9tait."
+            "runtime": 116,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
+            "id": 793,
+            "original_language": "en",
+            "original_title": "Blue Velvet",
+            "overview": "Il se passe quelque chose d\u2019\u00e9trange derri\u00e8re les palissades blanches de Lumberton, Caroline du Nord. Apr\u00e8s avoir fait la d\u00e9couverte d\u2019une oreille humaine coup\u00e9e dans un champ, Jeffrey Beaumont, un \u00e9tudiant attir\u00e9 par le myst\u00e8re, est bien d\u00e9termin\u00e9 \u00e0 enqu\u00eater. Avec l\u2019aide de sa petite amie, Jeffrey p\u00e9n\u00e8tre dans l\u2019univers sombre et dangereux de Dorothy Vallens, une chanteuse de bo\u00eete de nuit myst\u00e9rieusement unie \u00e0 Frank, un gangster sadique, autour d\u2019une histoire de kidnapping.",
+            "popularity": 4.2844,
+            "poster_path": "/zw0JOpVE5IFE8IfAm8zRX0AkB3O.jpg",
+            "release_date": "1986-09-19",
+            "title": "Blue Velvet",
+            "video": false,
+            "vote_average": 7.613,
+            "vote_count": 3674,
+            "genres": [
+                "Myst\u00e8re",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 120,
+            "tagline": "C'est un monde bien \u00e9trange, n'est-ce pas ?"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fiC5azwRjJmrwI59BlVpLqIegU1.jpg",
+            "id": 1890,
+            "original_language": "en",
+            "original_title": "Children of a Lesser God",
+            "overview": "James Leed est un novateur dans sa profession. Il est professeur pour enfants sourds et ne fait preuve d'aucune compassion. Il pense et parle librement, aborde tous les sujets tabous et obtient des r\u00e9sultats qui surprennent ses coll\u00e8gues et sup\u00e9rieurs hi\u00e9rarchiques qui l'estiment et l'admirent. L'arriv\u00e9e de Sarah, n\u00e9e compl\u00e9tement sourde, va representer un d\u00e9fi pour le jeune professeur. Vite amoureux d'elle, il va d\u00e9couvrir une femme qui refuse tout compromis.",
+            "popularity": 1.1449,
+            "poster_path": "/jJoAWtK0IiEC39iosjL5YZg43Dw.jpg",
+            "release_date": "1986-09-13",
+            "title": "Les Enfants du silence",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 334,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 84,
+            "tagline": "L'amour a son propre langage."
         },
         {
             "adult": false,
@@ -144,7 +188,7 @@
             "popularity": 12.9308,
             "poster_path": "/uafMg29wVV4XvxPS59s8nBBbP4i.jpg",
             "release_date": "1986-07-18",
-            "title": "Aliens",
+            "title": "Aliens, le retour",
             "video": false,
             "vote_average": 7.956,
             "vote_count": 10520,
@@ -179,135 +223,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/ejnFWUUTYbeQ70WqYFsx8iaDadW.jpg",
-            "id": 10002,
-            "original_language": "en",
-            "original_title": "Mona Lisa",
-            "overview": "Un truand sert de chauffeur \u00e0 une ravissante noire qui se prostitue dans des h\u00f4tels de luxe. Ce truand est un sentimental, qui d\u00e9panne ainsi un patron-ami, mafieu de haute voltige. Ses maladresses attendrissantes vont l'exposer \u00e0 des dangers qui le sont beaucoup moins.",
-            "popularity": 3.1084,
-            "poster_path": "/eruv6oUbndbevNcmFZjdsMfSac3.jpg",
-            "release_date": "1986-06-13",
-            "title": "Mona Lisa",
-            "video": false,
-            "vote_average": 6.9,
-            "vote_count": 282,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Romance",
-                "Thriller"
-            ],
-            "runtime": 105,
-            "tagline": "Parfois, l\u2019amour est un jeu \u00e9trange et m\u00e9chant."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/nxxdhhcKreBWItIzN2MQohoIeCY.jpg",
-            "id": 14670,
-            "original_language": "en",
-            "original_title": "'Round Midnight",
-            "overview": "Une passion d\u00e9vorante\u00a0: C'est ce que repr\u00e9sente le jazz pour Francis. Une passion que Sylvie, son ex-compagne, n'a jamais partag\u00e9e. En cette fin des ann\u00e9es 50, apr\u00e8s une longue \u00e9clipse, son saxophoniste pr\u00e9f\u00e9r\u00e9, Dale Turner, revient jouer \u00e0 Paris au Blue Note. Pour l'\u00e9couter, Francis, d\u00e9sargent\u00e9, n'a d'autre ressource que d'aller chaque soir coller son oreille au soupirail du club, quitte \u00e0 d\u00e9laisser son travail de dessinateur et surtout sa fille, B\u00e9rang\u00e8re. Si Dale poss\u00e8de encore un son merveilleux, c'est un homme us\u00e9, las, guettant la moindre occasion de s'imbiber d'alcool\u2026",
-            "popularity": 1.7112,
-            "poster_path": "/25AMFhwHF1vA6HcshtKdc3XsPiz.jpg",
-            "release_date": "1986-09-23",
-            "title": "'Round Midnight",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 102,
-            "genres": [
-                "Drame",
-                "Musique"
-            ],
-            "runtime": 126,
-            "tagline": "La musique et la magie se rencontrent\u2026"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
-            "id": 9426,
-            "original_language": "en",
-            "original_title": "The Fly",
-            "overview": "Seth Brundle est un jeune biologiste tr\u00e8s dou\u00e9. Apr\u00e8s avoir fait ses premi\u00e8res armes dans une brillante \u00e9quipe, il se d\u00e9cide \u00e0 travailler seul. Il met au point une invention qui doit r\u00e9volutionner le monde : la \"t\u00e9l\u00e9portation\" qui consiste \u00e0 transporter la mati\u00e8re \u00e0 travers l'espace. Les essais sur un babouin sont peu convaincants et apr\u00e8s des fuites dans la presse, il d\u00e9cide de se t\u00e9l\u00e9porter lui-m\u00eame. Seulement il ne s'apercoit pas qu'une mouche fait partie du voyage.",
-            "popularity": 5.1774,
-            "poster_path": "/3fJYY3dEbIT9D7DMnUUkeKk1hMA.jpg",
-            "release_date": "1986-08-15",
-            "title": "The Fly",
-            "video": false,
-            "vote_average": 7.425,
-            "vote_count": 4790,
-            "genres": [
-                "Horreur",
-                "Science-Fiction"
-            ],
-            "runtime": 96,
-            "tagline": "Ayez peur. Tr\u00e8s peur."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
-            "id": 6106,
-            "original_language": "en",
-            "original_title": "Salvador",
-            "overview": "Le journaliste Richard Boyle est accabl\u00e9 de probl\u00e8mes priv\u00e9s et professionnels. Il s'exile alors en R\u00e9publique du Salvador avec son ami Rock Dock o\u00f9 ils cherchent un scoop dans un pays en pleine guerre civile. Il y retrouve Maria, une femme qu'il a aim\u00e9 et d\u00e9couvre les horreurs du conflit m\u00e9connu du reste du monde.",
-            "popularity": 2.1961,
-            "poster_path": "/jmR7QHl7Ye6emKJpTzDkySmMvae.jpg",
-            "release_date": "1986-04-23",
-            "title": "Salvador",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 390,
-            "genres": [
-                "Drame",
-                "Thriller",
-                "Guerre"
-            ],
-            "runtime": 123,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/eU5fW21apU2CJYlmzJHoWo09GmE.jpg",
-            "id": 10776,
-            "original_language": "en",
-            "original_title": "Little Shop of Horrors",
-            "overview": "Dans le quartier le plus miteux de New York, Skid Row, se trouve une modeste boutique de fleurs. Les affaires vont mal et Mr. Mushnik, la mort dans l'\u00e2me, d\u00e9cide de fermer son magasin. C'est alors que Seymour, son employ\u00e9, met en vitrine une fleur exotique achet\u00e9e \u00e0 un fleuriste chinois.",
-            "popularity": 3.3401,
-            "poster_path": "/A1Rid7O0ucoT4g5yeFBF3ydiuSj.jpg",
-            "release_date": "1986-12-19",
-            "title": "Little Shop of Horrors",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 1574,
-            "genres": [
-                "Horreur",
-                "Com\u00e9die"
-            ],
-            "runtime": 94,
-            "tagline": "Une com\u00e9die musicale d\u00e9lirantissime !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/n7mI520idCPHVsqTljNDNtNiCL9.jpg",
-            "id": 48259,
-            "original_language": "en",
-            "original_title": "Crimes of the Heart",
-            "overview": "Trois soeurs s'\u00e9tant perdues de vue se retrouvent apr\u00e8s que l'une d'elle Bale eut tent\u00e9 d'assassiner son mari qu'elle ne supportait plus. Entre Meg, Bale et Lenny, la complicit\u00e9 de l'enfance va rena\u00eetre. Les soeurs Magrath ont eu une enfance difficile entre un p\u00e8re coureur de jupons et une m\u00e8re d\u00e9pressive qui finalement se suicida en entra\u00eenant son chat dans la mort.",
-            "popularity": 2.3569,
-            "poster_path": "/yet0Ww2A7f5qT7MisDuIBSXdV3r.jpg",
-            "release_date": "1986-12-12",
-            "title": "Crimes of the Heart",
-            "video": false,
-            "vote_average": 6.0,
-            "vote_count": 67,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 105,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/xCtyGEn5VGMKV7S9xRbQJyojgYf.jpg",
             "id": 10013,
             "original_language": "en",
@@ -316,7 +231,7 @@
             "popularity": 1.7541,
             "poster_path": "/fiwDDbD4YAlbEY0d9OJKOuG1Uh3.jpg",
             "release_date": "1986-10-10",
-            "title": "Peggy Sue Got Married",
+            "title": "Peggy Sue s'est mari\u00e9e",
             "video": false,
             "vote_average": 6.119,
             "vote_count": 632,
@@ -330,46 +245,24 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/pLdutWHlPIHf7ldH31akiVLUHQQ.jpg",
-            "id": 14924,
+            "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+            "id": 9426,
             "original_language": "en",
-            "original_title": "Sid and Nancy",
-            "overview": "En janvier 1978, apr\u00e8s leur succ\u00e8s en Angleterre, le groupe punk rock Sex Pistols se lance dans une tourn\u00e9e dans le sud des \u00c9tats-Unis. Le bassiste capricieux Sid Vicious est contraint par ses camarades et son manager de voyager sans sa petite amie \u00e0 probl\u00e8mes, Nancy Spungen, qui doit le rejoindre \u00e0 New York. Lorsque le groupe se dissout et que Sid entame une carri\u00e8re solo dans une ville hostile, le couple turbulent tombe pour de bon dans les profondeurs de la toxicomanie, un dernier voyage sans retour.",
-            "popularity": 1.8069,
-            "poster_path": "/aAkEkkPygaKZqpFIDILSiqhhtk.jpg",
-            "release_date": "1986-09-12",
-            "title": "Sid and Nancy",
+            "original_title": "The Fly",
+            "overview": "Seth Brundle est un jeune biologiste tr\u00e8s dou\u00e9. Apr\u00e8s avoir fait ses premi\u00e8res armes dans une brillante \u00e9quipe, il se d\u00e9cide \u00e0 travailler seul. Il met au point une invention qui doit r\u00e9volutionner le monde : la \"t\u00e9l\u00e9portation\" qui consiste \u00e0 transporter la mati\u00e8re \u00e0 travers l'espace. Les essais sur un babouin sont peu convaincants et apr\u00e8s des fuites dans la presse, il d\u00e9cide de se t\u00e9l\u00e9porter lui-m\u00eame. Seulement il ne s'apercoit pas qu'une mouche fait partie du voyage.",
+            "popularity": 5.1774,
+            "poster_path": "/3fJYY3dEbIT9D7DMnUUkeKk1hMA.jpg",
+            "release_date": "1986-08-15",
+            "title": "La Mouche",
             "video": false,
-            "vote_average": 6.734,
-            "vote_count": 543,
+            "vote_average": 7.425,
+            "vote_count": 4790,
             "genres": [
-                "Drame",
-                "Romance"
+                "Horreur",
+                "Science-Fiction"
             ],
-            "runtime": 114,
-            "tagline": "L'amour tue."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/b3J5vJWbyfbjPtgWKfCJYQ8kves.jpg",
-            "id": 11300,
-            "original_language": "en",
-            "original_title": "Something Wild",
-            "overview": "Charles, un bourgeois bien sous tous rapports, \u00e0 l'existence tranquille, voit sa vie boulevers\u00e9e par l'arriv\u00e9e dans sa voiture de la sexy Audrey Hankel. Tous deux s'offrent le temps d'un week-end une fugue pleine de p\u00e9rip\u00e9ties. Cette escapade prendra toutefois une tournure dangereuse avec la rencontre de Ray Sinclair, l'ancien mari d'Audrey.",
-            "popularity": 0.9521,
-            "poster_path": "/kxnux2F8zmcnGcEchOrksrHFCoo.jpg",
-            "release_date": "1986-11-07",
-            "title": "Something Wild",
-            "video": false,
-            "vote_average": 6.6,
-            "vote_count": 374,
-            "genres": [
-                "Crime",
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 113,
-            "tagline": "Quelque chose de diff\u00e9rent. Quelque chose d'audacieux. Quelque chose de dangereux."
+            "runtime": 96,
+            "tagline": "Ayez peur. Tr\u00e8s peur."
         },
         {
             "adult": false,
@@ -403,7 +296,7 @@
             "popularity": 2.8862,
             "poster_path": "/c1feYVjxUb8QGdVxsmt7Q2FIzc.jpg",
             "release_date": "1986-11-26",
-            "title": "Star Trek IV: The Voyage Home",
+            "title": "Star Trek IV : Retour sur Terre",
             "video": false,
             "vote_average": 7.17,
             "vote_count": 1588,
@@ -416,6 +309,92 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+            "id": 6106,
+            "original_language": "en",
+            "original_title": "Salvador",
+            "overview": "Le journaliste Richard Boyle est accabl\u00e9 de probl\u00e8mes priv\u00e9s et professionnels. Il s'exile alors en R\u00e9publique du Salvador avec son ami Rock Dock o\u00f9 ils cherchent un scoop dans un pays en pleine guerre civile. Il y retrouve Maria, une femme qu'il a aim\u00e9 et d\u00e9couvre les horreurs du conflit m\u00e9connu du reste du monde.",
+            "popularity": 2.1961,
+            "poster_path": "/jmR7QHl7Ye6emKJpTzDkySmMvae.jpg",
+            "release_date": "1986-04-23",
+            "title": "Salvador",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 390,
+            "genres": [
+                "Drame",
+                "Thriller",
+                "Guerre"
+            ],
+            "runtime": 123,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n7mI520idCPHVsqTljNDNtNiCL9.jpg",
+            "id": 48259,
+            "original_language": "en",
+            "original_title": "Crimes of the Heart",
+            "overview": "Trois soeurs s'\u00e9tant perdues de vue se retrouvent apr\u00e8s que l'une d'elle Bale eut tent\u00e9 d'assassiner son mari qu'elle ne supportait plus. Entre Meg, Bale et Lenny, la complicit\u00e9 de l'enfance va rena\u00eetre. Les soeurs Magrath ont eu une enfance difficile entre un p\u00e8re coureur de jupons et une m\u00e8re d\u00e9pressive qui finalement se suicida en entra\u00eenant son chat dans la mort.",
+            "popularity": 2.3569,
+            "poster_path": "/yet0Ww2A7f5qT7MisDuIBSXdV3r.jpg",
+            "release_date": "1986-12-12",
+            "title": "Crimes du c\u0153ur",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 67,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "runtime": 105,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eU5fW21apU2CJYlmzJHoWo09GmE.jpg",
+            "id": 10776,
+            "original_language": "en",
+            "original_title": "Little Shop of Horrors",
+            "overview": "Dans le quartier le plus miteux de New York, Skid Row, se trouve une modeste boutique de fleurs. Les affaires vont mal et Mr. Mushnik, la mort dans l'\u00e2me, d\u00e9cide de fermer son magasin. C'est alors que Seymour, son employ\u00e9, met en vitrine une fleur exotique achet\u00e9e \u00e0 un fleuriste chinois.",
+            "popularity": 3.3401,
+            "poster_path": "/A1Rid7O0ucoT4g5yeFBF3ydiuSj.jpg",
+            "release_date": "1986-12-19",
+            "title": "La Petite Boutique des horreurs",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1574,
+            "genres": [
+                "Horreur",
+                "Com\u00e9die"
+            ],
+            "runtime": 94,
+            "tagline": "Une com\u00e9die musicale d\u00e9lirantissime !"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b3J5vJWbyfbjPtgWKfCJYQ8kves.jpg",
+            "id": 11300,
+            "original_language": "en",
+            "original_title": "Something Wild",
+            "overview": "Charles, un bourgeois bien sous tous rapports, \u00e0 l'existence tranquille, voit sa vie boulevers\u00e9e par l'arriv\u00e9e dans sa voiture de la sexy Audrey Hankel. Tous deux s'offrent le temps d'un week-end une fugue pleine de p\u00e9rip\u00e9ties. Cette escapade prendra toutefois une tournure dangereuse avec la rencontre de Ray Sinclair, l'ancien mari d'Audrey.",
+            "popularity": 0.9521,
+            "poster_path": "/kxnux2F8zmcnGcEchOrksrHFCoo.jpg",
+            "release_date": "1986-11-07",
+            "title": "Dangereuse sous tous rapports",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 374,
+            "genres": [
+                "Crime",
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "runtime": 113,
+            "tagline": "Quelque chose de diff\u00e9rent. Quelque chose d'audacieux. Quelque chose de dangereux."
+        },
+        {
+            "adult": false,
             "backdrop_path": "/g6VLgLRtdY334NO0VWlIo1Wckw8.jpg",
             "id": 9941,
             "original_language": "en",
@@ -424,7 +403,7 @@
             "popularity": 0.6896,
             "poster_path": "/89reGLYLj1eVI8fjI3umZCrdyeN.jpg",
             "release_date": "1986-01-31",
-            "title": "Down and Out in Beverly Hills",
+            "title": "Le Clochard de Beverly Hills",
             "video": false,
             "vote_average": 5.896,
             "vote_count": 270,
@@ -433,6 +412,27 @@
             ],
             "runtime": 103,
             "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pLdutWHlPIHf7ldH31akiVLUHQQ.jpg",
+            "id": 14924,
+            "original_language": "en",
+            "original_title": "Sid and Nancy",
+            "overview": "En janvier 1978, apr\u00e8s leur succ\u00e8s en Angleterre, le groupe punk rock Sex Pistols se lance dans une tourn\u00e9e dans le sud des \u00c9tats-Unis. Le bassiste capricieux Sid Vicious est contraint par ses camarades et son manager de voyager sans sa petite amie \u00e0 probl\u00e8mes, Nancy Spungen, qui doit le rejoindre \u00e0 New York. Lorsque le groupe se dissout et que Sid entame une carri\u00e8re solo dans une ville hostile, le couple turbulent tombe pour de bon dans les profondeurs de la toxicomanie, un dernier voyage sans retour.",
+            "popularity": 1.8069,
+            "poster_path": "/aAkEkkPygaKZqpFIDILSiqhhtk.jpg",
+            "release_date": "1986-09-12",
+            "title": "Sid and Nancy",
+            "video": false,
+            "vote_average": 6.734,
+            "vote_count": 543,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "runtime": 114,
+            "tagline": "L'amour tue."
         },
         {
             "adult": false,
@@ -457,50 +457,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/pLuVm0Y37m2uuztLoaQbfimipqN.jpg",
-            "id": 12151,
-            "original_language": "en",
-            "original_title": "Ruthless People",
-            "overview": "Apprenant que sa femme Barbara, une riche h\u00e9riti\u00e8re, a \u00e9t\u00e9 kidnapp\u00e9e, Sam Stone n'envisage pas de payer la ran\u00e7on.",
-            "popularity": 1.0656,
-            "poster_path": "/watUBf7BMsZhGLA25H40sqyGOC5.jpg",
-            "release_date": "1986-06-26",
-            "title": "Ruthless People",
-            "video": false,
-            "vote_average": 6.61,
-            "vote_count": 427,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 93,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
-            "id": 10340,
-            "original_language": "en",
-            "original_title": "Lady and the Tramp",
-            "overview": "Laissez-vous charmer par ce film classique de Walt Disney racontant les aventures palpitantes de Lady, une jolie chienne cocker spaniel, et de Clochard, un chien de la rue au grand c\u0153ur. Petits et grands s'enthousiasmeront pour la qualit\u00e9 de l'animation, les inoubliables chansons et une des plus belles histoires d'amour qui soit.",
-            "popularity": 6.003,
-            "poster_path": "/2NSswcmFR0SAZInJnniq1elmUdm.jpg",
-            "release_date": "1955-06-22",
-            "title": "Lady and the Tramp",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 5522,
-            "genres": [
-                "Familial",
-                "Animation",
-                "Romance",
-                "Aventure",
-                "Com\u00e9die"
-            ],
-            "runtime": 75,
-            "tagline": "La plus d\u00e9licieuse \u00ab\u00a0Love Story\u00a0\u00bb."
-        },
-        {
-            "adult": false,
             "backdrop_path": "/xdxfsLnbLp4B7dZh9GVKZc78VFj.jpg",
             "id": 11416,
             "original_language": "en",
@@ -509,7 +465,7 @@
             "popularity": 2.2719,
             "poster_path": "/zhdScR8RXdv1zFiZTbrDA0yTfPg.jpg",
             "release_date": "1986-09-06",
-            "title": "The Mission",
+            "title": "Mission",
             "video": false,
             "vote_average": 7.394,
             "vote_count": 1490,
@@ -521,6 +477,28 @@
             ],
             "runtime": 125,
             "tagline": "L'un aura confiance dans le pouvoir de la pri\u00e8re. L'autre croira \u00e0 la puissance de l\u2019\u00e9p\u00e9e."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMH0vpz9s0GfA4rnl7k1x3nyRdl.jpg",
+            "id": 29968,
+            "original_language": "en",
+            "original_title": "Nothing in Common",
+            "overview": "Jeune et brillant publicitaire, David Basner apprend avec stuppeur, \u00e0 la veille de signer un contrat important, que ses parents s'appr\u00e8tent \u00e0 divorcer apr\u00e8s 34 ans de mariage. Il se trouve soudain dans l'obligation de les materner et d'arbitrer leurs conflits. A ces probl\u00e8mes familiaux, s'ajoutent bientot des complications sentimentales, et David se sent partag\u00e9 entre son devoir filial et sa soif de r\u00e9ussite...",
+            "popularity": 5.8695,
+            "poster_path": "/7MzReoFHxV4rl3lxqHBpf2MsXN1.jpg",
+            "release_date": "1986-07-29",
+            "title": "Rien en commun",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 131,
+            "genres": [
+                "Drame",
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "runtime": 118,
+            "tagline": ""
         },
         {
             "adult": false,
@@ -546,66 +524,27 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
-            "id": 27995,
+            "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+            "id": 10340,
             "original_language": "en",
-            "original_title": "She's Gotta Have It",
-            "overview": "Nola Darling a trois amants, Mars Blackmon, cycliste dont l'ambition est de faire rire Nola; Greer Childs, tombeur professionnel, et Jamie Overstreeet, le plus raisonnable des trois, offrant amour et securite, mais sans partage, en particulier avec Opas, la copine lesbienne de Nola qui ne desespere pas de lui faire gouter d'autres plaisirs. Comme tous pretendent a l'exclusivite, Nola les convoque a un diner! Spike Lee, producteur, metteur en scene, scenariste, acteur et monteur a connu a la sortie de son film a New York un enorme succes.",
-            "popularity": 0.7806,
-            "poster_path": "/vtonnEuvA7v6IE1Plcd0H6uSksQ.jpg",
-            "release_date": "1986-08-08",
-            "title": "She's Gotta Have It",
+            "original_title": "Lady and the Tramp",
+            "overview": "Laissez-vous charmer par ce film classique de Walt Disney racontant les aventures palpitantes de Lady, une jolie chienne cocker spaniel, et de Clochard, un chien de la rue au grand c\u0153ur. Petits et grands s'enthousiasmeront pour la qualit\u00e9 de l'animation, les inoubliables chansons et une des plus belles histoires d'amour qui soit.",
+            "popularity": 6.003,
+            "poster_path": "/2NSswcmFR0SAZInJnniq1elmUdm.jpg",
+            "release_date": "1955-06-22",
+            "title": "La Belle et le Clochard",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 347,
+            "vote_average": 7.1,
+            "vote_count": 5522,
             "genres": [
-                "Com\u00e9die",
-                "Romance"
+                "Familial",
+                "Animation",
+                "Romance",
+                "Aventure",
+                "Com\u00e9die"
             ],
-            "runtime": 84,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tMH0vpz9s0GfA4rnl7k1x3nyRdl.jpg",
-            "id": 29968,
-            "original_language": "en",
-            "original_title": "Nothing in Common",
-            "overview": "Jeune et brillant publicitaire, David Basner apprend avec stuppeur, \u00e0 la veille de signer un contrat important, que ses parents s'appr\u00e8tent \u00e0 divorcer apr\u00e8s 34 ans de mariage. Il se trouve soudain dans l'obligation de les materner et d'arbitrer leurs conflits. A ces probl\u00e8mes familiaux, s'ajoutent bientot des complications sentimentales, et David se sent partag\u00e9 entre son devoir filial et sa soif de r\u00e9ussite...",
-            "popularity": 5.8695,
-            "poster_path": "/7MzReoFHxV4rl3lxqHBpf2MsXN1.jpg",
-            "release_date": "1986-07-29",
-            "title": "Nothing in Common",
-            "video": false,
-            "vote_average": 5.8,
-            "vote_count": 131,
-            "genres": [
-                "Drame",
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 118,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
-            "id": 24657,
-            "original_language": "sv",
-            "original_title": "Offret",
-            "overview": "Sur une \u00eele su\u00e9doise, Alexander, lettr\u00e9 \u00e0 la retraite, vit retir\u00e9 avec son \u00e9pouse anglaise et un enfant que tous appellent Petit Gar\u00e7on. A l\u2019occasion de son anniversaire, sa fille, un ami de la famille et Otto, le facteur de l\u2019\u00eele les retrouvent dans la spacieuse demeure du couple. Ce jour-l\u00e0, une guerre mondiale \u00e9clate, plongeant ce petit groupe dans la panique. Alexander apprend d\u2019Otto, un ancien instituteur qui ne livre d\u00e9sormais le courrier que pour financer ses recherches sur le paranormal, qu\u2019il y a sur l\u2019\u00eele une sorci\u00e8re, \u00e0 m\u00eame de r\u00e9aliser les d\u00e9sirs purs de chacun. Si Alexander, au fond de lui, vraiment, veut la paix, il l\u2019obtiendra pour le monde entier. Cette sorci\u00e8re n\u2019est autre que Maria, la bonne de cette famille bourgeoise.",
-            "popularity": 1.658,
-            "poster_path": "/eIfkxRzvpTUSmfgsLI3dlx7HMu6.jpg",
-            "release_date": "1986-05-09",
-            "title": "The Sacrifice",
-            "video": false,
-            "vote_average": 7.691,
-            "vote_count": 589,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 149,
-            "tagline": ""
+            "runtime": 75,
+            "tagline": "La plus d\u00e9licieuse \u00ab\u00a0Love Story\u00a0\u00bb."
         },
         {
             "adult": false,
@@ -629,6 +568,47 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
+            "id": 27995,
+            "original_language": "en",
+            "original_title": "She's Gotta Have It",
+            "overview": "Nola Darling a trois amants, Mars Blackmon, cycliste dont l'ambition est de faire rire Nola; Greer Childs, tombeur professionnel, et Jamie Overstreeet, le plus raisonnable des trois, offrant amour et securite, mais sans partage, en particulier avec Opas, la copine lesbienne de Nola qui ne desespere pas de lui faire gouter d'autres plaisirs. Comme tous pretendent a l'exclusivite, Nola les convoque a un diner! Spike Lee, producteur, metteur en scene, scenariste, acteur et monteur a connu a la sortie de son film a New York un enorme succes.",
+            "popularity": 0.7806,
+            "poster_path": "/vtonnEuvA7v6IE1Plcd0H6uSksQ.jpg",
+            "release_date": "1986-08-08",
+            "title": "Nola Darling n'en fait qu'\u00e0 sa t\u00eate",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 347,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "runtime": 84,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48y1eAboPFgt7rKcynRAPPvtJ1E.jpg",
+            "id": 24657,
+            "original_language": "sv",
+            "original_title": "Offret",
+            "overview": "Sur une \u00eele su\u00e9doise, Alexander, lettr\u00e9 \u00e0 la retraite, vit retir\u00e9 avec son \u00e9pouse anglaise et un enfant que tous appellent Petit Gar\u00e7on. A l\u2019occasion de son anniversaire, sa fille, un ami de la famille et Otto, le facteur de l\u2019\u00eele les retrouvent dans la spacieuse demeure du couple. Ce jour-l\u00e0, une guerre mondiale \u00e9clate, plongeant ce petit groupe dans la panique. Alexander apprend d\u2019Otto, un ancien instituteur qui ne livre d\u00e9sormais le courrier que pour financer ses recherches sur le paranormal, qu\u2019il y a sur l\u2019\u00eele une sorci\u00e8re, \u00e0 m\u00eame de r\u00e9aliser les d\u00e9sirs purs de chacun. Si Alexander, au fond de lui, vraiment, veut la paix, il l\u2019obtiendra pour le monde entier. Cette sorci\u00e8re n\u2019est autre que Maria, la bonne de cette famille bourgeoise.",
+            "popularity": 1.658,
+            "poster_path": "/eIfkxRzvpTUSmfgsLI3dlx7HMu6.jpg",
+            "release_date": "1986-05-09",
+            "title": "Le Sacrifice",
+            "video": false,
+            "vote_average": 7.691,
+            "vote_count": 589,
+            "genres": [
+                "Drame"
+            ],
+            "runtime": 149,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
             "id": 24798,
             "original_language": "en",
@@ -646,6 +626,26 @@
                 "Musique"
             ],
             "runtime": 89,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pLuVm0Y37m2uuztLoaQbfimipqN.jpg",
+            "id": 12151,
+            "original_language": "en",
+            "original_title": "Ruthless People",
+            "overview": "Apprenant que sa femme Barbara, une riche h\u00e9riti\u00e8re, a \u00e9t\u00e9 kidnapp\u00e9e, Sam Stone n'envisage pas de payer la ran\u00e7on.",
+            "popularity": 1.0656,
+            "poster_path": "/watUBf7BMsZhGLA25H40sqyGOC5.jpg",
+            "release_date": "1986-06-26",
+            "title": "Y a-t-il quelqu'un pour tuer ma femme ?",
+            "video": false,
+            "vote_average": 6.61,
+            "vote_count": 427,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "runtime": 93,
             "tagline": ""
         },
         {
@@ -672,26 +672,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/ce8iO3sSv4CCoesn3uiSQXofkbM.jpg",
-            "id": 41480,
-            "original_language": "en",
-            "original_title": "Sherman's March",
-            "overview": "",
-            "popularity": 0.188,
-            "poster_path": "/55YscDYNXdffYwDGMrpveqnsa9d.jpg",
-            "release_date": "1985-11-13",
-            "title": "Sherman's March",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 37,
-            "genres": [
-                "Documentaire"
-            ],
-            "runtime": 158,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/nK9Sx8Ya8SzMi3Ag14MvAkMwehe.jpg",
             "id": 123056,
             "original_language": "en",
@@ -713,22 +693,24 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/nKqPwRYh5muLul3cN6zni0fJs11.jpg",
-            "id": 20561,
+            "backdrop_path": "/uHhvKpVXFjOUTdTdLBGsiHMrZL8.jpg",
+            "id": 31694,
             "original_language": "en",
-            "original_title": "28 Up",
-            "overview": "",
-            "popularity": 1.2778,
-            "poster_path": "/jqwouPCwQF9UTl8GjIBjbLivmdw.jpg",
-            "release_date": "1984-11-20",
-            "title": "28 Up",
+            "original_title": "Trouble in Mind",
+            "overview": "La vie d'un ex-con, propri\u00e9taire du caf\u00e9-boutique, et un jeune couple qui cherchent \u00e0 le rendre riche se croisent dans la ville de pluie fictive et hypnotique.",
+            "popularity": 0.3208,
+            "poster_path": "/kkWqMOF7ZjLnuvc8eg1OTuFOik1.jpg",
+            "release_date": "1985-12-11",
+            "title": "Wanda's Caf\u00e9",
             "video": false,
-            "vote_average": 7.473,
-            "vote_count": 73,
+            "vote_average": 5.7,
+            "vote_count": 45,
             "genres": [
-                "Documentaire"
+                "Crime",
+                "Drame",
+                "Com\u00e9die"
             ],
-            "runtime": 136,
+            "runtime": 111,
             "tagline": ""
         },
         {
@@ -741,7 +723,7 @@
             "popularity": 3.6057,
             "poster_path": "/crjonpNXFcPpnEtQqrXVNtrvDXE.jpg",
             "release_date": "1985-08-09",
-            "title": "Summer Rental",
+            "title": "Vacances d'enfer",
             "video": false,
             "vote_average": 6.1,
             "vote_count": 224,
@@ -753,6 +735,26 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/ce8iO3sSv4CCoesn3uiSQXofkbM.jpg",
+            "id": 41480,
+            "original_language": "en",
+            "original_title": "Sherman's March",
+            "overview": "",
+            "popularity": 0.188,
+            "poster_path": "/55YscDYNXdffYwDGMrpveqnsa9d.jpg",
+            "release_date": "1985-11-13",
+            "title": "Sherman's March",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 37,
+            "genres": [
+                "Documentaire"
+            ],
+            "runtime": 158,
+            "tagline": ""
+        },
+        {
+            "adult": false,
             "backdrop_path": "/9tQZwA2yidynkdgYdlnNzf3FylD.jpg",
             "id": 11120,
             "original_language": "en",
@@ -761,7 +763,7 @@
             "popularity": 1.4188,
             "poster_path": "/23j2Ed1LtemZ0PmOWQu9NRYdQJ5.jpg",
             "release_date": "1986-11-26",
-            "title": "The Mosquito Coast",
+            "title": "Mosquito Coast",
             "video": false,
             "vote_average": 6.4,
             "vote_count": 498,
@@ -771,28 +773,6 @@
             ],
             "runtime": 118,
             "tagline": "Il est all\u00e9 trop loin."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/uHhvKpVXFjOUTdTdLBGsiHMrZL8.jpg",
-            "id": 31694,
-            "original_language": "en",
-            "original_title": "Trouble in Mind",
-            "overview": "La vie d'un ex-con, propri\u00e9taire du caf\u00e9-boutique, et un jeune couple qui cherchent \u00e0 le rendre riche se croisent dans la ville de pluie fictive et hypnotique.",
-            "popularity": 0.3208,
-            "poster_path": "/kkWqMOF7ZjLnuvc8eg1OTuFOik1.jpg",
-            "release_date": "1985-12-11",
-            "title": "Trouble in Mind",
-            "video": false,
-            "vote_average": 5.7,
-            "vote_count": 45,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 111,
-            "tagline": ""
         },
         {
             "adult": false,
@@ -826,7 +806,7 @@
             "popularity": 2.884,
             "poster_path": "/mPhM6HrhZ8QjE5XjTFaTIr8P2b.jpg",
             "release_date": "1986-11-14",
-            "title": "Hoosiers",
+            "title": "Le Grand D\u00e9fi",
             "video": false,
             "vote_average": 7.032,
             "vote_count": 566,
@@ -836,6 +816,26 @@
             ],
             "runtime": 115,
             "tagline": "Gagner n'est pas tout\u2026 c'est la seule chose."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nKqPwRYh5muLul3cN6zni0fJs11.jpg",
+            "id": 20561,
+            "original_language": "en",
+            "original_title": "28 Up",
+            "overview": "",
+            "popularity": 1.2778,
+            "poster_path": "/jqwouPCwQF9UTl8GjIBjbLivmdw.jpg",
+            "release_date": "1984-11-20",
+            "title": "28 Up",
+            "video": false,
+            "vote_average": 7.473,
+            "vote_count": 73,
+            "genres": [
+                "Documentaire"
+            ],
+            "runtime": 136,
+            "tagline": ""
         },
         {
             "adult": false,
@@ -859,27 +859,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/yItBvynVmSCTvAkzAm5PllP4oth.jpg",
-            "id": 18499,
-            "original_language": "fr",
-            "original_title": "Le D\u00e9clin de l'empire am\u00e9ricain",
-            "overview": "Tandis que R\u00e9my, Pierre, Claude et Alain, professeurs \u00e0 la facult\u00e9 d'histoire, pr\u00e9parent un d\u00eener de gourmets, leurs compagnes, Dominique, Louise, Diane et Danielle, s'entra\u00eenent dans un club de musculation esth\u00e9tique. Les hommes discutent des femmes, les femmes discutent des hommes. De ces deux conversations jaillissent le mensonge d'une \u00e9poque et la volont\u00e9 pour chaque protagoniste d'un bonheur individuel sans arr\u00eat bafou\u00e9.",
-            "popularity": 0.3392,
-            "poster_path": "/yiB0npZSO1MZ6UwAVKOgOuJEyYt.jpg",
-            "release_date": "1986-06-19",
-            "title": "The Decline of the American Empire",
-            "video": false,
-            "vote_average": 6.687,
-            "vote_count": 166,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 102,
-            "tagline": ""
-        },
-        {
-            "adult": false,
             "backdrop_path": "/8UqukRNZFNfJZE9WnG2J0IDy2Yi.jpg",
             "id": 18169,
             "original_language": "en",
@@ -888,7 +867,7 @@
             "popularity": 1.6108,
             "poster_path": "/bLXWcOc0fubECEFGTi4CDLXDt5r.jpg",
             "release_date": "1986-07-02",
-            "title": "About Last Night...",
+            "title": "\u00c0 propos d'hier soir",
             "video": false,
             "vote_average": 6.0,
             "vote_count": 228,
@@ -902,25 +881,24 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
-            "id": 11454,
-            "original_language": "en",
-            "original_title": "Manhunter",
-            "overview": "Will Graham est un des experts-l\u00e9gistes les plus habiles du F.B.I. Il excelle dans l'art de reconstituer \u00e0 partir d'\u00e9l\u00e9ments quasiment inexistants le profil d'un assassin. Mais son \"sixi\u00e8me sens\" lui a valu de fr\u00f4ler plusieurs fois la mort. Alors qu'il est retir\u00e9 depuis trois ans, un ancien coll\u00e8gue, Crawford, vient le relancer pour une affaire qui s'annonce complexe : deux paisibles familles de Birminghan et Atlanta ont \u00e9t\u00e9, \u00e0 un mois d'intervalle, sauvagement massacr\u00e9es par un \"tueur de la pleine lune\".",
-            "popularity": 0.1608,
-            "poster_path": "/veVPDIZ5cKDcxfeflSF0B3vD7qO.jpg",
-            "release_date": "1986-08-14",
-            "title": "Manhunter",
+            "backdrop_path": "/yItBvynVmSCTvAkzAm5PllP4oth.jpg",
+            "id": 18499,
+            "original_language": "fr",
+            "original_title": "Le D\u00e9clin de l'empire am\u00e9ricain",
+            "overview": "Tandis que R\u00e9my, Pierre, Claude et Alain, professeurs \u00e0 la facult\u00e9 d'histoire, pr\u00e9parent un d\u00eener de gourmets, leurs compagnes, Dominique, Louise, Diane et Danielle, s'entra\u00eenent dans un club de musculation esth\u00e9tique. Les hommes discutent des femmes, les femmes discutent des hommes. De ces deux conversations jaillissent le mensonge d'une \u00e9poque et la volont\u00e9 pour chaque protagoniste d'un bonheur individuel sans arr\u00eat bafou\u00e9.",
+            "popularity": 0.3392,
+            "poster_path": "/yiB0npZSO1MZ6UwAVKOgOuJEyYt.jpg",
+            "release_date": "1986-06-19",
+            "title": "Le D\u00e9clin de l'empire am\u00e9ricain",
             "video": false,
-            "vote_average": 7.018,
-            "vote_count": 1468,
+            "vote_average": 6.687,
+            "vote_count": 166,
             "genres": [
-                "Crime",
-                "Horreur",
-                "Thriller"
+                "Com\u00e9die",
+                "Drame"
             ],
-            "runtime": 118,
-            "tagline": "Il n'a qu'une obsession. Le retrouver. Il n'a qu'une crainte. Lui ressembler."
+            "runtime": 102,
+            "tagline": ""
         },
         {
             "adult": false,
@@ -932,7 +910,7 @@
             "popularity": 5.7706,
             "poster_path": "/uK8fRkPfQH3nLLOX5WVEA5E2HK.jpg",
             "release_date": "1986-06-11",
-            "title": "Ferris Bueller's Day Off",
+            "title": "La Folle Journ\u00e9e de Ferris Bueller",
             "video": false,
             "vote_average": 7.571,
             "vote_count": 5229,
@@ -941,26 +919,6 @@
             ],
             "runtime": 103,
             "tagline": "Quand certains craquent\u2026 d'autres s\u2019\u00e9clatent !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4oRTxCzg0tHY8bpjji0L40VpukM.jpg",
-            "id": 10146,
-            "original_language": "de",
-            "original_title": "M\u00e4nner",
-            "overview": "",
-            "popularity": 1.3318,
-            "poster_path": "/sa1soVzbCli6hBGKV7akETmWyHM.jpg",
-            "release_date": "1985-12-19",
-            "title": "Men...",
-            "video": false,
-            "vote_average": 6.069,
-            "vote_count": 29,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 95,
-            "tagline": ""
         },
         {
             "adult": false,
@@ -982,6 +940,48 @@
                 "Romance"
             ],
             "runtime": 108,
+            "tagline": ""
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+            "id": 11454,
+            "original_language": "en",
+            "original_title": "Manhunter",
+            "overview": "Will Graham est un des experts-l\u00e9gistes les plus habiles du F.B.I. Il excelle dans l'art de reconstituer \u00e0 partir d'\u00e9l\u00e9ments quasiment inexistants le profil d'un assassin. Mais son \"sixi\u00e8me sens\" lui a valu de fr\u00f4ler plusieurs fois la mort. Alors qu'il est retir\u00e9 depuis trois ans, un ancien coll\u00e8gue, Crawford, vient le relancer pour une affaire qui s'annonce complexe : deux paisibles familles de Birminghan et Atlanta ont \u00e9t\u00e9, \u00e0 un mois d'intervalle, sauvagement massacr\u00e9es par un \"tueur de la pleine lune\".",
+            "popularity": 0.1608,
+            "poster_path": "/veVPDIZ5cKDcxfeflSF0B3vD7qO.jpg",
+            "release_date": "1986-08-14",
+            "title": "Le Sixi\u00e8me Sens",
+            "video": false,
+            "vote_average": 7.018,
+            "vote_count": 1468,
+            "genres": [
+                "Crime",
+                "Horreur",
+                "Thriller"
+            ],
+            "runtime": 118,
+            "tagline": "Il n'a qu'une obsession. Le retrouver. Il n'a qu'une crainte. Lui ressembler."
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4oRTxCzg0tHY8bpjji0L40VpukM.jpg",
+            "id": 10146,
+            "original_language": "de",
+            "original_title": "M\u00e4nner",
+            "overview": "",
+            "popularity": 1.3318,
+            "poster_path": "/sa1soVzbCli6hBGKV7akETmWyHM.jpg",
+            "release_date": "1985-12-19",
+            "title": "M\u00e4nner",
+            "video": false,
+            "vote_average": 6.069,
+            "vote_count": 29,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "runtime": 95,
             "tagline": ""
         }
     ]
