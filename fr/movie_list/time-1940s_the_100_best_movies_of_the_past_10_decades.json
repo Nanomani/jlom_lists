@@ -4,7 +4,7 @@
     "source": "https://time.com/collection/100-best-movies/",
     "created_by": "lbnt",
     "added": "04/26/24",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
         {
@@ -14,7 +14,7 @@
             "original_language": "en",
             "original_title": "His Girl Friday",
             "overview": "Hildy Johnson quitte son \u00e9poux Walter Burns, le sarcastique r\u00e9dacteur en chef du journal dans lequel elle officie en tant que reporter. Fatigu\u00e9e par l\u2019atmosph\u00e8re \u00e9lectrique de la r\u00e9daction, elle songe \u00e0 se remarier avec Bruce Baldwin, un banal assureur et \u00e0 mener une vie plus paisible. Walter, qui conna\u00eet la passion de sa femme pour son m\u00e9tier de journaliste, a l\u2019id\u00e9e farfelue de la reconqu\u00e9rir en l\u2019envoyant interviewer et couvrir les derni\u00e8res heures d\u2019un condamn\u00e9 \u00e0 mort.",
-            "popularity": 1.494,
+            "popularity": 1.3699,
             "poster_path": "/rF7zYsS6dnoRRONU4FhvtMeYC2a.jpg",
             "release_date": "1940-01-18",
             "title": "La Dame du vendredi",
@@ -25,49 +25,29 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 92,
-            "tagline": "Elle a appris l'existence des hommes gr\u00e2ce \u00e0 lui !"
+            "tagline": "Elle a appris l'existence des hommes gr\u00e2ce \u00e0 lui !",
+            "runtime": 92
         },
         {
             "adult": false,
-            "backdrop_path": "/xLJCny81gf2E4Q6VhtuNhgKHbUi.jpg",
-            "id": 16391,
+            "backdrop_path": "/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
+            "id": 3086,
             "original_language": "en",
-            "original_title": "Black Narcissus",
-            "overview": "Sur les contreforts de l\u2019Himalaya, une congr\u00e9gation de nonnes s\u2019\u00e9tablit dans un ancien harem avec l\u2019intention de transformer le lieu en dispensaire. Dean, un agent anglais, est charg\u00e9 de les aider \u00e0 construire l\u2019\u00e9cole qui servira \u00e0 \u00e9duquer les enfants de la r\u00e9gion, mais il se heurte rapidement \u00e0 la s\u0153ur Clodagh qui trouve ses mani\u00e8res incorrectes. Au sein de la communaut\u00e9, la solitude p\u00e8se de plus en plus sur les c\u0153urs, et les tensions s\u2019exacerbent\u2026",
-            "popularity": 2.016,
-            "poster_path": "/8WcePSwkyU3Q2fhGNspvreddwuL.jpg",
-            "release_date": "1947-05-26",
-            "title": "Le Narcisse noir",
+            "original_title": "The Lady Eve",
+            "overview": "Sur un paquebot qui le ram\u00e8ne aux Etats-Unis, Charles Pike, fils d'un riche industriel, fait la connaissance de Jean Harrington et de son p\u00e8re, un arnaqueur professionnel. Jean tombe amoureuse de ce lord anglais riche et maladroit. Mais quand Charles apprend que la belle est une aventuri\u00e8re, il ne veut plus entendre parler d'elle. Jean r\u00e9appara\u00eet dans sa vie sous l'identit\u00e9 d'une aristocrate anglaise, lady Eve. Cette fois, Charles est sous le charme et finit par l'\u00e9pouser. Lors de la nuit de noces, elle lui r\u00e9cite la longue liste de ses conqu\u00eates. Horrifi\u00e9, Charles s'enfuit \u00e0 nouveau. Au cours d'une autre croisi\u00e8re, il retrouve la v\u00e9ritable Jean, qui continue de le tourmenter...",
+            "popularity": 0.9775,
+            "poster_path": "/b4j5p0aHlu0lJwjIXZ24IbeYKHz.jpg",
+            "release_date": "1941-02-25",
+            "title": "Un c\u0153ur pris au pi\u00e8ge",
             "video": false,
-            "vote_average": 7.496,
-            "vote_count": 530,
+            "vote_average": 7.231,
+            "vote_count": 379,
             "genres": [
-                "Drame"
+                "Com\u00e9die",
+                "Romance"
             ],
-            "runtime": 101,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
-            "id": 3309,
-            "original_language": "en",
-            "original_title": "Mildred Pierce",
-            "overview": "Mildred Pierce est une m\u00e8re de famille qui affronte les reproches de sa fille ain\u00e9e. Les go\u00fbts de luxe de cette derni\u00e8re poussent Mildred \u00e0 devenir serveuse, puis \u00e0 ouvrir un petit restaurant\u2026",
-            "popularity": 5.7177,
-            "poster_path": "/r2MPcf69lnG537NwcpzcPmhsHmc.jpg",
-            "release_date": "1945-10-20",
-            "title": "Le Roman de Mildred Pierce",
-            "video": false,
-            "vote_average": 7.616,
-            "vote_count": 432,
-            "genres": [
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 111,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -76,7 +56,7 @@
             "original_language": "en",
             "original_title": "The Magnificent Ambersons",
             "overview": "Eug\u00e8ne Morgan revient apr\u00e8s vingt ans d'absence sur les lieux de ses amours malheureuses. Il fut jadis \u00e9conduit par Isabel Amberson, fille d'une famille riche et puissante. Eug\u00e8ne est \u00e0 pr\u00e9sent patron d'une importante usine d'automobiles, tandis que la splendeur des Amberson n'est plus que le reflet d'une \u00e9poque r\u00e9volue.",
-            "popularity": 1.2539,
+            "popularity": 1.6004,
             "poster_path": "/85jLnTTQyn6CMWIihH4xn0RXq4t.jpg",
             "release_date": "1942-07-10",
             "title": "La Splendeur des Amberson",
@@ -87,8 +67,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 90,
-            "tagline": "La vie r\u00e9elle projet\u00e9e plus t\u00e9m\u00e9raire et audacieuse qu'elle ne l'a jamais \u00e9t\u00e9 !"
+            "tagline": "La vie r\u00e9elle projet\u00e9e plus t\u00e9m\u00e9raire et audacieuse qu'elle ne l'a jamais \u00e9t\u00e9 !",
+            "runtime": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+            "id": 3309,
+            "original_language": "en",
+            "original_title": "Mildred Pierce",
+            "overview": "Mildred Pierce est une m\u00e8re de famille qui affronte les reproches de sa fille ain\u00e9e. Les go\u00fbts de luxe de cette derni\u00e8re poussent Mildred \u00e0 devenir serveuse, puis \u00e0 ouvrir un petit restaurant\u2026",
+            "popularity": 6.0241,
+            "poster_path": "/r2MPcf69lnG537NwcpzcPmhsHmc.jpg",
+            "release_date": "1945-10-20",
+            "title": "Le Roman de Mildred Pierce",
+            "video": false,
+            "vote_average": 7.616,
+            "vote_count": 432,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 111
         },
         {
             "adult": false,
@@ -97,7 +98,7 @@
             "original_language": "fr",
             "original_title": "La Belle et la B\u00eate",
             "overview": "Pour l'offrir \u00e0 sa fille, le p\u00e8re de la Belle cueille, sans le savoir, une rose appartenant au jardin de la B\u00eate, qui s'en offense. Afin de sauver son p\u00e8re, la Belle accepte de partir vivre au ch\u00e2teau de la B\u00eate.",
-            "popularity": 0.9346,
+            "popularity": 1.1793,
             "poster_path": "/eDVFP076HkfD2LL29aja6zGh6As.jpg",
             "release_date": "1946-10-29",
             "title": "La Belle et la B\u00eate",
@@ -109,8 +110,8 @@
                 "Fantastique",
                 "Romance"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -119,7 +120,7 @@
             "original_language": "en",
             "original_title": "Let There Be Light",
             "overview": "Bouleversant t\u00e9moignage sur les horreurs de la guerre censur\u00e9 jusqu\u2019en 1980, Que la lumi\u00e8re soit est aujourd\u2019hui consid\u00e9r\u00e9 comme l\u2019un des meilleurs films jamais r\u00e9alis\u00e9s sur les cons\u00e9quences psychologiques de la guerre.",
-            "popularity": 0.1551,
+            "popularity": 0.2707,
             "poster_path": "/wgcAMb5BLKFANzTDfKwnxeH1kYA.jpg",
             "release_date": "1946-12-16",
             "title": "Que la lumi\u00e8re soit",
@@ -130,49 +131,8 @@
                 "Documentaire",
                 "Guerre"
             ],
-            "runtime": 56,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
-            "id": 3086,
-            "original_language": "en",
-            "original_title": "The Lady Eve",
-            "overview": "Sur un paquebot qui le ram\u00e8ne aux Etats-Unis, Charles Pike, fils d'un riche industriel, fait la connaissance de Jean Harrington et de son p\u00e8re, un arnaqueur professionnel. Jean tombe amoureuse de ce lord anglais riche et maladroit. Mais quand Charles apprend que la belle est une aventuri\u00e8re, il ne veut plus entendre parler d'elle. Jean r\u00e9appara\u00eet dans sa vie sous l'identit\u00e9 d'une aristocrate anglaise, lady Eve. Cette fois, Charles est sous le charme et finit par l'\u00e9pouser. Lors de la nuit de noces, elle lui r\u00e9cite la longue liste de ses conqu\u00eates. Horrifi\u00e9, Charles s'enfuit \u00e0 nouveau. Au cours d'une autre croisi\u00e8re, il retrouve la v\u00e9ritable Jean, qui continue de le tourmenter...",
-            "popularity": 1.0184,
-            "poster_path": "/b4j5p0aHlu0lJwjIXZ24IbeYKHz.jpg",
-            "release_date": "1941-02-25",
-            "title": "Un c\u0153ur pris au pi\u00e8ge",
-            "video": false,
-            "vote_average": 7.231,
-            "vote_count": 379,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 94,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
-            "id": 5156,
-            "original_language": "it",
-            "original_title": "Ladri di biciclette",
-            "overview": "Ch\u00f4meur depuis deux ans, Antonio trouve un emploi de colleur d'affiches, mais il se fait voler sa bicyclette, outil indispensable dans le cadre de son nouveau m\u00e9tier.",
-            "popularity": 2.8788,
-            "poster_path": "/8CM1etpLlkG9YipIPWGOm6a8JWk.jpg",
-            "release_date": "1948-07-21",
-            "title": "Le Voleur de bicyclette",
-            "video": false,
-            "vote_average": 8.174,
-            "vote_count": 2576,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 89,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 56
         },
         {
             "adult": false,
@@ -181,7 +141,7 @@
             "original_language": "en",
             "original_title": "The Best Years of Our Lives",
             "overview": "En 1945, trois soldats d\u00e9mobilis\u00e9s, le sergent d'infanterie Al Stephenson, le capitaine d'aviation Fred Derry et le marin Homer Parrish, font connaissance dans l'avion qui les ram\u00e8ne \u00e0 Boone City, leur ville natale. Leurs sentiments sont partag\u00e9s entre l'impatience et l'appr\u00e9hension. Ils ne tardent pas \u00e0 reprendre contact avec la r\u00e9alit\u00e9 quotidienne...",
-            "popularity": 1.4894,
+            "popularity": 1.4493,
             "poster_path": "/6lIxkUOA76EklnH2kCvi6j8zQQK.jpg",
             "release_date": "1946-12-25",
             "title": "Les Plus Belles Ann\u00e9es de notre vie",
@@ -192,8 +152,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 172,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 172
         },
         {
             "adult": false,
@@ -202,19 +162,59 @@
             "original_language": "en",
             "original_title": "Out of the Past",
             "overview": "Jeff Bailey, ancien d\u00e9tective priv\u00e9, tente de vivre une vie paisible, mais son pass\u00e9 revient le hanter. Il fut jadis embauch\u00e9 par un joueur de casino pour retrouver sa petite amie en fugue, Kathy. Jeff l'avait retrouv\u00e9e au Mexique et en \u00e9tait tomb\u00e9 amoureux. Elle l'avait ensuite incit\u00e9 \u00e0 doubler le joueur, mais c'est bien Jeff qui a fini par se faire doubler. Des ann\u00e9es plus tard, la vie tranquille de Jeff est de nouveau boulevers\u00e9e lorsque ses anciens associ\u00e9s criminels le retrouvent. Il court un grand danger : quelqu'un tente de lui mettre un meurtre sur le dos.",
-            "popularity": 1.8274,
+            "popularity": 2.2186,
             "poster_path": "/qqTMChg2K6vZTN1Kus8b7JYsmux.jpg",
             "release_date": "1947-11-25",
             "title": "La Griffe du pass\u00e9",
             "video": false,
-            "vote_average": 7.641,
-            "vote_count": 627,
+            "vote_average": 7.6,
+            "vote_count": 628,
             "genres": [
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xLJCny81gf2E4Q6VhtuNhgKHbUi.jpg",
+            "id": 16391,
+            "original_language": "en",
+            "original_title": "Black Narcissus",
+            "overview": "Sur les contreforts de l\u2019Himalaya, une congr\u00e9gation de nonnes s\u2019\u00e9tablit dans un ancien harem avec l\u2019intention de transformer le lieu en dispensaire. Dean, un agent anglais, est charg\u00e9 de les aider \u00e0 construire l\u2019\u00e9cole qui servira \u00e0 \u00e9duquer les enfants de la r\u00e9gion, mais il se heurte rapidement \u00e0 la s\u0153ur Clodagh qui trouve ses mani\u00e8res incorrectes. Au sein de la communaut\u00e9, la solitude p\u00e8se de plus en plus sur les c\u0153urs, et les tensions s\u2019exacerbent\u2026",
+            "popularity": 1.8363,
+            "poster_path": "/8WcePSwkyU3Q2fhGNspvreddwuL.jpg",
+            "release_date": "1947-05-26",
+            "title": "Le Narcisse noir",
+            "video": false,
+            "vote_average": 7.496,
+            "vote_count": 530,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+            "id": 5156,
+            "original_language": "it",
+            "original_title": "Ladri di biciclette",
+            "overview": "Ch\u00f4meur depuis deux ans, Antonio trouve un emploi de colleur d'affiches, mais il se fait voler sa bicyclette, outil indispensable dans le cadre de son nouveau m\u00e9tier.",
+            "popularity": 3.276,
+            "poster_path": "/8CM1etpLlkG9YipIPWGOm6a8JWk.jpg",
+            "release_date": "1948-07-21",
+            "title": "Le Voleur de bicyclette",
+            "video": false,
+            "vote_average": 8.174,
+            "vote_count": 2576,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 89
         }
     ]
 }

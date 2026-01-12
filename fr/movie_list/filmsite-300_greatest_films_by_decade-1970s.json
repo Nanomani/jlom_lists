@@ -4,94 +4,28 @@
     "source": "https://www.filmsite.org/300films.html",
     "created_by": "lbnt",
     "added": "04/28/24",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
-            "id": 185,
+            "backdrop_path": "/y7pnEmBotaowRY0o8V33r4JuRNS.jpg",
+            "id": 26617,
             "original_language": "en",
-            "original_title": "A Clockwork Orange",
-            "overview": "Au XXIe si\u00e8cle, o\u00f9 r\u00e8gnent la violence et le sexe, Alex, jeune chef de bande, exerce avec sadisme une terreur aveugle. Apr\u00e8s son emprisonnement, des psychanalystes l'emploient comme cobaye dans des exp\u00e9riences destin\u00e9es \u00e0 juguler la criminalit\u00e9\u2026",
-            "popularity": 7.9197,
-            "poster_path": "/n2oKNiEq9DZljqs6xsxs8hnsW9p.jpg",
-            "release_date": "1971-10-28",
-            "title": "Orange m\u00e9canique",
+            "original_title": "Five Easy Pieces",
+            "overview": "Un jeune fils de bonne famille, musicien au grand avenir, a renonc\u00e9 \u00e0 sa carri\u00e8re pour devenir ouvrier et \u00e9pouser une serveuse de bar. Il retourne au foyer voir son p\u00e8re malade, vit une br\u00e8ve aventure avec la petite amie de son fr\u00e8re et finit par tout abandonner en partant sur la route...",
+            "popularity": 1.1763,
+            "poster_path": "/w48KkdrTrMA12EYaledSe0fTnQu.jpg",
+            "release_date": "1970-09-12",
+            "title": "Cinq pi\u00e8ces faciles",
             "video": false,
-            "vote_average": 8.18,
-            "vote_count": 13531,
+            "vote_average": 7.1,
+            "vote_count": 569,
             "genres": [
-                "Science-Fiction",
-                "Crime"
+                "Drame"
             ],
-            "runtime": 137,
-            "tagline": "L'histoire d'un jeune homme qui s'int\u00e9resse principalement au viol, \u00e0 l'ultra-violence\u2026 et \u00e0 Beethoven."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
-            "id": 1051,
-            "original_language": "en",
-            "original_title": "The French Connection",
-            "overview": "Jimmy \u00ab\u202fPopeye\u202f\u00bb Doyle et Buddy Russo, deux flics du bureau des narcotiques, mettent \u00e0 jour un important trafic d\u2019h\u00e9ro\u00efne. Une v\u00e9ritable fili\u00e8re qui prend sa source en France et qui finit dans les rues de New York. De planques en filatures, d\u2019arrestations muscl\u00e9es en poursuites explosives, \u00ab\u202fPopeye\u202f\u00bb et Russo entament une chasse \u00e0 l\u2019homme implacable pour d\u00e9manteler ce que les archives du crime appellent d\u00e9sormais\u2026 la French Connection.",
-            "popularity": 3.3264,
-            "poster_path": "/xgn3UvgSJpf2CYCBpEVn5DUXwk6.jpg",
-            "release_date": "1971-10-09",
-            "title": "French Connection",
-            "video": false,
-            "vote_average": 7.499,
-            "vote_count": 2054,
-            "genres": [
-                "Action",
-                "Crime",
-                "Thriller"
-            ],
-            "runtime": 104,
-            "tagline": "Il n'y a pas de r\u00e8gles ni de limites pour Popeye\u00a0!"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg",
-            "id": 10669,
-            "original_language": "en",
-            "original_title": "Deliverance",
-            "overview": "Quatre am\u00e9ricains de classe moyenne, Ed Gentry, Lewis Medlock, Bobby Trippe et Drew Ballinger d\u00e9cident de consacrer leur week-end \u00e0 la descente en cano\u00e9 d'une imp\u00e9tueuse rivi\u00e8re situ\u00e9e au nord de la G\u00e9orgie. Ils envisagent cette exp\u00e9dition comme un dernier hommage \u00e0 une nature sauvage et condamn\u00e9e par la construction d'un futur barrage. Mais les dangers qu'ils affronteront ne proviendront pas uniquement des flots tumultueux de la rivi\u00e8re...",
-            "popularity": 2.3896,
-            "poster_path": "/7KKnCtB2KD49da0CP5UQhcBVxLp.jpg",
-            "release_date": "1972-08-18",
-            "title": "D\u00e9livrance",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 1741,
-            "genres": [
-                "Drame",
-                "Aventure",
-                "Thriller"
-            ],
-            "runtime": 109,
-            "tagline": "Que s'est il pass\u00e9 sur la rivi\u00e8re Cahulawassee?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-            "id": 238,
-            "original_language": "en",
-            "original_title": "The Godfather",
-            "overview": "La Seconde Guerre mondiale vient de s'achever. \u00c0 New York, le \u00ab\u00a0parrain\u00a0\u00bb Don Corleone, l'un des chefs respect\u00e9s de la mafia, se sent vieillir. Il refuse de s'adapter \u00e0 son temps et de se lancer, comme ses pairs, dans le trafic de drogue. Une frilosit\u00e9 qui entrave la bonne marche des affaires des autres \u00ab\u00a0familles\u00a0\u00bb et qui lui vaut d'\u00eatre la cible d'un attentat. Don Corleone survit \u00e0 ses blessures, mais reste tr\u00e8s diminu\u00e9. Mike, son plus jeune fils, qui jusque-l\u00e0 se tenait \u00e0 l'\u00e9cart des affaires de son p\u00e8re, devient le plus d\u00e9vou\u00e9 de ses h\u00e9ritiers. Plus efficace que ses fr\u00e8res, Sonny et Fredo, il venge son p\u00e8re et organise l'\u00e9limination de ses adversaires\u2026",
-            "popularity": 32.5417,
-            "poster_path": "/k3uIbYtiuK8pwbCcbma29nTqmgG.jpg",
-            "release_date": "1972-03-14",
-            "title": "Le Parrain",
-            "video": false,
-            "vote_average": 8.686,
-            "vote_count": 22262,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 175,
-            "tagline": "Une offre que vous ne pouvez pas refuser."
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -100,7 +34,7 @@
             "original_language": "en",
             "original_title": "M*A*S*H",
             "overview": "Pendant la guerre de Cor\u00e9e, Hawkeye Pierce, Trapper John Mc Intyre et Duke Forrest rejoignent la 4077 \u00e8me antenne chirurgicale militaire. Ces chirurgiens de valeur vont se consacrer \u00e0 leur m\u00e9tier et \u00e0 leur passion pour les femmes, en l'occurrence les infirmi\u00e8res. L'horreur, la bouffonnerie et l'acidit\u00e9 du propos vont de pair avec une authenticit\u00e9 quasi documentaire de certaines sc\u00e8nes.",
-            "popularity": 3.1605,
+            "popularity": 6.4684,
             "poster_path": "/Q8zeMBVaMEKw0QneN2Wl2x3mKz.jpg",
             "release_date": "1970-02-18",
             "title": "M*A*S*H",
@@ -112,71 +46,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 116,
-            "tagline": "M*A*S*H, la rigolade dans l'enfer."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
-            "id": 10784,
-            "original_language": "en",
-            "original_title": "Cabaret",
-            "overview": "La vie d'un cabaret et l'histoire d'amour entre une des chanteuses et un jeune \u00e9tudiant dans le Berlin des ann\u00e9es trente, secou\u00e9 par la mont\u00e9e du nazisme...",
-            "popularity": 5.3915,
-            "poster_path": "/azERXJ1tjQz5yKdmU0US8I9XNOF.jpg",
-            "release_date": "1972-02-13",
-            "title": "Cabaret",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 940,
-            "genres": [
-                "Musique",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 118,
-            "tagline": "Toute la vie est un cabaret."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5Le4bfUJXFtQALJqwqzzPtyiwrX.jpg",
-            "id": 29005,
-            "original_language": "en",
-            "original_title": "McCabe & Mrs. Miller",
-            "overview": "En 1902, John McCabe arrive \u00e0 Presbyterian Church, une petite ville de l'Ouest am\u00e9ricain, pour ouvrir un bordel. Mme Constance Miller, une prostitu\u00e9e, lui propose son aide et son exp\u00e9rience en \u00e9change d'une partie des b\u00e9n\u00e9fices. Mc Cabe accepte, mais le succ\u00e8s de l'\u00e9tablissement fait des jaloux...",
-            "popularity": 1.8074,
-            "poster_path": "/cZ1ptOt7byjTbGQ8grH3EdOmzr6.jpg",
-            "release_date": "1971-06-24",
-            "title": "John McCabe",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 432,
-            "genres": [
-                "Western",
-                "Drame"
-            ],
-            "runtime": 116,
-            "tagline": "Nommez votre poison."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/y7pnEmBotaowRY0o8V33r4JuRNS.jpg",
-            "id": 26617,
-            "original_language": "en",
-            "original_title": "Five Easy Pieces",
-            "overview": "Un jeune fils de bonne famille, musicien au grand avenir, a renonc\u00e9 \u00e0 sa carri\u00e8re pour devenir ouvrier et \u00e9pouser une serveuse de bar. Il retourne au foyer voir son p\u00e8re malade, vit une br\u00e8ve aventure avec la petite amie de son fr\u00e8re et finit par tout abandonner en partant sur la route...",
-            "popularity": 1.1516,
-            "poster_path": "/w48KkdrTrMA12EYaledSe0fTnQu.jpg",
-            "release_date": "1970-09-12",
-            "title": "Cinq pi\u00e8ces faciles",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 569,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "M*A*S*H, la rigolade dans l'enfer.",
+            "runtime": 116
         },
         {
             "adult": false,
@@ -185,7 +56,7 @@
             "original_language": "en",
             "original_title": "Patton",
             "overview": "Pendant la seconde guerre mondiale, la vie d'un g\u00e9n\u00e9ral, rebelle dans l'arm\u00e9e am\u00e9ricaine mais reconnu comme un g\u00e9nie de la strat\u00e9gie. En 1943, le g\u00e9n\u00e9ral Patton est envoy\u00e9 \u00e0 Tunis afin de reprendre une situation difficile, l'arm\u00e9e US ayant du mal \u00e0 prendre le pas sur l'Africa Korps nazi. Il encha\u00eene les succ\u00e8s mais refuse de laisser les lauriers de sa victoire au mar\u00e9chal Montgomery, des forces arm\u00e9es britanniques. Il est alors relev\u00e9 de son commandement et va attendre plusieurs mois avant de se retrouver \u00e0 la t\u00eate d'une division.",
-            "popularity": 2.9418,
+            "popularity": 3.4222,
             "poster_path": "/enMD17XUTEZzQ0g17Nz3XC4VnqA.jpg",
             "release_date": "1970-01-25",
             "title": "Patton",
@@ -197,8 +68,51 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 170,
-            "tagline": "Ador\u00e9 et maudit... Un homme de guerre fascinant !"
+            "tagline": "Ador\u00e9 et maudit... Un homme de guerre fascinant !",
+            "runtime": 170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+            "id": 185,
+            "original_language": "en",
+            "original_title": "A Clockwork Orange",
+            "overview": "Au XXIe si\u00e8cle, o\u00f9 r\u00e8gnent la violence et le sexe, Alex, jeune chef de bande, exerce avec sadisme une terreur aveugle. Apr\u00e8s son emprisonnement, des psychanalystes l'emploient comme cobaye dans des exp\u00e9riences destin\u00e9es \u00e0 juguler la criminalit\u00e9\u2026",
+            "popularity": 7.7812,
+            "poster_path": "/n2oKNiEq9DZljqs6xsxs8hnsW9p.jpg",
+            "release_date": "1971-10-28",
+            "title": "Orange m\u00e9canique",
+            "video": false,
+            "vote_average": 8.18,
+            "vote_count": 13532,
+            "genres": [
+                "Science-Fiction",
+                "Crime"
+            ],
+            "tagline": "L'histoire d'un jeune homme qui s'int\u00e9resse principalement au viol, \u00e0 l'ultra-violence\u2026 et \u00e0 Beethoven.",
+            "runtime": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+            "id": 1051,
+            "original_language": "en",
+            "original_title": "The French Connection",
+            "overview": "Jimmy \u00ab\u202fPopeye\u202f\u00bb Doyle et Buddy Russo, deux flics du bureau des narcotiques, mettent \u00e0 jour un important trafic d\u2019h\u00e9ro\u00efne. Une v\u00e9ritable fili\u00e8re qui prend sa source en France et qui finit dans les rues de New York. De planques en filatures, d\u2019arrestations muscl\u00e9es en poursuites explosives, \u00ab\u202fPopeye\u202f\u00bb et Russo entament une chasse \u00e0 l\u2019homme implacable pour d\u00e9manteler ce que les archives du crime appellent d\u00e9sormais\u2026 la French Connection.",
+            "popularity": 3.0218,
+            "poster_path": "/xgn3UvgSJpf2CYCBpEVn5DUXwk6.jpg",
+            "release_date": "1971-10-09",
+            "title": "French Connection",
+            "video": false,
+            "vote_average": 7.499,
+            "vote_count": 2054,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "tagline": "Il n'y a pas de r\u00e8gles ni de limites pour Popeye\u00a0!",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -207,7 +121,7 @@
             "original_language": "en",
             "original_title": "The Last Picture Show",
             "overview": "1951. Sonny et Duane, deux adolescents texans, passent leur temps entre le caf\u00e9 et le cin\u00e9ma, seules distractions possibles dans leur petite ville perdue aux confins du d\u00e9sert. Mais lorsqu'une fille provoque une dispute entre eux, Sonny d\u00e9cide de s'engager pour la Cor\u00e9e. Avant de partir, ils se rendent au cin\u00e9ma une derni\u00e8re fois...",
-            "popularity": 1.9034,
+            "popularity": 1.7661,
             "poster_path": "/qM0uSf6pbmGxEEh2XrXz1UzuwHv.jpg",
             "release_date": "1971-10-03",
             "title": "La Derni\u00e8re S\u00e9ance",
@@ -218,8 +132,94 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 118,
-            "tagline": "Anarene, Texas, 1951. Rien n'a vraiment chang\u00e9\u2026"
+            "tagline": "Anarene, Texas, 1951. Rien n'a vraiment chang\u00e9\u2026",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Le4bfUJXFtQALJqwqzzPtyiwrX.jpg",
+            "id": 29005,
+            "original_language": "en",
+            "original_title": "McCabe & Mrs. Miller",
+            "overview": "En 1902, John McCabe arrive \u00e0 Presbyterian Church, une petite ville de l'Ouest am\u00e9ricain, pour ouvrir un bordel. Mme Constance Miller, une prostitu\u00e9e, lui propose son aide et son exp\u00e9rience en \u00e9change d'une partie des b\u00e9n\u00e9fices. Mc Cabe accepte, mais le succ\u00e8s de l'\u00e9tablissement fait des jaloux...",
+            "popularity": 1.8289,
+            "poster_path": "/cZ1ptOt7byjTbGQ8grH3EdOmzr6.jpg",
+            "release_date": "1971-06-24",
+            "title": "John McCabe",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 432,
+            "genres": [
+                "Western",
+                "Drame"
+            ],
+            "tagline": "Nommez votre poison.",
+            "runtime": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+            "id": 10784,
+            "original_language": "en",
+            "original_title": "Cabaret",
+            "overview": "La vie d'un cabaret et l'histoire d'amour entre une des chanteuses et un jeune \u00e9tudiant dans le Berlin des ann\u00e9es trente, secou\u00e9 par la mont\u00e9e du nazisme...",
+            "popularity": 6.1577,
+            "poster_path": "/azERXJ1tjQz5yKdmU0US8I9XNOF.jpg",
+            "release_date": "1972-02-13",
+            "title": "Cabaret",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 940,
+            "genres": [
+                "Musique",
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Toute la vie est un cabaret.",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg",
+            "id": 10669,
+            "original_language": "en",
+            "original_title": "Deliverance",
+            "overview": "Quatre am\u00e9ricains de classe moyenne, Ed Gentry, Lewis Medlock, Bobby Trippe et Drew Ballinger d\u00e9cident de consacrer leur week-end \u00e0 la descente en cano\u00e9 d'une imp\u00e9tueuse rivi\u00e8re situ\u00e9e au nord de la G\u00e9orgie. Ils envisagent cette exp\u00e9dition comme un dernier hommage \u00e0 une nature sauvage et condamn\u00e9e par la construction d'un futur barrage. Mais les dangers qu'ils affronteront ne proviendront pas uniquement des flots tumultueux de la rivi\u00e8re...",
+            "popularity": 2.8823,
+            "poster_path": "/7KKnCtB2KD49da0CP5UQhcBVxLp.jpg",
+            "release_date": "1972-08-18",
+            "title": "D\u00e9livrance",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1741,
+            "genres": [
+                "Drame",
+                "Aventure",
+                "Thriller"
+            ],
+            "tagline": "Que s'est il pass\u00e9 sur la rivi\u00e8re Cahulawassee?",
+            "runtime": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "La Seconde Guerre mondiale vient de s'achever. \u00c0 New York, le \u00ab\u00a0parrain\u00a0\u00bb Don Corleone, l'un des chefs respect\u00e9s de la mafia, se sent vieillir. Il refuse de s'adapter \u00e0 son temps et de se lancer, comme ses pairs, dans le trafic de drogue. Une frilosit\u00e9 qui entrave la bonne marche des affaires des autres \u00ab\u00a0familles\u00a0\u00bb et qui lui vaut d'\u00eatre la cible d'un attentat. Don Corleone survit \u00e0 ses blessures, mais reste tr\u00e8s diminu\u00e9. Mike, son plus jeune fils, qui jusque-l\u00e0 se tenait \u00e0 l'\u00e9cart des affaires de son p\u00e8re, devient le plus d\u00e9vou\u00e9 de ses h\u00e9ritiers. Plus efficace que ses fr\u00e8res, Sonny et Fredo, il venge son p\u00e8re et organise l'\u00e9limination de ses adversaires\u2026",
+            "popularity": 31.4386,
+            "poster_path": "/k3uIbYtiuK8pwbCcbma29nTqmgG.jpg",
+            "release_date": "1972-03-14",
+            "title": "Le Parrain",
+            "video": false,
+            "vote_average": 8.685,
+            "vote_count": 22263,
+            "genres": [
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "Une offre que vous ne pouvez pas refuser.",
+            "runtime": 175
         },
         {
             "adult": false,
@@ -228,7 +228,7 @@
             "original_language": "it",
             "original_title": "Ultimo tango a Parigi",
             "overview": "Paul, un Am\u00e9ricain \u00e9tabli \u00e0 Paris, et Jeanne font connaissance alors qu'ils visitent, un matin d'hiver, un grand appartement vide. Ils font l'amour sans rien savoir l'un de l'autre, pas m\u00eame leurs pr\u00e9noms. Paul loue l'appartement et le couple s'y donne rendez-vous jusqu'\u00e0 ce que la situation devienne insoutenable.",
-            "popularity": 2.3116,
+            "popularity": 2.7109,
             "poster_path": "/uwDMqa2XPimYiD76kbIUXewo4km.jpg",
             "release_date": "1972-12-15",
             "title": "Le Dernier Tango \u00e0 Paris",
@@ -239,8 +239,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 129,
-            "tagline": "Quand on voit une histoire d'amour, ce n'est qu'un film. Quand vous la ressentez avec chaque cellule de votre corps, c'est un chef-d'\u0153uvre."
+            "tagline": "Quand on voit une histoire d'amour, ce n'est qu'un film. Quand vous la ressentez avec chaque cellule de votre corps, c'est un chef-d'\u0153uvre.",
+            "runtime": 129
         },
         {
             "adult": false,
@@ -249,19 +249,19 @@
             "original_language": "en",
             "original_title": "American Graffiti",
             "overview": "En 1962, les destins crois\u00e9s d'un groupe de jeunes dans une bourgade de Californie, autour des courses de voitures, de la musique rock, des soir\u00e9es et des rencontres.",
-            "popularity": 4.1455,
+            "popularity": 4.1729,
             "poster_path": "/1bvAKQW9MuHiIGSnbuny0GGdwp1.jpg",
             "release_date": "1973-08-11",
             "title": "American Graffiti",
             "video": false,
-            "vote_average": 7.03,
-            "vote_count": 1534,
+            "vote_average": 7.032,
+            "vote_count": 1535,
             "genres": [
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 110,
-            "tagline": "O\u00f9 \u00e9tiez-vous en 1962 ?"
+            "tagline": "O\u00f9 \u00e9tiez-vous en 1962 ?",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -270,20 +270,20 @@
             "original_language": "en",
             "original_title": "Badlands",
             "overview": "Inspir\u00e9e par l'histoire authentique de Charlie Stark-Weather, jeune d\u00e9linquant des ann\u00e9es cinquante, \u00e9vocation de la folle \u00e9quip\u00e9e de deux jeunes amants auxquels on refuse le droit de s'aimer. Ils laissent sur leur passage de nombreux cadavres dont le p\u00e8re de la jeune fille, qui refusait que celle-ci fr\u00e9quente un \u00e9boueur.",
-            "popularity": 2.62,
+            "popularity": 2.6717,
             "poster_path": "/5EPLeKxFSPaJnoiOlhW6mc0VDtJ.jpg",
             "release_date": "1974-01-05",
             "title": "La Balade sauvage",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1293,
+            "vote_average": 7.475,
+            "vote_count": 1295,
             "genres": [
                 "Crime",
                 "Drame",
                 "Romance"
             ],
-            "runtime": 90,
-            "tagline": "En 1959, beaucoup de gens essayent de tuer le temps. Kit et Holly, eux, tuaient des gens."
+            "tagline": "En 1959, beaucoup de gens essayent de tuer le temps. Kit et Holly, eux, tuaient des gens.",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -292,7 +292,7 @@
             "original_language": "en",
             "original_title": "Don't Look Now",
             "overview": "Suite \u00e0 la mort tragique de leur fille, les Baxter partent \u00e0 Venise afin de changer d\u2019air. John Baxter, architecte, est embauch\u00e9 par un myst\u00e9rieux pr\u00eatre pour r\u00e9nover une \u00e9glise. Un jour, alors que les amoureux se baladent, deux s\u0153urs les accostent et l\u2019une d\u2019entre elles, voyante, leur apprend que leur enfant est toujours vivant. S\u2019en suivent d\u2019autres rencontres et visions \u00e9tranges qui feront raviver de douloureux souvenirs du pass\u00e9.",
-            "popularity": 2.0962,
+            "popularity": 1.9432,
             "poster_path": "/by6JEevWsUelwhCTUJFMJgoSz73.jpg",
             "release_date": "1973-10-11",
             "title": "Ne vous retournez pas",
@@ -304,29 +304,8 @@
                 "Drame",
                 "Horreur"
             ],
-            "runtime": 112,
-            "tagline": "Faites passer l'avertissement."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rAWm8xiJvnwYZpwnrBoGqOZmkqj.jpg",
-            "id": 203,
-            "original_language": "en",
-            "original_title": "Mean Streets",
-            "overview": "En 1973, \u00e0 New York, dans la petite Italie, Johnny Boy et Charlie, des malfrats \u00e0 l'aff\u00fbt de combines louches, c\u00f4toient les mafiosi qu'ils envient. Pour acc\u00e9der au haut du pav\u00e9, une r\u00e8gle imp\u00e9rative : respecter la loi d'honneur du milieu. Charlie, lui, a ses chances, car il a un oncle mafieux. Mais le probl\u00e8me se pose pour Johnny, un bagarreur inconscient, cribl\u00e9 de dettes. Lorsque celui-ci se procure une arme \u00e0 feu et commence \u00e0 faire le malin, \u00e7a d\u00e9rape...",
-            "popularity": 2.6661,
-            "poster_path": "/cNOpVIQFMG4EB6jgXRG73YJM51h.jpg",
-            "release_date": "1973-10-14",
-            "title": "Mean Streets",
-            "video": false,
-            "vote_average": 7.065,
-            "vote_count": 2231,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 110,
-            "tagline": "Vous ne faites pas vos p\u00e9ch\u00e9s \u00e0 l'\u00e9glise mais dans la rue..."
+            "tagline": "Faites passer l'avertissement.",
+            "runtime": 112
         },
         {
             "adult": false,
@@ -335,7 +314,7 @@
             "original_language": "en",
             "original_title": "The Exorcist",
             "overview": "Regan, une adolescente, pr\u00e9sente depuis quelque temps d\u2019\u00e9tranges sympt\u00f4mes. Apr\u00e8s avoir \u00e9puis\u00e9 les solutions m\u00e9dicales, la m\u00e8re de Regan consulte un pr\u00eatre-psychiatre qui est rapidement convaincu que Regan est poss\u00e9d\u00e9e et que seul un exorcisme pourra la \"gu\u00e9rir\".",
-            "popularity": 10.8135,
+            "popularity": 9.6721,
             "poster_path": "/rJU6uv4ADDV0aYdiy7wyIf2nCjS.jpg",
             "release_date": "1973-12-26",
             "title": "L'Exorciste",
@@ -345,8 +324,50 @@
             "genres": [
                 "Horreur"
             ],
-            "runtime": 133,
-            "tagline": "Quelque chose au-del\u00e0 de la compr\u00e9hension arrive \u00e0 une petite fille dans cette rue."
+            "tagline": "Quelque chose au-del\u00e0 de la compr\u00e9hension arrive \u00e0 une petite fille dans cette rue.",
+            "runtime": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rAWm8xiJvnwYZpwnrBoGqOZmkqj.jpg",
+            "id": 203,
+            "original_language": "en",
+            "original_title": "Mean Streets",
+            "overview": "En 1973, \u00e0 New York, dans la petite Italie, Johnny Boy et Charlie, des malfrats \u00e0 l'aff\u00fbt de combines louches, c\u00f4toient les mafiosi qu'ils envient. Pour acc\u00e9der au haut du pav\u00e9, une r\u00e8gle imp\u00e9rative : respecter la loi d'honneur du milieu. Charlie, lui, a ses chances, car il a un oncle mafieux. Mais le probl\u00e8me se pose pour Johnny, un bagarreur inconscient, cribl\u00e9 de dettes. Lorsque celui-ci se procure une arme \u00e0 feu et commence \u00e0 faire le malin, \u00e7a d\u00e9rape...",
+            "popularity": 3.9591,
+            "poster_path": "/cNOpVIQFMG4EB6jgXRG73YJM51h.jpg",
+            "release_date": "1973-10-14",
+            "title": "Mean Streets",
+            "video": false,
+            "vote_average": 7.065,
+            "vote_count": 2232,
+            "genres": [
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "Vous ne faites pas vos p\u00e9ch\u00e9s \u00e0 l'\u00e9glise mais dans la rue...",
+            "runtime": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
+            "id": 11561,
+            "original_language": "en",
+            "original_title": "Sleeper",
+            "overview": "En 2173, un homme congel\u00e9 est ramen\u00e9 \u00e0 la vie par des chirurgiens r\u00e9volutionnaires. Arr\u00eat\u00e9, il se d\u00e9bat dans une soci\u00e9t\u00e9 gadg\u00e9tis\u00e9e dont la vie est r\u00e9gl\u00e9e par des robots.",
+            "popularity": 1.9687,
+            "poster_path": "/32OKMVc9yLGPaKYWgfCOthFpYvM.jpg",
+            "release_date": "1973-12-17",
+            "title": "Woody et les robots",
+            "video": false,
+            "vote_average": 6.876,
+            "vote_count": 821,
+            "genres": [
+                "Com\u00e9die",
+                "Science-Fiction"
+            ],
+            "tagline": "",
+            "runtime": 89
         },
         {
             "adult": false,
@@ -355,7 +376,7 @@
             "original_language": "en",
             "original_title": "Chinatown",
             "overview": "Gittes, d\u00e9tective priv\u00e9, re\u00e7oit la visite de Mme Mulwray, qui lui demande de filer son mari, ing\u00e9nieur des eaux \u00e0 Los Angeles. Celui\u2010ci est retrouv\u00e9 mort, noy\u00e9. Gittes s\u2019obstine dans son enqu\u00eate, malgr\u00e9 les menaces de tueurs professionnels.",
-            "popularity": 5.3527,
+            "popularity": 5.1295,
             "poster_path": "/9chbM7rbh6o0Ok6v6mcT0a3GN9E.jpg",
             "release_date": "1974-06-20",
             "title": "Chinatown",
@@ -368,50 +389,8 @@
                 "Myst\u00e8re",
                 "Thriller"
             ],
-            "runtime": 130,
-            "tagline": "Vous devenez dur ou tendre. Vous vous rapprochez les uns des autres. Peut\u2010\u00eatre m\u00eame vous rapprochez\u2010vous de la v\u00e9rit\u00e9."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
-            "id": 240,
-            "original_language": "en",
-            "original_title": "The Godfather Part II",
-            "overview": "Depuis la mort de Don Vito Corleone, son fils Michael r\u00e8gne sur la famille. Amen\u00e9 \u00e0 n\u00e9gocier avec la mafia juive, il perd alors le soutien d'un de ses lieutenants, Frankie Pentageli. \u00c9chappant de justesse \u00e0 un attentat, Michael tente de retrouver le coupable, soup\u00e7onnant Hyman Roth, le chef de la mafia juive. Vito Corleone, immigrant italien, arrive \u00e0 New York au d\u00e9but du si\u00e8cle ; tr\u00e8s vite, il devient un des ca\u00efds du quartier, utilisant la violence comme moyen de r\u00e9gler toutes les affaires. Seul au d\u00e9part, il b\u00e2tit peu \u00e0 peu un v\u00e9ritable empire, origine de la fortune de la famille des Corleone.",
-            "popularity": 14.3178,
-            "poster_path": "/fATmEcLwO3tTiisa8gYxhV3x4sS.jpg",
-            "release_date": "1974-12-20",
-            "title": "Le Parrain, 2e partie",
-            "video": false,
-            "vote_average": 8.571,
-            "vote_count": 13460,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 202,
-            "tagline": "Les affaires reprennent."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
-            "id": 11561,
-            "original_language": "en",
-            "original_title": "Sleeper",
-            "overview": "En 2173, un homme congel\u00e9 est ramen\u00e9 \u00e0 la vie par des chirurgiens r\u00e9volutionnaires. Arr\u00eat\u00e9, il se d\u00e9bat dans une soci\u00e9t\u00e9 gadg\u00e9tis\u00e9e dont la vie est r\u00e9gl\u00e9e par des robots.",
-            "popularity": 2.1417,
-            "poster_path": "/32OKMVc9yLGPaKYWgfCOthFpYvM.jpg",
-            "release_date": "1973-12-17",
-            "title": "Woody et les robots",
-            "video": false,
-            "vote_average": 6.876,
-            "vote_count": 821,
-            "genres": [
-                "Com\u00e9die",
-                "Science-Fiction"
-            ],
-            "runtime": 89,
-            "tagline": ""
+            "tagline": "Vous devenez dur ou tendre. Vous vous rapprochez les uns des autres. Peut\u2010\u00eatre m\u00eame vous rapprochez\u2010vous de la v\u00e9rit\u00e9.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -420,7 +399,7 @@
             "original_language": "en",
             "original_title": "The Conversation",
             "overview": "Sp\u00e9cialiste de la filature, Harry Caul est engag\u00e9 pour suivre un couple et enregistrer leur conversation. Une fois sa mission accomplie, Caul \u00e9coute la bande sonore. La banalit\u00e9 des propos le surprend. S'agit-il d'un code secret?",
-            "popularity": 3.3156,
+            "popularity": 2.8334,
             "poster_path": "/rU2GZ8UHODGIOzNqFzAfTAl36rw.jpg",
             "release_date": "1974-04-07",
             "title": "Conversation secr\u00e8te",
@@ -432,8 +411,29 @@
                 "Drame",
                 "Myst\u00e8re"
             ],
-            "runtime": 113,
-            "tagline": "Harry Caul est le meilleur pour s'introduire dans votre vie priv\u00e9e."
+            "tagline": "Harry Caul est le meilleur pour s'introduire dans votre vie priv\u00e9e.",
+            "runtime": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "Depuis la mort de Don Vito Corleone, son fils Michael r\u00e8gne sur la famille. Amen\u00e9 \u00e0 n\u00e9gocier avec la mafia juive, il perd alors le soutien d'un de ses lieutenants, Frankie Pentageli. \u00c9chappant de justesse \u00e0 un attentat, Michael tente de retrouver le coupable, soup\u00e7onnant Hyman Roth, le chef de la mafia juive. Vito Corleone, immigrant italien, arrive \u00e0 New York au d\u00e9but du si\u00e8cle ; tr\u00e8s vite, il devient un des ca\u00efds du quartier, utilisant la violence comme moyen de r\u00e9gler toutes les affaires. Seul au d\u00e9part, il b\u00e2tit peu \u00e0 peu un v\u00e9ritable empire, origine de la fortune de la famille des Corleone.",
+            "popularity": 16.2636,
+            "poster_path": "/fATmEcLwO3tTiisa8gYxhV3x4sS.jpg",
+            "release_date": "1974-12-20",
+            "title": "Le Parrain, 2e partie",
+            "video": false,
+            "vote_average": 8.571,
+            "vote_count": 13460,
+            "genres": [
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "Les affaires reprennent.",
+            "runtime": 202
         },
         {
             "adult": false,
@@ -442,7 +442,7 @@
             "original_language": "en",
             "original_title": "Young Frankenstein",
             "overview": "Peu fier de son ascendance, le Docteur Frederick Frankenstein accepte pourtant de retourner sur les terres de ses anc\u00eatres. Rattrap\u00e9 par la folie familiale, il d\u00e9cide de suivre les traces de son a\u00efeul et de cr\u00e9er \u00e0 son tour une cr\u00e9ature \u00e0 partir de cadavres, avec l\u2019aide de son fid\u00e8le serviteur Igor. Malheureusement, charg\u00e9 de trouver le cerveau d\u2019un g\u00e9nie, ce dernier se trompe et rapporte \u00e0 Frankenstein un cerveau anormal\u2026",
-            "popularity": 3.7179,
+            "popularity": 3.149,
             "poster_path": "/3FtQ2AKfLjGmoKXzYlqygItjNDQ.jpg",
             "release_date": "1974-12-15",
             "title": "Frankenstein Junior",
@@ -452,8 +452,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 106,
-            "tagline": "La com\u00e9die la plus effrayante de tous les temps\u202f!"
+            "tagline": "La com\u00e9die la plus effrayante de tous les temps\u202f!",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -462,20 +462,20 @@
             "original_language": "en",
             "original_title": "Jaws",
             "overview": "\u00c0 quelques jours du d\u00e9but de la saison estivale, les habitants de la petite station baln\u00e9aire d'Amity sont mis en \u00e9moi par la d\u00e9couverte sur le littoral du corps atrocement mutil\u00e9 d'une jeune vacanci\u00e8re. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a \u00e9t\u00e9 victime d'un requin. Il d\u00e9cide alors d'interdire l'acc\u00e8s aux plages mais se heurte \u00e0 l'hostilit\u00e9 du maire uniquement int\u00e9ress\u00e9 par l'afflux des touristes. Pendant ce temps, le requin continue \u00e0 semer la terreur le long des c\u00f4tes et \u00e0 d\u00e9vorer les baigneurs\u2026",
-            "popularity": 15.2228,
+            "popularity": 13.7659,
             "poster_path": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
             "release_date": "1975-06-20",
             "title": "Les Dents de la mer",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 11239,
+            "vote_average": 7.68,
+            "vote_count": 11240,
             "genres": [
                 "Horreur",
                 "Thriller",
                 "Aventure"
             ],
-            "runtime": 124,
-            "tagline": "Elle fut la premi\u00e8re\u2026"
+            "tagline": "Elle fut la premi\u00e8re\u2026",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -484,7 +484,7 @@
             "original_language": "en",
             "original_title": "Monty Python and the Holy Grail",
             "overview": "Le roi Arthur et les Chevaliers de la Table Ronde se lancent \u00e0 la conqu\u00eate du Graal, chevauchant de fant\u00f4matiques montures dans un bruitage de noix de coco cogn\u00e9es. La petite troupe va devoir passer mille \u00e9preuves, dont un chevalier \u00e0 trois t\u00eates, des jouvencelles en chaleur, voire m\u00eame un terrible lapin tueur.",
-            "popularity": 4.8893,
+            "popularity": 4.5918,
             "poster_path": "/5y6rOuxx9TnhL0HSx6v6BdloCm6.jpg",
             "release_date": "1975-04-03",
             "title": "Monty Python : Sacr\u00e9 Graal !",
@@ -496,8 +496,30 @@
                 "Com\u00e9die",
                 "Fantastique"
             ],
-            "runtime": 91,
-            "tagline": "Le film \u00e0 c\u00f4t\u00e9 duquel Ben Hur ressemble \u00e0 un documentaire."
+            "tagline": "Le film \u00e0 c\u00f4t\u00e9 duquel Ben Hur ressemble \u00e0 un documentaire.",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lHH8o3YWBjoteijAI8yTxG3qqpX.jpg",
+            "id": 3121,
+            "original_language": "en",
+            "original_title": "Nashville",
+            "overview": "\u00c0 travers les itin\u00e9raires crois\u00e9s de vingt-quatre personnes qui se retrouvent dans la capitale de la country-music, vaste fresque sur les m\u0153urs am\u00e9ricaines et le monde du show business.",
+            "popularity": 2.5901,
+            "poster_path": "/2FDLRJkVUyFMgi8ULa1byMZXeTD.jpg",
+            "release_date": "1975-06-11",
+            "title": "Nashville",
+            "video": false,
+            "vote_average": 7.231,
+            "vote_count": 446,
+            "genres": [
+                "Drame",
+                "Com\u00e9die",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 159
         },
         {
             "adult": false,
@@ -506,18 +528,18 @@
             "original_language": "en",
             "original_title": "One Flew Over the Cuckoo's Nest",
             "overview": "Randle P. McMurphy se fait interner pour \u00e9chapper \u00e0 la prison. Il va \u00eatre touch\u00e9 par la d\u00e9tresse et la solitude des patients. Tr\u00e8s rapidement, il comprend que l\u2019infirmi\u00e8re en chef, Mlle Ratched, a impos\u00e9 des r\u00e8gles strictes et entend bien les faire respecter. Il d\u00e9cide alors de r\u00e9volutionner ce petit monde, plut\u00f4t au d\u00e9part par jeu.",
-            "popularity": 7.1743,
+            "popularity": 7.5225,
             "poster_path": "/r5b2ub7GMawCWDP5vHR1MXpV7vU.jpg",
             "release_date": "1975-11-19",
             "title": "Vol au-dessus d'un nid de coucou",
             "video": false,
-            "vote_average": 8.4,
-            "vote_count": 11118,
+            "vote_average": 8.412,
+            "vote_count": 11119,
             "genres": [
                 "Drame"
             ],
-            "runtime": 133,
-            "tagline": "Pour \u00e9chapper \u00e0 la prison, il est pr\u00eat \u00e0 tout."
+            "tagline": "Pour \u00e9chapper \u00e0 la prison, il est pr\u00eat \u00e0 tout.",
+            "runtime": 133
         },
         {
             "adult": false,
@@ -526,7 +548,7 @@
             "original_language": "en",
             "original_title": "The Rocky Horror Picture Show",
             "overview": "Une nuit d'orage, la voiture de Janet et Brad, un couple coinc\u00e9 qui vient de se fiancer, tombe en panne. Oblig\u00e9s de se r\u00e9fugier dans un myst\u00e9rieux ch\u00e2teau, ils vont faire la rencontre de ses occupants pour le moins bizarres, qui se livrent \u00e0 de bien \u00e9tranges exp\u00e9riences.",
-            "popularity": 4.1397,
+            "popularity": 3.43,
             "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
             "release_date": "1975-08-14",
             "title": "The Rocky Horror Picture Show",
@@ -539,30 +561,69 @@
                 "Fantastique",
                 "Horreur"
             ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
-            "backdrop_path": "/lHH8o3YWBjoteijAI8yTxG3qqpX.jpg",
-            "id": 3121,
+            "backdrop_path": "/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg",
+            "id": 10774,
             "original_language": "en",
-            "original_title": "Nashville",
-            "overview": "\u00c0 travers les itin\u00e9raires crois\u00e9s de vingt-quatre personnes qui se retrouvent dans la capitale de la country-music, vaste fresque sur les m\u0153urs am\u00e9ricaines et le monde du show business.",
-            "popularity": 2.8028,
-            "poster_path": "/2FDLRJkVUyFMgi8ULa1byMZXeTD.jpg",
-            "release_date": "1975-06-11",
-            "title": "Nashville",
+            "original_title": "Network",
+            "overview": "Au milieu des ann\u00e9es 70, les informations \u00e0 la t\u00e9l\u00e9vision changent. Le journalisme perd en effet pied face au pouvoir de l'argent et le besoin croissant de divertissement. Une r\u00e9daction se bat alors pour maintenir son audience sans se compromettre.",
+            "popularity": 3.2769,
+            "poster_path": "/dOeVDkHZWxAX9fYzzRCz2TNzxbT.jpg",
+            "release_date": "1976-11-19",
+            "title": "Network : Main basse sur la t\u00e9l\u00e9vision",
             "video": false,
-            "vote_average": 7.231,
-            "vote_count": 446,
+            "vote_average": 7.8,
+            "vote_count": 1922,
             "genres": [
-                "Drame",
-                "Com\u00e9die",
-                "Musique"
+                "Drame"
             ],
-            "runtime": 159,
-            "tagline": ""
+            "tagline": "La t\u00e9l\u00e9vision ne sera plus jamais la m\u00eame.",
+            "runtime": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+            "id": 1366,
+            "original_language": "en",
+            "original_title": "Rocky",
+            "overview": "Dans les quartiers populaires de Philadelphie, Rocky Balboa collecte des dettes non pay\u00e9es pour Tony Gazzo, un usurier, et dispute de temps \u00e0 autre, pour quelques dizaines de dollars, des combats de boxe sous l'appellation de 'l'\u00e9talon italien'. D\u00e9\u00e7u de le voir g\u00e2cher son talent, son entra\u00eeneur Mickey le laisse tomber, tandis qu'Apollo Creed, champion en titre, cherche un nouveau challenger...",
+            "popularity": 9.9674,
+            "poster_path": "/5cfUTKtLYJx8WcTRJII4JRnlg6p.jpg",
+            "release_date": "1976-11-20",
+            "title": "Rocky",
+            "video": false,
+            "vote_average": 7.792,
+            "vote_count": 8371,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Sa vie est \u00e0 un million contre un",
+            "runtime": 119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+            "id": 103,
+            "original_language": "en",
+            "original_title": "Taxi Driver",
+            "overview": "V\u00e9t\u00e9ran de la Guerre du Vietnam, Travis Bickle est chauffeur de taxi dans la ville de New York. Ses rencontres nocturnes et la violence quotidienne dont il est t\u00e9moin lui font peu \u00e0 peu perdre la t\u00eate. Il se charge bient\u00f4t de d\u00e9livrer une prostitu\u00e9e mineure de ses souteneurs.",
+            "popularity": 12.5344,
+            "poster_path": "/iyHQrfNsjZlfHJ8hyhNi0yAFnZa.jpg",
+            "release_date": "1976-02-09",
+            "title": "Taxi Driver",
+            "video": false,
+            "vote_average": 8.13,
+            "vote_count": 13085,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "Il est un homme oubli\u00e9, solitaire et d\u00e9sesp\u00e9r\u00e9 de prouver qu'il est vivant.",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -571,7 +632,7 @@
             "original_language": "en",
             "original_title": "Annie Hall",
             "overview": "Le n\u00e9vros\u00e9 Alvy Singer rencontre Annie Hall une femme excentrique dans la ville qu'il aime, New York.",
-            "popularity": 2.7157,
+            "popularity": 2.877,
             "poster_path": "/wkqBnx6s63seSHBr5lW3UGIHi6Z.jpg",
             "release_date": "1977-04-19",
             "title": "Annie Hall",
@@ -583,69 +644,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 93,
-            "tagline": "Une romance nerveuse."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
-            "id": 1366,
-            "original_language": "en",
-            "original_title": "Rocky",
-            "overview": "Dans les quartiers populaires de Philadelphie, Rocky Balboa collecte des dettes non pay\u00e9es pour Tony Gazzo, un usurier, et dispute de temps \u00e0 autre, pour quelques dizaines de dollars, des combats de boxe sous l'appellation de 'l'\u00e9talon italien'. D\u00e9\u00e7u de le voir g\u00e2cher son talent, son entra\u00eeneur Mickey le laisse tomber, tandis qu'Apollo Creed, champion en titre, cherche un nouveau challenger...",
-            "popularity": 10.0538,
-            "poster_path": "/5cfUTKtLYJx8WcTRJII4JRnlg6p.jpg",
-            "release_date": "1976-11-20",
-            "title": "Rocky",
-            "video": false,
-            "vote_average": 7.792,
-            "vote_count": 8371,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 119,
-            "tagline": "Sa vie est \u00e0 un million contre un"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg",
-            "id": 10774,
-            "original_language": "en",
-            "original_title": "Network",
-            "overview": "Au milieu des ann\u00e9es 70, les informations \u00e0 la t\u00e9l\u00e9vision changent. Le journalisme perd en effet pied face au pouvoir de l'argent et le besoin croissant de divertissement. Une r\u00e9daction se bat alors pour maintenir son audience sans se compromettre.",
-            "popularity": 3.826,
-            "poster_path": "/dOeVDkHZWxAX9fYzzRCz2TNzxbT.jpg",
-            "release_date": "1976-11-19",
-            "title": "Network : Main basse sur la t\u00e9l\u00e9vision",
-            "video": false,
-            "vote_average": 7.8,
-            "vote_count": 1922,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 121,
-            "tagline": "La t\u00e9l\u00e9vision ne sera plus jamais la m\u00eame."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
-            "id": 103,
-            "original_language": "en",
-            "original_title": "Taxi Driver",
-            "overview": "V\u00e9t\u00e9ran de la Guerre du Vietnam, Travis Bickle est chauffeur de taxi dans la ville de New York. Ses rencontres nocturnes et la violence quotidienne dont il est t\u00e9moin lui font peu \u00e0 peu perdre la t\u00eate. Il se charge bient\u00f4t de d\u00e9livrer une prostitu\u00e9e mineure de ses souteneurs.",
-            "popularity": 13.5594,
-            "poster_path": "/iyHQrfNsjZlfHJ8hyhNi0yAFnZa.jpg",
-            "release_date": "1976-02-09",
-            "title": "Taxi Driver",
-            "video": false,
-            "vote_average": 8.1,
-            "vote_count": 13083,
-            "genres": [
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 115,
-            "tagline": "Il est un homme oubli\u00e9, solitaire et d\u00e9sesp\u00e9r\u00e9 de prouver qu'il est vivant."
+            "tagline": "Une romance nerveuse.",
+            "runtime": 93
         },
         {
             "adult": false,
@@ -654,7 +654,7 @@
             "original_language": "en",
             "original_title": "Close Encounters of the Third Kind",
             "overview": "Des faits \u00e9tranges se produisent un peu partout dans le monde : des avions qui avaient disparu durant la Seconde Guerre mondiale sont retrouv\u00e9s au Mexique en parfait \u00e9tat de marche, un cargo est d\u00e9couvert \u00e9chou\u00e9 au beau milieu du d\u00e9sert de Gobi. Dans l'Indiana, pendant qu'une coupure d'\u00e9lectricit\u00e9 paralyse la banlieue, Roy Neary, un r\u00e9parateur de c\u00e2bles, voit une \"soucoupe volante\" passer au-dessus de sa voiture. D'autres personnes sont \u00e9galement t\u00e9moins de ce type de ph\u00e9nom\u00e8ne : Barry Guiler, un petit gar\u00e7on de quatre ans, est r\u00e9veill\u00e9 par le bruit de ses jouets qui se mettent en route. Cherchant \u00e0 savoir d'o\u00f9 proviennent ces ovnis, Roy Neary se heurte aux rigoureuses consignes de silence impos\u00e9es par le gouvernement f\u00e9d\u00e9ral. Obs\u00e9d\u00e9 par ce qu'il a vu et hant\u00e9 par une image de montagne qu'il essaie d\u00e9sesp\u00e9r\u00e9ment de reconstituer, il est abandonn\u00e9 par sa femme Ronnie et ses enfants. Il n'y a que Jillian, la m\u00e8re de Barry, qui le comprenne.",
-            "popularity": 3.5756,
+            "popularity": 4.1127,
             "poster_path": "/jznNbJ80WvvlbLdGEjNsvwycDZC.jpg",
             "release_date": "1977-12-14",
             "title": "Rencontres du troisi\u00e8me type",
@@ -665,51 +665,8 @@
                 "Science-Fiction",
                 "Drame"
             ],
-            "runtime": 135,
-            "tagline": "Nous ne sommes pas seuls."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
-            "id": 11,
-            "original_language": "en",
-            "original_title": "Star Wars",
-            "overview": "Il y a bien longtemps, dans une galaxie tr\u00e8s lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Captur\u00e9e par les troupes de choc de l'Empereur men\u00e9es par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l\u2019\u00c9toile Noire, une station spatiale invuln\u00e9rable, \u00e0 son dro\u00efde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagn\u00e9 de son fid\u00e8le compagnon, le dro\u00efde de protocole C-3PO, R2-D2 s'\u00e9choue sur la plan\u00e8te Tatooine et termine sa qu\u00eate chez le jeune Luke Skywalker. R\u00eavant de devenir pilote mais confin\u00e9 aux travaux de la ferme, ce dernier se lance \u00e0 la recherche de ce myst\u00e9rieux Obi-Wan Kenobi, devenu ermite au c\u0153ur des montagnes d\u00e9sertiques de Tatooine...",
-            "popularity": 20.208,
-            "poster_path": "/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg",
-            "release_date": "1977-05-25",
-            "title": "La Guerre des \u00e9toiles",
-            "video": false,
-            "vote_average": 8.202,
-            "vote_count": 21815,
-            "genres": [
-                "Aventure",
-                "Action",
-                "Science-Fiction"
-            ],
-            "runtime": 121,
-            "tagline": "\u201cQue la force soit avec toi.\u201d"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ojG57hVx69vhk5DDGPIcfyRR55I.jpg",
-            "id": 11778,
-            "original_language": "en",
-            "original_title": "The Deer Hunter",
-            "overview": "Un groupe d'amis de la classe ouvri\u00e8re et amateurs de la chasse aux daims d\u00e9cident de s'enr\u00f4ler dans l'arm\u00e9e pendant la guerre du Vietnam et d\u00e9couvrent que c'est un chaos infernal \u2013 pas la noble aventure qu'ils avaient imagin\u00e9e. Avant de partir, Steven a \u00e9pous\u00e9 sa petite amie enceinte \u2013 et Michael et Nick \u00e9taient amoureux de la m\u00eame femme. Mais \u00e0 leur retour, tous les trois sont des hommes diff\u00e9rents.",
-            "popularity": 5.2811,
-            "poster_path": "/s27zqyyCJvSm72f3uThjxcgmX6M.jpg",
-            "release_date": "1978-12-08",
-            "title": "Voyage au bout de l\u2019enfer",
-            "video": false,
-            "vote_average": 7.985,
-            "vote_count": 4100,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 183,
-            "tagline": "Second film de Michael Cimino qui marque une \u00e9tape essentielle dans l\u2019\u00e9volution du cin\u00e9ma am\u00e9ricain. L\u2019un des films les plus importants et puissants de tous les temps !"
+            "tagline": "Nous ne sommes pas seuls.",
+            "runtime": 135
         },
         {
             "adult": false,
@@ -718,7 +675,7 @@
             "original_language": "en",
             "original_title": "Saturday Night Fever",
             "overview": "\u00c0 19 ans, le jeune Tony Manero est le roi du weekend, la star des dance-floors de son quartier de Brooklyn. Mais la semaine, le retour \u00e0 la vraie vie est difficile. Jusqu'au jour o\u00f9 Tony rencontre la belle Stephanie qui lui fait prendre conscience qu'il existe peut-\u00eatre un autre monde \u00e0 d\u00e9couvrir au-del\u00e0 des murs de brique des bas-quartiers de New York.",
-            "popularity": 3.1065,
+            "popularity": 2.6632,
             "poster_path": "/psg46TubysFxNxxy20VBK1hc4nk.jpg",
             "release_date": "1977-12-16",
             "title": "La Fi\u00e8vre du samedi soir",
@@ -729,29 +686,30 @@
                 "Musique",
                 "Drame"
             ],
-            "runtime": 118,
-            "tagline": "Laissez-vous gagner par\u2026"
+            "tagline": "Laissez-vous gagner par\u2026",
+            "runtime": 118
         },
         {
             "adult": false,
-            "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
-            "id": 948,
+            "backdrop_path": "/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
+            "id": 11,
             "original_language": "en",
-            "original_title": "Halloween",
-            "overview": "Il y a 15 ans, dans une petite ville des \u00c9tats-Unis, le soir d\u2019Halloween, au cours de laquelle les enfants ont l\u2019habitude de se d\u00e9guiser, un petit gar\u00e7on, Michael, \u00e9pie sa s\u0153ur et son ami qui flirtent. Michael les suit et, arm\u00e9 d\u2019un couteau de cuisine, assassine la jeune fille. Quinze ans plus tard, un psychiatre, le docteur Loomis qui \u00e9tudie le cas du jeune meurtrier apprend que le criminel s\u2019est \u00e9chapp\u00e9 : il est revenu sur les lieux de son crime pour continuer son \u0153uvre\u2026",
-            "popularity": 6.9786,
-            "poster_path": "/r1ME6ZFxmZ6vFYqt9PHepiIb1t.jpg",
-            "release_date": "1978-10-24",
-            "title": "La Nuit des masques",
+            "original_title": "Star Wars",
+            "overview": "Il y a bien longtemps, dans une galaxie tr\u00e8s lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Captur\u00e9e par les troupes de choc de l'Empereur men\u00e9es par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l\u2019\u00c9toile Noire, une station spatiale invuln\u00e9rable, \u00e0 son dro\u00efde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagn\u00e9 de son fid\u00e8le compagnon, le dro\u00efde de protocole C-3PO, R2-D2 s'\u00e9choue sur la plan\u00e8te Tatooine et termine sa qu\u00eate chez le jeune Luke Skywalker. R\u00eavant de devenir pilote mais confin\u00e9 aux travaux de la ferme, ce dernier se lance \u00e0 la recherche de ce myst\u00e9rieux Obi-Wan Kenobi, devenu ermite au c\u0153ur des montagnes d\u00e9sertiques de Tatooine...",
+            "popularity": 19.7405,
+            "poster_path": "/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg",
+            "release_date": "1977-05-25",
+            "title": "La Guerre des \u00e9toiles",
             "video": false,
-            "vote_average": 7.556,
-            "vote_count": 6020,
+            "vote_average": 8.202,
+            "vote_count": 21816,
             "genres": [
-                "Horreur",
-                "Thriller"
+                "Aventure",
+                "Action",
+                "Science-Fiction"
             ],
-            "runtime": 91,
-            "tagline": "Cette nuit l\u00e0, \u00ab il \u00bb est revenu\u2026"
+            "tagline": "\u201cQue la force soit avec toi.\u201d",
+            "runtime": 121
         },
         {
             "adult": false,
@@ -760,7 +718,7 @@
             "original_language": "en",
             "original_title": "Days of Heaven",
             "overview": "Ouvrier dans une aci\u00e9rie, Bill s'enfuit de Chicago, emmenant avec lui sa jeune soeur, Linda, et Abby, sa compagne. Tous trois arrivent au Texas au moment o\u00f9 commencent les moissons. Ils sont embauch\u00e9s chez un riche propri\u00e9taire terrien, Chuck. Celui-ci remarque bient\u00f4t la beaut\u00e9 d'Abby, que Bill, pour simplifier les choses, fait passer pour sa soeur. Bient\u00f4t, le paysan improvis\u00e9 apprend que Chuck est condamn\u00e9 par la maladie. Sans aucun \u00e9tat d'\u00e2me, il pousse Abby \u00e0 r\u00e9pondre aux avances de Chuck. Un mariage est bient\u00f4t projet\u00e9 pour sceller leur union. Toutefois, avec le temps, Abby finit par s'attacher \u00e0 cette \u00e9trange personnalit\u00e9, au grand d\u00e9sespoir de Bill...",
-            "popularity": 1.6882,
+            "popularity": 1.5512,
             "poster_path": "/z0LD6ae6KzlnOGYqmAzIgxhEHgq.jpg",
             "release_date": "1978-09-13",
             "title": "Les Moissons du ciel",
@@ -771,29 +729,50 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 94,
-            "tagline": "Il faut traverser l'Enfer avant d'arriver au Paradis"
+            "tagline": "Il faut traverser l'Enfer avant d'arriver au Paradis",
+            "runtime": 94
         },
         {
             "adult": false,
-            "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
-            "id": 10322,
+            "backdrop_path": "/ojG57hVx69vhk5DDGPIcfyRR55I.jpg",
+            "id": 11778,
             "original_language": "en",
-            "original_title": "Being There",
-            "overview": "Un jardinier quinquag\u00e9naire pr\u00e9nomm\u00e9 Chance, homme na\u00eff et simple, coule une vie sans heurts \u00e0 prendre soin du jardin d'une calme propri\u00e9t\u00e9 de Washington. Il vit quasiment retir\u00e9 du monde, ne sort jamais, n'est jamais mont\u00e9 dans une automobile et sa seule distraction est la t\u00e9l\u00e9vision, qu'il contemple avec assiduit\u00e9 et fascination. Oblig\u00e9 de quitter cette maison et cette activit\u00e9 \u00e0 la suite du d\u00e9c\u00e8s de son employeur, Chance est heurt\u00e9, dans la rue, par un v\u00e9hicule dont la propri\u00e9taire, Eve Rand, l'accueille \u00e0 son domicile pour lui faire prodiguer des soins. Chance se lie avec Benjamin Rand, le mari, qui, peu apr\u00e8s, re\u00e7oit la visite du pr\u00e9sident des \u00c9tats-Unis. Chance prend part \u00e0 l'entretien et ce avec un tel naturel que ses phrases, distill\u00e9es comme des proverbes de sagesse mais, en r\u00e9alit\u00e9, orient\u00e9es jardinage, vont \u00eatre prises pour de v\u00e9ritables oracles. Il va ainsi devenir la coqueluche du pouvoir et des m\u00e9dias.",
-            "popularity": 1.5744,
-            "poster_path": "/cN2RppmWwiEwv69NTMZFk2YJLcN.jpg",
-            "release_date": "1979-12-19",
-            "title": "Bienvenue, Mister Chance",
+            "original_title": "The Deer Hunter",
+            "overview": "Un groupe d'amis de la classe ouvri\u00e8re et amateurs de la chasse aux daims d\u00e9cident de s'enr\u00f4ler dans l'arm\u00e9e pendant la guerre du Vietnam et d\u00e9couvrent que c'est un chaos infernal \u2013 pas la noble aventure qu'ils avaient imagin\u00e9e. Avant de partir, Steven a \u00e9pous\u00e9 sa petite amie enceinte \u2013 et Michael et Nick \u00e9taient amoureux de la m\u00eame femme. Mais \u00e0 leur retour, tous les trois sont des hommes diff\u00e9rents.",
+            "popularity": 5.5968,
+            "poster_path": "/s27zqyyCJvSm72f3uThjxcgmX6M.jpg",
+            "release_date": "1978-12-08",
+            "title": "Voyage au bout de l\u2019enfer",
             "video": false,
-            "vote_average": 7.592,
-            "vote_count": 1086,
+            "vote_average": 7.985,
+            "vote_count": 4100,
             "genres": [
-                "Com\u00e9die",
-                "Drame"
+                "Drame",
+                "Guerre"
             ],
-            "runtime": 130,
-            "tagline": "Bienvenue Mister Chance est le dernier film de Peter Sellers sorti de son vivant."
+            "tagline": "Second film de Michael Cimino qui marque une \u00e9tape essentielle dans l\u2019\u00e9volution du cin\u00e9ma am\u00e9ricain. L\u2019un des films les plus importants et puissants de tous les temps !",
+            "runtime": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+            "id": 948,
+            "original_language": "en",
+            "original_title": "Halloween",
+            "overview": "Il y a 15 ans, dans une petite ville des \u00c9tats-Unis, le soir d\u2019Halloween, au cours de laquelle les enfants ont l\u2019habitude de se d\u00e9guiser, un petit gar\u00e7on, Michael, \u00e9pie sa s\u0153ur et son ami qui flirtent. Michael les suit et, arm\u00e9 d\u2019un couteau de cuisine, assassine la jeune fille. Quinze ans plus tard, un psychiatre, le docteur Loomis qui \u00e9tudie le cas du jeune meurtrier apprend que le criminel s\u2019est \u00e9chapp\u00e9 : il est revenu sur les lieux de son crime pour continuer son \u0153uvre\u2026",
+            "popularity": 7.4179,
+            "poster_path": "/r1ME6ZFxmZ6vFYqt9PHepiIb1t.jpg",
+            "release_date": "1978-10-24",
+            "title": "La Nuit des masques",
+            "video": false,
+            "vote_average": 7.556,
+            "vote_count": 6021,
+            "genres": [
+                "Horreur",
+                "Thriller"
+            ],
+            "tagline": "Cette nuit l\u00e0, \u00ab il \u00bb est revenu\u2026",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -802,7 +781,7 @@
             "original_language": "en",
             "original_title": "Alien",
             "overview": "En 2122, le Nostromo, vaisseau de commerce, fait route vers la Terre avec \u00e0 son bord un \u00e9quipage de sept personnes en hibernation et une cargaison de minerais. Il interrompt soudain sa course suite \u00e0 la r\u00e9ception d\u2019un myst\u00e9rieux message provenant d\u2019une plan\u00e8te inexplor\u00e9e. R\u00e9veill\u00e9 par l\u2019ordinateur de bord, l\u2019\u00e9quipage se rend sur place et d\u00e9couvre les restes d\u2019un gigantesque vaisseau extraterrestre dont le seul passager semble \u00eatre mort dans d\u2019\u00e9tranges circonstances\u2026",
-            "popularity": 15.9954,
+            "popularity": 16.4219,
             "poster_path": "/l8CES84JndFlNfBNMxdLRYaLvI6.jpg",
             "release_date": "1979-05-25",
             "title": "Alien, le huiti\u00e8me passager",
@@ -813,8 +792,8 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 117,
-            "tagline": "Dans l\u2019espace, personne ne vous entend crier."
+            "tagline": "Dans l\u2019espace, personne ne vous entend crier.",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -823,19 +802,40 @@
             "original_language": "en",
             "original_title": "Apocalypse Now",
             "overview": "Clo\u00eetr\u00e9 dans une chambre d'h\u00f4tel de Sa\u00efgon, le jeune capitaine Willard, mal ras\u00e9 et imbib\u00e9 d'alcool, est sorti de sa prostration par une convocation de l'\u00e9tat-major am\u00e9ricain. Le g\u00e9n\u00e9ral Corman lui confie une mission qui doit rester secr\u00e8te : \u00e9liminer le colonel Kurtz, un militaire aux m\u00e9thodes quelque peu exp\u00e9ditives et qui s\u00e9vit au-del\u00e0 de la fronti\u00e8re cambodgienne.",
-            "popularity": 10.6511,
+            "popularity": 11.9778,
             "poster_path": "/scaiAT7I2KZ2GAeMvoU6Ro1515J.jpg",
             "release_date": "1979-05-19",
             "title": "Apocalypse Now",
             "video": false,
             "vote_average": 8.268,
-            "vote_count": 8800,
+            "vote_count": 8802,
             "genres": [
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 153,
-            "tagline": "La fin est proche\u2026"
+            "tagline": "La fin est proche\u2026",
+            "runtime": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+            "id": 10322,
+            "original_language": "en",
+            "original_title": "Being There",
+            "overview": "Un jardinier quinquag\u00e9naire pr\u00e9nomm\u00e9 Chance, homme na\u00eff et simple, coule une vie sans heurts \u00e0 prendre soin du jardin d'une calme propri\u00e9t\u00e9 de Washington. Il vit quasiment retir\u00e9 du monde, ne sort jamais, n'est jamais mont\u00e9 dans une automobile et sa seule distraction est la t\u00e9l\u00e9vision, qu'il contemple avec assiduit\u00e9 et fascination. Oblig\u00e9 de quitter cette maison et cette activit\u00e9 \u00e0 la suite du d\u00e9c\u00e8s de son employeur, Chance est heurt\u00e9, dans la rue, par un v\u00e9hicule dont la propri\u00e9taire, Eve Rand, l'accueille \u00e0 son domicile pour lui faire prodiguer des soins. Chance se lie avec Benjamin Rand, le mari, qui, peu apr\u00e8s, re\u00e7oit la visite du pr\u00e9sident des \u00c9tats-Unis. Chance prend part \u00e0 l'entretien et ce avec un tel naturel que ses phrases, distill\u00e9es comme des proverbes de sagesse mais, en r\u00e9alit\u00e9, orient\u00e9es jardinage, vont \u00eatre prises pour de v\u00e9ritables oracles. Il va ainsi devenir la coqueluche du pouvoir et des m\u00e9dias.",
+            "popularity": 1.4676,
+            "poster_path": "/cN2RppmWwiEwv69NTMZFk2YJLcN.jpg",
+            "release_date": "1979-12-19",
+            "title": "Bienvenue, Mister Chance",
+            "video": false,
+            "vote_average": 7.592,
+            "vote_count": 1086,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "Bienvenue Mister Chance est le dernier film de Peter Sellers sorti de son vivant.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -844,7 +844,7 @@
             "original_language": "en",
             "original_title": "Manhattan",
             "overview": "Isaac Davis est un auteur de sketches comiques new-yorkais de 42 ans que son \u00e9pouse Jil vient de quitter. Celle-ci vit maintenant avec une autre femme, Connie, et \u00e9crit un livre sur son ancienne vie conjugale. Isaac, quant \u00e0 lui, entretient avec une coll\u00e9gienne de 17 ans, Tracy, une liaison dont il lui rappelle le caract\u00e8re \u00e9ph\u00e9m\u00e8re. Il l'abandonne bient\u00f4t pour se mettre en m\u00e9nage avec Mary Wilke, la ma\u00eetresse de Yale Pollack, son meilleur ami.",
-            "popularity": 1.8828,
+            "popularity": 1.6401,
             "poster_path": "/As4g0bORr4HmcKrv09SHtNYVH6l.jpg",
             "release_date": "1979-04-25",
             "title": "Manhattan",
@@ -856,8 +856,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         }
     ]
 }

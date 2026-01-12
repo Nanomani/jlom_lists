@@ -4,9 +4,53 @@
     "source": "https://criticstop10.com/best-movies-of-1982/",
     "created_by": "lbnt",
     "added": "07/29/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+            "id": 601,
+            "original_language": "en",
+            "original_title": "E.T. the Extra-Terrestrial",
+            "overview": "Une soucoupe volante atterrit en pleine nuit pr\u00e8s de Los Angeles. Quelques extraterrestres, envoy\u00e9s sur Terre en mission d\u2019exploration botanique, sortent de l\u2019engin, mais un des leurs s\u2019aventure au-del\u00e0 de la clairi\u00e8re o\u00f9 se trouve la navette. Celui-ci se dirige alors vers la ville. C\u2019est sa premi\u00e8re d\u00e9couverte de la civilisation humaine. Bient\u00f4t traqu\u00e9e par des militaires et abandonn\u00e9e par les siens, cette petite cr\u00e9ature apeur\u00e9e se nommant E.T. se r\u00e9fugie dans une r\u00e9sidence de banlieue. Elliot, un gar\u00e7on de dix ans, le d\u00e9couvre et lui construit un abri dans son armoire. Rapproch\u00e9s par un \u00e9change t\u00e9l\u00e9pathique, les deux \u00eatres ne tardent pas \u00e0 devenir amis. Aid\u00e9 par sa s\u0153ur Gertie et son fr\u00e8re a\u00een\u00e9 Michael, Elliot va alors tenter de garder la pr\u00e9sence d'E.T. secr\u00e8te.",
+            "popularity": 15.2248,
+            "poster_path": "/5jl5sfhTeAlp60rM9GxoDA2dmX9.jpg",
+            "release_date": "1982-06-11",
+            "title": "E.T. l'extra-terrestre",
+            "video": false,
+            "vote_average": 7.511,
+            "vote_count": 11735,
+            "genres": [
+                "Science-Fiction",
+                "Aventure",
+                "Familial",
+                "Fantastique"
+            ],
+            "tagline": "Il a peur. Il est seul. Il est \u00e0 3 millions d\u2019ann\u00e9es lumi\u00e8re de chez lui.",
+            "runtime": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+            "id": 9576,
+            "original_language": "en",
+            "original_title": "Tootsie",
+            "overview": "Michael Dorsey, acteur exigeant sur le d\u00e9clin, d\u00e9sesp\u00e8re de d\u00e9crocher \u00e0 nouveau un r\u00f4le. Sans trop y croire, il d\u00e9cide alors de se cr\u00e9er une nouvelle personnalit\u00e9\u00a0: il sera Dorothy Michaels, une femme dot\u00e9e d\u2019une forte personnalit\u00e9. Or son d\u00e9guisement va non seulement lui permettre de jouer dans une s\u00e9rie t\u00e9l\u00e9vis\u00e9e, mais m\u00eame lui attirer un vrai public de fans. Si ce nouveau statut n\u2019est pas pour lui d\u00e9plaire, il se trouve bient\u00f4t confront\u00e9 \u00e0 un dilemme difficile\u00a0: comment avouer \u00e0 sa coll\u00e8gue Julie Nichols, qui a fait de lui sa confidente, qu\u2019il est en r\u00e9alit\u00e9 un travesti amoureux d\u2019elle\u202f?",
+            "popularity": 3.5202,
+            "poster_path": "/7Cc7PpsW4KFzy4YeJcuJcNEYcj0.jpg",
+            "release_date": "1982-12-17",
+            "title": "Tootsie",
+            "video": false,
+            "vote_average": 7.207,
+            "vote_count": 1868,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "Au ch\u00f4mage il a accept\u00e9 un r\u00f4le f\u00e9minin et est devenu une star. Si seulement il pouvait le dire \u00e0 la femme qu\u2019il aime.",
+            "runtime": 117
+        },
         {
             "adult": false,
             "backdrop_path": "/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
@@ -14,7 +58,7 @@
             "original_language": "en",
             "original_title": "The Verdict",
             "overview": "Avocat d\u00e9chu et alcoolique, Frank Galvin racole ses clients dans les salons fun\u00e9raires jusqu'au jour o\u00f9 il accepte de travailler sur l'affaire d'une jeune femme victime d'une erreur m\u00e9dicale et plong\u00e9e dans le coma. Ce dossier qui risque de provoquer un scandale et de nuire \u00e0 la r\u00e9putation de l'h\u00f4pital, va \u00eatre pour l'avocat l'occasion de retrouver sa dignit\u00e9\u2026 ou de la perdre d\u00e9finitivement.",
-            "popularity": 1.7593,
+            "popularity": 1.858,
             "poster_path": "/yjbkiu7NisLYblvXlsYo61aodgl.jpg",
             "release_date": "1982-12-08",
             "title": "Le Verdict",
@@ -24,30 +68,29 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 129,
-            "tagline": "Ni pour l\u2019argent. Ni pour la gloire. Seulement pour la justice."
+            "tagline": "Ni pour l\u2019argent. Ni pour la gloire. Seulement pour la justice.",
+            "runtime": 129
         },
         {
             "adult": false,
-            "backdrop_path": "/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
-            "id": 15764,
+            "backdrop_path": "/teiop9EWCTTlQ833jrhUPKkK5fs.jpg",
+            "id": 13776,
             "original_language": "en",
-            "original_title": "Sophie's Choice",
-            "overview": "Un \u00e9crivain r\u00e9cemment installe a New York se lie d'amiti\u00e9 avec un couple fort \u00e9trange. Il s'agit de Sophie, polonaise r\u00e9cemment install\u00e9e aux Etats-Unis et de son amant Nathan brillant intellectuel juif.",
-            "popularity": 2.0268,
-            "poster_path": "/giT8BMmfmkCkD5w12uvkIulIl9g.jpg",
-            "release_date": "1982-12-08",
-            "title": "Le Choix de Sophie",
+            "original_title": "Diner",
+            "overview": "No\u00ebl 1959. cinq jeunes hommes r\u00e9sistent au passage \u00e0 l'\u00e2ge adulte en cherchant refuge dans leur cher restaurant, le \"Diner\".",
+            "popularity": 0.942,
+            "poster_path": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+            "release_date": "1982-04-02",
+            "title": "Diner",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 906,
+            "vote_average": 6.8,
+            "vote_count": 296,
             "genres": [
-                "Drame",
-                "Romance",
-                "Guerre"
+                "Com\u00e9die",
+                "Drame"
             ],
-            "runtime": 150,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -56,7 +99,7 @@
             "original_language": "en",
             "original_title": "Missing",
             "overview": "Charles et Beth vivent en parfaite harmonie avec les habitants d'un quartier populaire de Santiago du Chili. Le 11 septembre 1973 \u00e9clate le coup d'Etat du g\u00e9n\u00e9ral Pinochet. Charles d\u00e9couvre la pr\u00e9sence surprenante de conseillers am\u00e9ricains sur le sol chilien. Depuis ce jour, nul ne l'a revu. Son p\u00e8re, un am\u00e9ricain, impr\u00e8gn\u00e9 des vertus de son pays, part \u00e0 sa recherche.",
-            "popularity": 0.7385,
+            "popularity": 0.8072,
             "poster_path": "/2gIqIVKTw1ItXhPZbDHNqsO4s30.jpg",
             "release_date": "1982-02-12",
             "title": "Missing",
@@ -68,52 +111,8 @@
                 "Myst\u00e8re",
                 "Thriller"
             ],
-            "runtime": 122,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
-            "id": 9576,
-            "original_language": "en",
-            "original_title": "Tootsie",
-            "overview": "Michael Dorsey, acteur exigeant sur le d\u00e9clin, d\u00e9sesp\u00e8re de d\u00e9crocher \u00e0 nouveau un r\u00f4le. Sans trop y croire, il d\u00e9cide alors de se cr\u00e9er une nouvelle personnalit\u00e9\u00a0: il sera Dorothy Michaels, une femme dot\u00e9e d\u2019une forte personnalit\u00e9. Or son d\u00e9guisement va non seulement lui permettre de jouer dans une s\u00e9rie t\u00e9l\u00e9vis\u00e9e, mais m\u00eame lui attirer un vrai public de fans. Si ce nouveau statut n\u2019est pas pour lui d\u00e9plaire, il se trouve bient\u00f4t confront\u00e9 \u00e0 un dilemme difficile\u00a0: comment avouer \u00e0 sa coll\u00e8gue Julie Nichols, qui a fait de lui sa confidente, qu\u2019il est en r\u00e9alit\u00e9 un travesti amoureux d\u2019elle\u202f?",
-            "popularity": 3.8811,
-            "poster_path": "/7Cc7PpsW4KFzy4YeJcuJcNEYcj0.jpg",
-            "release_date": "1982-12-17",
-            "title": "Tootsie",
-            "video": false,
-            "vote_average": 7.207,
-            "vote_count": 1868,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 117,
-            "tagline": "Au ch\u00f4mage il a accept\u00e9 un r\u00f4le f\u00e9minin et est devenu une star. Si seulement il pouvait le dire \u00e0 la femme qu\u2019il aime."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-            "id": 601,
-            "original_language": "en",
-            "original_title": "E.T. the Extra-Terrestrial",
-            "overview": "Une soucoupe volante atterrit en pleine nuit pr\u00e8s de Los Angeles. Quelques extraterrestres, envoy\u00e9s sur Terre en mission d\u2019exploration botanique, sortent de l\u2019engin, mais un des leurs s\u2019aventure au-del\u00e0 de la clairi\u00e8re o\u00f9 se trouve la navette. Celui-ci se dirige alors vers la ville. C\u2019est sa premi\u00e8re d\u00e9couverte de la civilisation humaine. Bient\u00f4t traqu\u00e9e par des militaires et abandonn\u00e9e par les siens, cette petite cr\u00e9ature apeur\u00e9e se nommant E.T. se r\u00e9fugie dans une r\u00e9sidence de banlieue. Elliot, un gar\u00e7on de dix ans, le d\u00e9couvre et lui construit un abri dans son armoire. Rapproch\u00e9s par un \u00e9change t\u00e9l\u00e9pathique, les deux \u00eatres ne tardent pas \u00e0 devenir amis. Aid\u00e9 par sa s\u0153ur Gertie et son fr\u00e8re a\u00een\u00e9 Michael, Elliot va alors tenter de garder la pr\u00e9sence d'E.T. secr\u00e8te.",
-            "popularity": 19.8143,
-            "poster_path": "/5jl5sfhTeAlp60rM9GxoDA2dmX9.jpg",
-            "release_date": "1982-06-11",
-            "title": "E.T. l'extra-terrestre",
-            "video": false,
-            "vote_average": 7.511,
-            "vote_count": 11733,
-            "genres": [
-                "Science-Fiction",
-                "Aventure",
-                "Familial",
-                "Fantastique"
-            ],
-            "runtime": 115,
-            "tagline": "Il a peur. Il est seul. Il est \u00e0 3 millions d\u2019ann\u00e9es lumi\u00e8re de chez lui."
+            "tagline": "",
+            "runtime": 122
         },
         {
             "adult": false,
@@ -122,7 +121,7 @@
             "original_language": "en",
             "original_title": "Gandhi",
             "overview": "Reconstitution historique \u00e0 grand spectacle de la vie de celui que l'on surnomma le \"mahatma\". La carri\u00e8re de Gandhi comme avocat d\u00e9bute en Afrique du Sud o\u00f9 il d\u00e9fend les droits de la minorit\u00e9 indienne, ce qui a un grand retentissement dans son pays. Plus tard, dans ses luttes contre les Anglais, il pr\u00f4nera toujours la non-violence et usera essentiellement de l'arme de la gr\u00e8ve de la faim.",
-            "popularity": 5.492,
+            "popularity": 5.2503,
             "poster_path": "/eTv0wtWoBwrkme13ja0ThSybZZe.jpg",
             "release_date": "1982-12-01",
             "title": "Gandhi",
@@ -133,29 +132,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 190,
-            "tagline": "Son triomphe a chang\u00e9 le monde pour toujours."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/teiop9EWCTTlQ833jrhUPKkK5fs.jpg",
-            "id": 13776,
-            "original_language": "en",
-            "original_title": "Diner",
-            "overview": "No\u00ebl 1959. cinq jeunes hommes r\u00e9sistent au passage \u00e0 l'\u00e2ge adulte en cherchant refuge dans leur cher restaurant, le \"Diner\".",
-            "popularity": 1.1355,
-            "poster_path": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
-            "release_date": "1982-04-02",
-            "title": "Diner",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 296,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 110,
-            "tagline": ""
+            "tagline": "Son triomphe a chang\u00e9 le monde pour toujours.",
+            "runtime": 190
         },
         {
             "adult": false,
@@ -164,7 +142,7 @@
             "original_language": "de",
             "original_title": "Das Boot",
             "overview": "Pendant la deuxi\u00e8me Guerre Mondiale, 40 000 sous-mariniers allemands envoy\u00e9s par Hitler embarquent pour une mission de routine dans l'Atlantique Nord. L'insouciance r\u00e8gne \u00e0 bord. Ce qu'ils ne savent pas, c'est que seuls 10 000 hommes retourneront chez eux vivants.",
-            "popularity": 4.9594,
+            "popularity": 4.7648,
             "poster_path": "/8U15vfe1FzIVAMYwUTHsbqKw4Ap.jpg",
             "release_date": "1981-09-17",
             "title": "Le Bateau",
@@ -176,29 +154,8 @@
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 149,
-            "tagline": "Un voyage aux limites de l'enfer."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bEc081q9Ju5QLEOvAc6vMWUjW1p.jpg",
-            "id": 11307,
-            "original_language": "en",
-            "original_title": "The World According to Garp",
-            "overview": "Un jeune \u00e9crivain en difficult\u00e9 voit sa vie et son travail domin\u00e9s par sa femme infid\u00e8le et sa m\u00e8re f\u00e9ministe radicale, dont le manifeste \u00e0 succ\u00e8s fait d'elle une ic\u00f4ne culturelle.  Voici les destins parall\u00e8les et antagonistes d'une f\u00e9ministe et de son fils.",
-            "popularity": 1.0624,
-            "poster_path": "/2cVmCK97WrlbQT088kpECwLwCMx.jpg",
-            "release_date": "1982-07-23",
-            "title": "Le Monde Selon Garp",
-            "video": false,
-            "vote_average": 6.7,
-            "vote_count": 370,
-            "genres": [
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 130,
-            "tagline": "Robin est Garp. Il a une dr\u00f4le de fa\u00e7on de voir la vie."
+            "tagline": "Un voyage aux limites de l'enfer.",
+            "runtime": 149
         },
         {
             "adult": false,
@@ -207,7 +164,7 @@
             "original_language": "en",
             "original_title": "An Officer and a Gentleman",
             "overview": "Fils de Byron Mayo, sous-officier de marine alcoolique et d\u00e9prav\u00e9, Zack Mayo conna\u00eet une enfance difficile, aux Philippines, en compagnie d'un p\u00e8re qu'il m\u00e9prise. Zack s'inscrit \u00e0 l'\u00e9cole des officiers de l'a\u00e9ronavale pour devenir pilote et \u00e9chapper \u00e0 sa sordide condition. Pendant ses classes, il fait le dur apprentissage de la discipline, de l\u2019amiti\u00e9 et de l\u2019amour. Malgr\u00e9 les avertissements d'Emil Foley son sergent instructeur au sujet des filles de la r\u00e9gion qui se font faire un enfant afin d\u2019\u00e9pouser les \u00e9l\u00e8ves pilotes, Zack tombe peu \u00e0 peu amoureux de l\u2019une d\u2019entre elles, Paula Pokrifki...",
-            "popularity": 2.8168,
+            "popularity": 2.4772,
             "poster_path": "/7xaGeNgsx9X0Yw4q9Iz8c04ibkn.jpg",
             "release_date": "1982-07-28",
             "title": "Officier et Gentleman",
@@ -218,30 +175,72 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 124,
-            "tagline": "La vie ne lui a rien donn\u00e9, except\u00e9 le courage de vaincre... et une femme \u00e0 aimer."
+            "tagline": "La vie ne lui a rien donn\u00e9, except\u00e9 le courage de vaincre... et une femme \u00e0 aimer.",
+            "runtime": 124
         },
         {
             "adult": false,
-            "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
-            "id": 12614,
+            "backdrop_path": "/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
+            "id": 15764,
             "original_language": "en",
-            "original_title": "Victor/Victoria",
-            "overview": "Dans les ann\u00e9es 1930 \u00e0 Paris, Victoria Grant, une chanteuse classique, ne trouve plus aucun contrat pour subsister. Alors qu'elle touche le fond, elle rencontre un homosexuel quinquag\u00e9naire, Carroll Todd dit \u00ab Toddy \u00bb, qui imagine de la faire passer pour un homme sp\u00e9cialis\u00e9 dans les spectacles de travesti. Sous le nom de Victor Grezhinski, elle conna\u00eet d\u00e8s lors un immense succ\u00e8s dans les cabarets parisiens, au point d'attirer l'attention de King Marchand, un producteur de spectacles am\u00e9ricain en lien avec la p\u00e8gre de Chicago, grand amateur de femmes et qui est extr\u00eamement troubl\u00e9 de se sentir attir\u00e9 par celle qu'il croit \u00eatre un homme.  Il s'agit du remake du film allemand Viktor und Viktoria (1933).",
-            "popularity": 2.2178,
-            "poster_path": "/hl3q88QcnVC8NDRjUwxVMeMdFqJ.jpg",
-            "release_date": "1982-04-25",
-            "title": "Victor Victoria",
+            "original_title": "Sophie's Choice",
+            "overview": "Un \u00e9crivain r\u00e9cemment installe a New York se lie d'amiti\u00e9 avec un couple fort \u00e9trange. Il s'agit de Sophie, polonaise r\u00e9cemment install\u00e9e aux Etats-Unis et de son amant Nathan brillant intellectuel juif.",
+            "popularity": 2.0037,
+            "poster_path": "/giT8BMmfmkCkD5w12uvkIulIl9g.jpg",
+            "release_date": "1982-12-08",
+            "title": "Le Choix de Sophie",
             "video": false,
-            "vote_average": 7.278,
-            "vote_count": 439,
+            "vote_average": 7.3,
+            "vote_count": 906,
             "genres": [
-                "Musique",
-                "Com\u00e9die",
-                "Romance"
+                "Drame",
+                "Romance",
+                "Guerre"
             ],
-            "runtime": 134,
-            "tagline": "On l'appelait Victor... Elle faisait courir tout Paris !"
+            "tagline": "",
+            "runtime": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bEc081q9Ju5QLEOvAc6vMWUjW1p.jpg",
+            "id": 11307,
+            "original_language": "en",
+            "original_title": "The World According to Garp",
+            "overview": "Un jeune \u00e9crivain en difficult\u00e9 voit sa vie et son travail domin\u00e9s par sa femme infid\u00e8le et sa m\u00e8re f\u00e9ministe radicale, dont le manifeste \u00e0 succ\u00e8s fait d'elle une ic\u00f4ne culturelle.  Voici les destins parall\u00e8les et antagonistes d'une f\u00e9ministe et de son fils.",
+            "popularity": 1.1148,
+            "poster_path": "/2cVmCK97WrlbQT088kpECwLwCMx.jpg",
+            "release_date": "1982-07-23",
+            "title": "Le Monde Selon Garp",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 370,
+            "genres": [
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "tagline": "Robin est Garp. Il a une dr\u00f4le de fa\u00e7on de voir la vie.",
+            "runtime": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lnbI7n5B7uqmEfOJ6Iamfwt4O5g.jpg",
+            "id": 31044,
+            "original_language": "en",
+            "original_title": "My Favorite Year",
+            "overview": "Alan Swann, vedette des films de cape et d'\u00e9p\u00e9e, fait un come-back remarqu\u00e9 en cette ann\u00e9e 1954. En effet, il doit \u00eatre la vedette d'un show t\u00e9l\u00e9vis\u00e9 new-yorkais. Or celui-ci a un sacr\u00e9 caract\u00e8re et arrive ivre-mort aux studios pour un direct devant vingt millions de t\u00e9lespectateurs...",
+            "popularity": 1.1039,
+            "poster_path": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
+            "release_date": "1982-10-01",
+            "title": "O\u00f9 est pass\u00e9e mon idole ?",
+            "video": false,
+            "vote_average": 6.613,
+            "vote_count": 115,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 92
         },
         {
             "adult": false,
@@ -250,7 +249,7 @@
             "original_language": "fr",
             "original_title": "Diva",
             "overview": "Un jeune postier amoureux du bel canto r\u00e9alise un enregistrement pirate d'un concert donn\u00e9 par une diva. Sa passion et un hasard malencontreux vont provoquer une chasse \u00e0 l'homme dont il est la proie.",
-            "popularity": 2.8649,
+            "popularity": 2.6162,
             "poster_path": "/toprlge6vv88sueBUm9m6TnccBD.jpg",
             "release_date": "1981-03-11",
             "title": "Diva",
@@ -262,8 +261,30 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 117,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tcMG8GQ0m61PWIWkdJfOERrl1sJ.jpg",
+            "id": 12614,
+            "original_language": "en",
+            "original_title": "Victor/Victoria",
+            "overview": "Dans les ann\u00e9es 1930 \u00e0 Paris, Victoria Grant, une chanteuse classique, ne trouve plus aucun contrat pour subsister. Alors qu'elle touche le fond, elle rencontre un homosexuel quinquag\u00e9naire, Carroll Todd dit \u00ab Toddy \u00bb, qui imagine de la faire passer pour un homme sp\u00e9cialis\u00e9 dans les spectacles de travesti. Sous le nom de Victor Grezhinski, elle conna\u00eet d\u00e8s lors un immense succ\u00e8s dans les cabarets parisiens, au point d'attirer l'attention de King Marchand, un producteur de spectacles am\u00e9ricain en lien avec la p\u00e8gre de Chicago, grand amateur de femmes et qui est extr\u00eamement troubl\u00e9 de se sentir attir\u00e9 par celle qu'il croit \u00eatre un homme.  Il s'agit du remake du film allemand Viktor und Viktoria (1933).",
+            "popularity": 2.0592,
+            "poster_path": "/hl3q88QcnVC8NDRjUwxVMeMdFqJ.jpg",
+            "release_date": "1982-04-25",
+            "title": "Victor Victoria",
+            "video": false,
+            "vote_average": 7.278,
+            "vote_count": 439,
+            "genres": [
+                "Musique",
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "On l'appelait Victor... Elle faisait courir tout Paris !",
+            "runtime": 134
         },
         {
             "adult": false,
@@ -272,7 +293,7 @@
             "original_language": "en",
             "original_title": "Shoot the Moon",
             "overview": "George Dunlap, \u00e9crivain \u00e0 succ\u00e8s, est depuis quinze ans l'\u00e9poux de Faith. Celle-ci s'est occup\u00e9e pendant toutes ces ann\u00e9es d'\u00e9lever leurs quatre filles et d'entretenir leur vaste et confortable demeure californienne. Aujourd'hui, George et Faith ne s'entendent plus. Apr\u00e8s une nouvelle et violente dispute, George rejoint sa ma\u00eetresse, Sandy, et d\u00e9cide d'entamer une proc\u00e9dure de divorce. Les filles sont choqu\u00e9es et bless\u00e9es par l'attitude de leur p\u00e8re, qui se voit lui-m\u00eame meurtri dans son amour paternel. L'absence de son mari pousse Faith \u00e0 s'interroger sur les raisons qui ont fait que la passion s'est \u00e0 ce point estomp\u00e9e...",
-            "popularity": 1.0285,
+            "popularity": 0.8762,
             "poster_path": "/71GK3DRyFWN0Ke0s8WwgEEEOUJQ.jpg",
             "release_date": "1982-01-22",
             "title": "L'Usure du temps",
@@ -283,29 +304,51 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 124,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 124
         },
         {
             "adult": false,
-            "backdrop_path": "/lnbI7n5B7uqmEfOJ6Iamfwt4O5g.jpg",
-            "id": 31044,
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+            "id": 8810,
             "original_language": "en",
-            "original_title": "My Favorite Year",
-            "overview": "Alan Swann, vedette des films de cape et d'\u00e9p\u00e9e, fait un come-back remarqu\u00e9 en cette ann\u00e9e 1954. En effet, il doit \u00eatre la vedette d'un show t\u00e9l\u00e9vis\u00e9 new-yorkais. Or celui-ci a un sacr\u00e9 caract\u00e8re et arrive ivre-mort aux studios pour un direct devant vingt millions de t\u00e9lespectateurs...",
-            "popularity": 1.435,
-            "poster_path": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
-            "release_date": "1982-10-01",
-            "title": "O\u00f9 est pass\u00e9e mon idole ?",
+            "original_title": "Mad Max 2",
+            "overview": "Dans un futur non d\u00e9fini, les r\u00e9serves de p\u00e9trole sont \u00e9puis\u00e9es et la violence r\u00e8gne sur le monde. Max, un ancien de la s\u00e9curit\u00e9 routi\u00e8re, se porte aux secours d'une communaut\u00e9 de fuyards aux prises avec des pirates de la route. La bataille se concentre autour d'une citerne de raffinerie.",
+            "popularity": 4.936,
+            "poster_path": "/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
+            "release_date": "1981-12-24",
+            "title": "Mad Max 2 : Le D\u00e9fi",
             "video": false,
-            "vote_average": 6.613,
-            "vote_count": 115,
+            "vote_average": 7.388,
+            "vote_count": 4041,
             "genres": [
-                "Com\u00e9die",
-                "Drame"
+                "Aventure",
+                "Action",
+                "Thriller",
+                "Science-Fiction"
             ],
-            "runtime": 92,
-            "tagline": ""
+            "tagline": "Un seul homme peut faire la diff\u00e9rence.",
+            "runtime": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+            "id": 609,
+            "original_language": "en",
+            "original_title": "Poltergeist",
+            "overview": "L'heureuse famille Freeling m\u00e8ne une vie tranquille et prosp\u00e8re dans la petite ville de Cuesta Verde. Cependant, leur maison devient le th\u00e9\u00e2tre d'\u00e9tranges ph\u00e9nom\u00e8nes quand des objets commencent \u00e0 se d\u00e9placer et que le sol se met \u00e0 trembler. Une nuit, la petite Carol Anne dispara\u00eet et se met \u00e0 communiquer avec ses parents \u00e0 travers la t\u00e9l\u00e9vision. Les Freeling font alors appel \u00e0 un parapsychologue.",
+            "popularity": 5.6046,
+            "poster_path": "/7lUGWlBinGqm82KESkLr8lC1FK3.jpg",
+            "release_date": "1982-06-04",
+            "title": "Poltergeist",
+            "video": false,
+            "vote_average": 7.153,
+            "vote_count": 3229,
+            "genres": [
+                "Horreur"
+            ],
+            "tagline": "Ils sont l\u00e0. Ils veulent se venger. Ils savent comment.",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -314,7 +357,7 @@
             "original_language": "de",
             "original_title": "Mephisto",
             "overview": "Dans les ann\u00e9es 20 en Allemagne. Hendrik H\u00f6fgen est un com\u00e9dien ambitieux, pr\u00eat \u00e0 tout pour r\u00e9ussir, y compris fermer les yeux sur l'ascension des Nazis dans son pays.",
-            "popularity": 0.3798,
+            "popularity": 0.5245,
             "poster_path": "/fH2nXgW1KiwWglY1gYCRhHNrami.jpg",
             "release_date": "1981-02-11",
             "title": "Mephisto",
@@ -324,48 +367,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 145,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/njsZ2rBTKXbwurqmA4h0OKlUnNM.jpg",
-            "id": 27609,
-            "original_language": "en",
-            "original_title": "Personal Best",
-            "overview": "La jeune sprinteuse Chris Cahill a du mal \u00e0 atteindre son potentiel en tant qu'athl\u00e8te, jusqu'\u00e0 ce qu'elle rencontre la star de l'athl\u00e9tisme \u00e9tablie Tory Skinner. Alors que Tory et son entra\u00eeneur aident Chris dans son entra\u00eenement, les deux femmes nouent une amiti\u00e9 qui se transforme en relation amoureuse. Leur intimit\u00e9 se complique cependant lorsque l'am\u00e9lioration de Chris les am\u00e8ne \u00e0 devenir des concurrents pour l'\u00e9quipe olympique.",
-            "popularity": 1.4714,
-            "poster_path": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
-            "release_date": "1982-02-05",
-            "title": "Personal Best",
-            "video": false,
-            "vote_average": 5.8,
-            "vote_count": 47,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 124,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
-            "id": 609,
-            "original_language": "en",
-            "original_title": "Poltergeist",
-            "overview": "L'heureuse famille Freeling m\u00e8ne une vie tranquille et prosp\u00e8re dans la petite ville de Cuesta Verde. Cependant, leur maison devient le th\u00e9\u00e2tre d'\u00e9tranges ph\u00e9nom\u00e8nes quand des objets commencent \u00e0 se d\u00e9placer et que le sol se met \u00e0 trembler. Une nuit, la petite Carol Anne dispara\u00eet et se met \u00e0 communiquer avec ses parents \u00e0 travers la t\u00e9l\u00e9vision. Les Freeling font alors appel \u00e0 un parapsychologue.",
-            "popularity": 5.5298,
-            "poster_path": "/7lUGWlBinGqm82KESkLr8lC1FK3.jpg",
-            "release_date": "1982-06-04",
-            "title": "Poltergeist",
-            "video": false,
-            "vote_average": 7.153,
-            "vote_count": 3228,
-            "genres": [
-                "Horreur"
-            ],
-            "runtime": 114,
-            "tagline": "Ils sont l\u00e0. Ils veulent se venger. Ils savent comment."
+            "tagline": "",
+            "runtime": 145
         },
         {
             "adult": false,
@@ -374,7 +377,7 @@
             "original_language": "en",
             "original_title": "Moonlighting",
             "overview": "Trois macons polonais et leur contremaitre, Novak, viennent a Londres travailler au noir. Novak, autoritaire, est le seul a parler anglais. Lorsqu'il prend connaissance du coup d'Etat en Pologne, il tait la nouvelle a ses compatriotes.",
-            "popularity": 1.9019,
+            "popularity": 1.4288,
             "poster_path": "/2gvw3e5FNNGMRuKjIuQDVLRtX92.jpg",
             "release_date": "1982-09-26",
             "title": "Travail au noir",
@@ -384,31 +387,28 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 97,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 97
         },
         {
             "adult": false,
-            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
-            "id": 8810,
+            "backdrop_path": "/njsZ2rBTKXbwurqmA4h0OKlUnNM.jpg",
+            "id": 27609,
             "original_language": "en",
-            "original_title": "Mad Max 2",
-            "overview": "Dans un futur non d\u00e9fini, les r\u00e9serves de p\u00e9trole sont \u00e9puis\u00e9es et la violence r\u00e8gne sur le monde. Max, un ancien de la s\u00e9curit\u00e9 routi\u00e8re, se porte aux secours d'une communaut\u00e9 de fuyards aux prises avec des pirates de la route. La bataille se concentre autour d'une citerne de raffinerie.",
-            "popularity": 4.6117,
-            "poster_path": "/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
-            "release_date": "1981-12-24",
-            "title": "Mad Max 2 : Le D\u00e9fi",
+            "original_title": "Personal Best",
+            "overview": "La jeune sprinteuse Chris Cahill a du mal \u00e0 atteindre son potentiel en tant qu'athl\u00e8te, jusqu'\u00e0 ce qu'elle rencontre la star de l'athl\u00e9tisme \u00e9tablie Tory Skinner. Alors que Tory et son entra\u00eeneur aident Chris dans son entra\u00eenement, les deux femmes nouent une amiti\u00e9 qui se transforme en relation amoureuse. Leur intimit\u00e9 se complique cependant lorsque l'am\u00e9lioration de Chris les am\u00e8ne \u00e0 devenir des concurrents pour l'\u00e9quipe olympique.",
+            "popularity": 1.2486,
+            "poster_path": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
+            "release_date": "1982-02-05",
+            "title": "Personal Best",
             "video": false,
-            "vote_average": 7.388,
-            "vote_count": 4040,
+            "vote_average": 5.8,
+            "vote_count": 47,
             "genres": [
-                "Aventure",
-                "Action",
-                "Thriller",
-                "Science-Fiction"
+                "Drame"
             ],
-            "runtime": 97,
-            "tagline": "Un seul homme peut faire la diff\u00e9rence."
+            "tagline": "",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -417,7 +417,7 @@
             "original_language": "en",
             "original_title": "Tex",
             "overview": "Tex McCormick, 15 ans, et son fr\u00e8re Mason, 18 ans, vivent quasiment seuls en raison des absences prolong\u00e9es de leur p\u00e8re, tout occup\u00e9 \u00e0 participer \u00e0 des rod\u00e9os professionnels. Mason, en chef de famille \"par int\u00e9rim\", tente, tant bien que mal, de g\u00e9rer le maigre budget familial et se voit contraint, pour simplement subvenir aux besoin \u00e9l\u00e9mentaires du foyer, de vendre le cheval de son jeune fr\u00e8re. D\u00e9pit\u00e9, Tex encaisse mal le coup. Parviendra t'il \u00e0 apprendre \u00e0 g\u00e9rer ses \u00e9motions et \u00e0 grandir bien plus vite que son age ?",
-            "popularity": 0.487,
+            "popularity": 0.3713,
             "poster_path": "/j9p9IHzjRNoswTPqWpUiOisHuEs.jpg",
             "release_date": "1982-07-30",
             "title": "Tex",
@@ -427,8 +427,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -437,7 +437,7 @@
             "original_language": "en",
             "original_title": "Gregory's Girl",
             "overview": "Une petite ville de la banlieue de Glasgow. Gregory, un adolescent de 16 ans, s'int\u00e9resse aux \u00e9tudes, au sport et aux filles. H\u00e9las, ses r\u00e9sultats scolaires ne sont pas brillants, ses performances sportives sont peu louables et ses relations avec les filles presque inexistantes, en raison de son extr\u00eame timidit\u00e9. Un jour, l'entra\u00eeneur de son \u00e9quipe de foot d\u00e9cide d'engager une fille, Dorothy, pour tenir un poste \u00e0 l'avant.",
-            "popularity": 0.7377,
+            "popularity": 0.6232,
             "poster_path": "/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
             "release_date": "1981-04-23",
             "title": "Une fille pour Gregory",
@@ -448,28 +448,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/yWdlOunLPsqACjLBrZll8fpX2Ok.jpg",
-            "id": 42150,
-            "original_language": "it",
-            "original_title": "Tre fratelli",
-            "overview": "Lorsque leur m\u00e8re d\u00e9c\u00e8de, trois fr\u00e8res convergent vers leur village natal pour des retrouvailles particuli\u00e8res, en compagnie de leur p\u00e8re.",
-            "popularity": 2.0282,
-            "poster_path": "/letT18TuZkJznsSinrW8HPqyEv4.jpg",
-            "release_date": "1981-03-19",
-            "title": "Trois fr\u00e8res",
-            "video": false,
-            "vote_average": 6.28,
-            "vote_count": 41,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 115,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -478,20 +458,20 @@
             "original_language": "en",
             "original_title": "Blade Runner",
             "overview": "2019, Los Angeles. La Terre est surpeupl\u00e9e et l\u2019humanit\u00e9 est partie coloniser l\u2019espace. Les nouveaux colons sont assist\u00e9s de Replicants, andro\u00efdes que rien ne peut distinguer de l'\u00eatre humain. Con\u00e7us comme de nouveaux esclaves, certains parmi les plus \u00e9volu\u00e9s s\u2019affranchissent de leurs cha\u00eenes et s\u2019enfuient. Rick Deckard, un ancien Blade Runner, cat\u00e9gorie sp\u00e9ciale de policiers charg\u00e9s de \"retirer\" ces replicants, accepte une nouvelle mission consistant \u00e0 retrouver quatre de ces individus qui viennent de regagner la Terre apr\u00e8s avoir vol\u00e9 une navette spatiale.",
-            "popularity": 11.3944,
+            "popularity": 11.6073,
             "poster_path": "/zHKWxyG4j404HVeSYHNH4niUpkW.jpg",
             "release_date": "1982-06-25",
             "title": "Blade Runner",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 14596,
+            "vote_average": 7.94,
+            "vote_count": 14598,
             "genres": [
                 "Science-Fiction",
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 117,
-            "tagline": "L\u2019homme en a fait son \u00e9gal\u2026 maintenant c\u2019est son probl\u00e8me."
+            "tagline": "L\u2019homme en a fait son \u00e9gal\u2026 maintenant c\u2019est son probl\u00e8me.",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -500,7 +480,7 @@
             "original_language": "en",
             "original_title": "The Long Good Friday",
             "overview": "Harold, un gangster anglais prosp\u00e8re, s'appr\u00eate \u00e0 r\u00e9gler un march\u00e9 tr\u00e8s rentable jusqu'\u00e0 ce que l'explosion d'une s\u00e9rie de bombes le place dans une situation tr\u00e8s d\u00e9licate. Un myst\u00e9rieux syndicat tente de se mettre en travers de son chemin et Harold va tenter de les d\u00e9masquer.",
-            "popularity": 1.3391,
+            "popularity": 1.2485,
             "poster_path": "/mgENXDBMr1RE64nnV9VSu8Ong5h.jpg",
             "release_date": "1980-11-01",
             "title": "Racket",
@@ -512,8 +492,28 @@
                 "Thriller",
                 "Drame"
             ],
-            "runtime": 114,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWdlOunLPsqACjLBrZll8fpX2Ok.jpg",
+            "id": 42150,
+            "original_language": "it",
+            "original_title": "Tre fratelli",
+            "overview": "Lorsque leur m\u00e8re d\u00e9c\u00e8de, trois fr\u00e8res convergent vers leur village natal pour des retrouvailles particuli\u00e8res, en compagnie de leur p\u00e8re.",
+            "popularity": 2.1951,
+            "poster_path": "/letT18TuZkJznsSinrW8HPqyEv4.jpg",
+            "release_date": "1981-03-19",
+            "title": "Trois fr\u00e8res",
+            "video": false,
+            "vote_average": 6.28,
+            "vote_count": 41,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -522,7 +522,7 @@
             "original_language": "de",
             "original_title": "Fitzcarraldo",
             "overview": "Brian Sweeney Fitzgerald, plus connu sous le nom de Fitzcarraldo, r\u00eave de construire le plus grand op\u00e9ra du monde \u00e0 Iquitos, au c\u0153ur de l\u2019Amazonie. Pour gagner l\u2019argent n\u00e9cessaire \u00e0 son projet, il ach\u00e8te une concession de caoutchouc le long du fleuve Uycali, r\u00e9put\u00e9 inaccessible \u00e0 cause de violents rapides. Pour atteindre sa concession, Fitzcarraldo choisit de descendre le fleuve Pachitea, s\u00e9par\u00e9 de l\u2019Uycali seulement par une montagne. Il devra hisser son bateau \u00e0 vapeur en haut de la montagne pour basculer sur l\u2019autre versant. Sa tentative finit par \u00e9chouer et Fitzcarraldo  transforme son navire en th\u00e9\u00e2tre en accueillant chanteurs et musiciens pour un spectacle unique au c\u0153ur de la for\u00eat amazonienne.",
-            "popularity": 2.9237,
+            "popularity": 2.7645,
             "poster_path": "/ffWXGB8ZMdL5xgZAELR2M1vD1an.jpg",
             "release_date": "1982-03-02",
             "title": "Fitzcarraldo",
@@ -533,31 +533,8 @@
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 157,
-            "tagline": "Osez r\u00eaver l'impossible."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
-            "id": 8810,
-            "original_language": "en",
-            "original_title": "Mad Max 2",
-            "overview": "Dans un futur non d\u00e9fini, les r\u00e9serves de p\u00e9trole sont \u00e9puis\u00e9es et la violence r\u00e8gne sur le monde. Max, un ancien de la s\u00e9curit\u00e9 routi\u00e8re, se porte aux secours d'une communaut\u00e9 de fuyards aux prises avec des pirates de la route. La bataille se concentre autour d'une citerne de raffinerie.",
-            "popularity": 4.6117,
-            "poster_path": "/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
-            "release_date": "1981-12-24",
-            "title": "Mad Max 2 : Le D\u00e9fi",
-            "video": false,
-            "vote_average": 7.388,
-            "vote_count": 4040,
-            "genres": [
-                "Aventure",
-                "Action",
-                "Thriller",
-                "Science-Fiction"
-            ],
-            "runtime": 97,
-            "tagline": "Un seul homme peut faire la diff\u00e9rence."
+            "tagline": "Osez r\u00eaver l'impossible.",
+            "runtime": 157
         },
         {
             "adult": false,
@@ -566,7 +543,7 @@
             "original_language": "en",
             "original_title": "The Chosen",
             "overview": "Deux jeunes juifs new yorkais se lient d'amiti\u00e9 dans les ann\u00e9es quarante. Leurs diff\u00e9rences de caract\u00e8re et de valeurs les fascinent avant de menacer de les transformer en adversaires.",
-            "popularity": 1.6286,
+            "popularity": 1.792,
             "poster_path": "/aYPctnTJu7dwaKKKu3Ye4w2THjo.jpg",
             "release_date": "1981-08-20",
             "title": "L'\u00e9lu",
@@ -576,8 +553,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
         },
         {
             "adult": false,
@@ -586,7 +563,7 @@
             "original_language": "fr",
             "original_title": "La Guerre du feu",
             "overview": "A l'\u00e9poque de l'\u00e2ge de pierre, trois guerriers d'une tribu pr\u00e9-sapiens partent \u00e0 la recherche du feu, \u00e9l\u00e9ment magique v\u00e9n\u00e9r\u00e9 mais redout\u00e9, objet de convoitises et de luttes pour la survie de l'esp\u00e8ce.",
-            "popularity": 3.7899,
+            "popularity": 7.7107,
             "poster_path": "/gWinejy6s33cxENfcnpio2zKsSG.jpg",
             "release_date": "1981-12-16",
             "title": "La Guerre du feu",
@@ -597,8 +574,31 @@
                 "Aventure",
                 "Drame"
             ],
-            "runtime": 96,
-            "tagline": "Une aventure fantastique"
+            "tagline": "Une aventure fantastique",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+            "id": 8810,
+            "original_language": "en",
+            "original_title": "Mad Max 2",
+            "overview": "Dans un futur non d\u00e9fini, les r\u00e9serves de p\u00e9trole sont \u00e9puis\u00e9es et la violence r\u00e8gne sur le monde. Max, un ancien de la s\u00e9curit\u00e9 routi\u00e8re, se porte aux secours d'une communaut\u00e9 de fuyards aux prises avec des pirates de la route. La bataille se concentre autour d'une citerne de raffinerie.",
+            "popularity": 4.936,
+            "poster_path": "/ruMcepF8S4kLTwDhBlniV37KGI2.jpg",
+            "release_date": "1981-12-24",
+            "title": "Mad Max 2 : Le D\u00e9fi",
+            "video": false,
+            "vote_average": 7.388,
+            "vote_count": 4041,
+            "genres": [
+                "Aventure",
+                "Action",
+                "Thriller",
+                "Science-Fiction"
+            ],
+            "tagline": "Un seul homme peut faire la diff\u00e9rence.",
+            "runtime": 97
         },
         {
             "adult": false,
@@ -607,7 +607,7 @@
             "original_language": "de",
             "original_title": "Lola",
             "overview": "En 1957, une ville de province allemande rena\u00eet de ses cendres. Le miracle ne va pas sans quelques entorses aux grands principes soigneusement r\u00e9affirm\u00e9s apr\u00e8s le cauchemar nazi. Ainsi le v\u00e9ritable ma\u00eetre de la ville est-il un certain Schuckert, un entrepreneur jovial et rus\u00e9, qui m\u00e9prise souverainement les r\u00e8glements de la construction et re\u00e7oit le soir les notables corrompus de la ville dans le bordel que dirige sa ma\u00eetresse, Lola. L'\u00c9tat, conscient de cette situation, nomme un nouveau directeur en la personne de von Bohm. Celui-ci, int\u00e8gre, tente de lutter contre la corruption. Il fait alors la rencontre de Lola, qu'il prend pour une personne int\u00e8gre\u2026",
-            "popularity": 1.6524,
+            "popularity": 1.3768,
             "poster_path": "/vbCuLfm8xWBTGYZFssM2H12XB0H.jpg",
             "release_date": "1981-08-20",
             "title": "Lola, une femme allemande",
@@ -617,8 +617,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 113,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -627,7 +627,7 @@
             "original_language": "en",
             "original_title": "48 Hrs.",
             "overview": "Deux meurtriers sont pourchass\u00e9s par la police, alors qu\u2019ils recherchent le butin d\u2019un casse commis par Reggie Hammond, un de leurs anciens complices actuellement emprisonn\u00e9. Pour les retrouver, l\u2019inspecteur de police Jack Cates a besoin de l\u2019aide de Reggie. Il va le voir en prison pour solliciter sa collaboration mais Hammond n\u00e9gocie son aide contre une permission de sortie. Jack va donc faire en sorte que Reggie soit en libert\u00e9 surveill\u00e9e pendant 48 heures, durant lesquelles il va tenter de l\u2019aider \u00e0 retrouver ses anciens complices...",
-            "popularity": 3.2221,
+            "popularity": 3.5727,
             "poster_path": "/wICuCoKsImeaJofl44bQ7HTNUEh.jpg",
             "release_date": "1982-12-07",
             "title": "48 heures",
@@ -639,8 +639,8 @@
                 "Action",
                 "Com\u00e9die"
             ],
-            "runtime": 96,
-            "tagline": "Un flic. Un taulard. Pas de piti\u00e9."
+            "tagline": "Un flic. Un taulard. Pas de piti\u00e9.",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -649,7 +649,7 @@
             "original_language": "en",
             "original_title": "Smash Palace",
             "overview": "En d\u00e9couvrant que sa femme le trompe avec un autre homme, Al Shaw d\u00e9cide de s'enfuir avec sa fille...",
-            "popularity": 0.3293,
+            "popularity": 0.2871,
             "poster_path": "/5NrnzLkADKJwoTgzPcD8UVH6s3d.jpg",
             "release_date": "1981-05-01",
             "title": "Smash Palace",
@@ -660,8 +660,28 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
+            "id": 1371,
+            "original_language": "en",
+            "original_title": "Rocky III",
+            "overview": "Rocky Balboa se fraie un chemin dans le c\u0153ur de millions de personnes et sa vie ne pourrait \u00eatre meilleure. Mais lorsque \"Clubber\" Lang met Rocky KO dans une d\u00e9faite humiliante, il devient \u00e9vident que \"l'\u00e9talon italien\" a perdu son avantage. Alors qu'il envisage de raccrocher les gants, Rocky re\u00e7oit les encouragements d'un alli\u00e9 improbable : son vieil ennemi jur\u00e9, Apollo Creed. Avec l'aide de Creed, Rocky s'efforce de retrouver \"l'\u0153il du tigre\" avant d'affronter Lang dans un match de reprise ext\u00e9nuant !",
+            "popularity": 6.6539,
+            "poster_path": "/zplg0q9s5pbJDQLWCTlIQfMxC9A.jpg",
+            "release_date": "1982-05-28",
+            "title": "Rocky III : L'\u0152il du tigre",
+            "video": false,
+            "vote_average": 6.899,
+            "vote_count": 4377,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Le plus grand d\u00e9fi.",
+            "runtime": 99
         },
         {
             "adult": false,
@@ -670,7 +690,7 @@
             "original_language": "en",
             "original_title": "Richard Pryor: Live on the Sunset Strip",
             "overview": "",
-            "popularity": 0.279,
+            "popularity": 0.2329,
             "poster_path": "/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
             "release_date": "1982-03-12",
             "title": "Richard Pryor: Live on the Sunset Strip",
@@ -681,8 +701,8 @@
                 "Com\u00e9die",
                 "Documentaire"
             ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 82
         },
         {
             "adult": false,
@@ -691,7 +711,7 @@
             "original_language": "fr",
             "original_title": "Coup de torchon",
             "overview": "1938. En Afrique occidentale fran\u00e7aise. Lucien Cordier est l'unique policier d'une petite ville coloniale. M\u00e9pris\u00e9 de tous pour sa l\u00e2chet\u00e9 et sa veulerie, il est l'objet de moqueries et de railleries. Lorsque son officier sup\u00e9rieur lui fait prendre conscience de sa m\u00e9diocrit\u00e9, il va peu \u00e0 peu se transformer en impitoyable assassin et se d\u00e9barrasser de tous ses tourmenteurs, femme et ma\u00eetresse comprises par un jeu diabolique qui consiste \u00e0 faire accuser d'autres que lui avant de les \u00e9liminer jusqu'\u00e0 ce qu'il reste seul.",
-            "popularity": 0.8091,
+            "popularity": 0.7997,
             "poster_path": "/462EUj6A7mPPy2X0ZvpgKvBDKrs.jpg",
             "release_date": "1981-11-04",
             "title": "Coup de torchon",
@@ -703,28 +723,8 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 128,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
-            "id": 1371,
-            "original_language": "en",
-            "original_title": "Rocky III",
-            "overview": "Rocky Balboa se fraie un chemin dans le c\u0153ur de millions de personnes et sa vie ne pourrait \u00eatre meilleure. Mais lorsque \"Clubber\" Lang met Rocky KO dans une d\u00e9faite humiliante, il devient \u00e9vident que \"l'\u00e9talon italien\" a perdu son avantage. Alors qu'il envisage de raccrocher les gants, Rocky re\u00e7oit les encouragements d'un alli\u00e9 improbable : son vieil ennemi jur\u00e9, Apollo Creed. Avec l'aide de Creed, Rocky s'efforce de retrouver \"l'\u0153il du tigre\" avant d'affronter Lang dans un match de reprise ext\u00e9nuant !",
-            "popularity": 6.8114,
-            "poster_path": "/zplg0q9s5pbJDQLWCTlIQfMxC9A.jpg",
-            "release_date": "1982-05-28",
-            "title": "Rocky III : L'\u0152il du tigre",
-            "video": false,
-            "vote_average": 6.899,
-            "vote_count": 4377,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 99,
-            "tagline": "Le plus grand d\u00e9fi."
+            "tagline": "",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -733,7 +733,7 @@
             "original_language": "hu",
             "original_title": "Meg\u00e1ll az id\u0151",
             "overview": "",
-            "popularity": 0.4393,
+            "popularity": 0.5263,
             "poster_path": "/hkscvo2DfyoQioUH1nNVHOCTfqC.jpg",
             "release_date": "1982-10-07",
             "title": "Meg\u00e1ll az id\u0151",
@@ -743,28 +743,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 99,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ks7mFdNkLUssfJjWxIIEfL53ZRB.jpg",
-            "id": 67772,
-            "original_language": "en",
-            "original_title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-            "overview": "Vingt ans apr\u00e8s la mort accidentelle du com\u00e9dien James Dean, cinq admiratrices se retrouvent dans une boutique de souvenirs non loin de l'endroit o\u00f9 a \u00e9t\u00e9 tourn\u00e9 son film G\u00e9ant.",
-            "popularity": 0.3382,
-            "poster_path": "/bnXigd6wq4XVfGLa67185cvXJuY.jpg",
-            "release_date": "1982-11-12",
-            "title": "Reviens Jimmy Dean, reviens",
-            "video": false,
-            "vote_average": 5.892,
-            "vote_count": 74,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 110,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 99
         },
         {
             "adult": false,
@@ -773,7 +753,7 @@
             "original_language": "en",
             "original_title": "Star Trek II: The Wrath of Khan",
             "overview": "\u00c0 bord de l'USS Enterprise, vaisseau de la F\u00e9d\u00e9ration des Plan\u00e8tes Unies, l'amiral James T. Kirk accomplit une mission d'inspection de routine. Il re\u00e7oit un appel urgent du laboratoire spatial Regular One. Khan, brillant ren\u00e9gat et vieil ennemi de Kirk, s'est empar\u00e9 d'un dispositif ultrasecret : le projet \u00ab Genesis \u00bb. \u00c0 la t\u00eate d\u2019une bande de surhommes g\u00e9n\u00e9tiquement am\u00e9lior\u00e9s, Khan menace l\u2019Univers entier\u2026",
-            "popularity": 3.9353,
+            "popularity": 4.1126,
             "poster_path": "/avb0wORx5CzhSfs0ZnKh1UeBsya.jpg",
             "release_date": "1982-06-04",
             "title": "Star Trek II : La col\u00e8re de Khan",
@@ -786,8 +766,28 @@
                 "Science-Fiction",
                 "Thriller"
             ],
-            "runtime": 113,
-            "tagline": "Au bout de l'univers la vengeance se d\u00e9cha\u00eene"
+            "tagline": "Au bout de l'univers la vengeance se d\u00e9cha\u00eene",
+            "runtime": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ks7mFdNkLUssfJjWxIIEfL53ZRB.jpg",
+            "id": 67772,
+            "original_language": "en",
+            "original_title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+            "overview": "Vingt ans apr\u00e8s la mort accidentelle du com\u00e9dien James Dean, cinq admiratrices se retrouvent dans une boutique de souvenirs non loin de l'endroit o\u00f9 a \u00e9t\u00e9 tourn\u00e9 son film G\u00e9ant.",
+            "popularity": 0.3203,
+            "poster_path": "/bnXigd6wq4XVfGLa67185cvXJuY.jpg",
+            "release_date": "1982-11-12",
+            "title": "Reviens Jimmy Dean, reviens",
+            "video": false,
+            "vote_average": 5.892,
+            "vote_count": 74,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 110
         }
     ]
 }

@@ -4,7 +4,7 @@
     "source": "https://criticstop10.com/best-movies-of-1983/",
     "created_by": "lbnt",
     "added": "07/29/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,7 +14,7 @@
             "original_language": "en",
             "original_title": "Terms of Endearment",
             "overview": "Aurora a \u00e9lev\u00e9 seule sa fille Emma, excluant tout homme de sa vie. Pourtant, Emma quitte \u00e0 la premi\u00e8re occasion cette m\u00e8re abusive. Seule, Aurora rencontre alors Garret, qui est un ancien cosmonaute d\u00e9sormais alcoolique... Des liens entre ces deux personnes prennent forme.",
-            "popularity": 2.2093,
+            "popularity": 1.8391,
             "poster_path": "/rsS1Ej5LYC6ZlFPdlxVchHJhmu4.jpg",
             "release_date": "1983-11-20",
             "title": "Tendres Passions",
@@ -25,114 +25,29 @@
                 "Drame",
                 "Com\u00e9die"
             ],
-            "runtime": 132,
-            "tagline": "Venez rire, venir pleurer, prendre soin de vous et vous r\u00e9concilier."
+            "tagline": "Venez rire, venir pleurer, prendre soin de vous et vous r\u00e9concilier.",
+            "runtime": 132
         },
         {
             "adult": false,
-            "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
-            "id": 11030,
+            "backdrop_path": "/7qrpLCM3RwvuVbTgcK9mBukDQIE.jpg",
+            "id": 12560,
             "original_language": "en",
-            "original_title": "Zelig",
-            "overview": "Leonard Zelig rel\u00e8ve, dans ces ann\u00e9es trente, d'un cas peu ordinaire. Ob\u00e8se, boxeur ou \u00e9crivain, il prend l'apparence de tous ceux qu'il c\u00f4toie. Eudora, en psychanalysant L\u00e9onard, d\u00e9couvre que celui-ci souffre d'un cruel besoin d'amour.",
-            "popularity": 2.7217,
-            "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
-            "release_date": "1983-07-15",
-            "title": "Zelig",
+            "original_title": "The Big Chill",
+            "overview": "La vie les avait s\u00e9par\u00e9s, la mort les r\u00e9unit. Ils \u00e9taient huit universitaires qu'une forte amiti\u00e9 unissait. Le suicide de l'un d'entre eux est durement ressenti par les sept autres.",
+            "popularity": 2.156,
+            "poster_path": "/qY7NjE4NVogQUJlBSCdHRhXQKk1.jpg",
+            "release_date": "1983-09-30",
+            "title": "Les Copains d'Abord",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 899,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 79,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6BQRfw8zkMrBIVDudpVZGyvEJDJ.jpg",
-            "id": 12502,
-            "original_language": "en",
-            "original_title": "Silkwood",
-            "overview": "Karen Silkwood, employ\u00e9e dans une usine de traitement nucl\u00e9aire, voit un de ses coll\u00e8gues de travail contamin\u00e9. Malgr\u00e9 les intimidations de sa hi\u00e9rarchie, elle va tenter de mettre \u00e0 jour de sombres affaires mettant en danger le personnel. Cette histoire s'inspire d'un fait divers qui a marqu\u00e9 l'Am\u00e9rique.",
-            "popularity": 2.4999,
-            "poster_path": "/uAzx8sOl7xRRiLke2NkLaZwxfvw.jpg",
-            "release_date": "1983-12-14",
-            "title": "Le myst\u00e8re Silkwood",
-            "video": false,
-            "vote_average": 6.935,
-            "vote_count": 339,
-            "genres": [
-                "Drame",
-                "Thriller"
-            ],
-            "runtime": 131,
-            "tagline": "Le 13 novembre 1974, Karen Silkwood, une employ\u00e9e d'une installation nucl\u00e9aire, est partie \u00e0 la rencontre d'un journaliste du New York Times. Elle n'y est jamais arriv\u00e9e."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/hPIcRAdwsIb3UhHJ3RuyCcDL4qK.jpg",
-            "id": 42121,
-            "original_language": "en",
-            "original_title": "Tender Mercies",
-            "overview": "Robert Duvall est Mac Sledge, chanteur de country down and out. Sa lutte pour la gloire est termin\u00e9e. Son combat pour le respect ne faisait que commencer.",
-            "popularity": 2.7027,
-            "poster_path": "/fBP6uK0K4EnV8dtt4SJQrMdX0wb.jpg",
-            "release_date": "1983-03-04",
-            "title": "Tendre bonheur",
-            "video": false,
-            "vote_average": 6.705,
-            "vote_count": 144,
-            "genres": [
-                "Drame",
-                "Musique",
-                "Romance"
-            ],
-            "runtime": 92,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
-            "id": 860,
-            "original_language": "en",
-            "original_title": "WarGames",
-            "overview": "En pleine guerre froide, un adolescent pirate sans le savoir le syst\u00e8me informatique militaire am\u00e9ricain g\u00e9r\u00e9 par une intelligence artificielle qui se prend dangereusement au jeu d'une guerre thermonucl\u00e9aire globale contre le bloc de l'Est...",
-            "popularity": 3.1636,
-            "poster_path": "/9lR8GWwuYJa756KsUGEXCElcKBS.jpg",
-            "release_date": "1983-06-03",
-            "title": "WarGames",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 2065,
-            "genres": [
-                "Thriller",
-                "Science-Fiction",
-                "Drame"
-            ],
-            "runtime": 114,
-            "tagline": "Et si un jeu vid\u00e9o d\u00e9clenchait une guerre nucl\u00e9aire ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tfiFC0pw1ccJFBkYkhP9uWeQ1S1.jpg",
-            "id": 11235,
-            "original_language": "en",
-            "original_title": "Local Hero",
-            "overview": "Une multinationale d\u00e9cide d'implanter un complexe p\u00e9trolier dans un petit village de p\u00e9cheurs du Nord de l\u2019\u00c9cosse. Les tractations que m\u00e8nent technocrates et villageois prennent une tournure bien surprenante.",
-            "popularity": 1.3638,
-            "poster_path": "/43iB4SLSDiPkGKtfu86xDZam1Nv.jpg",
-            "release_date": "1983-02-17",
-            "title": "Local hero",
-            "video": false,
-            "vote_average": 6.754,
-            "vote_count": 380,
+            "vote_average": 6.85,
+            "vote_count": 635,
             "genres": [
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 111,
-            "tagline": ""
+            "tagline": "L'histoire de huit vieux amis \u00e0 la recherche de quelque chose qu'ils avaient perdu et ayant d\u00e9couvert que tout ce dont ils avaient besoin \u00e9tait l'un de l'autre.",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -141,7 +56,7 @@
             "original_language": "sv",
             "original_title": "Fanny och Alexander",
             "overview": "En Su\u00e8de, au d\u00e9but du XXe si\u00e8cle. Helena Ekdahl, propri\u00e9taire du th\u00e9\u00e2tre d'Uppsala, a invit\u00e9 sa famille et ses amis pour de somptueuses festivit\u00e9s de No\u00ebl. Ses trois fils sont pr\u00e9sents, Oscar, com\u00e9dien m\u00e9diocre, Gustav Adolf, \u00e9ternel coureur de jupons, et Carl, un professeur alcoolique. Parmi les petits-enfants qui prennent joyeusement part \u00e0 la f\u00eate, Fanny et Alexandre. Au cours d'une r\u00e9p\u00e9tition, leur p\u00e8re, Oscar, est victime d'une h\u00e9morragie c\u00e9r\u00e9brale. Sa mort soudaine jette la consternation dans la famille Ekdahl. L'\u00e9v\u00eaque Edvard Vergerus c\u00e9l\u00e8bre les fun\u00e9railles. Il s\u00e9duit Emilie, la jeune veuve, et bient\u00f4t l'\u00e9pouse, au grand effroi des enfants, qui redoutent son puritanisme obsessionnel\u2026",
-            "popularity": 1.7376,
+            "popularity": 1.732,
             "poster_path": "/gp9NfTcj6R0lqXXzuagDnyYQWrR.jpg",
             "release_date": "1982-12-17",
             "title": "Fanny et Alexandre",
@@ -153,8 +68,8 @@
                 "Drame",
                 "Myst\u00e8re"
             ],
-            "runtime": 188,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 188
         },
         {
             "adult": false,
@@ -163,7 +78,7 @@
             "original_language": "en",
             "original_title": "The Right Stuff",
             "overview": "Dans la lourde atmosph\u00e8re de la Guerre Froide, un coup de tonnerre \u00e9clate en 57 : les russes ont lanc\u00e9 leur premier Spoutnik ! Eisenhower d\u00e9cide alors d'envoyer un homme dans l'espace. Yeager, approch\u00e9 par deux recruteurs, r\u00e9serve sa d\u00e9cision, mais les volontaires ne manquent pas : le programme Mercury est en route. Apr\u00e8s une s\u00e9rie de tests durs, humiliants, \u00e9puisants, les candidats craquent les uns apr\u00e8s les autres. On en retient sept, l'entra\u00eenement commence alors\u2026",
-            "popularity": 2.4062,
+            "popularity": 2.6045,
             "poster_path": "/wP3iGZpJgqbWAPodmvvEirX24ac.jpg",
             "release_date": "1983-10-20",
             "title": "L'\u00c9toffe des h\u00e9ros",
@@ -175,29 +90,113 @@
                 "Histoire",
                 "Aventure"
             ],
-            "runtime": 192,
-            "tagline": "Aimant la vie, d\u00e9fiant la mort, ces diables d'hommes ont pulv\u00e9ris\u00e9 les limites de l'espace."
+            "tagline": "Aimant la vie, d\u00e9fiant la mort, ces diables d'hommes ont pulv\u00e9ris\u00e9 les limites de l'espace.",
+            "runtime": 192
         },
         {
             "adult": false,
-            "backdrop_path": "/7qrpLCM3RwvuVbTgcK9mBukDQIE.jpg",
-            "id": 12560,
+            "backdrop_path": "/hPIcRAdwsIb3UhHJ3RuyCcDL4qK.jpg",
+            "id": 42121,
             "original_language": "en",
-            "original_title": "The Big Chill",
-            "overview": "La vie les avait s\u00e9par\u00e9s, la mort les r\u00e9unit. Ils \u00e9taient huit universitaires qu'une forte amiti\u00e9 unissait. Le suicide de l'un d'entre eux est durement ressenti par les sept autres.",
-            "popularity": 2.2984,
-            "poster_path": "/qY7NjE4NVogQUJlBSCdHRhXQKk1.jpg",
-            "release_date": "1983-09-30",
-            "title": "Les Copains d'Abord",
+            "original_title": "Tender Mercies",
+            "overview": "Robert Duvall est Mac Sledge, chanteur de country down and out. Sa lutte pour la gloire est termin\u00e9e. Son combat pour le respect ne faisait que commencer.",
+            "popularity": 2.3728,
+            "poster_path": "/fBP6uK0K4EnV8dtt4SJQrMdX0wb.jpg",
+            "release_date": "1983-03-04",
+            "title": "Tendre bonheur",
             "video": false,
-            "vote_average": 6.85,
-            "vote_count": 635,
+            "vote_average": 6.705,
+            "vote_count": 144,
+            "genres": [
+                "Drame",
+                "Musique",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tfiFC0pw1ccJFBkYkhP9uWeQ1S1.jpg",
+            "id": 11235,
+            "original_language": "en",
+            "original_title": "Local Hero",
+            "overview": "Une multinationale d\u00e9cide d'implanter un complexe p\u00e9trolier dans un petit village de p\u00e9cheurs du Nord de l\u2019\u00c9cosse. Les tractations que m\u00e8nent technocrates et villageois prennent une tournure bien surprenante.",
+            "popularity": 1.3141,
+            "poster_path": "/43iB4SLSDiPkGKtfu86xDZam1Nv.jpg",
+            "release_date": "1983-02-17",
+            "title": "Local hero",
+            "video": false,
+            "vote_average": 6.754,
+            "vote_count": 380,
             "genres": [
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 105,
-            "tagline": "L'histoire de huit vieux amis \u00e0 la recherche de quelque chose qu'ils avaient perdu et ayant d\u00e9couvert que tout ce dont ils avaient besoin \u00e9tait l'un de l'autre."
+            "tagline": "",
+            "runtime": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+            "id": 11030,
+            "original_language": "en",
+            "original_title": "Zelig",
+            "overview": "Leonard Zelig rel\u00e8ve, dans ces ann\u00e9es trente, d'un cas peu ordinaire. Ob\u00e8se, boxeur ou \u00e9crivain, il prend l'apparence de tous ceux qu'il c\u00f4toie. Eudora, en psychanalysant L\u00e9onard, d\u00e9couvre que celui-ci souffre d'un cruel besoin d'amour.",
+            "popularity": 2.7779,
+            "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+            "release_date": "1983-07-15",
+            "title": "Zelig",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 899,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6BQRfw8zkMrBIVDudpVZGyvEJDJ.jpg",
+            "id": 12502,
+            "original_language": "en",
+            "original_title": "Silkwood",
+            "overview": "Karen Silkwood, employ\u00e9e dans une usine de traitement nucl\u00e9aire, voit un de ses coll\u00e8gues de travail contamin\u00e9. Malgr\u00e9 les intimidations de sa hi\u00e9rarchie, elle va tenter de mettre \u00e0 jour de sombres affaires mettant en danger le personnel. Cette histoire s'inspire d'un fait divers qui a marqu\u00e9 l'Am\u00e9rique.",
+            "popularity": 3.7794,
+            "poster_path": "/uAzx8sOl7xRRiLke2NkLaZwxfvw.jpg",
+            "release_date": "1983-12-14",
+            "title": "Le myst\u00e8re Silkwood",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 339,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Le 13 novembre 1974, Karen Silkwood, une employ\u00e9e d'une installation nucl\u00e9aire, est partie \u00e0 la rencontre d'un journaliste du New York Times. Elle n'y est jamais arriv\u00e9e.",
+            "runtime": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+            "id": 860,
+            "original_language": "en",
+            "original_title": "WarGames",
+            "overview": "En pleine guerre froide, un adolescent pirate sans le savoir le syst\u00e8me informatique militaire am\u00e9ricain g\u00e9r\u00e9 par une intelligence artificielle qui se prend dangereusement au jeu d'une guerre thermonucl\u00e9aire globale contre le bloc de l'Est...",
+            "popularity": 3.4867,
+            "poster_path": "/9lR8GWwuYJa756KsUGEXCElcKBS.jpg",
+            "release_date": "1983-06-03",
+            "title": "WarGames",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 2065,
+            "genres": [
+                "Thriller",
+                "Science-Fiction",
+                "Drame"
+            ],
+            "tagline": "Et si un jeu vid\u00e9o d\u00e9clenchait une guerre nucl\u00e9aire ?",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -206,7 +205,7 @@
             "original_language": "en",
             "original_title": "The Year of Living Dangerously",
             "overview": "1965, Indon\u00e9sie. Un jeune journaliste australien effectue son premier reportage alors qu'un putsch militaire se pr\u00e9pare\u2026",
-            "popularity": 1.2176,
+            "popularity": 1.1543,
             "poster_path": "/1iD7ZRgsn1PKpSLsT809wkYXUJl.jpg",
             "release_date": "1982-12-17",
             "title": "L'Ann\u00e9e de tous les dangers",
@@ -217,29 +216,8 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 115,
-            "tagline": "Un amour pris dans le feu de la r\u00e9volution."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
-            "id": 262,
-            "original_language": "en",
-            "original_title": "The King of Comedy",
-            "overview": "Un comique m\u00e9connu, pour se faire reconna\u00eetre, enl\u00e8ve le pr\u00e9sentateur d'un show t\u00e9l\u00e9vis\u00e9 et n'accepte de le lib\u00e9rer qu'\u00e0 la condition de participer \u00e0 son spectacle.",
-            "popularity": 3.2516,
-            "poster_path": "/zmb3PE0GEepF7wGHoCuazh4r90.jpg",
-            "release_date": "1982-12-18",
-            "title": "La Valse des pantins",
-            "video": false,
-            "vote_average": 7.8,
-            "vote_count": 2496,
-            "genres": [
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "Un amour pris dans le feu de la r\u00e9volution.",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -248,145 +226,20 @@
             "original_language": "en",
             "original_title": "Return of the Jedi",
             "overview": "L'Empire galactique est plus puissant que jamais : la construction de la nouvelle arme, l\u2019\u00c9toile de la Mort, menace l'univers tout entier... Arr\u00eat\u00e9 apr\u00e8s la trahison de Lando Calrissian, Han Solo est remis \u00e0 l'ignoble contrebandier Jabba Le Hutt par le chasseur de primes Boba Fett. Apr\u00e8s l'\u00e9chec d'une premi\u00e8re tentative d'\u00e9vasion men\u00e9e par la princesse Leia, \u00e9galement arr\u00eat\u00e9e par Jabba, Luke Skywalker et Lando parviennent \u00e0 lib\u00e9rer leurs amis. Han, Leia, Chewbacca, C-3PO et Luke, devenu un Jedi, s'envolent d\u00e8s lors pour une mission d'extr\u00eame importance sur la lune foresti\u00e8re d'Endor, afin de d\u00e9truire le g\u00e9n\u00e9rateur du bouclier de l\u2019\u00c9toile de la Mort et permettre une attaque des pilotes de l'Alliance rebelle. Conscient d'\u00eatre un danger pour ses compagnons, Luke pr\u00e9f\u00e8re se rendre aux mains de Dark Vador, son p\u00e8re et ancien Jedi pass\u00e9 du c\u00f4t\u00e9 obscur de la Force.",
-            "popularity": 8.5264,
+            "popularity": 8.1857,
             "poster_path": "/tEQlCGiiWvMvfD7Sz8d99Pouy39.jpg",
             "release_date": "1983-05-25",
             "title": "Le Retour du Jedi",
             "video": false,
             "vote_average": 7.903,
-            "vote_count": 16556,
+            "vote_count": 16557,
             "genres": [
                 "Aventure",
                 "Action",
                 "Science-Fiction"
             ],
-            "runtime": 133,
-            "tagline": "Retour dans une galaxie\u2026 loin, tr\u00e8s loin."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oWtUJSIfN4umPrwiHwawhMuDZlL.jpg",
-            "id": 42130,
-            "original_language": "it",
-            "original_title": "La notte di San Lorenzo",
-            "overview": "Une jeune femme se souvient de ces jours noirs o\u00f9 la moiti\u00e9 du village avait fui les Allemands \u00e0 la recherche d'alli\u00e9s myst\u00e9rieux dont l'arriv\u00e9e se faisait attendre.",
-            "popularity": 0.6307,
-            "poster_path": "/1Y7QbJVL6vEHm32BGDoAZvXwq0P.jpg",
-            "release_date": "1982-09-16",
-            "title": "La Nuit de San Lorenzo",
-            "video": false,
-            "vote_average": 7.088,
-            "vote_count": 125,
-            "genres": [
-                "Guerre",
-                "Drame"
-            ],
-            "runtime": 105,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oGxd81RKZhc7rdinCQMUOdi5I97.jpg",
-            "id": 4483,
-            "original_language": "fr",
-            "original_title": "Le Retour de Martin Guerre",
-            "overview": "Village d'Artigat, sud de la France, \u00e9t\u00e9 1542, sous le r\u00e8gne de Fran\u00e7ois I. Martin Guerre et Bertrande de Rols se marient. Quelques ann\u00e9es plus tard, accus\u00e9 d'avoir commis un vol, Martin dispara\u00eet soudainement. Lorsque, pr\u00e8s d'une d\u00e9cennie plus tard, un homme arrive \u00e0 Artigat et pr\u00e9tend \u00eatre Martin, la famille Guerre le reconna\u00eet comme tel ; mais des doutes commencent bient\u00f4t \u00e0 surgir quant \u00e0 sa v\u00e9ritable identit\u00e9.",
-            "popularity": 0.6018,
-            "poster_path": "/rZk7AmIdh2BXs5Nj0xNVJlpT0me.jpg",
-            "release_date": "1982-05-14",
-            "title": "Le Retour de Martin Guerre",
-            "video": false,
-            "vote_average": 6.737,
-            "vote_count": 215,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 107,
-            "tagline": "La fascinante histoire d'un illustre imposteur"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/z6P7azdkZcNuEdOcqfZxqzRBMJ1.jpg",
-            "id": 12503,
-            "original_language": "en",
-            "original_title": "Under Fire",
-            "overview": "Au Nicaragua en 1979, le photographe Russel Price couvre la guerre civile opposant le pr\u00e9sident Somoza aux rebelles. Price et ses coll\u00e8gues Claire et Alex, suite \u00e0 de malencontreux \u00e9v\u00e9nements, doivent se cacher de l'arm\u00e9e...",
-            "popularity": 3.2351,
-            "poster_path": "/9ijVjJOVxthdBclh8anKFtcMDeD.jpg",
-            "release_date": "1983-10-21",
-            "title": "Under Fire",
-            "video": false,
-            "vote_average": 6.673,
-            "vote_count": 176,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 128,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rptrUX7tapj5L4PYiyjrcAOoNTj.jpg",
-            "id": 139383,
-            "original_language": "en",
-            "original_title": "Betrayal",
-            "overview": "Robert et Jerry sont de vieux amis. Robert \u00e9pouse Emma, Jerry tombe amoureux d'elle. Il devient son amant. Aujourd'hui tout est fini entre Emma et Jerry. Robert est au courant de leur liaison. Difficile pour Jerry d'etre le rival aux yeux de Robert. La trahison a commenc\u00e9 dans l'euphorie d'une 'party'. Par curiosit\u00e9 ou par orgueil ? De l\u00e0, commence l'\u00e9ternel jeu des mensonges, des calculs, et du d\u00e9sarroi.",
-            "popularity": 2.3122,
-            "poster_path": "/63pHI5M1og4pc7CdGKpAW0Fntxf.jpg",
-            "release_date": "1983-02-19",
-            "title": "Trahisons conjugales",
-            "video": false,
-            "vote_average": 5.907,
-            "vote_count": 27,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 95,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/awQ4MzI19Po2Fd33D81GfYhWSxt.jpg",
-            "id": 42122,
-            "original_language": "en",
-            "original_title": "The Dresser",
-            "overview": "",
-            "popularity": 0.4663,
-            "poster_path": "/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg",
-            "release_date": "1983-12-06",
-            "title": "The Dresser",
-            "video": false,
-            "vote_average": 6.7,
-            "vote_count": 77,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 118,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xDzub52wGcLB2XJwtRIhiW1u7TY.jpg",
-            "id": 14280,
-            "original_language": "en",
-            "original_title": "Never Cry Wolf",
-            "overview": "Un jeune biologiste, Tyler, est envoy\u00e9 en Arctique pour enqu\u00eater sur des massacres de caribous. Il est notamment charg\u00e9 de d\u00e9terminer si les meutes de loups en sont responsables. Il se fait d\u00e9poser dans les contr\u00e9es glac\u00e9es du Grand Nord, o\u00f9 il compte rester six mois. Les premiers contacts avec le milieu naturel s'av\u00e8rent p\u00e9nibles pour Tyler, qui poursuit sa route seul mais finit par rep\u00e9rer un couple de loups blancs. Tout en les observant, Tyler apprend \u00e0 conna\u00eetre leurs m\u0153urs et en tire de surprenantes conclusions. D'apr\u00e8s ses observations, les loups ne seraient pour rien dans la disparition des caribous, car ces animaux n'entrent pas dans leur r\u00e9gime alimentaire. Le ou les coupables restent \u00e0 \u00eatre d\u00e9masquer...",
-            "popularity": 0.9909,
-            "poster_path": "/xZbFBD8H7gNDyyNh6OsIPNrKUcT.jpg",
-            "release_date": "1983-10-07",
-            "title": "Un homme parmi les loups",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 141,
-            "genres": [
-                "Aventure",
-                "Drame",
-                "Action"
-            ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "Retour dans une galaxie\u2026 loin, tr\u00e8s loin.",
+            "runtime": 133
         },
         {
             "adult": false,
@@ -395,7 +248,7 @@
             "original_language": "en",
             "original_title": "The Grey Fox",
             "overview": "Lorsqu'un voleur de diligence vieillissant mais gentleman est lib\u00e9r\u00e9 de prison, il d\u00e9cide d'aller au Canada pour devenir voleur de train.",
-            "popularity": 0.6631,
+            "popularity": 0.5964,
             "poster_path": "/ycE2WBSczxBgM1vtRQ9KTtwGTMR.jpg",
             "release_date": "1982-12-16",
             "title": "The Grey Fox",
@@ -405,8 +258,29 @@
             "genres": [
                 "Western"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+            "id": 262,
+            "original_language": "en",
+            "original_title": "The King of Comedy",
+            "overview": "Un comique m\u00e9connu, pour se faire reconna\u00eetre, enl\u00e8ve le pr\u00e9sentateur d'un show t\u00e9l\u00e9vis\u00e9 et n'accepte de le lib\u00e9rer qu'\u00e0 la condition de participer \u00e0 son spectacle.",
+            "popularity": 3.0614,
+            "poster_path": "/zmb3PE0GEepF7wGHoCuazh4r90.jpg",
+            "release_date": "1982-12-18",
+            "title": "La Valse des pantins",
+            "video": false,
+            "vote_average": 7.785,
+            "vote_count": 2497,
+            "genres": [
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -415,7 +289,7 @@
             "original_language": "en",
             "original_title": "Risky Business",
             "overview": "Joel Goodson, 17 ans, \u00e9tudiant en Terminale de Glencoe, banlieue cossue de de Chicago (Illinois) doit r\u00e9ussir son concours d'entr\u00e9e \u00e0 Princeton. Il veut \u00eatre entrepreneur et gagner beaucoup d'argent. Lorsque ses parents quittent la ville pour la semaine son ami Miles le convainc d'appeler une call-girl pour sortir de sa coquille. De fil en aiguille, il fera la rencontre d'une autre call-girl, Lana qui va l'inviter \u00e0 d\u00e9couvrir un autre business lucratif : le bonheur des hommes...",
-            "popularity": 2.4859,
+            "popularity": 3.4813,
             "poster_path": "/8nszWNPYWcoa4GCn8cvBRzZ5xCz.jpg",
             "release_date": "1983-08-05",
             "title": "Risky Business",
@@ -427,8 +301,133 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 98,
-            "tagline": "Jo\u00ebl avait tous les fantasmes d'un gar\u00e7on de son \u00e2ge\u2026 les filles, les voitures, l'argent. Un jour ses parents partent pour une semaine, et tous ses r\u00eaves se r\u00e9alisent."
+            "tagline": "Jo\u00ebl avait tous les fantasmes d'un gar\u00e7on de son \u00e2ge\u2026 les filles, les voitures, l'argent. Un jour ses parents partent pour une semaine, et tous ses r\u00eaves se r\u00e9alisent.",
+            "runtime": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDzub52wGcLB2XJwtRIhiW1u7TY.jpg",
+            "id": 14280,
+            "original_language": "en",
+            "original_title": "Never Cry Wolf",
+            "overview": "Un jeune biologiste, Tyler, est envoy\u00e9 en Arctique pour enqu\u00eater sur des massacres de caribous. Il est notamment charg\u00e9 de d\u00e9terminer si les meutes de loups en sont responsables. Il se fait d\u00e9poser dans les contr\u00e9es glac\u00e9es du Grand Nord, o\u00f9 il compte rester six mois. Les premiers contacts avec le milieu naturel s'av\u00e8rent p\u00e9nibles pour Tyler, qui poursuit sa route seul mais finit par rep\u00e9rer un couple de loups blancs. Tout en les observant, Tyler apprend \u00e0 conna\u00eetre leurs m\u0153urs et en tire de surprenantes conclusions. D'apr\u00e8s ses observations, les loups ne seraient pour rien dans la disparition des caribous, car ces animaux n'entrent pas dans leur r\u00e9gime alimentaire. Le ou les coupables restent \u00e0 \u00eatre d\u00e9masquer...",
+            "popularity": 0.7893,
+            "poster_path": "/xZbFBD8H7gNDyyNh6OsIPNrKUcT.jpg",
+            "release_date": "1983-10-07",
+            "title": "Un homme parmi les loups",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 141,
+            "genres": [
+                "Aventure",
+                "Drame",
+                "Action"
+            ],
+            "tagline": "",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oGxd81RKZhc7rdinCQMUOdi5I97.jpg",
+            "id": 4483,
+            "original_language": "fr",
+            "original_title": "Le Retour de Martin Guerre",
+            "overview": "Village d'Artigat, sud de la France, \u00e9t\u00e9 1542, sous le r\u00e8gne de Fran\u00e7ois I. Martin Guerre et Bertrande de Rols se marient. Quelques ann\u00e9es plus tard, accus\u00e9 d'avoir commis un vol, Martin dispara\u00eet soudainement. Lorsque, pr\u00e8s d'une d\u00e9cennie plus tard, un homme arrive \u00e0 Artigat et pr\u00e9tend \u00eatre Martin, la famille Guerre le reconna\u00eet comme tel ; mais des doutes commencent bient\u00f4t \u00e0 surgir quant \u00e0 sa v\u00e9ritable identit\u00e9.",
+            "popularity": 0.5293,
+            "poster_path": "/rZk7AmIdh2BXs5Nj0xNVJlpT0me.jpg",
+            "release_date": "1982-05-14",
+            "title": "Le Retour de Martin Guerre",
+            "video": false,
+            "vote_average": 6.737,
+            "vote_count": 215,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "La fascinante histoire d'un illustre imposteur",
+            "runtime": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6P7azdkZcNuEdOcqfZxqzRBMJ1.jpg",
+            "id": 12503,
+            "original_language": "en",
+            "original_title": "Under Fire",
+            "overview": "Au Nicaragua en 1979, le photographe Russel Price couvre la guerre civile opposant le pr\u00e9sident Somoza aux rebelles. Price et ses coll\u00e8gues Claire et Alex, suite \u00e0 de malencontreux \u00e9v\u00e9nements, doivent se cacher de l'arm\u00e9e...",
+            "popularity": 3.8592,
+            "poster_path": "/9ijVjJOVxthdBclh8anKFtcMDeD.jpg",
+            "release_date": "1983-10-21",
+            "title": "Under Fire",
+            "video": false,
+            "vote_average": 6.673,
+            "vote_count": 176,
+            "genres": [
+                "Drame",
+                "Guerre"
+            ],
+            "tagline": "",
+            "runtime": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oWtUJSIfN4umPrwiHwawhMuDZlL.jpg",
+            "id": 42130,
+            "original_language": "it",
+            "original_title": "La notte di San Lorenzo",
+            "overview": "Une jeune femme se souvient de ces jours noirs o\u00f9 la moiti\u00e9 du village avait fui les Allemands \u00e0 la recherche d'alli\u00e9s myst\u00e9rieux dont l'arriv\u00e9e se faisait attendre.",
+            "popularity": 0.5974,
+            "poster_path": "/1Y7QbJVL6vEHm32BGDoAZvXwq0P.jpg",
+            "release_date": "1982-09-16",
+            "title": "La Nuit de San Lorenzo",
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 125,
+            "genres": [
+                "Guerre",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rptrUX7tapj5L4PYiyjrcAOoNTj.jpg",
+            "id": 139383,
+            "original_language": "en",
+            "original_title": "Betrayal",
+            "overview": "Robert et Jerry sont de vieux amis. Robert \u00e9pouse Emma, Jerry tombe amoureux d'elle. Il devient son amant. Aujourd'hui tout est fini entre Emma et Jerry. Robert est au courant de leur liaison. Difficile pour Jerry d'etre le rival aux yeux de Robert. La trahison a commenc\u00e9 dans l'euphorie d'une 'party'. Par curiosit\u00e9 ou par orgueil ? De l\u00e0, commence l'\u00e9ternel jeu des mensonges, des calculs, et du d\u00e9sarroi.",
+            "popularity": 1.9068,
+            "poster_path": "/63pHI5M1og4pc7CdGKpAW0Fntxf.jpg",
+            "release_date": "1983-02-19",
+            "title": "Trahisons conjugales",
+            "video": false,
+            "vote_average": 5.907,
+            "vote_count": 27,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/awQ4MzI19Po2Fd33D81GfYhWSxt.jpg",
+            "id": 42122,
+            "original_language": "en",
+            "original_title": "The Dresser",
+            "overview": "",
+            "popularity": 0.4479,
+            "poster_path": "/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg",
+            "release_date": "1983-12-06",
+            "title": "The Dresser",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 77,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -437,7 +436,7 @@
             "original_language": "en",
             "original_title": "Educating Rita",
             "overview": "Pour se cultiver, Rita, jeune coiffeuse, suit des cours de litt\u00e9rature \u00e0 l'universit\u00e9. Cette d\u00e9cision et l'\u00e9volution qui se dessine en elle bouleversent sa vie et celle de son entourage\u2026",
-            "popularity": 2.1663,
+            "popularity": 1.7971,
             "poster_path": "/sDDFOOPAeqKOvYTYRomIsjl1QHl.jpg",
             "release_date": "1983-06-16",
             "title": "L'\u00c9ducation de Rita",
@@ -448,8 +447,8 @@
                 "Drame",
                 "Com\u00e9die"
             ],
-            "runtime": 110,
-            "tagline": "Les \u00e9tudiants sont quelquefois les meilleurs enseignants."
+            "tagline": "Les \u00e9tudiants sont quelquefois les meilleurs enseignants.",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -458,7 +457,7 @@
             "original_language": "en",
             "original_title": "Yentl",
             "overview": "Assoiff\u00e9e de connaissance, la jeune Yentl se d\u00e9guise en gar\u00e7on \u00e0 la mort de son p\u00e8re pour parcourir la Pologne. Elle rencontre Avigdor, dont elle tombe amoureuse mais ne peut lui r\u00e9v\u00e9ler son secret car il doit \u00e9pouser la belle Hadass. Pour r\u00e9unir les deux \u00eatres qui lui sont le plus cher, Avigdor a l'id\u00e9e de marier Yentl \u00e0 Hadass.",
-            "popularity": 2.5773,
+            "popularity": 1.9772,
             "poster_path": "/yfafDyDNnae5cvRWsAwBchQ8Dwh.jpg",
             "release_date": "1983-11-18",
             "title": "Yentl",
@@ -470,8 +469,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 133,
-            "tagline": "\u00c0 une \u00e9poque o\u00f9 les \u00e9tudes n'appartenaient qu'aux hommes, une jeune fille a os\u00e9 se demander pourquoi ?"
+            "tagline": "\u00c0 une \u00e9poque o\u00f9 les \u00e9tudes n'appartenaient qu'aux hommes, une jeune fille a os\u00e9 se demander pourquoi ?",
+            "runtime": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2pViauhiZLhAUb1lsY6wRir69SF.jpg",
+            "id": 1621,
+            "original_language": "en",
+            "original_title": "Trading Places",
+            "overview": "D'un c\u00f4t\u00e9, Louis Winthorpe III, un jeune directeur, est charg\u00e9 des investissements chez Duke & Duke, une puissante banque de Philadelphie. De l'autre, Billy Ray Valentine est un noir combinard mais fauch\u00e9. Tous deux vont faire l'objet d'un pari insens\u00e9, pass\u00e9 entre les patrons de Louis.",
+            "popularity": 12.3647,
+            "poster_path": "/kU21ARWABQqoY2a5VRwDxVusT9G.jpg",
+            "release_date": "1983-06-07",
+            "title": "Un fauteuil pour deux",
+            "video": false,
+            "vote_average": 7.229,
+            "vote_count": 3548,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "Comment, pour un dollar, jouer le mendiant \u00e0 la hausse et le PDG \u00e0 la baisse?",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -480,7 +499,7 @@
             "original_language": "en",
             "original_title": "Testament",
             "overview": "La vie d'une famille am\u00e9ricaine de banlieue est marqu\u00e9 apr\u00e8s une attaque nucl\u00e9aire.",
-            "popularity": 2.1103,
+            "popularity": 1.8236,
             "poster_path": "/ylducqHfQjK8TqVonYEiEXLgf8D.jpg",
             "release_date": "1983-11-04",
             "title": "Le dernier testament",
@@ -491,28 +510,49 @@
                 "Drame",
                 "Science-Fiction"
             ],
-            "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
-            "backdrop_path": "/2pViauhiZLhAUb1lsY6wRir69SF.jpg",
-            "id": 1621,
+            "backdrop_path": "/oNppOS0bctF6668pYNy2Ltx3m9W.jpg",
+            "id": 30707,
             "original_language": "en",
-            "original_title": "Trading Places",
-            "overview": "D'un c\u00f4t\u00e9, Louis Winthorpe III, un jeune directeur, est charg\u00e9 des investissements chez Duke & Duke, une puissante banque de Philadelphie. De l'autre, Billy Ray Valentine est un noir combinard mais fauch\u00e9. Tous deux vont faire l'objet d'un pari insens\u00e9, pass\u00e9 entre les patrons de Louis.",
-            "popularity": 12.2588,
-            "poster_path": "/kU21ARWABQqoY2a5VRwDxVusT9G.jpg",
-            "release_date": "1983-06-07",
-            "title": "Un fauteuil pour deux",
+            "original_title": "Star 80",
+            "overview": "Une jolie jeune femme, Dorothy Hoogstraten, devient la petite amie de Paul Snider, un agent artistique de seconde zone. Paul, persuad\u00e9 qu'il pourra faire de Dorothy une vedette, la convainc de poser pour des photos de charme et d'envoyer celles-ci \u00e0 Playboy. Dorothy, qui prend le pseudonyme de Dorothy Stratten, est engag\u00e9e comme playmate et entame bient\u00f4t une carri\u00e8re d'actrice. Elle \u00e9pouse Paul, qui tente de contr\u00f4ler la carri\u00e8re de sa femme mais voit celle-ci gagner en ind\u00e9pendance. Paul, dont les affaires personnelles ne marchent pas alors que Dorothy remporte un succ\u00e8s croissant, devient bient\u00f4t jaloux et parano\u00efaque...",
+            "popularity": 0.9919,
+            "poster_path": "/5QJVub38t4Ivx8YS6dc0kOfGCGj.jpg",
+            "release_date": "1983-11-10",
+            "title": "Star 80",
             "video": false,
-            "vote_average": 7.229,
-            "vote_count": 3548,
+            "vote_average": 6.4,
+            "vote_count": 133,
             "genres": [
-                "Com\u00e9die"
+                "Drame"
             ],
-            "runtime": 117,
-            "tagline": "Comment, pour un dollar, jouer le mendiant \u00e0 la hausse et le PDG \u00e0 la baisse?"
+            "tagline": "N\u00e9e pour \u00eatre Star, Hollywood l'a cr\u00e9\u00e9e, Hollywood l'a d\u00e9truite.",
+            "runtime": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+            "id": 567,
+            "original_language": "en",
+            "original_title": "Rear Window",
+            "overview": "\u00c0 cause d'une jambe cass\u00e9e, le reporter-photographe L. B. Jefferies est contraint de rester chez lui dans un fauteuil roulant. Homme d'action et amateur d'aventures, il s'aper\u00e7oit qu'il peut tirer parti de son immobilit\u00e9 forc\u00e9e en \u00e9tudiant le comportement des habitants de l'immeuble qu'il occupe dans Greenwich Village. Et ses observations l'am\u00e8nent \u00e0 la conviction que Lars Thorwald, son voisin d'en face, a assassin\u00e9 sa femme. Sa fianc\u00e9e, Lisa Fremont, ne le prend tout d'abord pas au s\u00e9rieux, ironisant sur l'excitation que lui procure sa surveillance, mais finit par se prendre au jeu.",
+            "popularity": 5.4695,
+            "poster_path": "/xiPX9jCpPXQIqIrbbuHfsL4qt9c.jpg",
+            "release_date": "1954-08-01",
+            "title": "Fen\u00eatre sur cour",
+            "video": false,
+            "vote_average": 8.347,
+            "vote_count": 6952,
+            "genres": [
+                "Thriller",
+                "Myst\u00e8re"
+            ],
+            "tagline": "Voir n'est pas toujours croire.",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -521,7 +561,7 @@
             "original_language": "it",
             "original_title": "La traviata",
             "overview": "Mourante de phtysie, Violetta revoit son pass\u00e9 alors que les huissiers font l'inventaire de ses biens. Un amour violent et sinc\u00e8re vient de briser cette demi-mondaine.",
-            "popularity": 0.4309,
+            "popularity": 0.3584,
             "poster_path": "/yq1PwTVwKPMmkN0hqibkxjetnc6.jpg",
             "release_date": "1982-10-07",
             "title": "La traviata",
@@ -532,8 +572,8 @@
                 "Drame",
                 "Musique"
             ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -542,7 +582,7 @@
             "original_language": "fr",
             "original_title": "Pauline \u00e0 la plage",
             "overview": "Apr\u00e8s son divorce, Marion d\u00e9cide de terminer l'\u00e9t\u00e9 sur la c\u00f4te normande, en compagnie de sa cousine Pauline. Les deux jeunes femmes vont vivre des histoires d'amour inattendues\u2026",
-            "popularity": 0.9809,
+            "popularity": 1.7631,
             "poster_path": "/etELlm7GUQDOwT42SKAuzWs0TZl.jpg",
             "release_date": "1983-03-23",
             "title": "Pauline \u00e0 la plage",
@@ -554,69 +594,8 @@
                 "Romance",
                 "Com\u00e9die"
             ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oNppOS0bctF6668pYNy2Ltx3m9W.jpg",
-            "id": 30707,
-            "original_language": "en",
-            "original_title": "Star 80",
-            "overview": "Une jolie jeune femme, Dorothy Hoogstraten, devient la petite amie de Paul Snider, un agent artistique de seconde zone. Paul, persuad\u00e9 qu'il pourra faire de Dorothy une vedette, la convainc de poser pour des photos de charme et d'envoyer celles-ci \u00e0 Playboy. Dorothy, qui prend le pseudonyme de Dorothy Stratten, est engag\u00e9e comme playmate et entame bient\u00f4t une carri\u00e8re d'actrice. Elle \u00e9pouse Paul, qui tente de contr\u00f4ler la carri\u00e8re de sa femme mais voit celle-ci gagner en ind\u00e9pendance. Paul, dont les affaires personnelles ne marchent pas alors que Dorothy remporte un succ\u00e8s croissant, devient bient\u00f4t jaloux et parano\u00efaque...",
-            "popularity": 0.8461,
-            "poster_path": "/5QJVub38t4Ivx8YS6dc0kOfGCGj.jpg",
-            "release_date": "1983-11-10",
-            "title": "Star 80",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 133,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 103,
-            "tagline": "N\u00e9e pour \u00eatre Star, Hollywood l'a cr\u00e9\u00e9e, Hollywood l'a d\u00e9truite."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
-            "id": 567,
-            "original_language": "en",
-            "original_title": "Rear Window",
-            "overview": "\u00c0 cause d'une jambe cass\u00e9e, le reporter-photographe L. B. Jefferies est contraint de rester chez lui dans un fauteuil roulant. Homme d'action et amateur d'aventures, il s'aper\u00e7oit qu'il peut tirer parti de son immobilit\u00e9 forc\u00e9e en \u00e9tudiant le comportement des habitants de l'immeuble qu'il occupe dans Greenwich Village. Et ses observations l'am\u00e8nent \u00e0 la conviction que Lars Thorwald, son voisin d'en face, a assassin\u00e9 sa femme. Sa fianc\u00e9e, Lisa Fremont, ne le prend tout d'abord pas au s\u00e9rieux, ironisant sur l'excitation que lui procure sa surveillance, mais finit par se prendre au jeu.",
-            "popularity": 5.5707,
-            "poster_path": "/xiPX9jCpPXQIqIrbbuHfsL4qt9c.jpg",
-            "release_date": "1954-08-01",
-            "title": "Fen\u00eatre sur cour",
-            "video": false,
-            "vote_average": 8.3,
-            "vote_count": 6950,
-            "genres": [
-                "Thriller",
-                "Myst\u00e8re"
-            ],
-            "runtime": 110,
-            "tagline": "Voir n'est pas toujours croire."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tIVVXNWKDcKf3rxc7ab0Cyx2gDU.jpg",
-            "id": 34599,
-            "original_language": "en",
-            "original_title": "Heart Like a Wheel",
-            "overview": "Film biographique bas\u00e9 sur la vie de Shirley Muldowney, premi\u00e8re femme \u00e0 avoir re\u00e7u une licence de la National Hot Rod Association, f\u00e9d\u00e9ration automobile pour les courses de dragsters aux \u00c9tats-Unis.",
-            "popularity": 0.2616,
-            "poster_path": "/6P06Op4wLd4epWPuobdMUTRuf8I.jpg",
-            "release_date": "1983-04-01",
-            "title": "Pied au plancher",
-            "video": false,
-            "vote_average": 5.593,
-            "vote_count": 27,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 113,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -636,8 +615,28 @@
                 "Documentaire",
                 "Musique"
             ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tIVVXNWKDcKf3rxc7ab0Cyx2gDU.jpg",
+            "id": 34599,
+            "original_language": "en",
+            "original_title": "Heart Like a Wheel",
+            "overview": "Film biographique bas\u00e9 sur la vie de Shirley Muldowney, premi\u00e8re femme \u00e0 avoir re\u00e7u une licence de la National Hot Rod Association, f\u00e9d\u00e9ration automobile pour les courses de dragsters aux \u00c9tats-Unis.",
+            "popularity": 0.5088,
+            "poster_path": "/6P06Op4wLd4epWPuobdMUTRuf8I.jpg",
+            "release_date": "1983-04-01",
+            "title": "Pied au plancher",
+            "video": false,
+            "vote_average": 5.593,
+            "vote_count": 27,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -646,7 +645,7 @@
             "original_language": "en",
             "original_title": "Rumble Fish",
             "overview": "Tulsa, Oklahoma. Petite frappe locale, Rusty James r\u00eave d\u2019\u00e9galer les exploits de son grand fr\u00e8re, le Motorcycle Boy, l\u00e9gendaire chef de bande qui a choisi de s\u2019\u00e9clipser. En son absence, pour \u00eatre \u00e0 la hauteur de sa r\u00e9putation et se tailler la part du lion, Rusty se frotte aux gangs rivaux\u2026 Un soir, une rixe tourne mal. Le voyou est gravement bless\u00e9 et ne doit son salut qu\u2019\u00e0 l\u2019intervention inattendue de son a\u00een\u00e9. Myst\u00e9rieux et charismatique, le Motorcycle Boy est de retour chez lui\u2026",
-            "popularity": 3.3016,
+            "popularity": 2.7791,
             "poster_path": "/sxFDIQGSMfF3QLQoMMfSb1OpquG.jpg",
             "release_date": "1983-10-09",
             "title": "Rusty James",
@@ -658,8 +657,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -668,20 +667,20 @@
             "original_language": "en",
             "original_title": "Scarface",
             "overview": "En 1980, le gouvernement cubain expulse plusieurs centaines de prisonniers dangereux vers la Floride. Parmi eux, Tony Montana : ambitieux et sans scrupules, il \u00e9labore un plan pour prendre la place d'un ca\u00efd de la drogue.",
-            "popularity": 14.6603,
+            "popularity": 15.4076,
             "poster_path": "/eGctboDIdxBSxZIcF8iLc8gebd5.jpg",
             "release_date": "1983-12-09",
             "title": "Scarface",
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 12650,
+            "vote_average": 8.156,
+            "vote_count": 12652,
             "genres": [
                 "Action",
                 "Crime",
                 "Drame"
             ],
-            "runtime": 165,
-            "tagline": "Il voulait vivre le r\u00eave am\u00e9ricain. Jusqu'au bout."
+            "tagline": "Il voulait vivre le r\u00eave am\u00e9ricain. Jusqu'au bout.",
+            "runtime": 165
         },
         {
             "adult": false,
@@ -690,20 +689,20 @@
             "original_language": "ja",
             "original_title": "\u6226\u5834\u306e\u30e1\u30ea\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
             "overview": "Java 1942 : un camp de prisonniers est dirig\u00e9 par le capitaine Yonoi, un chef japonais \u00e0 la poigne de fer. \u00c0 la crainte et au m\u00e9pris qu'\u00e9prouvent les prisonniers et les subalternes du capitaine \u00e0 l'endroit de ce dernier, s'oppose la r\u00e9sistance \u00e9tonnante d'un soldat anglais, Jake Celliers. Face \u00e0 son attitude provocante, Yonoi devient de plus en plus s\u00e9v\u00e8re dans le but de faire plier le rebelle.",
-            "popularity": 1.9425,
+            "popularity": 2.0636,
             "poster_path": "/5RTn77fRM6jtopJ0SVIGqCHGj2U.jpg",
             "release_date": "1983-05-28",
             "title": "Furyo",
             "video": false,
-            "vote_average": 7.3,
+            "vote_average": 7.287,
             "vote_count": 506,
             "genres": [
                 "Drame",
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 124,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -712,7 +711,7 @@
             "original_language": "es",
             "original_title": "Carmen",
             "overview": "Un chor\u00e9graphe charg\u00e9 de mettre en sc\u00e8ne \"Carmen\" s\u2019\u00e9prend de sa danseuse principale...",
-            "popularity": 1.457,
+            "popularity": 1.0595,
             "poster_path": "/fUIJFbzpCIYaEaR3zTXUFEkSfff.jpg",
             "release_date": "1983-05-06",
             "title": "Carmen",
@@ -724,8 +723,8 @@
                 "Romance",
                 "Musique"
             ],
-            "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -734,7 +733,7 @@
             "original_language": "en",
             "original_title": "Without a Trace",
             "overview": "",
-            "popularity": 0.6107,
+            "popularity": 0.4458,
             "poster_path": "/xegLaEuvt5Ii21eochgdystk6x6.jpg",
             "release_date": "1983-02-04",
             "title": "Without a Trace",
@@ -745,8 +744,8 @@
                 "Drame",
                 "Myst\u00e8re"
             ],
-            "runtime": 120,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -755,7 +754,7 @@
             "original_language": "fr",
             "original_title": "Danton",
             "overview": "Inquiet de la nouvelle orientation imprim\u00e9e \u00e0 la r\u00e9volution en 1793, Danton quitte sa retraite et regagne Paris. Il d\u00e9nonce la \u00ab\u202fTerreur\u202f\u00bb qui r\u00e8gne sur la capitale et affronte son ancien compagnon de lutte, Robespierre.",
-            "popularity": 1.8593,
+            "popularity": 1.4831,
             "poster_path": "/R6oVP5RTqYEXe9lNxxPTWSOlZp.jpg",
             "release_date": "1983-01-12",
             "title": "Danton",
@@ -766,8 +765,28 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 136,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg",
+            "id": 4543,
+            "original_language": "en",
+            "original_title": "Monty Python's The Meaning of Life",
+            "overview": "Les vieux employ\u00e9s d'une compagnie d'assurances se r\u00e9voltent contre les jeunes loups qui les asservissent. Telle est la s\u00e9quence d'ouverture de cette satire loufoque sur l'existence, de la vie \u00e0 la mort, en passant par la religion, le mariage, la guerre...",
+            "popularity": 2.418,
+            "poster_path": "/2D2WfOrgIoWSdqZCh8LYv9Q8TGm.jpg",
+            "release_date": "1983-03-31",
+            "title": "Monty Python - le sens de la vie",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2027,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "Il a fallu \u00e0 Dieu six jours pour cr\u00e9er la terre, et aux Monty Python seulement 90 minutes pour la bousiller.",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -776,7 +795,7 @@
             "original_language": "en",
             "original_title": "A Christmas Story",
             "overview": "Ralphie a un unique souhait pour No\u00ebl, celui de se faire offrir la fameuse carabine \u00e0 double action de Red Ryder. Se heurtant \u00e0 l'opposition de ses parents, il d\u00e9cide de s'adresser directement au P\u00e8re No\u00ebl.",
-            "popularity": 2.9627,
+            "popularity": 2.5255,
             "poster_path": "/jmYC29MkCkmXRT20qe3Fei5MIpN.jpg",
             "release_date": "1983-11-18",
             "title": "Christmas Story",
@@ -787,28 +806,8 @@
                 "Com\u00e9die",
                 "Familial"
             ],
-            "runtime": 94,
-            "tagline": "Il est plus agr\u00e9able de donner que de recevoir."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg",
-            "id": 4543,
-            "original_language": "en",
-            "original_title": "Monty Python's The Meaning of Life",
-            "overview": "Les vieux employ\u00e9s d'une compagnie d'assurances se r\u00e9voltent contre les jeunes loups qui les asservissent. Telle est la s\u00e9quence d'ouverture de cette satire loufoque sur l'existence, de la vie \u00e0 la mort, en passant par la religion, le mariage, la guerre...",
-            "popularity": 1.8376,
-            "poster_path": "/2D2WfOrgIoWSdqZCh8LYv9Q8TGm.jpg",
-            "release_date": "1983-03-31",
-            "title": "Monty Python - le sens de la vie",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 2027,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 107,
-            "tagline": "Il a fallu \u00e0 Dieu six jours pour cr\u00e9er la terre, et aux Monty Python seulement 90 minutes pour la bousiller."
+            "tagline": "Il est plus agr\u00e9able de donner que de recevoir.",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -817,7 +816,7 @@
             "original_language": "en",
             "original_title": "Baby It's You",
             "overview": "Dans un lyc\u00e9e du New Jersey en 1966, Jill et le nouvel \u00e9l\u00e8ve Sheik de l'autre c\u00f4t\u00e9 des voies se frayent un chemin dans une premi\u00e8re romance amoureuse.",
-            "popularity": 0.6454,
+            "popularity": 0.651,
             "poster_path": "/6DGZKCnWVjdG9y5vqBc22N3gynO.jpg",
             "release_date": "1983-03-04",
             "title": "Baby It's You",
@@ -829,8 +828,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -839,7 +838,7 @@
             "original_language": "en",
             "original_title": "All the Right Moves",
             "overview": "Les r\u00eaves de gloire d'un jeune joueur de football qui veut \u00e0 tout prix partir de sa petite ville industrielle de Pennsylvanie.",
-            "popularity": 1.1712,
+            "popularity": 1.195,
             "poster_path": "/qEdq3vLj9m5CLUaNIjywvvT4gP7.jpg",
             "release_date": "1983-10-21",
             "title": "L'Esprit d'\u00e9quipe",
@@ -850,8 +849,8 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -860,7 +859,7 @@
             "original_language": "en",
             "original_title": "The Draughtsman's Contract",
             "overview": "Au XVIIe si\u00e8cle, une aristocrate, profitant de l'absence de son mari, engage un peintre pour immortaliser son domaine. En d\u00e9dommagement, elle lui offre la totale jouissance de son corps. L'artiste d\u00e9couvrira trop tard les buts secrets de cet agr\u00e9able contrat.",
-            "popularity": 1.4295,
+            "popularity": 1.5952,
             "poster_path": "/m0eIbAyvzgmIWIi9HO38mteZxUs.jpg",
             "release_date": "1982-11-12",
             "title": "Meurtre dans un jardin anglais",
@@ -872,8 +871,8 @@
                 "Myst\u00e8re",
                 "Com\u00e9die"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
         },
         {
             "adult": false,
@@ -882,7 +881,7 @@
             "original_language": "en",
             "original_title": "Flashdance",
             "overview": "Alexandra Owens vit \u00e0 Pittsburgh, la capitale de l'industrie sid\u00e9rurgique, gangren\u00e9e par le ch\u00f4mage. Elle travaille comme soudeuse dans une usine et m\u00e8ne une vie relativement solitaire. Originaire d'Altoona en Pennsylvanie et issue d'un milieu modeste, elle apprend la danse classique, sa passion, en autodidacte. Le soir, afin de compl\u00e9ter ses revenus, Alex danse dans un cabaret. C'est ainsi que Nick Hurley, directeur de l'entreprise dans laquelle Alex travaille, rencontre la jeune femme et est sous son charme. Alex s'entra\u00eene afin d'int\u00e9grer, un jour, l'\u00e9cole de danse de l'op\u00e9ra de Pittsburgh. Encore faudrait-il qu'elle ose franchir le cap des inscriptions.",
-            "popularity": 3.0045,
+            "popularity": 2.9957,
             "poster_path": "/5R9wQhbNsl42Ceaj4XXSI4JKJUe.jpg",
             "release_date": "1983-04-14",
             "title": "Flashdance",
@@ -893,8 +892,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 95,
-            "tagline": "Soudeuse le jour, danseuse la nuit."
+            "tagline": "Soudeuse le jour, danseuse la nuit.",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -903,7 +902,7 @@
             "original_language": "en",
             "original_title": "The Dead Zone",
             "overview": "Un professeur de lyc\u00e9e subit avec sa future femme un accident de voiture qui va bouleverser sa vie. Lorsqu'il se r\u00e9veille d'un coma de cinq ans, il d\u00e9couvre qu'il peut pr\u00e9dire le sort d'une personne par un simple contact physique. Ce pouvoir peut \u00eatre un don, mais aussi une mal\u00e9diction, comme Walken va le d\u00e9couvrir en serrant la main d'un politicien avide de pouvoir.",
-            "popularity": 2.2011,
+            "popularity": 2.3739,
             "poster_path": "/6cuJNjwDFf7blZf0S0G0N39WdFI.jpg",
             "release_date": "1983-10-21",
             "title": "Dead Zone",
@@ -915,8 +914,8 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 103,
-            "tagline": "Si le futur \u00e9tait entre vos mains, le changeriez-vous ?"
+            "tagline": "Si le futur \u00e9tait entre vos mains, le changeriez-vous ?",
+            "runtime": 103
         }
     ]
 }

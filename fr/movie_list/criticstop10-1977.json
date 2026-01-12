@@ -4,52 +4,9 @@
     "source": "https://criticstop10.com/best-movies-of-1977/",
     "created_by": "lbnt",
     "added": "07/30/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
-            "id": 11,
-            "original_language": "en",
-            "original_title": "Star Wars",
-            "overview": "Il y a bien longtemps, dans une galaxie tr\u00e8s lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Captur\u00e9e par les troupes de choc de l'Empereur men\u00e9es par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l\u2019\u00c9toile Noire, une station spatiale invuln\u00e9rable, \u00e0 son dro\u00efde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagn\u00e9 de son fid\u00e8le compagnon, le dro\u00efde de protocole C-3PO, R2-D2 s'\u00e9choue sur la plan\u00e8te Tatooine et termine sa qu\u00eate chez le jeune Luke Skywalker. R\u00eavant de devenir pilote mais confin\u00e9 aux travaux de la ferme, ce dernier se lance \u00e0 la recherche de ce myst\u00e9rieux Obi-Wan Kenobi, devenu ermite au c\u0153ur des montagnes d\u00e9sertiques de Tatooine...",
-            "popularity": 20.208,
-            "poster_path": "/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg",
-            "release_date": "1977-05-25",
-            "title": "La Guerre des \u00e9toiles",
-            "video": false,
-            "vote_average": 8.202,
-            "vote_count": 21815,
-            "genres": [
-                "Aventure",
-                "Action",
-                "Science-Fiction"
-            ],
-            "runtime": 121,
-            "tagline": "\u201cQue la force soit avec toi.\u201d"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4PyPXBdJSBbjcvbLa8oq7usT8sj.jpg",
-            "id": 61280,
-            "original_language": "en",
-            "original_title": "The Turning Point",
-            "overview": "L'histoire de deux femmes dont les vies sont vou\u00e9es \u00e0 la danse. Deede a arr\u00eat\u00e9 sa carri\u00e8re de danseuse pour devenir femme au foyer et m\u00e8re, et dirige maintenant une \u00e9cole de danse dans l'Oklahoma. Emma est toujours dans une compagnie, elle est devenue une star dont la carri\u00e8re est d\u00e9j\u00e0 derri\u00e8re elle. Toutes deux \u00e9taient amies d'enfance et se retrouvent pour parler du pass\u00e9.",
-            "popularity": 1.9287,
-            "poster_path": "/6CD90BQEDexEIMqIwMSnbJStF5x.jpg",
-            "release_date": "1977-11-14",
-            "title": "Le tournant de la vie",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 65,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 119,
-            "tagline": ""
-        },
         {
             "adult": false,
             "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
@@ -57,7 +14,7 @@
             "original_language": "en",
             "original_title": "Annie Hall",
             "overview": "Le n\u00e9vros\u00e9 Alvy Singer rencontre Annie Hall une femme excentrique dans la ville qu'il aime, New York.",
-            "popularity": 2.7157,
+            "popularity": 2.877,
             "poster_path": "/wkqBnx6s63seSHBr5lW3UGIHi6Z.jpg",
             "release_date": "1977-04-19",
             "title": "Annie Hall",
@@ -69,29 +26,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 93,
-            "tagline": "Une romance nerveuse."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mN6xN0rz7BqfgMHsGYnmvD4EXfG.jpg",
-            "id": 37749,
-            "original_language": "en",
-            "original_title": "Looking for Mr. Goodbar",
-            "overview": "Dans les ann\u00e9es 1970, une enseignante pour malentendants, c\u00e9libataire et sage en apparence, s'aventure chaque nuit dans les quartiers chauds en qu\u00eate d'exp\u00e9riences sexuelles d\u00e9brid\u00e9es et sans lendemain. Elle y rencontre un voyou violent\u2026",
-            "popularity": 1.5146,
-            "poster_path": "/njZ8jfu115FVerfLhhIwnnxKRrS.jpg",
-            "release_date": "1977-10-19",
-            "title": "\u00c0 la recherche de Mr. Goodbar",
-            "video": false,
-            "vote_average": 6.3,
-            "vote_count": 122,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 136,
-            "tagline": ""
+            "tagline": "Une romance nerveuse.",
+            "runtime": 93
         },
         {
             "adult": false,
@@ -100,7 +36,7 @@
             "original_language": "en",
             "original_title": "Close Encounters of the Third Kind",
             "overview": "Des faits \u00e9tranges se produisent un peu partout dans le monde : des avions qui avaient disparu durant la Seconde Guerre mondiale sont retrouv\u00e9s au Mexique en parfait \u00e9tat de marche, un cargo est d\u00e9couvert \u00e9chou\u00e9 au beau milieu du d\u00e9sert de Gobi. Dans l'Indiana, pendant qu'une coupure d'\u00e9lectricit\u00e9 paralyse la banlieue, Roy Neary, un r\u00e9parateur de c\u00e2bles, voit une \"soucoupe volante\" passer au-dessus de sa voiture. D'autres personnes sont \u00e9galement t\u00e9moins de ce type de ph\u00e9nom\u00e8ne : Barry Guiler, un petit gar\u00e7on de quatre ans, est r\u00e9veill\u00e9 par le bruit de ses jouets qui se mettent en route. Cherchant \u00e0 savoir d'o\u00f9 proviennent ces ovnis, Roy Neary se heurte aux rigoureuses consignes de silence impos\u00e9es par le gouvernement f\u00e9d\u00e9ral. Obs\u00e9d\u00e9 par ce qu'il a vu et hant\u00e9 par une image de montagne qu'il essaie d\u00e9sesp\u00e9r\u00e9ment de reconstituer, il est abandonn\u00e9 par sa femme Ronnie et ses enfants. Il n'y a que Jillian, la m\u00e8re de Barry, qui le comprenne.",
-            "popularity": 3.5756,
+            "popularity": 4.1127,
             "poster_path": "/jznNbJ80WvvlbLdGEjNsvwycDZC.jpg",
             "release_date": "1977-12-14",
             "title": "Rencontres du troisi\u00e8me type",
@@ -111,50 +47,51 @@
                 "Science-Fiction",
                 "Drame"
             ],
-            "runtime": 135,
-            "tagline": "Nous ne sommes pas seuls."
+            "tagline": "Nous ne sommes pas seuls.",
+            "runtime": 135
         },
         {
             "adult": false,
-            "backdrop_path": "/d890bItqbqkJVmGPpIcq6s5CGxV.jpg",
-            "id": 42222,
+            "backdrop_path": "/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
+            "id": 11,
             "original_language": "en",
-            "original_title": "Julia",
-            "overview": "Entre les deux guerres mondiales, la romanci\u00e8re Lillian Hellman vit avec l'\u00e9crivain Dashiell Hammett dans une maison face \u00e0 l'oc\u00e9an sur la c\u00f4te Est. Elle n'a plus de nouvelles de son amie d'enfance Julia partie \u00e9tudier en Europe. Elle lui rend visite \u00e0 Oxford quand Julia lui annonce qu'elle se pr\u00e9pare \u00e0 rejoindre Vienne pour y \u00e9tudier la m\u00e9decine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgr\u00e9 les dangers de l'Europe en guerre, aid\u00e9e par la r\u00e9sistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
-            "popularity": 2.1473,
-            "poster_path": "/qHtPzs9eVCilp88c1arq73gH6xk.jpg",
-            "release_date": "1977-10-01",
-            "title": "Julia",
+            "original_title": "Star Wars",
+            "overview": "Il y a bien longtemps, dans une galaxie tr\u00e8s lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Captur\u00e9e par les troupes de choc de l'Empereur men\u00e9es par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l\u2019\u00c9toile Noire, une station spatiale invuln\u00e9rable, \u00e0 son dro\u00efde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagn\u00e9 de son fid\u00e8le compagnon, le dro\u00efde de protocole C-3PO, R2-D2 s'\u00e9choue sur la plan\u00e8te Tatooine et termine sa qu\u00eate chez le jeune Luke Skywalker. R\u00eavant de devenir pilote mais confin\u00e9 aux travaux de la ferme, ce dernier se lance \u00e0 la recherche de ce myst\u00e9rieux Obi-Wan Kenobi, devenu ermite au c\u0153ur des montagnes d\u00e9sertiques de Tatooine...",
+            "popularity": 19.7405,
+            "poster_path": "/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg",
+            "release_date": "1977-05-25",
+            "title": "La Guerre des \u00e9toiles",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 156,
+            "vote_average": 8.202,
+            "vote_count": 21816,
+            "genres": [
+                "Aventure",
+                "Action",
+                "Science-Fiction"
+            ],
+            "tagline": "\u201cQue la force soit avec toi.\u201d",
+            "runtime": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4PyPXBdJSBbjcvbLa8oq7usT8sj.jpg",
+            "id": 61280,
+            "original_language": "en",
+            "original_title": "The Turning Point",
+            "overview": "L'histoire de deux femmes dont les vies sont vou\u00e9es \u00e0 la danse. Deede a arr\u00eat\u00e9 sa carri\u00e8re de danseuse pour devenir femme au foyer et m\u00e8re, et dirige maintenant une \u00e9cole de danse dans l'Oklahoma. Emma est toujours dans une compagnie, elle est devenue une star dont la carri\u00e8re est d\u00e9j\u00e0 derri\u00e8re elle. Toutes deux \u00e9taient amies d'enfance et se retrouvent pour parler du pass\u00e9.",
+            "popularity": 1.7974,
+            "poster_path": "/6CD90BQEDexEIMqIwMSnbJStF5x.jpg",
+            "release_date": "1977-11-14",
+            "title": "Le tournant de la vie",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 65,
             "genres": [
                 "Drame",
-                "Romance",
-                "Thriller"
+                "Romance"
             ],
-            "runtime": 117,
-            "tagline": "L'histoire de deux femmes dont l'amiti\u00e9 devient soudain une question de vie ou de mort."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
-            "id": 41662,
-            "original_language": "en",
-            "original_title": "3 Women",
-            "overview": "L'histoire de trois femmes, Pinky, Millie et Willie dont les destins vides et representatifs de l'univers feminin americain vont se croiser.",
-            "popularity": 2.7815,
-            "poster_path": "/mi7l74NCDQt1VHkNtUKWdOZYzW5.jpg",
-            "release_date": "1977-04-29",
-            "title": "3 femmes",
-            "video": false,
-            "vote_average": 7.094,
-            "vote_count": 332,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 124,
-            "tagline": "1 femme est devenue 2, 2 femmes sont devenues 3, 3 femmes sont devenues 1"
+            "tagline": "",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -163,7 +100,7 @@
             "original_language": "en",
             "original_title": "The Late Show",
             "overview": "Aux fun\u00e9railles de son ami Harry, Ira Wells, un d\u00e9tective priv\u00e9 grincheux approchant la retraite est sollicit\u00e9 par une excentrique qui veut retrouver son chat enlev\u00e9. Il s'associe avec elle dans le but d'attraper les malfrats qui ont tu\u00e9 son partenaire.",
-            "popularity": 0.4141,
+            "popularity": 0.3016,
             "poster_path": "/qii8jbAjid9MzBx7tUJf7URf8LO.jpg",
             "release_date": "1977-02-10",
             "title": "Le chat conna\u00eet l'assassin",
@@ -175,29 +112,50 @@
                 "Crime",
                 "Com\u00e9die"
             ],
-            "runtime": 93,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 93
         },
         {
             "adult": false,
-            "backdrop_path": "/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg",
-            "id": 11009,
+            "backdrop_path": "/d890bItqbqkJVmGPpIcq6s5CGxV.jpg",
+            "id": 42222,
             "original_language": "en",
-            "original_title": "Saturday Night Fever",
-            "overview": "\u00c0 19 ans, le jeune Tony Manero est le roi du weekend, la star des dance-floors de son quartier de Brooklyn. Mais la semaine, le retour \u00e0 la vraie vie est difficile. Jusqu'au jour o\u00f9 Tony rencontre la belle Stephanie qui lui fait prendre conscience qu'il existe peut-\u00eatre un autre monde \u00e0 d\u00e9couvrir au-del\u00e0 des murs de brique des bas-quartiers de New York.",
-            "popularity": 3.1065,
-            "poster_path": "/psg46TubysFxNxxy20VBK1hc4nk.jpg",
-            "release_date": "1977-12-16",
-            "title": "La Fi\u00e8vre du samedi soir",
+            "original_title": "Julia",
+            "overview": "Entre les deux guerres mondiales, la romanci\u00e8re Lillian Hellman vit avec l'\u00e9crivain Dashiell Hammett dans une maison face \u00e0 l'oc\u00e9an sur la c\u00f4te Est. Elle n'a plus de nouvelles de son amie d'enfance Julia partie \u00e9tudier en Europe. Elle lui rend visite \u00e0 Oxford quand Julia lui annonce qu'elle se pr\u00e9pare \u00e0 rejoindre Vienne pour y \u00e9tudier la m\u00e9decine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgr\u00e9 les dangers de l'Europe en guerre, aid\u00e9e par la r\u00e9sistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
+            "popularity": 2.1677,
+            "poster_path": "/qHtPzs9eVCilp88c1arq73gH6xk.jpg",
+            "release_date": "1977-10-01",
+            "title": "Julia",
             "video": false,
-            "vote_average": 6.729,
-            "vote_count": 2027,
+            "vote_average": 6.4,
+            "vote_count": 156,
             "genres": [
-                "Musique",
+                "Drame",
+                "Romance",
+                "Thriller"
+            ],
+            "tagline": "L'histoire de deux femmes dont l'amiti\u00e9 devient soudain une question de vie ou de mort.",
+            "runtime": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
+            "id": 41662,
+            "original_language": "en",
+            "original_title": "3 Women",
+            "overview": "L'histoire de trois femmes, Pinky, Millie et Willie dont les destins vides et representatifs de l'univers feminin americain vont se croiser.",
+            "popularity": 2.3006,
+            "poster_path": "/mi7l74NCDQt1VHkNtUKWdOZYzW5.jpg",
+            "release_date": "1977-04-29",
+            "title": "3 femmes",
+            "video": false,
+            "vote_average": 7.094,
+            "vote_count": 332,
+            "genres": [
                 "Drame"
             ],
-            "runtime": 118,
-            "tagline": "Laissez-vous gagner par\u2026"
+            "tagline": "1 femme est devenue 2, 2 femmes sont devenues 3, 3 femmes sont devenues 1",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -206,7 +164,7 @@
             "original_language": "en",
             "original_title": "The Goodbye Girl",
             "overview": "Une femme divorc\u00e9e et sa fille rentrent chez elles et d\u00e9couvrent que le petit ami de celle-ci est parti de la ville sans la pr\u00e9venir.",
-            "popularity": 0.9441,
+            "popularity": 0.8956,
             "poster_path": "/5J3dBkVqdXTsm0h0HrAZNbq8Hbg.jpg",
             "release_date": "1977-11-27",
             "title": "Adieu, je reste",
@@ -218,8 +176,50 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 111,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg",
+            "id": 11009,
+            "original_language": "en",
+            "original_title": "Saturday Night Fever",
+            "overview": "\u00c0 19 ans, le jeune Tony Manero est le roi du weekend, la star des dance-floors de son quartier de Brooklyn. Mais la semaine, le retour \u00e0 la vraie vie est difficile. Jusqu'au jour o\u00f9 Tony rencontre la belle Stephanie qui lui fait prendre conscience qu'il existe peut-\u00eatre un autre monde \u00e0 d\u00e9couvrir au-del\u00e0 des murs de brique des bas-quartiers de New York.",
+            "popularity": 2.6632,
+            "poster_path": "/psg46TubysFxNxxy20VBK1hc4nk.jpg",
+            "release_date": "1977-12-16",
+            "title": "La Fi\u00e8vre du samedi soir",
+            "video": false,
+            "vote_average": 6.729,
+            "vote_count": 2027,
+            "genres": [
+                "Musique",
+                "Drame"
+            ],
+            "tagline": "Laissez-vous gagner par\u2026",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mN6xN0rz7BqfgMHsGYnmvD4EXfG.jpg",
+            "id": 37749,
+            "original_language": "en",
+            "original_title": "Looking for Mr. Goodbar",
+            "overview": "Dans les ann\u00e9es 1970, une enseignante pour malentendants, c\u00e9libataire et sage en apparence, s'aventure chaque nuit dans les quartiers chauds en qu\u00eate d'exp\u00e9riences sexuelles d\u00e9brid\u00e9es et sans lendemain. Elle y rencontre un voyou violent\u2026",
+            "popularity": 1.5359,
+            "poster_path": "/njZ8jfu115FVerfLhhIwnnxKRrS.jpg",
+            "release_date": "1977-10-19",
+            "title": "\u00c0 la recherche de Mr. Goodbar",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 122,
+            "genres": [
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "",
+            "runtime": 136
         },
         {
             "adult": false,
@@ -228,7 +228,7 @@
             "original_language": "en",
             "original_title": "New York, New York",
             "overview": "New York, 1945. L'Am\u00e9rique tout enti\u00e8re f\u00eate la fin de la guerre. A cette \u00e9poque-l\u00e0, Jimmy Doyle, un saxophoniste, fait la connaissance de Francine, une chanteuse. Ils tombent amoureux, non sans que Jimmy ait d\u00fb multiplier les tentatives de s\u00e9duction. Le jeune musicien obtient un job aupr\u00e8s de sa conqu\u00eate, dans l'orchestre, et ils partent en tourn\u00e9e ensemble. Le talent de Jimmy lui vaut une rapide promotion. Bient\u00f4t, Jimmy et Francine se marient et ont un enfant. Mais la vie les s\u00e9pare de plus en plus. Si Jimmy tient \u00e0 rester le saxophoniste boh\u00e8me de ses d\u00e9buts, qui se produit dans des sous-sols de bo\u00eetes enfum\u00e9es, Francine entame une carri\u00e8re brillante qui la pousse vers Hollywood...",
-            "popularity": 2.2571,
+            "popularity": 1.849,
             "poster_path": "/AopGrtgNJFj04oCXgKMwvUfF0hg.jpg",
             "release_date": "1977-06-21",
             "title": "New York, New York",
@@ -240,8 +240,8 @@
                 "Drame",
                 "Musique"
             ],
-            "runtime": 162,
-            "tagline": "Le rire. Les larmes. Le Jazz. Le Blues. Tout ce qui fait de New York, New York."
+            "tagline": "Le rire. Les larmes. Le Jazz. Le Blues. Tout ce qui fait de New York, New York.",
+            "runtime": 162
         },
         {
             "adult": false,
@@ -250,7 +250,7 @@
             "original_language": "fr",
             "original_title": "Cet obscur objet du d\u00e9sir",
             "overview": "Lors d'un voyage en train, Mathieu Faber raconte aux passagers de son compartiment ses amours avec Conchita, femme radieuse qu'il poursuit de son obsession \u00e0 travers l'Europe. Mais elle se d\u00e9robe toujours \u00e0 ses avances...",
-            "popularity": 1.3553,
+            "popularity": 1.5339,
             "poster_path": "/k098PiL04JfOe4RCTrrmiaEjpBD.jpg",
             "release_date": "1977-08-17",
             "title": "Cet obscur objet du d\u00e9sir",
@@ -262,8 +262,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wq1N2j3cjscFmpxu01W30S0CIZT.jpg",
+            "id": 24032,
+            "original_language": "en",
+            "original_title": "Oh, God!",
+            "overview": "",
+            "popularity": 1.5571,
+            "poster_path": "/9QrIWpKS24thkL0g4HrRYAznFDV.jpg",
+            "release_date": "1977-10-07",
+            "title": "Oh, God!",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 130,
+            "genres": [
+                "Fantastique",
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -272,7 +293,7 @@
             "original_language": "en",
             "original_title": "The Spy Who Loved Me",
             "overview": "Pour retrouver des sous-marins nucl\u00e9aires russe et britannique qui ont myst\u00e9rieusement disparu, James Bond fait \u00e9quipe avec l'agent sovi\u00e9tique Anya Amasova. Leur mission les conduit \u00e0 affronter un ennemi redoutable, Requin, un g\u00e9ant de pr\u00e8s de deux m\u00e8tres vingt quasiment indestructible et arm\u00e9 d'une m\u00e2choire en acier aussi coupante qu'un rasoir. 007 devra \u00e9galement affronter Karl Stromberg, l'employeur de Requin. Stromberg veut se servir des sous-marins nucl\u00e9aires qu'il a vol\u00e9s pour d\u00e9truire le monde et cr\u00e9er une cit\u00e9 sous-marine.",
-            "popularity": 4.1557,
+            "popularity": 4.0563,
             "poster_path": "/nIjqzDyGwPtM4gFTOXXgidNzcBL.jpg",
             "release_date": "1977-07-07",
             "title": "L'Espion qui m'aimait",
@@ -284,8 +305,8 @@
                 "Action",
                 "Thriller"
             ],
-            "runtime": 126,
-            "tagline": "L'un est Britannique. L'autre est Russe."
+            "tagline": "L'un est Britannique. L'autre est Russe.",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -294,7 +315,7 @@
             "original_language": "es",
             "original_title": "Cr\u00eda cuervos",
             "overview": "Ana, une fillette de huit ans vivant \u00e0 Madrid avec sa grand-m\u00e8re et ses deux s\u0153urs, pleure la mort de sa m\u00e8re.",
-            "popularity": 1.8101,
+            "popularity": 1.7115,
             "poster_path": "/y89WUVslJgudLcQCIdT5DALLhSe.jpg",
             "release_date": "1976-06-03",
             "title": "Cr\u00eda cuervos",
@@ -304,50 +325,28 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 105,
-            "tagline": "Regards d'une enfance"
+            "tagline": "Regards d'une enfance",
+            "runtime": 105
         },
         {
             "adult": false,
-            "backdrop_path": "/kU6M85V1WSG09LrtRZc1qF4883F.jpg",
-            "id": 54140,
+            "backdrop_path": "/zr1aI0clKiZigMo1EHwv5oslsT7.jpg",
+            "id": 70926,
             "original_language": "en",
-            "original_title": "Providence",
-            "overview": "Pendant une nuit d'ivresse, une vieil homme malade va m\u00e9langer ses fantasmes \u00e0 la r\u00e9alit\u00e9, avec les membres de sa propre famille. Au d\u00e9but, tout est relativement clair, mais au fur et \u00e0 mesure que la nuit avance, tout devient confus. Le matin, les diff\u00e9rents personnages r\u00eav\u00e9s se retrouvent pour un repas d'anniversaire",
-            "popularity": 1.8894,
-            "poster_path": "/mYSkJqgkpc4EriTbICdX3jsNGx8.jpg",
-            "release_date": "1977-01-25",
-            "title": "Providence",
+            "original_title": "Islands in the Stream",
+            "overview": "Thomas Hudson, c\u00e9l\u00e8bre sculpteur se retire dans une \u00eele de l'archipel des Bahamas. Son existence paisible va \u00eatre troubl\u00e9e par la visite de ses trois fils et l'engagement des \u00c9tats-Unis dans la Seconde Guerre Mondiale.",
+            "popularity": 0.4765,
+            "poster_path": "/oGT9ej5jVGO4xhTgym3Hp0bDm0G.jpg",
+            "release_date": "1977-03-09",
+            "title": "L'\u00cele des adieux",
             "video": false,
-            "vote_average": 6.8,
-            "vote_count": 64,
+            "vote_average": 6.4,
+            "vote_count": 22,
             "genres": [
-                "Drame",
-                "Com\u00e9die"
+                "Drame"
             ],
-            "runtime": 110,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wq1N2j3cjscFmpxu01W30S0CIZT.jpg",
-            "id": 24032,
-            "original_language": "en",
-            "original_title": "Oh, God!",
-            "overview": "",
-            "popularity": 1.8175,
-            "poster_path": "/9QrIWpKS24thkL0g4HrRYAznFDV.jpg",
-            "release_date": "1977-10-07",
-            "title": "Oh, God!",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 130,
-            "genres": [
-                "Fantastique",
-                "Com\u00e9die"
-            ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -356,7 +355,7 @@
             "original_language": "fr",
             "original_title": "L'Homme qui aimait les femmes",
             "overview": "Bertrand travaille dans une entreprise d'a\u00e9rodynamisme. Il est autant amoureux des femmes que de l'id\u00e9e m\u00eame de la femme. Pour lui, toutes les femmes sont uniques et irrempla\u00e7ables. Elles sont \u00e0 la fois l'\u0153uvre de sa vie, son inspiration artistique et la cause de sa mort. Mais si Bertrand est un amoureux insatiable, c'est que deux profondes blessures sont rest\u00e9es en lui. Celle que lui a caus\u00e9 une m\u00e8re distante et froide, tout d'abord, et dont il ne parviendra jamais \u00e0 se faire aimer. Et puis celle que lui a inflig\u00e9e V\u00e9ra en le quittant. Depuis que V\u00e9ra est partie, Bertrand erre de femme en femme, les collectionnant pour ne pas s'y attacher. Au fil du temps, il se souvient de toutes les femmes qu'il a rencontr\u00e9es. Il compose un livre \u00e0 partir de tous ses souvenirs.",
-            "popularity": 0.8712,
+            "popularity": 0.7038,
             "poster_path": "/mQIGRSTmMmdrpssbKcyb8YEzEkD.jpg",
             "release_date": "1977-04-27",
             "title": "L'homme qui aimait les femmes",
@@ -368,28 +367,29 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 118,
-            "tagline": "\u00ab Les jambes des femmes sont des compas qui arpentent le globe terrestre en tous sens, lui donnant son \u00e9quilibre et son harmonie. \u00bb"
+            "tagline": "\u00ab Les jambes des femmes sont des compas qui arpentent le globe terrestre en tous sens, lui donnant son \u00e9quilibre et son harmonie. \u00bb",
+            "runtime": 118
         },
         {
             "adult": false,
-            "backdrop_path": "/zr1aI0clKiZigMo1EHwv5oslsT7.jpg",
-            "id": 70926,
+            "backdrop_path": "/kU6M85V1WSG09LrtRZc1qF4883F.jpg",
+            "id": 54140,
             "original_language": "en",
-            "original_title": "Islands in the Stream",
-            "overview": "Thomas Hudson, c\u00e9l\u00e8bre sculpteur se retire dans une \u00eele de l'archipel des Bahamas. Son existence paisible va \u00eatre troubl\u00e9e par la visite de ses trois fils et l'engagement des \u00c9tats-Unis dans la Seconde Guerre Mondiale.",
-            "popularity": 0.3817,
-            "poster_path": "/oGT9ej5jVGO4xhTgym3Hp0bDm0G.jpg",
-            "release_date": "1977-03-09",
-            "title": "L'\u00cele des adieux",
+            "original_title": "Providence",
+            "overview": "Pendant une nuit d'ivresse, une vieil homme malade va m\u00e9langer ses fantasmes \u00e0 la r\u00e9alit\u00e9, avec les membres de sa propre famille. Au d\u00e9but, tout est relativement clair, mais au fur et \u00e0 mesure que la nuit avance, tout devient confus. Le matin, les diff\u00e9rents personnages r\u00eav\u00e9s se retrouvent pour un repas d'anniversaire",
+            "popularity": 1.7383,
+            "poster_path": "/mYSkJqgkpc4EriTbICdX3jsNGx8.jpg",
+            "release_date": "1977-01-25",
+            "title": "Providence",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 22,
+            "vote_average": 6.8,
+            "vote_count": 64,
             "genres": [
-                "Drame"
+                "Drame",
+                "Com\u00e9die"
             ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -398,7 +398,7 @@
             "original_language": "it",
             "original_title": "Padre padrone",
             "overview": "Dans la Sardaigne profonde des ann\u00e9es 1940, le petit Gavino ne peut aller \u00e0 l'\u00e9cole que deux mois par an ; le reste de l'ann\u00e9e, il doit aider son p\u00e8re \u00e0 garder les animaux. Il grandit ainsi dans l'isolement, loin de la soci\u00e9t\u00e9 humaine. C'est gr\u00e2ce au service militaire \u00e0 l'\u00e2ge de 21 ans qu'il peut \u00e9chapper \u00e0 l'emprise de son p\u00e8re. Il apprend \u00e0 lire, ce qui est pour lui une r\u00e9v\u00e9lation (il deviendra linguiste), et en sortant de l'arm\u00e9e, il rejette le rapport de quasi-esclavage impos\u00e9 par son p\u00e8re.",
-            "popularity": 0.6883,
+            "popularity": 0.6509,
             "poster_path": "/1NwDh0w8p5U5tXdY8DiOPlQlpLW.jpg",
             "release_date": "1977-05-20",
             "title": "Padre padrone",
@@ -408,8 +408,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 117,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -418,7 +418,7 @@
             "original_language": "en",
             "original_title": "Sorcerer",
             "overview": "Quatre \u00e9trangers de nationalit\u00e9s diff\u00e9rentes, chacun recherch\u00e9 dans son pays, s'associent pour conduire un chargement de nitroglyc\u00e9rine \u00e0 travers la jungle sud-am\u00e9ricaine\u2026  Un voyage au c\u0153ur des t\u00e9n\u00e8bres\u2026",
-            "popularity": 2.3899,
+            "popularity": 2.1845,
             "poster_path": "/qNDjNzSlDW3p4n9PejiYZLjAS75.jpg",
             "release_date": "1977-06-24",
             "title": "Le Convoi de la peur",
@@ -430,8 +430,8 @@
                 "Aventure",
                 "Drame"
             ],
-            "runtime": 120,
-            "tagline": "Pour ces 4 hommes, un choix terrible : le convoi de la mort ou une vie en enfer."
+            "tagline": "Pour ces 4 hommes, un choix terrible : le convoi de la mort ou une vie en enfer.",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -440,7 +440,7 @@
             "original_language": "en",
             "original_title": "Harlan County U.S.A.",
             "overview": "",
-            "popularity": 0.7548,
+            "popularity": 0.6404,
             "poster_path": "/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
             "release_date": "1977-01-23",
             "title": "Harlan County U.S.A.",
@@ -450,8 +450,8 @@
             "genres": [
                 "Documentaire"
             ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -460,7 +460,7 @@
             "original_language": "en",
             "original_title": "I Never Promised You a Rose Garden",
             "overview": "Une jeune femme s'attache maladivement \u00e0 un royaume fantastique qu'elle s'est cr\u00e9\u00e9e elle-m\u00eame dans son enfance. Plac\u00e9e dans un h\u00f4pital psychiatrique, des m\u00e9decins tentent de la replacer dans la r\u00e9alit\u00e9.",
-            "popularity": 1.1511,
+            "popularity": 1.5033,
             "poster_path": "/AcumdxTlCtFBQXDjsIsiy1VyjpX.jpg",
             "release_date": "1977-07-14",
             "title": "Jamais je ne t'ai promis un jardin de roses",
@@ -470,8 +470,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -480,7 +480,7 @@
             "original_language": "fr",
             "original_title": "La Victoire en chantant",
             "overview": "Alors que la guerre fait rage en Europe en ce mois de janvier 1915, un groupe de colons fran\u00e7ais, ignorant de ces faits, m\u00e8ne une vie paisible \u00e0 Fort Caulais, un comptoir recul\u00e9 de l'Afrique. Apr\u00e8s avoir jet\u00e9 le trouble au sein de la petite communaut\u00e9, l'annonce du conflit suscite un bel \u00e9lan de patriotisme et l'on d\u00e9cr\u00e8te rapidement la mobilisation g\u00e9n\u00e9rale pour aller en d\u00e9coudre avec un poste voisin tenu par quelques Allemands. Des \u00e9piciers et leurs \u00e9pouses, deux missionnaires, un sergent de carri\u00e8re et un jeune g\u00e9ographe composent l'\u00e9tat-major. L'arm\u00e9e proprement dite ne compte, elle, et dans chaque camp, que des Africains, enr\u00f4l\u00e9s de force. La premi\u00e8re bataille est perdue. Fort de cette exp\u00e9rience, les Fran\u00e7ais acceptent un nouveau chef qui, sans les conduire \u00e0 une victoire d\u00e9cisive, leur rendra honneur et dignit\u00e9 gr\u00e2ce \u00e0 une discipline aussi efficace que rigoureuse.",
-            "popularity": 0.3266,
+            "popularity": 0.3842,
             "poster_path": "/guTjqPvGeykhGmOT5zpNjBdHNOi.jpg",
             "release_date": "1976-09-22",
             "title": "La Victoire en chantant",
@@ -492,28 +492,8 @@
                 "Com\u00e9die",
                 "Guerre"
             ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/I88VvqsDJCOR7u82BtgUnpj7xs.jpg",
-            "id": 85325,
-            "original_language": "en",
-            "original_title": "Citizens Band",
-            "overview": "Ce film entrelace les histoires de plusieurs personnages dans une petite ville unis par leur utilisation de la radio CB (bande citoyenne).",
-            "popularity": 2.0192,
-            "poster_path": "/tNPirgIL4qQrLhCda0wdUlE9l0w.jpg",
-            "release_date": "1977-05-18",
-            "title": "Citizens Band",
-            "video": false,
-            "vote_average": 4.912,
-            "vote_count": 17,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -522,7 +502,7 @@
             "original_language": "de",
             "original_title": "Der amerikanische Freund",
             "overview": "Atteint de leuc\u00e9mie, Jonathan Zimmermann, propri\u00e9taire d'un atelier d'encadrements \u00e0 Hambourg, se sait irr\u00e9m\u00e9diablement condamn\u00e9. Il rencontre un jour l'Am\u00e9ricain Tom Ripley, trafiquant de tableaux. Ce dernier pr\u00e9sente \u00e0 Jonathan l'un de ses amis, qui lui propose de tuer un inconnu contre une forte somme: Jonathan accepte, offrant ainsi une \u00abassurance-vie\u00bb et un avenir \u00e0 sa famille. C'est le d\u00e9but d'une spirale in\u00e9luctable\u2026",
-            "popularity": 0.715,
+            "popularity": 0.7234,
             "poster_path": "/jU1d5mEk37WzJ1G3hdGFHZChbbP.jpg",
             "release_date": "1977-06-24",
             "title": "L'Ami am\u00e9ricain",
@@ -534,8 +514,28 @@
                 "Thriller",
                 "Crime"
             ],
-            "runtime": 128,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I88VvqsDJCOR7u82BtgUnpj7xs.jpg",
+            "id": 85325,
+            "original_language": "en",
+            "original_title": "Citizens Band",
+            "overview": "Ce film entrelace les histoires de plusieurs personnages dans une petite ville unis par leur utilisation de la radio CB (bande citoyenne).",
+            "popularity": 1.7019,
+            "poster_path": "/tNPirgIL4qQrLhCda0wdUlE9l0w.jpg",
+            "release_date": "1977-05-18",
+            "title": "Citizens Band",
+            "video": false,
+            "vote_average": 4.912,
+            "vote_count": 17,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -544,12 +544,12 @@
             "original_language": "en",
             "original_title": "The Rescuers",
             "overview": "Dans les sous\u2010sols des Nations Unies \u00e0 New York, un groupe de souris tient conseil. Il s\u2019agit du comit\u00e9 de soutien aux personnes en difficult\u00e9. Bianca, d\u00e9l\u00e9gu\u00e9e coquette, choisit Bernard tendre souriceau timide et courageux pour voler au secours d\u2019une petite orpheline s\u00e9questr\u00e9e, Penny.",
-            "popularity": 3.3142,
+            "popularity": 3.4408,
             "poster_path": "/lIlr6NuCZvYO62M6at27cclPSed.jpg",
             "release_date": "1977-06-22",
             "title": "Les Aventures de Bernard et Bianca",
             "video": false,
-            "vote_average": 6.781,
+            "vote_average": 6.8,
             "vote_count": 2629,
             "genres": [
                 "Fantastique",
@@ -557,8 +557,8 @@
                 "Animation",
                 "Aventure"
             ],
-            "runtime": 76,
-            "tagline": "Des nouveaux amis\u2026 Un tout nouveau grand dessin anim\u00e9\u202f!"
+            "tagline": "Des nouveaux amis\u2026 Un tout nouveau grand dessin anim\u00e9\u202f!",
+            "runtime": 76
         },
         {
             "adult": false,
@@ -567,7 +567,7 @@
             "original_language": "en",
             "original_title": "Slap Shot",
             "overview": "L'entra\u00eeneur d'une \u00e9quipe de hockey embauche trois jeunes qui, en quelques matchs, font r\u00e9gner la terreur sur la glace et dans les tribunes.",
-            "popularity": 1.1079,
+            "popularity": 1.3071,
             "poster_path": "/ezZpz9vdrYWgttcdcTAm0KInKnm.jpg",
             "release_date": "1977-02-25",
             "title": "La Castagne",
@@ -578,30 +578,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 123,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
-            "id": 5902,
-            "original_language": "en",
-            "original_title": "A Bridge Too Far",
-            "overview": "En septembre 1944, l'op\u00e9ration du mar\u00e9chal Montgomery d\u00e9bute malgr\u00e9 le d\u00e9saccord du g\u00e9n\u00e9ral am\u00e9ricain Patton. Il s'agit d'un coup d\u00e9cisif afin de pr\u00e9cipiter la chute du IIIe Reich. Pour cela, il faut s'emparer des six principaux ponts sur le Rhin et les tenir afin de faire franchir les blind\u00e9s et l'infanterie. L'op\u00e9ration sera la plus grande op\u00e9ration a\u00e9roport\u00e9e jamais r\u00e9alis\u00e9e \u00e0 cette \u00e9poque mais n'en sera pas moins un \u00e9chec cuisant, les alli\u00e9s perdront pr\u00e8s de 17 000 hommes.",
-            "popularity": 3.495,
-            "poster_path": "/jbZSmrUd976WK0olBywyQXQ8cMc.jpg",
-            "release_date": "1977-06-15",
-            "title": "Un pont trop loin",
-            "video": false,
-            "vote_average": 7.212,
-            "vote_count": 894,
-            "genres": [
-                "Drame",
-                "Histoire",
-                "Guerre"
-            ],
-            "runtime": 176,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 123
         },
         {
             "adult": false,
@@ -610,7 +588,7 @@
             "original_language": "it",
             "original_title": "Novecento",
             "overview": "Parabole sur l'itin\u00e9raire de deux enfants qui naissent en 1900 dans un village d\u2019\u00c9milie. L'un, Olmo Dalco, appartient au milieu des m\u00e9tayers, l'autre, Alfredo Berlinghieri, est le fils du propri\u00e9taire.",
-            "popularity": 1.9568,
+            "popularity": 1.755,
             "poster_path": "/joescoCMDQfj6t0VGjYLSHR8u80.jpg",
             "release_date": "1976-08-28",
             "title": "1900",
@@ -621,8 +599,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 325,
-            "tagline": "Du berceau \u00e0 la tombe, victimes de l'histoire et du changement !"
+            "tagline": "Du berceau \u00e0 la tombe, victimes de l'histoire et du changement !",
+            "runtime": 325
         },
         {
             "adult": false,
@@ -631,7 +609,7 @@
             "original_language": "de",
             "original_title": "Aguirre, der Zorn Gottes",
             "overview": "La marche de ses soldats \u00e9tant contrari\u00e9e par de multiples p\u00e9rils, Pizzaro, le conqu\u00e9rant du P\u00e9rou, confie \u00e0 un groupe d'une quarantaine d'hommes \u2014 sous la direction de Pedro de Ursua, second\u00e9 par Don Lope de Aguirre \u2014 le soin de descendre le fleuve afin de reconna\u00eetre le terrain. Tr\u00e8s vite, Aguirre se r\u00e9volte contre Ursua, qu'il blesse d'un coup de feu. Rejetant l'autorit\u00e9 de l'Espagne, libre et rebelle, Aguirre entra\u00eene alors ses compagnons vers cet Eldorado mythique qui les fait tous r\u00eaver depuis si longtemps. Il s'est mis en t\u00eate de se tailler un empire autour de la fabuleuse cit\u00e9 d'or et d'y fonder une dynastie\u2026",
-            "popularity": 1.6934,
+            "popularity": 2.0177,
             "poster_path": "/oq0TfwtkuMocFuwoHyEILgnbNZM.jpg",
             "release_date": "1972-12-29",
             "title": "Aguirre, la col\u00e8re de Dieu",
@@ -643,8 +621,30 @@
                 "Aventure",
                 "Drame"
             ],
-            "runtime": 94,
-            "tagline": "Un voyage \u00e9poustouflant au c\u0153ur des t\u00e9n\u00e8bres"
+            "tagline": "Un voyage \u00e9poustouflant au c\u0153ur des t\u00e9n\u00e8bres",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+            "id": 5902,
+            "original_language": "en",
+            "original_title": "A Bridge Too Far",
+            "overview": "En septembre 1944, l'op\u00e9ration du mar\u00e9chal Montgomery d\u00e9bute malgr\u00e9 le d\u00e9saccord du g\u00e9n\u00e9ral am\u00e9ricain Patton. Il s'agit d'un coup d\u00e9cisif afin de pr\u00e9cipiter la chute du IIIe Reich. Pour cela, il faut s'emparer des six principaux ponts sur le Rhin et les tenir afin de faire franchir les blind\u00e9s et l'infanterie. L'op\u00e9ration sera la plus grande op\u00e9ration a\u00e9roport\u00e9e jamais r\u00e9alis\u00e9e \u00e0 cette \u00e9poque mais n'en sera pas moins un \u00e9chec cuisant, les alli\u00e9s perdront pr\u00e8s de 17 000 hommes.",
+            "popularity": 3.2052,
+            "poster_path": "/jbZSmrUd976WK0olBywyQXQ8cMc.jpg",
+            "release_date": "1977-06-15",
+            "title": "Un pont trop loin",
+            "video": false,
+            "vote_average": 7.212,
+            "vote_count": 894,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Guerre"
+            ],
+            "tagline": "",
+            "runtime": 176
         },
         {
             "adult": false,
@@ -653,7 +653,7 @@
             "original_language": "en",
             "original_title": "Equus",
             "overview": "\u00c0 la demande de la cour de justice, un psychiatre, Martin Dysart, enqu\u00eate sur un acte cruel : les yeux de six chevaux ont \u00e9t\u00e9 crev\u00e9s dans une \u00e9table d'Hampshire, Angleterre. Cette atrocit\u00e9 a \u00e9t\u00e9 commise par un adolescent de 17 ans, Alan Strang, avec qui il est difficile d'entrer en contact. Interrog\u00e9s par le m\u00e9decin, les parents du jeune Strang r\u00e9v\u00e8lent peu \u00e0 peu des faits et comportements tr\u00e8s singuliers.",
-            "popularity": 1.9255,
+            "popularity": 1.658,
             "poster_path": "/qU1PFhxAqNLtw8Cyia0xg0XqSB7.jpg",
             "release_date": "1977-10-16",
             "title": "Equus",
@@ -665,8 +665,8 @@
                 "Myst\u00e8re",
                 "Thriller"
             ],
-            "runtime": 137,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 137
         },
         {
             "adult": false,
@@ -675,7 +675,7 @@
             "original_language": "fr",
             "original_title": "La Dentelli\u00e8re",
             "overview": "Pomme, apprentie coiffeuse, est une jeune femme tr\u00e8s r\u00e9serv\u00e9e et silencieuse. Son amie Maryl\u00e8ne, tr\u00e8s expansive, l'emm\u00e8ne \u00e0 Cabourg pour quelques jours de vacances. Pomme y rencontre Fran\u00e7ois,un jeune \u00e9tudiant brillant mais aussi timide qu'elle. Ils rentrent \u00e0 Paris et s'aiment, mais le foss\u00e9 qui les s\u00e9pare socialement aura raison de leur amour. Pomme s'efface, toujours en silence, et finit dans un h\u00f4pital psychiatrique.",
-            "popularity": 2.6356,
+            "popularity": 2.1492,
             "poster_path": "/s8OEHrCyQTqjT5xuFsxGGHVr7ho.jpg",
             "release_date": "1977-05-25",
             "title": "La Dentelli\u00e8re",
@@ -686,8 +686,50 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2CQBJsfAQ9Y99rl5vwTLTuCQLj8.jpg",
+            "id": 2459,
+            "original_language": "fr",
+            "original_title": "Un \u00e9l\u00e9phant \u00e7a trompe \u00e9norm\u00e9ment",
+            "overview": "Seul, en robe de chambre, sur la corniche d'un immeuble des Champs-\u00c9lys\u00e9es, \u00c9tienne revoit les \u00e9v\u00e9nements qui l'ont amen\u00e9 dans cette position embarrassante, tandis qu'en contrebas les badauds s'amassent et guettent sa chute. \u00c0 l'approche de la quarantaine, fonctionnaire mod\u00e8le et mari irr\u00e9prochable, \u00c9tienne s'est laiss\u00e9 griser par les belles jambes d'une inconnue v\u00eatue de rouge. Il a tout fait pour lier conversation avec elle. Ses trois ins\u00e9parables amis, Bouly, le s\u00e9ducteur inquiet, Daniel, l'amuseur public \u00e0 l'imp\u00e9n\u00e9trable vie intime, et Simon, l'enfant ch\u00e9ri de sa m\u00e8re abusive, le m\u00e9decin le plus hypocondriaque de Paris, lui ont apport\u00e9 leur concours\u2026",
+            "popularity": 1.1034,
+            "poster_path": "/dpb31U7hFBq6UYihc3WqbFYSoaP.jpg",
+            "release_date": "1976-09-22",
+            "title": "Un \u00e9l\u00e9phant \u00e7a trompe \u00e9norm\u00e9ment",
+            "video": false,
+            "vote_average": 6.961,
+            "vote_count": 219,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "Ils sont ins\u00e9parables pour le meilleur et pour le pire !",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q4B3c9zyTMuZNIqAlYPVCW5WiUT.jpg",
+            "id": 42229,
+            "original_language": "it",
+            "original_title": "Una giornata particolare",
+            "overview": "8 mai 1938 : Rome en f\u00eate organise un grand d\u00e9fil\u00e9 en l'honneur d'Adolf Hitler, venu en Italie pour consolider son alliance avec le Duce. Dans un immeuble d'un quartier populaire, Antonietta, \u00e9pouse d'un petit fonctionnaire fasciste, se consacre aux t\u00e2ches m\u00e9nag\u00e8res. Son mainate s'\u00e9chappe et se pose sur le rebord d'une fen\u00eatre. Antonietta en avertit le locataire concern\u00e9. C'est ainsi qu'elle fait la connaissance de Gabriele, un commentateur de radio homosexuel, r\u00e9cemment licenci\u00e9, qui attend son arrestation imminente.",
+            "popularity": 0.8899,
+            "poster_path": "/1WFi41fn3Aiexp3BAOArNgcRVsQ.jpg",
+            "release_date": "1977-08-11",
+            "title": "Une journ\u00e9e particuli\u00e8re",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 734,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Un film sp\u00e9cial sur deux personnes sp\u00e9ciales.",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -696,7 +738,7 @@
             "original_language": "en",
             "original_title": "Black Sunday",
             "overview": "Au cours d'un raid meurtrier sur le quartier g\u00e9n\u00e9ral de l'organisation Septembre noir \u00e0 Beyrouth, le major isra\u00e9lien Kabakov \u00e9pargne Dahlia Lyad. La jeune femme vient d'enregistrer un message \u00e0 destination de l'Am\u00e9rique dans lequel elle parle d'un attentat meurtrier \u00e0 venir. Aux \u00c9tats-Unis, Kabakov entre en contact avec Corley, du FBI, pour le pr\u00e9venir du danger. Pendant ce temps, \u00e0 Los Angeles, Dahlia retrouve Michael Lander, un pilote traumatis\u00e9 par la guerre..",
-            "popularity": 2.1725,
+            "popularity": 1.8158,
             "poster_path": "/4rMXQICfFEsSGHCjh3bJj7K33sZ.jpg",
             "release_date": "1977-04-01",
             "title": "Black Sunday",
@@ -708,50 +750,8 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 143,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/2CQBJsfAQ9Y99rl5vwTLTuCQLj8.jpg",
-            "id": 2459,
-            "original_language": "fr",
-            "original_title": "Un \u00e9l\u00e9phant \u00e7a trompe \u00e9norm\u00e9ment",
-            "overview": "Seul, en robe de chambre, sur la corniche d'un immeuble des Champs-\u00c9lys\u00e9es, \u00c9tienne revoit les \u00e9v\u00e9nements qui l'ont amen\u00e9 dans cette position embarrassante, tandis qu'en contrebas les badauds s'amassent et guettent sa chute. \u00c0 l'approche de la quarantaine, fonctionnaire mod\u00e8le et mari irr\u00e9prochable, \u00c9tienne s'est laiss\u00e9 griser par les belles jambes d'une inconnue v\u00eatue de rouge. Il a tout fait pour lier conversation avec elle. Ses trois ins\u00e9parables amis, Bouly, le s\u00e9ducteur inquiet, Daniel, l'amuseur public \u00e0 l'imp\u00e9n\u00e9trable vie intime, et Simon, l'enfant ch\u00e9ri de sa m\u00e8re abusive, le m\u00e9decin le plus hypocondriaque de Paris, lui ont apport\u00e9 leur concours\u2026",
-            "popularity": 0.9886,
-            "poster_path": "/dpb31U7hFBq6UYihc3WqbFYSoaP.jpg",
-            "release_date": "1976-09-22",
-            "title": "Un \u00e9l\u00e9phant \u00e7a trompe \u00e9norm\u00e9ment",
-            "video": false,
-            "vote_average": 6.961,
-            "vote_count": 219,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 100,
-            "tagline": "Ils sont ins\u00e9parables pour le meilleur et pour le pire !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/q4B3c9zyTMuZNIqAlYPVCW5WiUT.jpg",
-            "id": 42229,
-            "original_language": "it",
-            "original_title": "Una giornata particolare",
-            "overview": "8 mai 1938 : Rome en f\u00eate organise un grand d\u00e9fil\u00e9 en l'honneur d'Adolf Hitler, venu en Italie pour consolider son alliance avec le Duce. Dans un immeuble d'un quartier populaire, Antonietta, \u00e9pouse d'un petit fonctionnaire fasciste, se consacre aux t\u00e2ches m\u00e9nag\u00e8res. Son mainate s'\u00e9chappe et se pose sur le rebord d'une fen\u00eatre. Antonietta en avertit le locataire concern\u00e9. C'est ainsi qu'elle fait la connaissance de Gabriele, un commentateur de radio homosexuel, r\u00e9cemment licenci\u00e9, qui attend son arrestation imminente.",
-            "popularity": 1.0693,
-            "poster_path": "/1WFi41fn3Aiexp3BAOArNgcRVsQ.jpg",
-            "release_date": "1977-08-11",
-            "title": "Une journ\u00e9e particuli\u00e8re",
-            "video": false,
-            "vote_average": 8.0,
-            "vote_count": 734,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 106,
-            "tagline": "Un film sp\u00e9cial sur deux personnes sp\u00e9ciales."
+            "tagline": "",
+            "runtime": 143
         }
     ]
 }

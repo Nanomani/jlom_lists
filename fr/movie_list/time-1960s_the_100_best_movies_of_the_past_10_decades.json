@@ -4,29 +4,29 @@
     "source": "https://time.com/collection/100-best-movies/",
     "created_by": "lbnt",
     "added": "04/26/24",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
-            "id": 475,
-            "original_language": "en",
-            "original_title": "Bonnie and Clyde",
-            "overview": "La dramatique aventure de deux amants r\u00e9volt\u00e9s pendant la grande d\u00e9pression des ann\u00e9es trente aux \u00c9tats-Unis, inspir\u00e9e par un fait r\u00e9el.",
-            "popularity": 3.0395,
-            "poster_path": "/l7SGiO7BLLAJyZJgWWRMcar5Rbe.jpg",
-            "release_date": "1967-08-13",
-            "title": "Bonnie et Clyde",
+            "backdrop_path": "/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
+            "id": 269,
+            "original_language": "fr",
+            "original_title": "\u00c0 bout de souffle",
+            "overview": "\u00c0 Marseille, Michel Poiccard, un jeune voyou, vole une voiture et tue le motard qui le poursuivait. \u00c0 Paris, il retrouve, sur les Champs-\u00c9lys\u00e9es, Patricia, une jeune am\u00e9ricaine qui vend le \u00ab\u202fNew York Herald Tribune\u202f\u00bb. Il propose \u00e0 Patricia de le suivre en Italie\u2026",
+            "popularity": 3.6981,
+            "poster_path": "/iqnXXdyVKPuMngJDuHLYQGq60AN.jpg",
+            "release_date": "1960-03-16",
+            "title": "\u00c0 bout de souffle",
             "video": false,
-            "vote_average": 7.486,
-            "vote_count": 1738,
+            "vote_average": 7.5,
+            "vote_count": 1951,
             "genres": [
-                "Crime",
-                "Drame"
+                "Drame",
+                "Crime"
             ],
-            "runtime": 111,
-            "tagline": "Ils sont jeunes\u2026 ils s'aiment\u2026 ils vivent dangereusement\u2026"
+            "tagline": "Sauvage! Violent! Franc et honn\u00eate !",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -35,83 +35,20 @@
             "original_language": "en",
             "original_title": "Psycho",
             "overview": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'\u00e9pouser car il doit verser une \u00e9norme pension alimentaire le laissant sans le sou\u2026 Mais un beau jour, son patron lui demande de d\u00e9poser 40 000 dollars \u00e0 la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Tr\u00e8s vite la panique commence \u00e0 se faire sentir. Partag\u00e9e entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arr\u00eate pr\u00e8s d'un motel, tenu par un sympathique g\u00e9rant nomm\u00e9 Norman Bates, mais qui doit supporter le caract\u00e8re possessif de sa m\u00e8re. Apr\u00e8s un copieux repas avec Norman, Marion prend toutes ses pr\u00e9cautions afin de dissimuler l'argent. Pour se d\u00e9lasser de cette journ\u00e9e, elle prend une douche\u2026",
-            "popularity": 9.58,
+            "popularity": 9.8758,
             "poster_path": "/lzF8b44dAvXFagQnB1UZa2AF87q.jpg",
             "release_date": "1960-06-22",
             "title": "Psychose",
             "video": false,
-            "vote_average": 8.4,
-            "vote_count": 10710,
+            "vote_average": 8.419,
+            "vote_count": 10712,
             "genres": [
                 "Horreur",
                 "Thriller",
                 "Myst\u00e8re"
             ],
-            "runtime": 109,
-            "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
-            "id": 269,
-            "original_language": "fr",
-            "original_title": "\u00c0 bout de souffle",
-            "overview": "\u00c0 Marseille, Michel Poiccard, un jeune voyou, vole une voiture et tue le motard qui le poursuivait. \u00c0 Paris, il retrouve, sur les Champs-\u00c9lys\u00e9es, Patricia, une jeune am\u00e9ricaine qui vend le \u00ab\u202fNew York Herald Tribune\u202f\u00bb. Il propose \u00e0 Patricia de le suivre en Italie\u2026",
-            "popularity": 3.2305,
-            "poster_path": "/iqnXXdyVKPuMngJDuHLYQGq60AN.jpg",
-            "release_date": "1960-03-16",
-            "title": "\u00c0 bout de souffle",
-            "video": false,
-            "vote_average": 7.496,
-            "vote_count": 1951,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 90,
-            "tagline": "Sauvage! Violent! Franc et honn\u00eate !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
-            "id": 10331,
-            "original_language": "en",
-            "original_title": "Night of the Living Dead",
-            "overview": "Chaque ann\u00e9e, Barbara et Johnny vont fleurir la tombe de leur p\u00e8re. La route est longue, les environs du cimeti\u00e8re d\u00e9serts. Peu enclin \u00e0 prier, Johnny se souvient du temps o\u00f9 il \u00e9tait enfant et o\u00f9 il s'amusait \u00e0 effrayer sa s\u0153ur en r\u00e9p\u00e9tant d'une voix grave : \"Ils arrivent pour te chercher, Barbara.\"  La nuit tombe. Soudain, un homme \u00e9trange appara\u00eet. Il s'approche de Barbara puis attaque Johnny, qui tombe et est laiss\u00e9 pour mort. Terroris\u00e9e, Barbara s'enfuit et se r\u00e9fugie dans une maison de campagne. Elle y trouve Ben, ainsi que d'autres fugitifs. La radio leur apprend alors la terrible nouvelle : des morts s'attaquent aux vivants.",
-            "popularity": 3.435,
-            "poster_path": "/yZRti46opmXsW298cUqOZAD58xd.jpg",
-            "release_date": "1968-10-04",
-            "title": "La Nuit des morts-vivants",
-            "video": false,
-            "vote_average": 7.613,
-            "vote_count": 2642,
-            "genres": [
-                "Horreur",
-                "Thriller"
-            ],
-            "runtime": 96,
-            "tagline": "Si cela ne vous fait pas peur, c'est que vous \u00eates d\u00e9j\u00e0 mort !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mq8Vguqv4GjHfpSVIWFkIsOS6YK.jpg",
-            "id": 26372,
-            "original_language": "sv",
-            "original_title": "Skammen",
-            "overview": "Eva et Jan, deux ex-musiciens, m\u00e8nent une vie modeste sur une \u00eele, oublieux des rumeurs d\u2019une guerre qui pour eux existe depuis toujours, au loin. Mais un jour cette guerre arrive \u00e0 leur porte et ils ne peuvent plus pr\u00e9tendre qu\u2019elle ne les concerne pas\u2026",
-            "popularity": 2.4987,
-            "poster_path": "/uBPneouZtSjvijCJhDdcbPkof4E.jpg",
-            "release_date": "1968-09-29",
-            "title": "La Honte",
-            "video": false,
-            "vote_average": 7.5,
-            "vote_count": 235,
-            "genres": [
-                "Guerre",
-                "Drame"
-            ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -120,7 +57,7 @@
             "original_language": "fr",
             "original_title": "Cl\u00e9o de 5 \u00e0 7",
             "overview": "Cl\u00e9o, belle et chanteuse, attend les r\u00e9sultats d'une analyse m\u00e9dicale. De la superstition \u00e0 la peur, de la rue de Rivoli au Caf\u00e9 de D\u00f4me, de la coquetterie \u00e0 l'angoisse, de chez elle au Parc Montsouris, Cl\u00e9o vit quatre-vingt-dix minutes particuli\u00e8res. Son amant, son musicien, une amie puis un soldat lui ouvrent les yeux sur le monde.",
-            "popularity": 2.9492,
+            "popularity": 2.8094,
             "poster_path": "/fwZuuo5MI9lncncLTbfIWoJ7l6Q.jpg",
             "release_date": "1962-04-11",
             "title": "Cl\u00e9o de 5 \u00e0 7",
@@ -130,8 +67,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 90,
-            "tagline": "Le monde entier a pris rendez-vous avec."
+            "tagline": "Le monde entier a pris rendez-vous avec.",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -140,7 +77,7 @@
             "original_language": "en",
             "original_title": "The Manchurian Candidate",
             "overview": "\u00c0 son retour de la guerre de Cor\u00e9e, Raymond Shaw re\u00e7oit la m\u00e9daille d'honneur du combattant. Il est d\u00e9cor\u00e9 par le pr\u00e9sident des \u00c9tats-Unis. Tout le monde ignore que, durant sa captivit\u00e9, il a subi un lavage de cerveau qui a fait de lui le jouet de l'ennemi. Manipul\u00e9 par un agent communiste qui s'av\u00e8re \u00eatre sa m\u00e8re, il pr\u00e9pare la d\u00e9licate mission qu'on lui a confi\u00e9e : assassiner le Pr\u00e9sident. En retrouvant sa fianc\u00e9e, il redevient l'homme qu'il \u00e9tait avant la guerre. Mais ce retour \u00e0 la normale s'av\u00e8re tr\u00e8s provisoire. Le capitaine Bennett Marco fait r\u00e9guli\u00e8rement un \u00e9trange cauchemar dans lequel Raymond Shaw, qui commandait sa patrouille en Cor\u00e9e, est hypnotis\u00e9 et tue un soldat...",
-            "popularity": 2.1766,
+            "popularity": 2.1409,
             "poster_path": "/86EJh81aylhncq62OlPnjDCXtTv.jpg",
             "release_date": "1962-10-24",
             "title": "Un crime dans la t\u00eate",
@@ -151,8 +88,28 @@
                 "Thriller",
                 "Drame"
             ],
-            "runtime": 131,
-            "tagline": "Quand vous aurez tout vu, vous jurez qu'il n'y a jamais rien eu de tel !"
+            "tagline": "Quand vous aurez tout vu, vous jurez qu'il n'y a jamais rien eu de tel !",
+            "runtime": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+            "id": 1040,
+            "original_language": "it",
+            "original_title": "Il gattopardo",
+            "overview": "En 1860, tandis que la Sicile est submerg\u00e9e par les bouleversements de Garibaldi et de ses Chemises Rouges, le prince Salina se rend avec toute sa famille dans sa r\u00e9sidence de Donnafugata. Pr\u00e9voyant le d\u00e9clin de l'aristocratie, ce dernier accepte une m\u00e9salliance et marie son neveu Tancr\u00e8de \u00e0 la fille du maire de la ville, repr\u00e9sentant la classe montante.",
+            "popularity": 2.2111,
+            "poster_path": "/h0YOTruw3MVF5lMUvMrsfBN6mpC.jpg",
+            "release_date": "1963-03-27",
+            "title": "Le Gu\u00e9pard",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 913,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "L'aventure romantique durable de Luchino Visconti",
+            "runtime": 170
         },
         {
             "adult": false,
@@ -161,7 +118,7 @@
             "original_language": "fr",
             "original_title": "La Noire de...",
             "overview": "Une jeune bonne s\u00e9n\u00e9galaise suit ses patrons fran\u00e7ais retournant dans leur pays, \u00e0 Antibes. Le plaisir de la d\u00e9couverte de ce nouveau monde se transforme vite en d\u00e9convenue profonde. Isolement, m\u00e9pris des patrons, racisme ambiant, t\u00e2ches m\u00e9nag\u00e8res incessantes\u2026",
-            "popularity": 0.5844,
+            "popularity": 0.6771,
             "poster_path": "/g6b2aPQmJsk8YIPO9pzKaCWSLju.jpg",
             "release_date": "1966-03-17",
             "title": "La Noire de...",
@@ -171,8 +128,71 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 65,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+            "id": 475,
+            "original_language": "en",
+            "original_title": "Bonnie and Clyde",
+            "overview": "La dramatique aventure de deux amants r\u00e9volt\u00e9s pendant la grande d\u00e9pression des ann\u00e9es trente aux \u00c9tats-Unis, inspir\u00e9e par un fait r\u00e9el.",
+            "popularity": 2.8713,
+            "poster_path": "/l7SGiO7BLLAJyZJgWWRMcar5Rbe.jpg",
+            "release_date": "1967-08-13",
+            "title": "Bonnie et Clyde",
+            "video": false,
+            "vote_average": 7.486,
+            "vote_count": 1738,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "Ils sont jeunes\u2026 ils s'aiment\u2026 ils vivent dangereusement\u2026",
+            "runtime": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+            "id": 10331,
+            "original_language": "en",
+            "original_title": "Night of the Living Dead",
+            "overview": "Chaque ann\u00e9e, Barbara et Johnny vont fleurir la tombe de leur p\u00e8re. La route est longue, les environs du cimeti\u00e8re d\u00e9serts. Peu enclin \u00e0 prier, Johnny se souvient du temps o\u00f9 il \u00e9tait enfant et o\u00f9 il s'amusait \u00e0 effrayer sa s\u0153ur en r\u00e9p\u00e9tant d'une voix grave : \"Ils arrivent pour te chercher, Barbara.\"  La nuit tombe. Soudain, un homme \u00e9trange appara\u00eet. Il s'approche de Barbara puis attaque Johnny, qui tombe et est laiss\u00e9 pour mort. Terroris\u00e9e, Barbara s'enfuit et se r\u00e9fugie dans une maison de campagne. Elle y trouve Ben, ainsi que d'autres fugitifs. La radio leur apprend alors la terrible nouvelle : des morts s'attaquent aux vivants.",
+            "popularity": 2.9924,
+            "poster_path": "/lX5cA957idlD9Muke5kxZ9V6Rsf.jpg",
+            "release_date": "1968-10-04",
+            "title": "La Nuit des morts-vivants",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2643,
+            "genres": [
+                "Horreur",
+                "Thriller"
+            ],
+            "tagline": "Si cela ne vous fait pas peur, c'est que vous \u00eates d\u00e9j\u00e0 mort !",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mq8Vguqv4GjHfpSVIWFkIsOS6YK.jpg",
+            "id": 26372,
+            "original_language": "sv",
+            "original_title": "Skammen",
+            "overview": "Eva et Jan, deux ex-musiciens, m\u00e8nent une vie modeste sur une \u00eele, oublieux des rumeurs d\u2019une guerre qui pour eux existe depuis toujours, au loin. Mais un jour cette guerre arrive \u00e0 leur porte et ils ne peuvent plus pr\u00e9tendre qu\u2019elle ne les concerne pas\u2026",
+            "popularity": 2.0669,
+            "poster_path": "/uBPneouZtSjvijCJhDdcbPkof4E.jpg",
+            "release_date": "1968-09-29",
+            "title": "La Honte",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 235,
+            "genres": [
+                "Guerre",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -181,7 +201,7 @@
             "original_language": "fr",
             "original_title": "L'Arm\u00e9e des ombres",
             "overview": "Octobre 1942. \u00abIng\u00e9nieur distingu\u00e9 des Ponts et Chauss\u00e9es, soup\u00e7onn\u00e9 de pens\u00e9e gaulliste, semblant jouir d'une certaine influence\u00bb, Philippe Gerbier est intern\u00e9 dans un camp fran\u00e7ais puis transf\u00e9r\u00e9 au quartier g\u00e9n\u00e9ral de la Gestapo de l'h\u00f4tel Majestic \u00e0 Paris. Il s'en \u00e9vade en tuant une sentinelle.",
-            "popularity": 9.6559,
+            "popularity": 13.7656,
             "poster_path": "/cUQhhzJLQCv3QpxHLFNtejurTpw.jpg",
             "release_date": "1969-09-10",
             "title": "L'Arm\u00e9e des ombres",
@@ -193,28 +213,8 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 140,
-            "tagline": "Trahison. Fid\u00e9lit\u00e9. Collaboration. R\u00e9sistance."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
-            "id": 1040,
-            "original_language": "it",
-            "original_title": "Il gattopardo",
-            "overview": "En 1860, tandis que la Sicile est submerg\u00e9e par les bouleversements de Garibaldi et de ses Chemises Rouges, le prince Salina se rend avec toute sa famille dans sa r\u00e9sidence de Donnafugata. Pr\u00e9voyant le d\u00e9clin de l'aristocratie, ce dernier accepte une m\u00e9salliance et marie son neveu Tancr\u00e8de \u00e0 la fille du maire de la ville, repr\u00e9sentant la classe montante.",
-            "popularity": 2.1674,
-            "poster_path": "/h0YOTruw3MVF5lMUvMrsfBN6mpC.jpg",
-            "release_date": "1963-03-27",
-            "title": "Le Gu\u00e9pard",
-            "video": false,
-            "vote_average": 7.7,
-            "vote_count": 913,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 170,
-            "tagline": "L'aventure romantique durable de Luchino Visconti"
+            "tagline": "Trahison. Fid\u00e9lit\u00e9. Collaboration. R\u00e9sistance.",
+            "runtime": 140
         }
     ]
 }

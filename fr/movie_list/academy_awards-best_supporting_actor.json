@@ -4,52 +4,9 @@
     "source": "https://www.oscars.org/",
     "created_by": "lbnt",
     "added": "01/09/26",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
-            "id": 583406,
-            "original_language": "en",
-            "original_title": "Judas and the Black Messiah",
-            "overview": "\u00c0 la fin des ann\u00e9es 1960, William O'Neal est arr\u00eat\u00e9 pour vol. Un agent du FBI lui propose de l'amnistier s'il accepte de travailler comme informateur. On le charge ainsi d'infiltrer le Black Panther Party et de se rapprocher du leader du mouvement dans l'Illinois, le charismatique Fred Hampton.",
-            "popularity": 2.0701,
-            "poster_path": "/yZsyE75Oa6JZD5jyPi5RdQai0t6.jpg",
-            "release_date": "2021-02-12",
-            "title": "Judas and the Black Messiah",
-            "video": false,
-            "vote_average": 7.301,
-            "vote_count": 1646,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 126,
-            "tagline": "Vous pouvez tuer un r\u00e9volutionnaire mais vous ne pouvez pas tuer la r\u00e9volution."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
-            "id": 776503,
-            "original_language": "en",
-            "original_title": "CODA",
-            "overview": "Fille de parents sourds, Ruby est la seule personne entendante de la maison. Quand elle se d\u00e9couvre une passion pour le chant, elle doit choisir entre ses r\u00eaves et sa famille.",
-            "popularity": 7.9064,
-            "poster_path": "/ycgjiTDsO5mQAqyYGNiinAVO04t.jpg",
-            "release_date": "2021-08-13",
-            "title": "CODA",
-            "video": false,
-            "vote_average": 7.899,
-            "vote_count": 2462,
-            "genres": [
-                "Drame",
-                "Musique",
-                "Romance"
-            ],
-            "runtime": 111,
-            "tagline": "Chaque famille a son propre langage."
-        },
         {
             "adult": false,
             "backdrop_path": "/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
@@ -57,7 +14,7 @@
             "original_language": "en",
             "original_title": "A Real Pain",
             "overview": "David et Benji Kaplan, deux cousins aux caract\u00e8res diam\u00e9tralement oppos\u00e9s, s\u2019entendent au moins sur une chose : ils doivent respecter les derniers v\u0153ux de leur grand-m\u00e8re, qui leur a laiss\u00e9 en h\u00e9ritage assez d\u2019argent pour qu'ils aillent visiter le pays o\u00f9 elle a grandi. Les cousins s'embarquent donc ensemble vers la Pologne. Sur leur parcours, une \u00e9tape cruciale: le camp de Majdanek, o\u00f9 leur a\u00efeule a \u00e9t\u00e9 emprisonn\u00e9e durant l\u2019Holocauste. Pour David, l\u2019intellectuel responsable mais fragile, comme pour Benji, l\u2019homme-enfant charismatique mais instable, le douloureux p\u00e9riple les force \u00e0 remettre en question leurs liens familiaux, mais aussi leurs visions du monde et d\u2019eux-m\u00eames.",
-            "popularity": 5.058,
+            "popularity": 4.7365,
             "poster_path": "/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
             "release_date": "2024-11-01",
             "title": "A Real Pain",
@@ -68,8 +25,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -78,19 +35,19 @@
             "original_language": "en",
             "original_title": "Oppenheimer",
             "overview": "En 1942, convaincus que l'Allemagne hitl\u00e9rienne est en train de d\u00e9velopper une arme nucl\u00e9aire, les \u00c9tats-Unis initient, dans le plus grand secret, le  \u00ab Projet Manhattan \u00bb destin\u00e9 \u00e0 mettre au point la premi\u00e8re bombe atomique de l\u2019histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bient\u00f4t surnomm\u00e9 \u00ab le p\u00e8re de la bombe atomique \u00bb. C'est dans le laboratoire ultra-secret de Los Alamos, au c\u0153ur du d\u00e9sert du Nouveau-Mexique, que le scientifique et son \u00e9quipe mettent au point une arme r\u00e9volutionnaire dont les cons\u00e9quences, vertigineuses, continuent de peser sur le monde actuel\u2026",
-            "popularity": 21.4793,
+            "popularity": 20.1378,
             "poster_path": "/boAUuJBeID7VNp4L7LNMQs8mfQS.jpg",
             "release_date": "2023-07-19",
             "title": "Oppenheimer",
             "video": false,
             "vote_average": 8.038,
-            "vote_count": 11176,
+            "vote_count": 11178,
             "genres": [
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 181,
-            "tagline": "Le monde changera \u00e0 jamais."
+            "tagline": "Le monde changera \u00e0 jamais.",
+            "runtime": 181
         },
         {
             "adult": false,
@@ -99,83 +56,63 @@
             "original_language": "en",
             "original_title": "Everything Everywhere All at Once",
             "overview": "Evelyn Wang est \u00e0 bout : elle ne comprend plus sa famille, son travail et croule sous les imp\u00f4ts\u2026 Soudain, elle se retrouve plong\u00e9e dans le multivers, des mondes parall\u00e8les o\u00f9 elle explore toutes les vies qu\u2019elle aurait pu mener. Face \u00e0 des forces obscures, elle seule peut sauver le monde mais aussi pr\u00e9server la chose la plus pr\u00e9cieuse : sa famille.",
-            "popularity": 10.6885,
+            "popularity": 10.971,
             "poster_path": "/qHy7BlA1I3iUEIGp7atsMjSNJSK.jpg",
             "release_date": "2022-03-24",
             "title": "Everything Everywhere All at Once",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 7551,
+            "vote_average": 7.726,
+            "vote_count": 7555,
             "genres": [
                 "Action",
                 "Aventure",
                 "Science-Fiction"
             ],
-            "runtime": 139,
-            "tagline": "L'univers est tellement plus grand que vous ne le pensez."
+            "tagline": "L'univers est tellement plus grand que vous ne le pensez.",
+            "runtime": 139
         },
         {
             "adult": false,
-            "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
-            "id": 376867,
+            "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+            "id": 776503,
             "original_language": "en",
-            "original_title": "Moonlight",
-            "overview": "Apr\u00e8s avoir grandi dans un quartier difficile de Miami, Chiron, un jeune homme tente de trouver sa place dans le monde. Moonlight \u00e9voque son parcours, de l\u2019enfance \u00e0 l\u2019\u00e2ge adulte.",
-            "popularity": 4.1425,
-            "poster_path": "/6Eg6OfwghmSLVtt2sfGD5YOEFjI.jpg",
-            "release_date": "2016-10-21",
-            "title": "Moonlight",
+            "original_title": "CODA",
+            "overview": "Fille de parents sourds, Ruby est la seule personne entendante de la maison. Quand elle se d\u00e9couvre une passion pour le chant, elle doit choisir entre ses r\u00eaves et sa famille.",
+            "popularity": 7.1848,
+            "poster_path": "/ycgjiTDsO5mQAqyYGNiinAVO04t.jpg",
+            "release_date": "2021-08-13",
+            "title": "CODA",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 7367,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 100,
-            "tagline": "C'est l'histoire d'une vie."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
-            "id": 359940,
-            "original_language": "en",
-            "original_title": "Three Billboards Outside Ebbing, Missouri",
-            "overview": "Apr\u00e8s des mois sans que l\u2019enqu\u00eate sur la mort de sa fille ait avanc\u00e9, Mildred Hayes prend les choses en main, affichant un message controvers\u00e9 visant le tr\u00e8s respect\u00e9 chef de la police sur trois grands panneaux \u00e0 l\u2019entr\u00e9e de leur ville.",
-            "popularity": 4.2426,
-            "poster_path": "/dI6EruCntFCEhnSQSrFdCs9UWVY.jpg",
-            "release_date": "2017-12-01",
-            "title": "3 Billboards : Les Panneaux de la vengeance",
-            "video": false,
-            "vote_average": 8.062,
-            "vote_count": 10624,
-            "genres": [
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 116,
-            "tagline": "Viol\u00e9e jusqu'\u00e0 la mort, et toujours pas d\u2019arrestation. Comment se fait-il, chef Willoughby ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
-            "id": 490132,
-            "original_language": "en",
-            "original_title": "Green Book",
-            "overview": "En 1962, alors que r\u00e8gne la s\u00e9gr\u00e9gation, Tony Lip, un videur italo-am\u00e9ricain du Bronx, est engag\u00e9 pour conduire et prot\u00e9ger le Dr Don Shirley, un pianiste noir de renomm\u00e9e mondiale, lors d\u2019une tourn\u00e9e de concerts. Durant leur p\u00e9riple de Manhattan jusqu\u2019au Sud profond, ils s\u2019appuient sur le Green Book pour d\u00e9nicher les \u00e9tablissements accueillant les personnes de couleur, o\u00f9 l\u2019on ne refusera pas de servir Shirley et o\u00f9 il ne sera ni humili\u00e9 ni maltrait\u00e9. Dans un pays o\u00f9 le mouvement des droits civiques commence \u00e0 se faire entendre, les deux hommes vont \u00eatre confront\u00e9s au pire de l\u2019\u00e2me humaine, dont ils se gu\u00e9rissent gr\u00e2ce \u00e0 leur g\u00e9n\u00e9rosit\u00e9 et leur humour. Ensemble, ils vont devoir d\u00e9passer leurs pr\u00e9jug\u00e9s, oublier ce qu\u2019ils consid\u00e9raient comme des diff\u00e9rences insurmontables, pour d\u00e9couvrir leur humanit\u00e9 commune.",
-            "popularity": 8.5585,
-            "poster_path": "/orN43xQQkoAmbUx1tYZl6HY7WKU.jpg",
-            "release_date": "2018-11-16",
-            "title": "Green Book : Sur les routes du Sud",
-            "video": false,
-            "vote_average": 8.224,
-            "vote_count": 12478,
+            "vote_average": 7.9,
+            "vote_count": 2463,
             "genres": [
                 "Drame",
-                "Com\u00e9die",
+                "Musique",
+                "Romance"
+            ],
+            "tagline": "Chaque famille a son propre langage.",
+            "runtime": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fatz1aegtBGh7KS0gipcsw9MqUn.jpg",
+            "id": 583406,
+            "original_language": "en",
+            "original_title": "Judas and the Black Messiah",
+            "overview": "\u00c0 la fin des ann\u00e9es 1960, William O'Neal est arr\u00eat\u00e9 pour vol. Un agent du FBI lui propose de l'amnistier s'il accepte de travailler comme informateur. On le charge ainsi d'infiltrer le Black Panther Party et de se rapprocher du leader du mouvement dans l'Illinois, le charismatique Fred Hampton.",
+            "popularity": 2.8578,
+            "poster_path": "/yZsyE75Oa6JZD5jyPi5RdQai0t6.jpg",
+            "release_date": "2021-02-12",
+            "title": "Judas and the Black Messiah",
+            "video": false,
+            "vote_average": 7.301,
+            "vote_count": 1646,
+            "genres": [
+                "Drame",
                 "Histoire"
             ],
-            "runtime": 130,
-            "tagline": "Inspir\u00e9 par la vraie amiti\u00e9\u2026"
+            "tagline": "Vous pouvez tuer un r\u00e9volutionnaire mais vous ne pouvez pas tuer la r\u00e9volution.",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -184,20 +121,83 @@
             "original_language": "en",
             "original_title": "Once Upon a Time... in Hollywood",
             "overview": "En 1969, Rick Dalton \u2013 star d\u00e9clinante d'une s\u00e9rie t\u00e9l\u00e9vis\u00e9e de western \u2013 et Cliff Booth \u2013 sa doublure de toujours \u2013 assistent \u00e0 la m\u00e9tamorphose artistique d'un Hollywood qu'ils ne reconnaissent plus du tout en essayant de relancer leurs carri\u00e8res.",
-            "popularity": 13.825,
+            "popularity": 13.4496,
             "poster_path": "/gG5J1KW2Gzj0Sz7al1mGkhXLSoB.jpg",
             "release_date": "2019-07-24",
             "title": "Once Upon a Time... in Hollywood",
             "video": false,
             "vote_average": 7.424,
-            "vote_count": 14419,
+            "vote_count": 14420,
             "genres": [
                 "Com\u00e9die",
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 162,
-            "tagline": "Dans cette ville, tout peut changer."
+            "tagline": "Dans cette ville, tout peut changer.",
+            "runtime": 162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+            "id": 490132,
+            "original_language": "en",
+            "original_title": "Green Book",
+            "overview": "En 1962, alors que r\u00e8gne la s\u00e9gr\u00e9gation, Tony Lip, un videur italo-am\u00e9ricain du Bronx, est engag\u00e9 pour conduire et prot\u00e9ger le Dr Don Shirley, un pianiste noir de renomm\u00e9e mondiale, lors d\u2019une tourn\u00e9e de concerts. Durant leur p\u00e9riple de Manhattan jusqu\u2019au Sud profond, ils s\u2019appuient sur le Green Book pour d\u00e9nicher les \u00e9tablissements accueillant les personnes de couleur, o\u00f9 l\u2019on ne refusera pas de servir Shirley et o\u00f9 il ne sera ni humili\u00e9 ni maltrait\u00e9. Dans un pays o\u00f9 le mouvement des droits civiques commence \u00e0 se faire entendre, les deux hommes vont \u00eatre confront\u00e9s au pire de l\u2019\u00e2me humaine, dont ils se gu\u00e9rissent gr\u00e2ce \u00e0 leur g\u00e9n\u00e9rosit\u00e9 et leur humour. Ensemble, ils vont devoir d\u00e9passer leurs pr\u00e9jug\u00e9s, oublier ce qu\u2019ils consid\u00e9raient comme des diff\u00e9rences insurmontables, pour d\u00e9couvrir leur humanit\u00e9 commune.",
+            "popularity": 8.3122,
+            "poster_path": "/orN43xQQkoAmbUx1tYZl6HY7WKU.jpg",
+            "release_date": "2018-11-16",
+            "title": "Green Book : Sur les routes du Sud",
+            "video": false,
+            "vote_average": 8.224,
+            "vote_count": 12481,
+            "genres": [
+                "Drame",
+                "Com\u00e9die",
+                "Histoire"
+            ],
+            "tagline": "Inspir\u00e9 par la vraie amiti\u00e9\u2026",
+            "runtime": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+            "id": 359940,
+            "original_language": "en",
+            "original_title": "Three Billboards Outside Ebbing, Missouri",
+            "overview": "Apr\u00e8s des mois sans que l\u2019enqu\u00eate sur la mort de sa fille ait avanc\u00e9, Mildred Hayes prend les choses en main, affichant un message controvers\u00e9 visant le tr\u00e8s respect\u00e9 chef de la police sur trois grands panneaux \u00e0 l\u2019entr\u00e9e de leur ville.",
+            "popularity": 4.7294,
+            "poster_path": "/dI6EruCntFCEhnSQSrFdCs9UWVY.jpg",
+            "release_date": "2017-12-01",
+            "title": "3 Billboards : Les Panneaux de la vengeance",
+            "video": false,
+            "vote_average": 8.062,
+            "vote_count": 10628,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "Viol\u00e9e jusqu'\u00e0 la mort, et toujours pas d\u2019arrestation. Comment se fait-il, chef Willoughby ?",
+            "runtime": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+            "id": 376867,
+            "original_language": "en",
+            "original_title": "Moonlight",
+            "overview": "Apr\u00e8s avoir grandi dans un quartier difficile de Miami, Chiron, un jeune homme tente de trouver sa place dans le monde. Moonlight \u00e9voque son parcours, de l\u2019enfance \u00e0 l\u2019\u00e2ge adulte.",
+            "popularity": 4.3173,
+            "poster_path": "/6Eg6OfwghmSLVtt2sfGD5YOEFjI.jpg",
+            "release_date": "2016-10-21",
+            "title": "Moonlight",
+            "video": false,
+            "vote_average": 7.363,
+            "vote_count": 7368,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "C'est l'histoire d'une vie.",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -206,7 +206,7 @@
             "original_language": "en",
             "original_title": "Bridge of Spies",
             "overview": "En 1960, James B. Donovan, un avocat new-yorkais sp\u00e9cialis\u00e9 dans les assurances, doit d\u00e9fendre Rudolf Abel, un espion russe que la CIA vient d'arr\u00eater. D'abord surpris qu'on le choisisse, il a \u00e0 coeur de le d\u00e9fendre tandis que son \u00e9pouse ne voit que les ennuis que cela peut causer \u00e0 leurs familles. Homme de loi habile, il parvient, en imaginant l'id\u00e9e d'un possible \u00e9change de prisonniers dans le futur, \u00e0 faire commuer la peine de mort de son client en prison \u00e0 vie. Ce qui lui vaut la vindicte populaire... Mais Donovan est ensuite recrut\u00e9 par la CIA. Il a pour mission de n\u00e9gocier la lib\u00e9ration de Francis Gary Powers, le pilote de l'avion espion am\u00e9ricain U-2, que les Sovi\u00e9tiques ont abattu au-dessus de leur territoire. Il se retrouve plong\u00e9 en pleine guerre froide...",
-            "popularity": 4.5238,
+            "popularity": 4.2984,
             "poster_path": "/7jnJDBumSywMgHO6yUPzCLYGGOx.jpg",
             "release_date": "2015-10-15",
             "title": "Le Pont des espions",
@@ -217,29 +217,8 @@
                 "Thriller",
                 "Drame"
             ],
-            "runtime": 141,
-            "tagline": "L'\u00e9quilibre entre guerre et paix ne tient qu'\u00e0 un seul homme."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
-            "id": 68718,
-            "original_language": "en",
-            "original_title": "Django Unchained",
-            "overview": "Dans le sud des \u00c9tats\u2010Unis, deux ans avant la guerre de S\u00e9cession, le Dr King Schultz, un chasseur de primes allemand, fait l\u2019acquisition de Django, un esclave qui peut l\u2019aider \u00e0 traquer les fr\u00e8res Brittle, les meurtriers qu\u2019il recherche. Schultz promet \u00e0 Django de lui rendre sa libert\u00e9 lorsqu\u2019il aura captur\u00e9 les Brittle \u2013 morts ou vifs. Alors que les deux hommes pistent les dangereux criminels, Django n\u2019oublie pas que son seul but est de retrouver Broomhilda, sa femme, dont il fut s\u00e9par\u00e9 \u00e0 cause du commerce des esclaves\u2026 Lorsque Django et Schultz arrivent dans l\u2019immense plantation du puissant Calvin Candie, ils \u00e9veillent les soup\u00e7ons de Stephen, un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est d\u00e9sormais \u00e9pi\u00e9 par une dangereuse organisation de plus en plus proche\u2026 Si Django et Schultz veulent esp\u00e9rer s\u2019enfuir avec Broomhilda, ils vont devoir choisir entre l\u2019ind\u00e9pendance et la solidarit\u00e9, entre le sacrifice et la survie\u2026",
-            "popularity": 21.2997,
-            "poster_path": "/vRXUnWrXUgXRoX0BaEcuNMfyeQt.jpg",
-            "release_date": "2012-12-25",
-            "title": "Django Unchained",
-            "video": false,
-            "vote_average": 8.2,
-            "vote_count": 27415,
-            "genres": [
-                "Drame",
-                "Western"
-            ],
-            "runtime": 165,
-            "tagline": "Ils ont pris sa libert\u00e9. Il va tout leur prendre."
+            "tagline": "L'\u00e9quilibre entre guerre et paix ne tient qu'\u00e0 un seul homme.",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -248,19 +227,19 @@
             "original_language": "en",
             "original_title": "Whiplash",
             "overview": "Andrew, 19 ans, r\u00eave de devenir l\u2019un des meilleurs batteurs de jazz de sa g\u00e9n\u00e9ration. Mais la concurrence est rude au conservatoire de Manhattan o\u00f9 il s\u2019entra\u00eene avec acharnement. Il a pour objectif d\u2019int\u00e9grer le fleuron des orchestres dirig\u00e9 par Terence Fletcher, professeur f\u00e9roce et intraitable. Lorsque celui-ci le rep\u00e8re enfin, Andrew se lance, sous sa direction, dans la qu\u00eate de l\u2019excellence\u2026",
-            "popularity": 16.2468,
+            "popularity": 15.1516,
             "poster_path": "/3XriEpTdnplQRzyphAC0cu3emns.jpg",
             "release_date": "2014-10-10",
             "title": "Whiplash",
             "video": false,
-            "vote_average": 8.375,
-            "vote_count": 16193,
+            "vote_average": 8.374,
+            "vote_count": 16195,
             "genres": [
                 "Drame",
                 "Musique"
             ],
-            "runtime": 106,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -269,7 +248,7 @@
             "original_language": "en",
             "original_title": "Dallas Buyers Club",
             "overview": "1986, Dallas, Texas. Ron Woodroof, cow\u2010boy de 35 ans, des bottes, un Stetson. Sa vie: sexe, drogue et rod\u00e9o. Tout bascule quand le sida (VIH) est diagnostiqu\u00e9 avec une esp\u00e9rance de vie de trente jours. Soulev\u00e9 par l\u2019impuissance du corps m\u00e9dical qui n'a le droit qu'\u00e0 l'inefficace AZT, il recourt \u00e0 des traitements alternatifs de l'\u00c9tranger non officiels. Au fil du temps, il rassemble d\u2019autres malades en qu\u00eate de gu\u00e9rison : le \u00ab Dallas Buyers Club \u00bb est n\u00e9. Mais son succ\u00e8s g\u00eane les lobbies, Ron doit s\u2019engager dans une bataille contre les laboratoires et les autorit\u00e9s f\u00e9d\u00e9rales. C\u2019est son combat pour une nouvelle cause et pour sa propre vie.  Film librement inspir\u00e9 de la vie de Ron Woodroof (1950 - 1992).",
-            "popularity": 10.95,
+            "popularity": 8.2455,
             "poster_path": "/euuPpXZhVBZzD0JLghTX7foFY70.jpg",
             "release_date": "2013-11-01",
             "title": "Dallas Buyers Club",
@@ -280,8 +259,29 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 116,
-            "tagline": "Oser vivre!"
+            "tagline": "Oser vivre!",
+            "runtime": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+            "id": 68718,
+            "original_language": "en",
+            "original_title": "Django Unchained",
+            "overview": "Dans le sud des \u00c9tats\u2010Unis, deux ans avant la guerre de S\u00e9cession, le Dr King Schultz, un chasseur de primes allemand, fait l\u2019acquisition de Django, un esclave qui peut l\u2019aider \u00e0 traquer les fr\u00e8res Brittle, les meurtriers qu\u2019il recherche. Schultz promet \u00e0 Django de lui rendre sa libert\u00e9 lorsqu\u2019il aura captur\u00e9 les Brittle \u2013 morts ou vifs. Alors que les deux hommes pistent les dangereux criminels, Django n\u2019oublie pas que son seul but est de retrouver Broomhilda, sa femme, dont il fut s\u00e9par\u00e9 \u00e0 cause du commerce des esclaves\u2026 Lorsque Django et Schultz arrivent dans l\u2019immense plantation du puissant Calvin Candie, ils \u00e9veillent les soup\u00e7ons de Stephen, un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est d\u00e9sormais \u00e9pi\u00e9 par une dangereuse organisation de plus en plus proche\u2026 Si Django et Schultz veulent esp\u00e9rer s\u2019enfuir avec Broomhilda, ils vont devoir choisir entre l\u2019ind\u00e9pendance et la solidarit\u00e9, entre le sacrifice et la survie\u2026",
+            "popularity": 21.1842,
+            "poster_path": "/vRXUnWrXUgXRoX0BaEcuNMfyeQt.jpg",
+            "release_date": "2012-12-25",
+            "title": "Django Unchained",
+            "video": false,
+            "vote_average": 8.186,
+            "vote_count": 27416,
+            "genres": [
+                "Drame",
+                "Western"
+            ],
+            "tagline": "Ils ont pris sa libert\u00e9. Il va tout leur prendre.",
+            "runtime": 165
         },
         {
             "adult": false,
@@ -290,7 +290,7 @@
             "original_language": "en",
             "original_title": "Beginners",
             "overview": "Oliver, illustrateur \u00e0 Los Angeles, collectionne les ex et les d\u00e9ceptions amoureuses. Quand son p\u00e8re, Hal, tire sa r\u00e9v\u00e9rence apr\u00e8s avoir fait son coming-out \u00e0 75 ans et rejoint avec entrain la communaut\u00e9 homosexuelle, Oliver se penche sur ses relations familiales et ses \u00e9checs sentimentaux. Et il h\u00e9rite d'un chien philosophe et bavard. La d\u00e9pression le guette, jusqu'au jour o\u00f9 il rencontre Anna...",
-            "popularity": 1.234,
+            "popularity": 1.862,
             "poster_path": "/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg",
             "release_date": "2011-06-03",
             "title": "Beginners",
@@ -302,30 +302,8 @@
                 "Romance",
                 "Com\u00e9die"
             ],
-            "runtime": 105,
-            "tagline": "C'est \u00e0 \u00e7a que ressemble l'amour."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
-            "id": 16869,
-            "original_language": "en",
-            "original_title": "Inglourious Basterds",
-            "overview": "Dans la France occup\u00e9e de 1940, un groupe de soldats juifs am\u00e9ricains, les b\u00e2tards, m\u00e8ne des actions punitives particuli\u00e8rement sanglantes contre les nazis du Troisi\u00e8me Reich. Leur chemin rencontre celui de Shosanna Dreyfus, une jeune juive r\u00e9fugi\u00e9e \u00e0 Paris exploitante d'une salle de cin\u00e9ma qui entend elle aussi assouvir sa propre vengeance envers les nazis.",
-            "popularity": 15.3647,
-            "poster_path": "/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
-            "release_date": "2009-08-02",
-            "title": "Inglourious Basterds",
-            "video": false,
-            "vote_average": 8.215,
-            "vote_count": 23584,
-            "genres": [
-                "Drame",
-                "Thriller",
-                "Guerre"
-            ],
-            "runtime": 153,
-            "tagline": "Dans une France occup\u00e9e, il faut savoir trancher."
+            "tagline": "C'est \u00e0 \u00e7a que ressemble l'amour.",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -334,7 +312,7 @@
             "original_language": "en",
             "original_title": "The Fighter",
             "overview": "Micky Ward est un jeune boxeur dont la carri\u00e8re stagne. Il va rencontrer Charlene, une femme au caract\u00e8re bien tremp\u00e9, qui va l'aider \u00e0 s'affranchir de l'influence n\u00e9gative de sa m\u00e8re, qui g\u00e8re maladroitement sa carri\u00e8re, et de ses s\u0153urs envahissantes. Son demi-fr\u00e8re Dicky Eklund, lui, a connu la gloire sur le ring, il y a bien longtemps. C'\u00e9tait avant qu'il ne sombre dans la drogue, avant son s\u00e9jour en prison. Entre le sportif en qu\u00eate d'un second souffle et l'ex-toxico, il y a longtemps que le courant ne passe plus. Trop de non-dits, d'\u00e9checs et de souffrances. Pourtant, parfois, les hommes changent, et Micky et Dicky vont peut-\u00eatre avoir ensemble, la chance de r\u00e9ussir ce qu'ils ont rat\u00e9 chacun de leur c\u00f4t\u00e9\u2026",
-            "popularity": 3.3664,
+            "popularity": 3.0502,
             "poster_path": "/oF1VG0Ei78rsZpxuRrcHEgj0CBT.jpg",
             "release_date": "2010-12-10",
             "title": "Fighter",
@@ -344,8 +322,75 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 113,
-            "tagline": "Chaque r\u00eave m\u00e9rite de se battre."
+            "tagline": "Chaque r\u00eave m\u00e9rite de se battre.",
+            "runtime": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+            "id": 16869,
+            "original_language": "en",
+            "original_title": "Inglourious Basterds",
+            "overview": "Dans la France occup\u00e9e de 1940, un groupe de soldats juifs am\u00e9ricains, les b\u00e2tards, m\u00e8ne des actions punitives particuli\u00e8rement sanglantes contre les nazis du Troisi\u00e8me Reich. Leur chemin rencontre celui de Shosanna Dreyfus, une jeune juive r\u00e9fugi\u00e9e \u00e0 Paris exploitante d'une salle de cin\u00e9ma qui entend elle aussi assouvir sa propre vengeance envers les nazis.",
+            "popularity": 14.7473,
+            "poster_path": "/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
+            "release_date": "2009-08-02",
+            "title": "Inglourious Basterds",
+            "video": false,
+            "vote_average": 8.215,
+            "vote_count": 23586,
+            "genres": [
+                "Drame",
+                "Thriller",
+                "Guerre"
+            ],
+            "tagline": "Dans une France occup\u00e9e, il faut savoir trancher.",
+            "runtime": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Batman aborde une phase d\u00e9cisive de sa guerre contre le crime \u00e0 Gotham City. Avec l'aide du lieutenant de police Jim Gordon et du nouveau procureur Harvey Dent, il entreprend de d\u00e9manteler les derni\u00e8res organisations criminelles qui infestent les rues de la ville. L'association s'av\u00e8re efficace, mais le trio se heurte bient\u00f4t \u00e0 un nouveau g\u00e9nie du crime qui r\u00e9pand la terreur et le chaos dans Gotham : le Joker. On ne sait pas d'o\u00f9 il vient ni qui il est. Ce criminel poss\u00e8de une intelligence redoutable doubl\u00e9 d'un humour sordide et n'h\u00e9site pas \u00e0 s'attaquer \u00e0 la p\u00e8gre locale dans le seul but de semer le chaos.",
+            "popularity": 24.1701,
+            "poster_path": "/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
+            "release_date": "2008-07-16",
+            "title": "The Dark Knight : Le Chevalier noir",
+            "video": false,
+            "vote_average": 8.525,
+            "vote_count": 34964,
+            "genres": [
+                "Drame",
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "tagline": "",
+            "runtime": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+            "id": 6977,
+            "original_language": "en",
+            "original_title": "No Country for Old Men",
+            "overview": "1980, \u00c9tats-Unis, \u00e0 la fronti\u00e8re qui s\u00e9pare le Texas du Mexique, les trafiquants mexicains de drogue ont depuis longtemps remplac\u00e9 les voleurs de b\u00e9tail. Lorsque Llewelyn Moss d\u00e9couvre dans une plaine des v\u00e9hicules abandonn\u00e9s, cern\u00e9e de cadavres ensanglant\u00e9s, il ne sait rien de ce qui a conduit \u00e0 ce drame. Mais il comprend qu'un \u00e9change a mal tourn\u00e9 et qu'ils se sont entre-tu\u00e9s. Il recherche un \u00e9ventuel survivant, le piste et le retrouve mort, au pied d'un arbre avec une valise contenant deux millions de dollars qu'il emporte. Il ne se doute pas de ce que cela va provoquer, mais il se doute que les trafiquants ne vont pas abandonner l'argent. Moss a d\u00e9clench\u00e9 une r\u00e9action en cha\u00eene que le sh\u00e9rif Ed Tom Bell, un homme proche de la retraite, lucide et clairvoyant, va suivre \u00e0 la trace...",
+            "popularity": 10.9776,
+            "poster_path": "/6n6VaGkm4b5OeDNGuQ1L5IobQ27.jpg",
+            "release_date": "2007-11-09",
+            "title": "No Country for Old Men",
+            "video": false,
+            "vote_average": 7.947,
+            "vote_count": 12898,
+            "genres": [
+                "Crime",
+                "Thriller",
+                "Western"
+            ],
+            "tagline": "Aucune chance d'en sortir indemne.",
+            "runtime": 122
         },
         {
             "adult": false,
@@ -354,7 +399,7 @@
             "original_language": "en",
             "original_title": "Little Miss Sunshine",
             "overview": "L\u2019histoire des Hoover. Le p\u00e8re, Richard, tente d\u00e9sesp\u00e9r\u00e9ment de vendre son \u00ab\u00a0Parcours vers le succ\u00e8s en 9 \u00e9tapes\u00a0\u00bb. La m\u00e8re, Sheryl, tente de dissimuler les travers de son fr\u00e8re, sp\u00e9cialiste suicidaire de Proust fra\u00eechement sorti de l\u2019h\u00f4pital apr\u00e8s avoir \u00e9t\u00e9 cong\u00e9di\u00e9 par son amant. Les enfants Hoover ne sont pas non plus d\u00e9pourvus de r\u00eaves improbables\u00a0: la fille de 7 ans, Olive, se r\u00eave en reine de beaut\u00e9, tandis que son fr\u00e8re Dwayne a fait v\u0153u de silence jusqu\u2019\u00e0 son entr\u00e9e \u00e0 l\u2019Air Force Academy. Quand Olive d\u00e9croche une invitation \u00e0 concourir pour le tr\u00e8s s\u00e9lectif titre de Little Miss Sunshine en Californie, toute la famille d\u00e9cide de faire corps derri\u00e8re elle. Les voil\u00e0 donc entass\u00e9s dans leur van Volkswagen rouill\u00e9\u00a0: ils mettent le cap vers l\u2019ouest et entament un voyage tragi\u2010comique de trois jours qui les mettra aux prises avec des \u00e9v\u00e9nements inattendus\u2026",
-            "popularity": 5.5049,
+            "popularity": 4.8833,
             "poster_path": "/pUPR2pgiVfWMkHcE0SqaE4skDl9.jpg",
             "release_date": "2006-07-26",
             "title": "Little Miss Sunshine",
@@ -365,53 +410,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 102,
-            "tagline": "Une famille au bord de la crise de nerfs."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
-            "id": 6977,
-            "original_language": "en",
-            "original_title": "No Country for Old Men",
-            "overview": "1980, \u00c9tats-Unis, \u00e0 la fronti\u00e8re qui s\u00e9pare le Texas du Mexique, les trafiquants mexicains de drogue ont depuis longtemps remplac\u00e9 les voleurs de b\u00e9tail. Lorsque Llewelyn Moss d\u00e9couvre dans une plaine des v\u00e9hicules abandonn\u00e9s, cern\u00e9e de cadavres ensanglant\u00e9s, il ne sait rien de ce qui a conduit \u00e0 ce drame. Mais il comprend qu'un \u00e9change a mal tourn\u00e9 et qu'ils se sont entre-tu\u00e9s. Il recherche un \u00e9ventuel survivant, le piste et le retrouve mort, au pied d'un arbre avec une valise contenant deux millions de dollars qu'il emporte. Il ne se doute pas de ce que cela va provoquer, mais il se doute que les trafiquants ne vont pas abandonner l'argent. Moss a d\u00e9clench\u00e9 une r\u00e9action en cha\u00eene que le sh\u00e9rif Ed Tom Bell, un homme proche de la retraite, lucide et clairvoyant, va suivre \u00e0 la trace...",
-            "popularity": 10.4548,
-            "poster_path": "/6n6VaGkm4b5OeDNGuQ1L5IobQ27.jpg",
-            "release_date": "2007-11-09",
-            "title": "No Country for Old Men",
-            "video": false,
-            "vote_average": 7.947,
-            "vote_count": 12896,
-            "genres": [
-                "Crime",
-                "Thriller",
-                "Western"
-            ],
-            "runtime": 122,
-            "tagline": "Aucune chance d'en sortir indemne."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
-            "id": 155,
-            "original_language": "en",
-            "original_title": "The Dark Knight",
-            "overview": "Batman aborde une phase d\u00e9cisive de sa guerre contre le crime \u00e0 Gotham City. Avec l'aide du lieutenant de police Jim Gordon et du nouveau procureur Harvey Dent, il entreprend de d\u00e9manteler les derni\u00e8res organisations criminelles qui infestent les rues de la ville. L'association s'av\u00e8re efficace, mais le trio se heurte bient\u00f4t \u00e0 un nouveau g\u00e9nie du crime qui r\u00e9pand la terreur et le chaos dans Gotham : le Joker. On ne sait pas d'o\u00f9 il vient ni qui il est. Ce criminel poss\u00e8de une intelligence redoutable doubl\u00e9 d'un humour sordide et n'h\u00e9site pas \u00e0 s'attaquer \u00e0 la p\u00e8gre locale dans le seul but de semer le chaos.",
-            "popularity": 25.5595,
-            "poster_path": "/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
-            "release_date": "2008-07-16",
-            "title": "The Dark Knight : Le Chevalier noir",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 34962,
-            "genres": [
-                "Drame",
-                "Action",
-                "Crime",
-                "Thriller"
-            ],
-            "runtime": 152,
-            "tagline": ""
+            "tagline": "Une famille au bord de la crise de nerfs.",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -420,7 +420,7 @@
             "original_language": "en",
             "original_title": "Syriana",
             "overview": "L'h\u00e9ritier du tr\u00f4ne d'un \u00e9mirat arabe, le Prince Nasir, r\u00e9formiste et progressiste, d\u00e9cide d'accorder les droits de forage de gaz naturel \u00e0 une compagnie chinoise, au d\u00e9triment du g\u00e9ant texan Connex Oil. Connex rach\u00e8te alors la petite compagnie Killen, une fusion qui attire l'attention du Minist\u00e8re de la Justice \u00e0 Washington. Benett Holiday, ambitieux avocat du cabinet Sloan Whiting, veille au bon d\u00e9roulement de cette op\u00e9ration douteuse. Bob Barnes, v\u00e9t\u00e9ran de la CIA qui se pr\u00e9parait \u00e0 \"pantoufler\", se voit proposer une derni\u00e8re mission : \u00e9liminer le prince Nasir. Bryan Woodman, expert en ressources \u00e9nerg\u00e9tiques, se rend \u00e0 un gala organis\u00e9 par le Prince Nasir. Son jeune fils meurt accidentellement lors de cette soir\u00e9e. Ces \u00e9v\u00e9nements auront une incidence directe sur la vie d'un jeune ouvrier pakistanais de la Connex.",
-            "popularity": 3.9292,
+            "popularity": 3.1148,
             "poster_path": "/yAQqQlfGh19ELsl3mpKXifbNHm5.jpg",
             "release_date": "2005-11-23",
             "title": "Syriana",
@@ -431,8 +431,28 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 127,
-            "tagline": "Tout est raccord\u00e9."
+            "tagline": "Tout est raccord\u00e9.",
+            "runtime": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+            "id": 70,
+            "original_language": "en",
+            "original_title": "Million Dollar Baby",
+            "overview": "Rejet\u00e9 depuis longtemps par sa fille, l\u2019entra\u00eeneur Frankie Dunn s\u2019est repli\u00e9 sur lui\u2010m\u00eame et vit dans un d\u00e9sert affectif, en \u00e9vitant toute relation qui pourrait accro\u00eetre sa douleur et sa culpabilit\u00e9. Le jour o\u00f9 Maggie Fitzgerald, 31 ans, pousse la porte de son gymnase \u00e0 la recherche d\u2019un coach, elle n\u2019am\u00e8ne pas seulement avec elle sa jeunesse et sa force, mais aussi une histoire jalonn\u00e9e d\u2019\u00e9preuves et une exigence, vitale et urgente\u00a0: monter sur le ring, entra\u00een\u00e9e par Frankie, et enfin concr\u00e9tiser le r\u00eave d\u2019une vie. Apr\u00e8s avoir repouss\u00e9 plusieurs fois sa demande, Frankie se laisse convaincre par l\u2019inflexible d\u00e9termination de la jeune femme. Une relation mouvement\u00e9e, tour \u00e0 tour stimulante et exasp\u00e9rante, se noue entre eux, au fil de laquelle Maggie et l\u2019entra\u00eeneur se d\u00e9couvrent une communaut\u00e9 d\u2019esprit et une complicit\u00e9 inattendues\u2026",
+            "popularity": 4.9396,
+            "poster_path": "/7yWwlgq12qZ4nMLQHhEf8ITaggn.jpg",
+            "release_date": "2004-12-05",
+            "title": "Million Dollar Baby",
+            "video": false,
+            "vote_average": 7.954,
+            "vote_count": 10114,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Il n\u2019entra\u00eene pas les filles et pourtant\u2026",
+            "runtime": 132
         },
         {
             "adult": false,
@@ -441,21 +461,21 @@
             "original_language": "en",
             "original_title": "Mystic River",
             "overview": "Jimmy Markum, Dave Boyle et Sean Devine ont grandi ensemble dans les rues de Boston. Rien ne semblait devoir alt\u00e9rer le cours de leur amiti\u00e9 jusqu'au jour o\u00f9 Dave se fit enlever par un inconnu sous les yeux de ses amis. Leur complicit\u00e9 juv\u00e9nile ne r\u00e9sista pas \u00e0 un tel \u00e9v\u00e9nement et leurs chemins se s\u00e9par\u00e8rent in\u00e9luctablement. Jimmy sombra pendant quelque temps dans la d\u00e9linquance, Sean s'engagea dans la police, Dave se replia sur lui-m\u00eame, se contenta de petits boulots et v\u00e9cut durant plusieurs ann\u00e9es avec sa m\u00e8re avant d'\u00e9pouser Celeste. Une nouvelle trag\u00e9die rapproche soudain les trois hommes : Katie, la fille de Jimmy, est retrouv\u00e9e morte au fond d'un foss\u00e9. Le p\u00e8re endeuill\u00e9 ne r\u00eave plus que d'une chose : se venger. Et Sean, affect\u00e9 \u00e0 l'enqu\u00eate, croit conna\u00eetre le coupable : Dave Boyle...",
-            "popularity": 6.4712,
+            "popularity": 6.4879,
             "poster_path": "/1z7IwJBQSKVY7BPLYOOS3ZNWM53.jpg",
             "release_date": "2003-10-08",
             "title": "Mystic River",
             "video": false,
             "vote_average": 7.743,
-            "vote_count": 7207,
+            "vote_count": 7208,
             "genres": [
                 "Thriller",
                 "Crime",
                 "Drame",
                 "Myst\u00e8re"
             ],
-            "runtime": 138,
-            "tagline": "On enterre nos p\u00e9ch\u00e9s, on ne les efface pas."
+            "tagline": "On enterre nos p\u00e9ch\u00e9s, on ne les efface pas.",
+            "runtime": 138
         },
         {
             "adult": false,
@@ -464,7 +484,7 @@
             "original_language": "en",
             "original_title": "Adaptation.",
             "overview": "Le sc\u00e9nariste Charlie Kaufman est rong\u00e9 par le doute. Engag\u00e9 pour adapter \u00e0 l'\u00e9cran un livre tir\u00e9 de la vie de John Laroche, chasseur et trafiquant d'orchid\u00e9es dans les Everglades, il est totalement bloqu\u00e9. Comme Susan Orlean, la brillante journaliste new-yorkaise qui a r\u00e9dig\u00e9 le roman, Charlie est incapable de vivre une v\u00e9ritable histoire d'amour. Donald, son fr\u00e8re jumeau, aggrave la situation : non seulement, il r\u00e9ussit sans peine comme sc\u00e9nariste, mais il remporte \u00e9galement un franc succ\u00e8s aupr\u00e8s des femmes, ce qui n'est pas le cas de Charlie. Un jour, ce dernier croit avoir trouv\u00e9 une solution : il va utiliser ses probl\u00e8mes personnels comme base d'un sc\u00e9nario sur Laroche et Susan Orlean. Mais alors que l'inspiration vient et que l'histoire prend forme, Charlie va d\u00e9clencher une s\u00e9rie d'\u00e9v\u00e8nements qui vont bouleverser la vie de tous les protagonistes.",
-            "popularity": 77.5391,
+            "popularity": 51.1158,
             "poster_path": "/ndlNK6qIQTCfalWuN4In1ZhHA0U.jpg",
             "release_date": "2002-12-06",
             "title": "Adaptation.",
@@ -476,28 +496,8 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 116,
-            "tagline": "4 vies. 1 histoire."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
-            "id": 70,
-            "original_language": "en",
-            "original_title": "Million Dollar Baby",
-            "overview": "Rejet\u00e9 depuis longtemps par sa fille, l\u2019entra\u00eeneur Frankie Dunn s\u2019est repli\u00e9 sur lui\u2010m\u00eame et vit dans un d\u00e9sert affectif, en \u00e9vitant toute relation qui pourrait accro\u00eetre sa douleur et sa culpabilit\u00e9. Le jour o\u00f9 Maggie Fitzgerald, 31 ans, pousse la porte de son gymnase \u00e0 la recherche d\u2019un coach, elle n\u2019am\u00e8ne pas seulement avec elle sa jeunesse et sa force, mais aussi une histoire jalonn\u00e9e d\u2019\u00e9preuves et une exigence, vitale et urgente\u00a0: monter sur le ring, entra\u00een\u00e9e par Frankie, et enfin concr\u00e9tiser le r\u00eave d\u2019une vie. Apr\u00e8s avoir repouss\u00e9 plusieurs fois sa demande, Frankie se laisse convaincre par l\u2019inflexible d\u00e9termination de la jeune femme. Une relation mouvement\u00e9e, tour \u00e0 tour stimulante et exasp\u00e9rante, se noue entre eux, au fil de laquelle Maggie et l\u2019entra\u00eeneur se d\u00e9couvrent une communaut\u00e9 d\u2019esprit et une complicit\u00e9 inattendues\u2026",
-            "popularity": 4.4712,
-            "poster_path": "/7yWwlgq12qZ4nMLQHhEf8ITaggn.jpg",
-            "release_date": "2004-12-05",
-            "title": "Million Dollar Baby",
-            "video": false,
-            "vote_average": 7.954,
-            "vote_count": 10112,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 132,
-            "tagline": "Il n\u2019entra\u00eene pas les filles et pourtant\u2026"
+            "tagline": "4 vies. 1 histoire.",
+            "runtime": 116
         },
         {
             "adult": false,
@@ -506,7 +506,7 @@
             "original_language": "en",
             "original_title": "Iris",
             "overview": "Iris retrace la vie mouvement\u00e9e d'Iris Murdoch, une romanci\u00e8re britannique. N\u00e9e \u00e0 Dublin en 1919, elle d\u00e9c\u00e9da en 1999, atteinte de la maladie d'Alzheimer.",
-            "popularity": 2.9162,
+            "popularity": 2.5221,
             "poster_path": "/pqtVPrv3xPLTUayC0bPruRjYWDF.jpg",
             "release_date": "2001-12-14",
             "title": "Iris",
@@ -517,28 +517,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7ZJ8caqGFoqSclAfRueyU85udQD.jpg",
-            "id": 1715,
-            "original_language": "en",
-            "original_title": "The Cider House Rules",
-            "overview": "A l'orphelinat de Saint-Cloud, dans le Maine, le docteur Wilbur Larch, un \u00eatre plut\u00f4t excentrique et attachant, se charge de r\u00e9aliser \"l\u2019\u0153uvre de Dieu\" en mettant au monde des enfants non d\u00e9sir\u00e9s, mais ne n\u00e9glige pas \"la part du diable\", puisqu'il lui arrive d'interrompre ill\u00e9galement certaines grossesses. Des liens de p\u00e8re et fils vont se tisser entre lui et le jeune Homer Wells, un orphelin r\u00e9fractaire \u00e0 l'adoption, d\u00e9sireux de partir \u00e0 la d\u00e9couverte du monde",
-            "popularity": 3.1833,
-            "poster_path": "/a8mCVbI0JP9plcWuXtLxPONo8S8.jpg",
-            "release_date": "1999-12-17",
-            "title": "L'\u0152uvre de Dieu, la part du diable",
-            "video": false,
-            "vote_average": 7.071,
-            "vote_count": 1244,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 131,
-            "tagline": "Oscar 2000 du meilleur second r\u00f4le pour Michael Caine et de l'adaptation pour John Irving."
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -547,7 +527,7 @@
             "original_language": "en",
             "original_title": "Traffic",
             "overview": "Le juge Robert Wakefield quitte la Cour supr\u00eame pour prendre la direction de la lutte antidrogue. Parall\u00e8lement, sa fille, Caroline, qu'il a toujours n\u00e9glig\u00e9e, sombre dans la toxicomanie. Au Mexique, Javier Rodriguez, un policier int\u00e8gre, aide \u00e0 pr\u00e9parer le d\u00e9mant\u00e8lement d'un r\u00e9seau de trafiquants\u2026",
-            "popularity": 4.0333,
+            "popularity": 4.2374,
             "poster_path": "/8sDLNXBizMwm7MIdvODPLx5YZNG.jpg",
             "release_date": "2000-12-27",
             "title": "Traffic",
@@ -559,8 +539,28 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 147,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZJ8caqGFoqSclAfRueyU85udQD.jpg",
+            "id": 1715,
+            "original_language": "en",
+            "original_title": "The Cider House Rules",
+            "overview": "A l'orphelinat de Saint-Cloud, dans le Maine, le docteur Wilbur Larch, un \u00eatre plut\u00f4t excentrique et attachant, se charge de r\u00e9aliser \"l\u2019\u0153uvre de Dieu\" en mettant au monde des enfants non d\u00e9sir\u00e9s, mais ne n\u00e9glige pas \"la part du diable\", puisqu'il lui arrive d'interrompre ill\u00e9galement certaines grossesses. Des liens de p\u00e8re et fils vont se tisser entre lui et le jeune Homer Wells, un orphelin r\u00e9fractaire \u00e0 l'adoption, d\u00e9sireux de partir \u00e0 la d\u00e9couverte du monde",
+            "popularity": 2.6414,
+            "poster_path": "/a8mCVbI0JP9plcWuXtLxPONo8S8.jpg",
+            "release_date": "1999-12-17",
+            "title": "L'\u0152uvre de Dieu, la part du diable",
+            "video": false,
+            "vote_average": 7.071,
+            "vote_count": 1244,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Oscar 2000 du meilleur second r\u00f4le pour Michael Caine et de l'adaptation pour John Irving.",
+            "runtime": 131
         },
         {
             "adult": false,
@@ -569,7 +569,7 @@
             "original_language": "en",
             "original_title": "Affliction",
             "overview": "Lawford, dans le New Hampshire, est une petite localit\u00e9 vivement touch\u00e9e par la r\u00e9cession \u00e9conomique. C'est l\u00e0 que vit et travaille Wade Whitehouse. La vie n'a pas \u00e9t\u00e9 tendre avec lui. Son mariage avec Lillian a \u00e9t\u00e9 un \u00e9chec et il ne voit sa fille Jill qu'\u00e0 de rares occasions. Wade travaille pour le compte d'un certain Gordon LaRivi\u00e8re, homme d'affaire local, et \u00e9galement comme officier de police. Un jour, LaRivi\u00e8re engage un copain de Wade pour conduire \u00e0 la chasse Evan Twombley, un patron syndical. Peu apr\u00e8s, on apprend que ce dernier est mort dans un accident.",
-            "popularity": 0.8501,
+            "popularity": 1.041,
             "poster_path": "/uv0Zo7hPlc9pu6Ey46URXXQ6AJA.jpg",
             "release_date": "1998-02-12",
             "title": "Affliction",
@@ -582,8 +582,8 @@
                 "Myst\u00e8re",
                 "Thriller"
             ],
-            "runtime": 114,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -592,18 +592,18 @@
             "original_language": "en",
             "original_title": "Good Will Hunting",
             "overview": "Will Hunting est un authentique g\u00e9nie mais \u00e9galement un rebelle aux \u00e9lans impr\u00e9visibles. Il est n\u00e9 dans le quartier populaire de South Boston et a arr\u00eat\u00e9 tr\u00e8s t\u00f4t ses \u00e9tudes, refusant le brillant avenir que pouvait lui procurer son intelligence. Il vit d\u00e9sormais entour\u00e9 d'une bande de copains et passe son temps dans les bars a chercher la bagarre et \u00e0 commettre quelques petits d\u00e9lits qui risquent bien de l'envoyer en prison. C'est alors que ses dons prodigieux en math\u00e9matiques attirent l'attention du professeur Lambeau, du Massachusetts Institute of Technology...",
-            "popularity": 17.0655,
+            "popularity": 15.6948,
             "poster_path": "/dMxqv6b08mQCikVPZL4UBl2MuHR.jpg",
             "release_date": "1997-12-05",
             "title": "Will Hunting",
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 13397,
+            "vote_average": 8.158,
+            "vote_count": 13398,
             "genres": [
                 "Drame"
             ],
-            "runtime": 126,
-            "tagline": "Impr\u00e9visible. G\u00e9nial. Rebelle."
+            "tagline": "Impr\u00e9visible. G\u00e9nial. Rebelle.",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -612,7 +612,7 @@
             "original_language": "en",
             "original_title": "Jerry Maguire",
             "overview": "Riche, beau et c\u00e9l\u00e8bre, Jerry Maguire, agent des stars du sport am\u00e9ricain, l'est. Mais sa vie mondaine et factice lui p\u00e8se, et une nuit il se remet en question dans une note qu'il r\u00e9dige, o\u00f9 il tente de d\u00e9finir le sens qu'il voudrait donner \u00e0 sa vie. Cette note va provoquer son licenciement et tous ses amis vont le trahir. Seule Dorothy, son assistante, et Rod, un footballeur fac\u00e9tieux, vont lui rester fid\u00e8les.",
-            "popularity": 5.5673,
+            "popularity": 5.3425,
             "poster_path": "/pJP3FN1NjMYFESmrdPJz7cTVuAF.jpg",
             "release_date": "1996-12-13",
             "title": "Jerry Maguire",
@@ -624,8 +624,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 138,
-            "tagline": "Ador\u00e9 par tous, puis ignor\u00e9, il revient pour gagner."
+            "tagline": "Ador\u00e9 par tous, puis ignor\u00e9, il revient pour gagner.",
+            "runtime": 138
         },
         {
             "adult": false,
@@ -634,20 +634,20 @@
             "original_language": "en",
             "original_title": "The Usual Suspects",
             "overview": "Suspect num\u00e9ro 1 dans une \u00e9trange affaire de hold-up, Verbal Kint est soumis \u00e0 un interrogatoire par des agents f\u00e9d\u00e9raux. Tr\u00e8s vite, il d\u00e9voile aux policiers que le v\u00e9ritable cerveau de cette affaire n'est autre que le redoutable criminel Keyser Soze, un \u00eatre machiav\u00e9lique poss\u00e9dant une intelligence hors du commun. Peu \u00e0 peu, le suspect va dresser un portrait effrayant de ce criminel que personne n'a jamais vu\u2026",
-            "popularity": 9.9376,
+            "popularity": 10.9838,
             "poster_path": "/h06jDZB4Y9YQJiSGTcUwbhuiUrB.jpg",
             "release_date": "1995-07-19",
             "title": "Usual Suspects",
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 11061,
+            "vote_average": 8.172,
+            "vote_count": 11063,
             "genres": [
                 "Drame",
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 106,
-            "tagline": "Qui est Keyser Soze\u202f?"
+            "tagline": "Qui est Keyser Soze\u202f?",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -656,7 +656,7 @@
             "original_language": "en",
             "original_title": "Ed Wood",
             "overview": "\u00c9vocation de la vie d'Ed Wood, r\u00e9alisateur consid\u00e9r\u00e9 de son vivant comme le plus mauvais de tous les temps. Aujourd'hui, il est adul\u00e9 et v\u00e9n\u00e9r\u00e9 par des milliers d'amateurs de bizarrerie et de fantastique \u00e0 travers le monde.",
-            "popularity": 2.1711,
+            "popularity": 2.8194,
             "poster_path": "/lgSnLaDu48WskDAobYH1vntKETk.jpg",
             "release_date": "1994-09-28",
             "title": "Ed Wood",
@@ -668,49 +668,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 127,
-            "tagline": "Le cin\u00e9ma \u00e9tait sa passion\u2026 Les femmes son inspiration."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
-            "id": 33,
-            "original_language": "en",
-            "original_title": "Unforgiven",
-            "overview": "Apr\u00e8s avoir \u00e9t\u00e9 un impitoyable tueur, toujours entre deux verres, Bill Munny a raccroch\u00e9 ses colts pour l'amour d'une femme aujourd\u2019hui disparue. Il \u00e9l\u00e8ve p\u00e9niblement des cochons dans un enclos boueux, avec pour seuls compagnons ses deux jeunes enfants. Bill re\u00e7oit un jour la visite de Schofield Kid, un apprenti desperado qui veut devenir le partenaire de cette l\u00e9gende vivante. Le Kid lui propose de partager les mille dollars offerts par des prostitu\u00e9es de Big Whiskey, une bourgade lointaine, pour l'\u00e9limination des deux cow\u2010boys qui ont d\u00e9figur\u00e9 l'une d\u2019entre elles. Munny finit par accepter la proposition et rend visite \u00e0 son vieux complice, Ned Logan\u2026",
-            "popularity": 6.8446,
-            "poster_path": "/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
-            "release_date": "1992-08-07",
-            "title": "Impitoyable",
-            "video": false,
-            "vote_average": 7.9,
-            "vote_count": 4777,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 130,
-            "tagline": "Certaines l\u00e9gendes ne seront jamais oubli\u00e9es. Certains torts ne peuvent jamais \u00eatre pardonn\u00e9s."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mYJGGapqhHhKMSwJpy9e6DvUg7i.jpg",
-            "id": 1406,
-            "original_language": "en",
-            "original_title": "City Slickers",
-            "overview": "Un citadin en pleine crise existentielle d\u00e9cide de partir avec ses deux meilleurs amis en vacances dans le Middle West, afin de conduire un troupeau de vaches du Nouveau Mexique au Colorado. Cette aventure sera l'occasion pour les trois quadrag\u00e9naires de se retrouver et surtout de faire un premier bilan de leurs vies respectives.",
-            "popularity": 3.5338,
-            "poster_path": "/AfIV9x5LxBq4mM0SKffPhILAN3S.jpg",
-            "release_date": "1991-06-07",
-            "title": "La vie, l'amour\u2026 les vaches",
-            "video": false,
-            "vote_average": 6.45,
-            "vote_count": 836,
-            "genres": [
-                "Com\u00e9die",
-                "Western"
-            ],
-            "runtime": 112,
-            "tagline": ""
+            "tagline": "Le cin\u00e9ma \u00e9tait sa passion\u2026 Les femmes son inspiration.",
+            "runtime": 127
         },
         {
             "adult": false,
@@ -719,7 +678,7 @@
             "original_language": "en",
             "original_title": "The Fugitive",
             "overview": "Mars 1992, Chicago. Richard Kimble est un chirurgien vasculaire renomm\u00e9. Au sortir d'une intervention chirurgicale, le praticien rentre chez lui et d\u00e9couvre avec stupeur le cadavre de son \u00e9pouse, Helen, qui vient d'\u00eatre assassin\u00e9e \u00e0 leur domicile. Accus\u00e9 du meurtre par la police de Chicago. Les policiers, doutant de la v\u00e9racit\u00e9 de son t\u00e9moignage, l'inculpent pour homicide, avec pour mobile le fait que Kimble est le seul h\u00e9ritier de la fortune de sa femme. Le tribunal le condamne \u00e0 la peine capitale. Lors de son transfert vers le lieu de son incarc\u00e9ration, le bus p\u00e9nitentiaire est la cible d'une tentative d'\u00e9vasion de la part de certains prisonniers. R\u00e9ussissant \u00e0 s'\u00e9chapper du bus, Kimble en profite pour dispara\u00eetre dans la nature. Les fugitifs sont pris en chasse par l'ensemble des forces de police de l'\u00c9tat et plus sp\u00e9cialement par l'\u00e9quipe d'enqu\u00eateurs de l'unit\u00e9 des marshals des \u00c9tats-Unis de Chicago, dirig\u00e9e par le marshal Samuel Gerard.",
-            "popularity": 6.415,
+            "popularity": 6.018,
             "poster_path": "/uVGTJKNIHi08Eclu96OvpiOGuQf.jpg",
             "release_date": "1993-08-06",
             "title": "Le Fugitif",
@@ -731,8 +690,49 @@
                 "Thriller",
                 "Drame"
             ],
-            "runtime": 130,
-            "tagline": "Une \u00e9pouse assassin\u00e9e. Un manchot. Un flic tenace. La chasse est ouverte."
+            "tagline": "Une \u00e9pouse assassin\u00e9e. Un manchot. Un flic tenace. La chasse est ouverte.",
+            "runtime": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
+            "id": 33,
+            "original_language": "en",
+            "original_title": "Unforgiven",
+            "overview": "Apr\u00e8s avoir \u00e9t\u00e9 un impitoyable tueur, toujours entre deux verres, Bill Munny a raccroch\u00e9 ses colts pour l'amour d'une femme aujourd\u2019hui disparue. Il \u00e9l\u00e8ve p\u00e9niblement des cochons dans un enclos boueux, avec pour seuls compagnons ses deux jeunes enfants. Bill re\u00e7oit un jour la visite de Schofield Kid, un apprenti desperado qui veut devenir le partenaire de cette l\u00e9gende vivante. Le Kid lui propose de partager les mille dollars offerts par des prostitu\u00e9es de Big Whiskey, une bourgade lointaine, pour l'\u00e9limination des deux cow\u2010boys qui ont d\u00e9figur\u00e9 l'une d\u2019entre elles. Munny finit par accepter la proposition et rend visite \u00e0 son vieux complice, Ned Logan\u2026",
+            "popularity": 6.7979,
+            "poster_path": "/v7snHlRPE6cI8IhHH17PkfY0lCi.jpg",
+            "release_date": "1992-08-07",
+            "title": "Impitoyable",
+            "video": false,
+            "vote_average": 7.907,
+            "vote_count": 4778,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "Certaines l\u00e9gendes ne seront jamais oubli\u00e9es. Certains torts ne peuvent jamais \u00eatre pardonn\u00e9s.",
+            "runtime": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mYJGGapqhHhKMSwJpy9e6DvUg7i.jpg",
+            "id": 1406,
+            "original_language": "en",
+            "original_title": "City Slickers",
+            "overview": "Un citadin en pleine crise existentielle d\u00e9cide de partir avec ses deux meilleurs amis en vacances dans le Middle West, afin de conduire un troupeau de vaches du Nouveau Mexique au Colorado. Cette aventure sera l'occasion pour les trois quadrag\u00e9naires de se retrouver et surtout de faire un premier bilan de leurs vies respectives.",
+            "popularity": 3.3263,
+            "poster_path": "/AfIV9x5LxBq4mM0SKffPhILAN3S.jpg",
+            "release_date": "1991-06-07",
+            "title": "La vie, l'amour\u2026 les vaches",
+            "video": false,
+            "vote_average": 6.45,
+            "vote_count": 836,
+            "genres": [
+                "Com\u00e9die",
+                "Western"
+            ],
+            "tagline": "",
+            "runtime": 112
         },
         {
             "adult": false,
@@ -741,19 +741,19 @@
             "original_language": "en",
             "original_title": "GoodFellas",
             "overview": "Brooklyn, dans les ann\u00e9es 50. Depuis l'enfance, le jeune Henry Hill r\u00eave de devenir gangster. \u00c0 16 ans, il se met en selle aupr\u00e8s de Paul Cicero, un ca\u00efd local, et commet ses premiers d\u00e9lits. Arr\u00eat\u00e9 et interrog\u00e9, il refuse de parler et gagne ainsi le respect du milieu. \u00c0 sa sortie de prison, il fait la connaissance de James Conway et de Tommy DeVito, deux truands d'une extr\u00eame violence, et se lance avec eux dans des trafics de grande envergure. Karen, une jeune bourgeoise qu'il courtise et finit par \u00e9pouser, ne devine sa profession qu'apr\u00e8s \u00eatre pass\u00e9e devant l'officier d'\u00e9tat-civil. Gris\u00e9 par le succ\u00e8s, Henry multiplie les coups les plus audacieux\u2026",
-            "popularity": 15.1504,
+            "popularity": 15.9462,
             "poster_path": "/kc55cCUCZKtAFpsCnZKM5uLBzwh.jpg",
             "release_date": "1990-09-12",
             "title": "Les Affranchis",
             "video": false,
-            "vote_average": 8.5,
+            "vote_average": 8.452,
             "vote_count": 13899,
             "genres": [
                 "Drame",
                 "Crime"
             ],
-            "runtime": 141,
-            "tagline": "Trente ans pass\u00e9s dans la Mafia"
+            "tagline": "Trente ans pass\u00e9s dans la Mafia",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -762,7 +762,7 @@
             "original_language": "en",
             "original_title": "Glory",
             "overview": "1863. La guerre de S\u00e9cession ravage l'Am\u00e9rique et tourne \u00e0 l'avantage du Sud. Lincoln proclame l'\u00e9mancipation officielle des noirs et d\u00e9cide que les volontaires noirs pourront s'engager sous les ordres d'officiers blancs. Un r\u00e9giment de volontaires noirs est alors cr\u00e9\u00e9 et le jeune Robert Gould Shaw est nomm\u00e9 colonel de ces soldats m\u00e9pris\u00e9s. Les volontaires sont nombreux et parmi eux Searles, un ami de Shaw, et Trip, une t\u00eate br\u00fbl\u00e9e qui refuse l'autorit\u00e9. En s'engageant, ces hommes veulent enfin conqu\u00e9rir une dignit\u00e9 qu'ils n'ont jamais connue. Aid\u00e9 par Forbes, un de ses camarades nomm\u00e9 commandant, Shaw commence \u00e0 former ses recrues pour le combat.",
-            "popularity": 5.1441,
+            "popularity": 4.6743,
             "poster_path": "/o7sePmQCAmlgfF50vDb3n7MZgf9.jpg",
             "release_date": "1989-12-15",
             "title": "Glory",
@@ -774,8 +774,29 @@
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 122,
-            "tagline": "Ils se sont unis pour la Libert\u00e9. Ils se sont battus pour l'Honneur. Ils ont trouv\u00e9 la Gloire."
+            "tagline": "Ils se sont unis pour la Libert\u00e9. Ils se sont battus pour l'Honneur. Ils ont trouv\u00e9 la Gloire.",
+            "runtime": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6IFTmhNh9kmwd5ix53OdlSphPYl.jpg",
+            "id": 623,
+            "original_language": "en",
+            "original_title": "A Fish Called Wanda",
+            "overview": "Wanda, Ken, Otto et George viennent d'accomplir un joli hold up. Mais George, tr\u00e8s vite d\u00e9nonc\u00e9 par Wanda et Otto, finit en prison. Or, lui seul conna\u00eet l'endroit o\u00f9 sont cach\u00e9s les diamants qui constituent le butin. Wanda d\u00e9cide de s\u00e9duire Archie Leach, un avocat tr\u00e8s traditionnel, coinc\u00e9 et mari\u00e9 \u00e0 une femme snob, afin qu'il fasse lib\u00e9rer George de prison...",
+            "popularity": 2.8034,
+            "poster_path": "/2up5NsyWWF6H9w6m5MIMGAZpFAA.jpg",
+            "release_date": "1988-07-15",
+            "title": "Un poisson nomm\u00e9 Wanda",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 2343,
+            "genres": [
+                "Com\u00e9die",
+                "Crime"
+            ],
+            "tagline": "Une histoire de meurtre, de cupidit\u00e9, de luxure, de revanche et de poisson.",
+            "runtime": 108
         },
         {
             "adult": false,
@@ -784,7 +805,7 @@
             "original_language": "en",
             "original_title": "The Untouchables",
             "overview": "\u00c0 Chicago en 1930, \u00e0 l\u2019\u00e9poque de la prohibition, le trafic d\u2019alcool bat son plein et permet \u00e0 des truands de b\u00e2tir des fortunes colossales. Eliot Ness, jeune policier frais \u00e9moulu du FBI, est charg\u00e9 de d\u00e9manteler un r\u00e9seau de contrebande d\u2019alcool. L\u2019ennemi est facilement identifiable\u00a0: Al Capone, inattaquable officiellement, est pourtant impliqu\u00e9 dans les affaires les plus sordides. La premi\u00e8re mission de Ness, maladroitement conduite, se solde par un \u00e9chec humiliant. Loin de se laisser d\u00e9courager par ce premier affront, Ness d\u00e9cide de s\u2019entourer de personnes de confiance. Il recrute ainsi Jim Malone, un flic qui conna\u00eet bien le monde des truands\u2026",
-            "popularity": 5.5344,
+            "popularity": 5.6004,
             "poster_path": "/xrdMy48NrJSJYRplKfuQT0sDfSI.jpg",
             "release_date": "1987-06-03",
             "title": "Les Incorruptibles",
@@ -796,29 +817,8 @@
                 "Histoire",
                 "Thriller"
             ],
-            "runtime": 119,
-            "tagline": "Al Capone : Il dirige Chicago avec un pouvoir absolu. Personne ne peut le toucher. Personne ne peut l\u2019arr\u00eater."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6IFTmhNh9kmwd5ix53OdlSphPYl.jpg",
-            "id": 623,
-            "original_language": "en",
-            "original_title": "A Fish Called Wanda",
-            "overview": "Wanda, Ken, Otto et George viennent d'accomplir un joli hold up. Mais George, tr\u00e8s vite d\u00e9nonc\u00e9 par Wanda et Otto, finit en prison. Or, lui seul conna\u00eet l'endroit o\u00f9 sont cach\u00e9s les diamants qui constituent le butin. Wanda d\u00e9cide de s\u00e9duire Archie Leach, un avocat tr\u00e8s traditionnel, coinc\u00e9 et mari\u00e9 \u00e0 une femme snob, afin qu'il fasse lib\u00e9rer George de prison...",
-            "popularity": 3.0139,
-            "poster_path": "/2up5NsyWWF6H9w6m5MIMGAZpFAA.jpg",
-            "release_date": "1988-07-15",
-            "title": "Un poisson nomm\u00e9 Wanda",
-            "video": false,
-            "vote_average": 7.208,
-            "vote_count": 2343,
-            "genres": [
-                "Com\u00e9die",
-                "Crime"
-            ],
-            "runtime": 108,
-            "tagline": "Une histoire de meurtre, de cupidit\u00e9, de luxure, de revanche et de poisson."
+            "tagline": "Al Capone : Il dirige Chicago avec un pouvoir absolu. Personne ne peut le toucher. Personne ne peut l\u2019arr\u00eater.",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -827,7 +827,7 @@
             "original_language": "en",
             "original_title": "Hannah and Her Sisters",
             "overview": "Le destin de 3 s\u0153urs ab\u00eem\u00e9es par la vie, autour desquelles s'entrecroisent dans un imbroglio sentimental les existences et les amours compliqu\u00e9es d'une douzaine de personnages.",
-            "popularity": 1.9573,
+            "popularity": 1.8445,
             "poster_path": "/y2irYZdDMXbbYGf02zSueCC9qnK.jpg",
             "release_date": "1986-02-07",
             "title": "Hannah et ses s\u0153urs",
@@ -838,8 +838,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 105,
-            "tagline": "Une histoire entre deux actions de Thanksgiving"
+            "tagline": "Une histoire entre deux actions de Thanksgiving",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -848,7 +848,7 @@
             "original_language": "en",
             "original_title": "Cocoon",
             "overview": "Un groupe d'aliens d\u00e9guis\u00e9s en humains reviennent sur Terre pour reprendre des cocons de leur esp\u00e8ce (de la plan\u00e8te Antarea) qu'ils avaient laiss\u00e9s lors d'un pr\u00e9c\u00e9dent voyage. Une fois qu'ils ont r\u00e9cup\u00e9r\u00e9 les cocons, ils les conservent dans la piscine d'une maison qu'ils ont lou\u00e9e dans une petite ville de Floride. Ils sont g\u00e9n\u00e9s dans leur entreprise par quelques personnes \u00e2g\u00e9es, pensionnaires d'une maison de retraite situ\u00e9e non loin de la maison. Ces derni\u00e8res se sont secr\u00e8tement baign\u00e9es dans la piscine et ont d\u00e9couvert les pouvoirs extraordinaires des cocons...",
-            "popularity": 3.1008,
+            "popularity": 2.8786,
             "poster_path": "/gAUtu6hDlR9AOKa6H9AGc0INWUg.jpg",
             "release_date": "1985-06-21",
             "title": "Cocoon",
@@ -861,8 +861,8 @@
                 "Myst\u00e8re",
                 "Drame"
             ],
-            "runtime": 117,
-            "tagline": "Si vous aviez une chance de rajeunir, la laisseriez-vous passer ?"
+            "tagline": "Si vous aviez une chance de rajeunir, la laisseriez-vous passer ?",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -871,7 +871,7 @@
             "original_language": "en",
             "original_title": "The Killing Fields",
             "overview": "Journaliste au New York Times, Sidney Schanberg est un des rares reporters \u00e0 rester au Cambodge apr\u00e8s la prise de Phnom Penh par les Khmers rouges. L'intervention de son assistant Dith Pran lui sauve la vie. Pran arr\u00eat\u00e9, Schanberg regagne les \u00c9tats-Unis alors que la r\u00e9pression s'abat sur le Cambodge.",
-            "popularity": 2.1658,
+            "popularity": 2.0969,
             "poster_path": "/urg1Ir5CJ9jNjlHeQOm4Eyjj0f7.jpg",
             "release_date": "1984-11-23",
             "title": "La D\u00e9chirure",
@@ -883,8 +883,8 @@
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 141,
-            "tagline": "Le supplice d'une nation, le courage d'un seul homme."
+            "tagline": "Le supplice d'une nation, le courage d'un seul homme.",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -893,7 +893,7 @@
             "original_language": "en",
             "original_title": "Terms of Endearment",
             "overview": "Aurora a \u00e9lev\u00e9 seule sa fille Emma, excluant tout homme de sa vie. Pourtant, Emma quitte \u00e0 la premi\u00e8re occasion cette m\u00e8re abusive. Seule, Aurora rencontre alors Garret, qui est un ancien cosmonaute d\u00e9sormais alcoolique... Des liens entre ces deux personnes prennent forme.",
-            "popularity": 2.2093,
+            "popularity": 1.8391,
             "poster_path": "/rsS1Ej5LYC6ZlFPdlxVchHJhmu4.jpg",
             "release_date": "1983-11-20",
             "title": "Tendres Passions",
@@ -904,8 +904,29 @@
                 "Drame",
                 "Com\u00e9die"
             ],
-            "runtime": 132,
-            "tagline": "Venez rire, venir pleurer, prendre soin de vous et vous r\u00e9concilier."
+            "tagline": "Venez rire, venir pleurer, prendre soin de vous et vous r\u00e9concilier.",
+            "runtime": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Xb0LfbdrS2pwDYyMkUiawzbGBu.jpg",
+            "id": 2623,
+            "original_language": "en",
+            "original_title": "An Officer and a Gentleman",
+            "overview": "Fils de Byron Mayo, sous-officier de marine alcoolique et d\u00e9prav\u00e9, Zack Mayo conna\u00eet une enfance difficile, aux Philippines, en compagnie d'un p\u00e8re qu'il m\u00e9prise. Zack s'inscrit \u00e0 l'\u00e9cole des officiers de l'a\u00e9ronavale pour devenir pilote et \u00e9chapper \u00e0 sa sordide condition. Pendant ses classes, il fait le dur apprentissage de la discipline, de l\u2019amiti\u00e9 et de l\u2019amour. Malgr\u00e9 les avertissements d'Emil Foley son sergent instructeur au sujet des filles de la r\u00e9gion qui se font faire un enfant afin d\u2019\u00e9pouser les \u00e9l\u00e8ves pilotes, Zack tombe peu \u00e0 peu amoureux de l\u2019une d\u2019entre elles, Paula Pokrifki...",
+            "popularity": 2.4772,
+            "poster_path": "/7xaGeNgsx9X0Yw4q9Iz8c04ibkn.jpg",
+            "release_date": "1982-07-28",
+            "title": "Officier et Gentleman",
+            "video": false,
+            "vote_average": 7.005,
+            "vote_count": 1163,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "La vie ne lui a rien donn\u00e9, except\u00e9 le courage de vaincre... et une femme \u00e0 aimer.",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -914,7 +935,7 @@
             "original_language": "en",
             "original_title": "Arthur",
             "overview": "Millionnaire esseul\u00e9, ivrogne et fantasque, Arthur doit, pour toucher un h\u00e9ritage, \u00e9pouser \u00e0 contre-c\u0153ur une femme de bonne famille. Mais Arthur est amoureux de Linda, issue d'un milieu populaire et voleuse \u00e0 ses heures.",
-            "popularity": 1.5523,
+            "popularity": 1.9843,
             "poster_path": "/m5bqtzOXD7QgmxgJ9t09uhEkQ8Y.jpg",
             "release_date": "1981-07-17",
             "title": "Arthur",
@@ -926,29 +947,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 97,
-            "tagline": "Le plus riche playboy du monde"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8Xb0LfbdrS2pwDYyMkUiawzbGBu.jpg",
-            "id": 2623,
-            "original_language": "en",
-            "original_title": "An Officer and a Gentleman",
-            "overview": "Fils de Byron Mayo, sous-officier de marine alcoolique et d\u00e9prav\u00e9, Zack Mayo conna\u00eet une enfance difficile, aux Philippines, en compagnie d'un p\u00e8re qu'il m\u00e9prise. Zack s'inscrit \u00e0 l'\u00e9cole des officiers de l'a\u00e9ronavale pour devenir pilote et \u00e9chapper \u00e0 sa sordide condition. Pendant ses classes, il fait le dur apprentissage de la discipline, de l\u2019amiti\u00e9 et de l\u2019amour. Malgr\u00e9 les avertissements d'Emil Foley son sergent instructeur au sujet des filles de la r\u00e9gion qui se font faire un enfant afin d\u2019\u00e9pouser les \u00e9l\u00e8ves pilotes, Zack tombe peu \u00e0 peu amoureux de l\u2019une d\u2019entre elles, Paula Pokrifki...",
-            "popularity": 2.8168,
-            "poster_path": "/7xaGeNgsx9X0Yw4q9Iz8c04ibkn.jpg",
-            "release_date": "1982-07-28",
-            "title": "Officier et Gentleman",
-            "video": false,
-            "vote_average": 7.005,
-            "vote_count": 1163,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 124,
-            "tagline": "La vie ne lui a rien donn\u00e9, except\u00e9 le courage de vaincre... et une femme \u00e0 aimer."
+            "tagline": "Le plus riche playboy du monde",
+            "runtime": 97
         },
         {
             "adult": false,
@@ -957,7 +957,7 @@
             "original_language": "en",
             "original_title": "Ordinary People",
             "overview": "Calvin et Beth Jarrett forment un couple id\u00e9al de la moyenne bourgeoisie am\u00e9ricaine, leur fils Conrad fait de la natation et chante dans la chorale du lyc\u00e9e. Derri\u00e8re la fa\u00e7ade de sa r\u00e9sidence cossue, la famille Jarrett est au bord de l'implosion\u2026",
-            "popularity": 3.3817,
+            "popularity": 2.9762,
             "poster_path": "/ayUYJsd8XHr7v0IZAn0qdgEUUdl.jpg",
             "release_date": "1980-09-19",
             "title": "Des gens comme les autres",
@@ -967,8 +967,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 124,
-            "tagline": "Tout est \u00e0 sa propre place... sauf le pass\u00e9."
+            "tagline": "Tout est \u00e0 sa propre place... sauf le pass\u00e9.",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -977,7 +977,7 @@
             "original_language": "en",
             "original_title": "Being There",
             "overview": "Un jardinier quinquag\u00e9naire pr\u00e9nomm\u00e9 Chance, homme na\u00eff et simple, coule une vie sans heurts \u00e0 prendre soin du jardin d'une calme propri\u00e9t\u00e9 de Washington. Il vit quasiment retir\u00e9 du monde, ne sort jamais, n'est jamais mont\u00e9 dans une automobile et sa seule distraction est la t\u00e9l\u00e9vision, qu'il contemple avec assiduit\u00e9 et fascination. Oblig\u00e9 de quitter cette maison et cette activit\u00e9 \u00e0 la suite du d\u00e9c\u00e8s de son employeur, Chance est heurt\u00e9, dans la rue, par un v\u00e9hicule dont la propri\u00e9taire, Eve Rand, l'accueille \u00e0 son domicile pour lui faire prodiguer des soins. Chance se lie avec Benjamin Rand, le mari, qui, peu apr\u00e8s, re\u00e7oit la visite du pr\u00e9sident des \u00c9tats-Unis. Chance prend part \u00e0 l'entretien et ce avec un tel naturel que ses phrases, distill\u00e9es comme des proverbes de sagesse mais, en r\u00e9alit\u00e9, orient\u00e9es jardinage, vont \u00eatre prises pour de v\u00e9ritables oracles. Il va ainsi devenir la coqueluche du pouvoir et des m\u00e9dias.",
-            "popularity": 1.5744,
+            "popularity": 1.4676,
             "poster_path": "/cN2RppmWwiEwv69NTMZFk2YJLcN.jpg",
             "release_date": "1979-12-19",
             "title": "Bienvenue, Mister Chance",
@@ -988,50 +988,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 130,
-            "tagline": "Bienvenue Mister Chance est le dernier film de Peter Sellers sorti de son vivant."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
-            "id": 16561,
-            "original_language": "en",
-            "original_title": "The Sunshine Boys",
-            "overview": "Deux hommes ont form\u00e9 pendant 40 ans un tandem comique qui a connu le succ\u00e8s dans les spectacles de music-hall.",
-            "popularity": 0.7123,
-            "poster_path": "/hgMB8Ixl4zvzn2ttfnEHUdJLmre.jpg",
-            "release_date": "1975-11-06",
-            "title": "Ennemis comme avant",
-            "video": false,
-            "vote_average": 6.84,
-            "vote_count": 106,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 111,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/70uxtdJYU1qfrAmPg4xxqXlETVU.jpg",
-            "id": 891,
-            "original_language": "en",
-            "original_title": "All the President's Men",
-            "overview": "Les journalistes Woodward et Bernstein d\u00e9couvrent certains \u00e9l\u00e9ments \u00e0 l\u2019origine du plus grand scandale politique de l\u2019apr\u00e8s\u2010guerre que fut l\u2019affaire du Watergate qui n'avait d'autres man\u0153uvres que de faire d\u00e9missionner le pr\u00e9sident Nixon\u2026",
-            "popularity": 2.4151,
-            "poster_path": "/oTmgVuywId1bgRv1QTYRcA9Jz2g.jpg",
-            "release_date": "1976-04-09",
-            "title": "Les Hommes du Pr\u00e9sident",
-            "video": false,
-            "vote_average": 7.7,
-            "vote_count": 1989,
-            "genres": [
-                "Drame",
-                "Myst\u00e8re",
-                "Thriller"
-            ],
-            "runtime": 139,
-            "tagline": "L\u2019histoire de d\u00e9tective la plus d\u00e9vastatrice de ce si\u00e8cle."
+            "tagline": "Bienvenue Mister Chance est le dernier film de Peter Sellers sorti de son vivant.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -1040,7 +998,7 @@
             "original_language": "en",
             "original_title": "The Deer Hunter",
             "overview": "Un groupe d'amis de la classe ouvri\u00e8re et amateurs de la chasse aux daims d\u00e9cident de s'enr\u00f4ler dans l'arm\u00e9e pendant la guerre du Vietnam et d\u00e9couvrent que c'est un chaos infernal \u2013 pas la noble aventure qu'ils avaient imagin\u00e9e. Avant de partir, Steven a \u00e9pous\u00e9 sa petite amie enceinte \u2013 et Michael et Nick \u00e9taient amoureux de la m\u00eame femme. Mais \u00e0 leur retour, tous les trois sont des hommes diff\u00e9rents.",
-            "popularity": 5.2811,
+            "popularity": 5.5968,
             "poster_path": "/s27zqyyCJvSm72f3uThjxcgmX6M.jpg",
             "release_date": "1978-12-08",
             "title": "Voyage au bout de l\u2019enfer",
@@ -1051,8 +1009,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 183,
-            "tagline": "Second film de Michael Cimino qui marque une \u00e9tape essentielle dans l\u2019\u00e9volution du cin\u00e9ma am\u00e9ricain. L\u2019un des films les plus importants et puissants de tous les temps !"
+            "tagline": "Second film de Michael Cimino qui marque une \u00e9tape essentielle dans l\u2019\u00e9volution du cin\u00e9ma am\u00e9ricain. L\u2019un des films les plus importants et puissants de tous les temps !",
+            "runtime": 183
         },
         {
             "adult": false,
@@ -1061,7 +1019,7 @@
             "original_language": "en",
             "original_title": "Julia",
             "overview": "Entre les deux guerres mondiales, la romanci\u00e8re Lillian Hellman vit avec l'\u00e9crivain Dashiell Hammett dans une maison face \u00e0 l'oc\u00e9an sur la c\u00f4te Est. Elle n'a plus de nouvelles de son amie d'enfance Julia partie \u00e9tudier en Europe. Elle lui rend visite \u00e0 Oxford quand Julia lui annonce qu'elle se pr\u00e9pare \u00e0 rejoindre Vienne pour y \u00e9tudier la m\u00e9decine et la psychanalyse. Plus tard, Julia est devenue militante anti nazie. Malgr\u00e9 les dangers de l'Europe en guerre, aid\u00e9e par la r\u00e9sistance, Lili y effectue plusieurs voyages traversant Paris, Berlin, Vienne pour retrouver son amie.",
-            "popularity": 2.1473,
+            "popularity": 2.1677,
             "poster_path": "/qHtPzs9eVCilp88c1arq73gH6xk.jpg",
             "release_date": "1977-10-01",
             "title": "Julia",
@@ -1073,8 +1031,50 @@
                 "Romance",
                 "Thriller"
             ],
-            "runtime": 117,
-            "tagline": "L'histoire de deux femmes dont l'amiti\u00e9 devient soudain une question de vie ou de mort."
+            "tagline": "L'histoire de deux femmes dont l'amiti\u00e9 devient soudain une question de vie ou de mort.",
+            "runtime": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/70uxtdJYU1qfrAmPg4xxqXlETVU.jpg",
+            "id": 891,
+            "original_language": "en",
+            "original_title": "All the President's Men",
+            "overview": "Les journalistes Woodward et Bernstein d\u00e9couvrent certains \u00e9l\u00e9ments \u00e0 l\u2019origine du plus grand scandale politique de l\u2019apr\u00e8s\u2010guerre que fut l\u2019affaire du Watergate qui n'avait d'autres man\u0153uvres que de faire d\u00e9missionner le pr\u00e9sident Nixon\u2026",
+            "popularity": 2.1551,
+            "poster_path": "/oTmgVuywId1bgRv1QTYRcA9Jz2g.jpg",
+            "release_date": "1976-04-09",
+            "title": "Les Hommes du Pr\u00e9sident",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1989,
+            "genres": [
+                "Drame",
+                "Myst\u00e8re",
+                "Thriller"
+            ],
+            "tagline": "L\u2019histoire de d\u00e9tective la plus d\u00e9vastatrice de ce si\u00e8cle.",
+            "runtime": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
+            "id": 16561,
+            "original_language": "en",
+            "original_title": "The Sunshine Boys",
+            "overview": "Deux hommes ont form\u00e9 pendant 40 ans un tandem comique qui a connu le succ\u00e8s dans les spectacles de music-hall.",
+            "popularity": 0.5607,
+            "poster_path": "/hgMB8Ixl4zvzn2ttfnEHUdJLmre.jpg",
+            "release_date": "1975-11-06",
+            "title": "Ennemis comme avant",
+            "video": false,
+            "vote_average": 6.84,
+            "vote_count": 106,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 111
         },
         {
             "adult": false,
@@ -1083,7 +1083,7 @@
             "original_language": "en",
             "original_title": "The Godfather Part II",
             "overview": "Depuis la mort de Don Vito Corleone, son fils Michael r\u00e8gne sur la famille. Amen\u00e9 \u00e0 n\u00e9gocier avec la mafia juive, il perd alors le soutien d'un de ses lieutenants, Frankie Pentageli. \u00c9chappant de justesse \u00e0 un attentat, Michael tente de retrouver le coupable, soup\u00e7onnant Hyman Roth, le chef de la mafia juive. Vito Corleone, immigrant italien, arrive \u00e0 New York au d\u00e9but du si\u00e8cle ; tr\u00e8s vite, il devient un des ca\u00efds du quartier, utilisant la violence comme moyen de r\u00e9gler toutes les affaires. Seul au d\u00e9part, il b\u00e2tit peu \u00e0 peu un v\u00e9ritable empire, origine de la fortune de la famille des Corleone.",
-            "popularity": 14.3178,
+            "popularity": 16.2636,
             "poster_path": "/fATmEcLwO3tTiisa8gYxhV3x4sS.jpg",
             "release_date": "1974-12-20",
             "title": "Le Parrain, 2e partie",
@@ -1094,8 +1094,28 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 202,
-            "tagline": "Les affaires reprennent."
+            "tagline": "Les affaires reprennent.",
+            "runtime": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNPwpLk76MNxIEYketYXiD8zP9F.jpg",
+            "id": 14328,
+            "original_language": "en",
+            "original_title": "The Paper Chase",
+            "overview": "Un \u00e9tudiant de premi\u00e8re ann\u00e9e en droit a du mal \u00e0 g\u00e9rer ses cours et sa relation avec la fille d'un professeur s\u00e9v\u00e8re.  Mary Lambert",
+            "popularity": 0.6552,
+            "poster_path": "/vz4RgZQAs8FuI1EeMpuLBopsoCZ.jpg",
+            "release_date": "1973-10-16",
+            "title": "La Chasse au dipl\u00f4me",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 113,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Vous cherchez peut-\u00eatre un futur pr\u00e9sident, un juge de la Cour supr\u00eame, un secr\u00e9taire d'\u00c9tat ou un d\u00e9crocheur. Mary Lambert",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -1104,7 +1124,7 @@
             "original_language": "en",
             "original_title": "Cabaret",
             "overview": "La vie d'un cabaret et l'histoire d'amour entre une des chanteuses et un jeune \u00e9tudiant dans le Berlin des ann\u00e9es trente, secou\u00e9 par la mont\u00e9e du nazisme...",
-            "popularity": 5.3915,
+            "popularity": 6.1577,
             "poster_path": "/azERXJ1tjQz5yKdmU0US8I9XNOF.jpg",
             "release_date": "1972-02-13",
             "title": "Cabaret",
@@ -1116,28 +1136,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 118,
-            "tagline": "Toute la vie est un cabaret."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tNPwpLk76MNxIEYketYXiD8zP9F.jpg",
-            "id": 14328,
-            "original_language": "en",
-            "original_title": "The Paper Chase",
-            "overview": "Un \u00e9tudiant de premi\u00e8re ann\u00e9e en droit a du mal \u00e0 g\u00e9rer ses cours et sa relation avec la fille d'un professeur s\u00e9v\u00e8re.  Mary Lambert",
-            "popularity": 0.6104,
-            "poster_path": "/vz4RgZQAs8FuI1EeMpuLBopsoCZ.jpg",
-            "release_date": "1973-10-16",
-            "title": "La Chasse au dipl\u00f4me",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 113,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 113,
-            "tagline": "Vous cherchez peut-\u00eatre un futur pr\u00e9sident, un juge de la Cour supr\u00eame, un secr\u00e9taire d'\u00c9tat ou un d\u00e9crocheur. Mary Lambert"
+            "tagline": "Toute la vie est un cabaret.",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -1146,7 +1146,7 @@
             "original_language": "en",
             "original_title": "The Last Picture Show",
             "overview": "1951. Sonny et Duane, deux adolescents texans, passent leur temps entre le caf\u00e9 et le cin\u00e9ma, seules distractions possibles dans leur petite ville perdue aux confins du d\u00e9sert. Mais lorsqu'une fille provoque une dispute entre eux, Sonny d\u00e9cide de s'engager pour la Cor\u00e9e. Avant de partir, ils se rendent au cin\u00e9ma une derni\u00e8re fois...",
-            "popularity": 1.9034,
+            "popularity": 1.7661,
             "poster_path": "/qM0uSf6pbmGxEEh2XrXz1UzuwHv.jpg",
             "release_date": "1971-10-03",
             "title": "La Derni\u00e8re S\u00e9ance",
@@ -1157,8 +1157,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 118,
-            "tagline": "Anarene, Texas, 1951. Rien n'a vraiment chang\u00e9\u2026"
+            "tagline": "Anarene, Texas, 1951. Rien n'a vraiment chang\u00e9\u2026",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -1167,7 +1167,7 @@
             "original_language": "en",
             "original_title": "Ryan's Daughter",
             "overview": "En 1916 en Irlande, Rosy Ryan \u00e9pouse le maitre d'\u00e9cole du village de quinze ans son ain\u00e9. D\u00e9\u00e7ue par cette union elle tombe amoureuse du major anglais venu prendre le commandement de la garnison de la r\u00e9gion.",
-            "popularity": 0.7113,
+            "popularity": 0.7839,
             "poster_path": "/4UB9qHb118boUuaV6nfMq5HMnIH.jpg",
             "release_date": "1970-03-19",
             "title": "La Fille de Ryan",
@@ -1179,8 +1179,8 @@
                 "Histoire",
                 "Drame"
             ],
-            "runtime": 206,
-            "tagline": "Une histoire d'amour... contre la violence de la r\u00e9bellion"
+            "tagline": "Une histoire d'amour... contre la violence de la r\u00e9bellion",
+            "runtime": 206
         },
         {
             "adult": false,
@@ -1189,7 +1189,7 @@
             "original_language": "en",
             "original_title": "They Shoot Horses, Don't They?",
             "overview": "En pleine d\u00e9pression \u00e9conomique, les primes des marathons de danse attirent jeunes et vieux accabl\u00e9s par la mis\u00e8re. Robert et sa partenaire Gloria dansent \u00e0 en perdre la raison. Ils tiendront co\u00fbte que co\u00fbte. \u00c0 moins que la mort ne les s\u00e9pare...",
-            "popularity": 1.4661,
+            "popularity": 1.7268,
             "poster_path": "/lfNKtxPPZmatWye3QtGpzUxw5ea.jpg",
             "release_date": "1969-12-10",
             "title": "On ach\u00e8ve bien les chevaux",
@@ -1199,8 +1199,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 129,
-            "tagline": "Les gens sont le spectacle ultime."
+            "tagline": "Les gens sont le spectacle ultime.",
+            "runtime": 129
         },
         {
             "adult": false,
@@ -1209,7 +1209,7 @@
             "original_language": "en",
             "original_title": "The Subject Was Roses",
             "overview": "",
-            "popularity": 0.1746,
+            "popularity": 0.1297,
             "poster_path": "/2mjvVqEXb5Ii64NQWgjsgKDeFlU.jpg",
             "release_date": "1968-10-13",
             "title": "The Subject Was Roses",
@@ -1219,30 +1219,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 107,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
-            "id": 42731,
-            "original_language": "en",
-            "original_title": "A Thousand Clowns",
-            "overview": "Un iconoclaste d'\u00e2ge moyen, \u00e9vitant obstin\u00e9ment l'ennui du travail et de la vie conventionnelle, fait face \u00e0 la perspective de perdre la garde de son jeune pupille.",
-            "popularity": 0.5593,
-            "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
-            "release_date": "1965-12-13",
-            "title": "Des Clowns par Milliers",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 29,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 118,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -1251,7 +1229,7 @@
             "original_language": "en",
             "original_title": "Cool Hand Luke",
             "overview": "Luke Jackson n'est pas de ceux que l'on peut dompter facilement. Alors quand il se retrouve en prison, il ne compte pas se laisser dicter quoi que ce soit. Mais d'\u00e9vasions en captures, Luke va devoir lutter de toutes ses forces contre une \u00e9quipe p\u00e9nitenci\u00e8re qui compte bien le briser...",
-            "popularity": 2.4977,
+            "popularity": 2.8083,
             "poster_path": "/d8tc2CXSpFQYnugecVSIREdK8Uo.jpg",
             "release_date": "1967-11-01",
             "title": "Luke la main froide",
@@ -1262,8 +1240,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 126,
-            "tagline": "Ce que nous avons ici... c'est un manque de communication."
+            "tagline": "Ce que nous avons ici... c'est un manque de communication.",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -1272,7 +1250,7 @@
             "original_language": "en",
             "original_title": "The Fortune Cookie",
             "overview": "Harry Hinkle est un homme chanceux\u00a0! Alors qu'il est accidentellement renvers\u00e9 par un demi de m\u00eal\u00e9e de 100 kilos, Harry ne souffre que de l\u00e9g\u00e8res contusions. Jusqu'\u00e0 ce que Whiplash Willie, un avocat v\u00e9reux et beau-fr\u00e8re de Harry, entre dans la danse. Si Harry suit les recommandations de Willie (feindre une blessure handicapante), les deux hommes pourront se partager un million de dollars vers\u00e9 par les assurances. Est-ce que le sens de l'arnaque de Willie pourra avoir raison du message de mauvais augure trouv\u00e9 par Harry dans un cookie : \u00ab\u00a0Tu ne peux abuser les gens tout le temps\u00a0\u00bb\u00a0?",
-            "popularity": 4.8616,
+            "popularity": 5.9202,
             "poster_path": "/xAKJgv1hj6Sc8Y4RJp1gh8PgC5p.jpg",
             "release_date": "1966-10-19",
             "title": "La Grande Combine",
@@ -1284,8 +1262,52 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 125,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
+            "id": 42731,
+            "original_language": "en",
+            "original_title": "A Thousand Clowns",
+            "overview": "Un iconoclaste d'\u00e2ge moyen, \u00e9vitant obstin\u00e9ment l'ennui du travail et de la vie conventionnelle, fait face \u00e0 la perspective de perdre la garde de son jeune pupille.",
+            "popularity": 0.4129,
+            "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
+            "release_date": "1965-12-13",
+            "title": "Des Clowns par Milliers",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 29,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kmstDi95LwdRAJwT6iwTTnB6igb.jpg",
+            "id": 5052,
+            "original_language": "en",
+            "original_title": "Topkapi",
+            "overview": "Elizabeth Lipp, grande amatrice de pierres pr\u00e9cieuses, convainc son amant, Walter Harper pour organiser le vol de la dague du sultan incrust\u00e9e de diamants et d'\u00e9meraudes conserv\u00e9e au Palais de Topkapi \u00e0 Istanbul, en Turquie. Lipp et Harper recrutent un acrobate, Giulio. L'\u00e9quipe a aussi besoin d'un expert en \u00e9lectronique et gadgets associ\u00e9s qu'ils d\u00e9nichent en Angleterre avec M. Cedric Page. Tout ce petit monde se rend \u00e0 Kavala, dans le nord de la Gr\u00e8ce, en qu\u00eate d'un pigeon qui devra passer la fronti\u00e8re turque avec le mat\u00e9riel n\u00e9cessaire au cambriolage et qu'il devrait pouvoir trouver en la personne de M. Arthur Simon Simpson\u2026",
+            "popularity": 1.0934,
+            "poster_path": "/1brEw4A3CEYziRJ04kOhe68FgI3.jpg",
+            "release_date": "1964-09-02",
+            "title": "Topkapi",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 200,
+            "genres": [
+                "Com\u00e9die",
+                "Crime",
+                "Aventure"
+            ],
+            "tagline": "Une seule chose les unit : le vol !",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -1294,7 +1316,7 @@
             "original_language": "en",
             "original_title": "Hud",
             "overview": "Hud est un jeune homme sans complexe et sans principes, que son p\u00e8re Homer ne tient pas en haute estime. Dans leur foyer, se trouve aussi le neveu et petit-fils, Lon, qui admire son oncle. La seule femme de la maisonn\u00e9e est Alma, la gouvernante. Arrive une catastrophe : le b\u00e9tail semble \u00eatre contamin\u00e9 par une maladie contagieuse ; comment vont r\u00e9agir les uns et les autres ?",
-            "popularity": 1.4424,
+            "popularity": 1.7217,
             "poster_path": "/83gxkZWWihWyy8jUysxahISndTC.jpg",
             "release_date": "1963-05-28",
             "title": "Le Plus Sauvage d'entre tous",
@@ -1305,8 +1327,8 @@
                 "Drame",
                 "Western"
             ],
-            "runtime": 110,
-            "tagline": "L'homme \u00e0 l'\u00e2me barbel\u00e9e."
+            "tagline": "L'homme \u00e0 l'\u00e2me barbel\u00e9e.",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -1315,7 +1337,7 @@
             "original_language": "en",
             "original_title": "Sweet Bird of Youth",
             "overview": "Un gigolo, jeune encore, accompagn\u00e9 ou accompagnant une star d\u00e9chue, retourne dans sa ville natale. Chance Wayne veut retrouver celle qu'il aime, fille d'un politicien puissant et cynique qui a tout entrepris pour contrecarrer leur projet.",
-            "popularity": 0.61,
+            "popularity": 0.7016,
             "poster_path": "/ukmIgHfL3Nk2YwqfLSSuicPLAdN.jpg",
             "release_date": "1962-03-21",
             "title": "Doux oiseau de jeunesse",
@@ -1326,8 +1348,30 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 120,
-            "tagline": "Il utilisait l\u2019amour comme la plupart des hommes utilisent l\u2019argent."
+            "tagline": "Il utilisait l\u2019amour comme la plupart des hommes utilisent l\u2019argent.",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+            "id": 1725,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "\u00c0 New York, dans les ann\u00e9es 1950, deux gangs de rue rivaux, les Jets (Am\u00e9ricains d'origine polonaise, irlandaise et italienne) et les Sharks (immigr\u00e9s d'origine portoricaine), font la loi dans le quartier du West Side. Ils se provoquent sans cesse, et s'affrontent \u00e0 l'occasion. Tony, ancien chef des Jets qui a maintenant pris ses distances avec le gang, et Maria, la s\u0153ur du chef des Sharks, tombent amoureux, mais le couple doit subir les forces oppos\u00e9es de leurs clans respectifs.",
+            "popularity": 2.9231,
+            "poster_path": "/oJ32zGnSUs9XOP3GdELMCraJwyF.jpg",
+            "release_date": "1961-12-13",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1989,
+            "genres": [
+                "Crime",
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "\u00ab Rom\u00e9o et Juliette \u00bb dans le New York des ann\u00e9es 1950.",
+            "runtime": 151
         },
         {
             "adult": false,
@@ -1336,7 +1380,7 @@
             "original_language": "en",
             "original_title": "Spartacus",
             "overview": "Italie, 73 av. J.C. Esclave devenu gladiateur, Spartacus est \u00e9pargn\u00e9 par un de ses compagnons d'infortune dans un combat \u00e0 mort. Ce r\u00e9pit soul\u00e8ve en lui plus que jamais le souffle de la r\u00e9volte, et apr\u00e8s avoir bris\u00e9 ses cha\u00eenes, il enjoint les autres esclaves \u00e0 faire de m\u00eame. Rapidement \u00e0 la t\u00eate d'une colossale arm\u00e9e, Spartacus entend rejoindre le port de Brides au sud du pays pour prendre la mer \u00e0 bord des navires ciliciens. Mais l'Empire romain ne l'entend pas de cette oreille et lance ses l\u00e9gions \u00e0 la poursuite des esclaves r\u00e9volt\u00e9s\u2026",
-            "popularity": 6.7508,
+            "popularity": 6.3472,
             "poster_path": "/7jIkNQenhZdiGRcwMk8w9KhwFi6.jpg",
             "release_date": "1960-10-13",
             "title": "Spartacus",
@@ -1349,52 +1393,8 @@
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 181,
-            "tagline": "Ils l'ont entra\u00een\u00e9 \u00e0 tuer pour leur plaisir\u2026 mais ils l'ont un peu trop bien entra\u00een\u00e9"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
-            "id": 1725,
-            "original_language": "en",
-            "original_title": "West Side Story",
-            "overview": "\u00c0 New York, dans les ann\u00e9es 1950, deux gangs de rue rivaux, les Jets (Am\u00e9ricains d'origine polonaise, irlandaise et italienne) et les Sharks (immigr\u00e9s d'origine portoricaine), font la loi dans le quartier du West Side. Ils se provoquent sans cesse, et s'affrontent \u00e0 l'occasion. Tony, ancien chef des Jets qui a maintenant pris ses distances avec le gang, et Maria, la s\u0153ur du chef des Sharks, tombent amoureux, mais le couple doit subir les forces oppos\u00e9es de leurs clans respectifs.",
-            "popularity": 2.6623,
-            "poster_path": "/oJ32zGnSUs9XOP3GdELMCraJwyF.jpg",
-            "release_date": "1961-12-13",
-            "title": "West Side Story",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 1989,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 151,
-            "tagline": "\u00ab Rom\u00e9o et Juliette \u00bb dans le New York des ann\u00e9es 1950."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kmstDi95LwdRAJwT6iwTTnB6igb.jpg",
-            "id": 5052,
-            "original_language": "en",
-            "original_title": "Topkapi",
-            "overview": "Elizabeth Lipp, grande amatrice de pierres pr\u00e9cieuses, convainc son amant, Walter Harper pour organiser le vol de la dague du sultan incrust\u00e9e de diamants et d'\u00e9meraudes conserv\u00e9e au Palais de Topkapi \u00e0 Istanbul, en Turquie. Lipp et Harper recrutent un acrobate, Giulio. L'\u00e9quipe a aussi besoin d'un expert en \u00e9lectronique et gadgets associ\u00e9s qu'ils d\u00e9nichent en Angleterre avec M. Cedric Page. Tout ce petit monde se rend \u00e0 Kavala, dans le nord de la Gr\u00e8ce, en qu\u00eate d'un pigeon qui devra passer la fronti\u00e8re turque avec le mat\u00e9riel n\u00e9cessaire au cambriolage et qu'il devrait pouvoir trouver en la personne de M. Arthur Simon Simpson\u2026",
-            "popularity": 1.3549,
-            "poster_path": "/1brEw4A3CEYziRJ04kOhe68FgI3.jpg",
-            "release_date": "1964-09-02",
-            "title": "Topkapi",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 200,
-            "genres": [
-                "Com\u00e9die",
-                "Crime",
-                "Aventure"
-            ],
-            "runtime": 119,
-            "tagline": "Une seule chose les unit : le vol !"
+            "tagline": "Ils l'ont entra\u00een\u00e9 \u00e0 tuer pour leur plaisir\u2026 mais ils l'ont un peu trop bien entra\u00een\u00e9",
+            "runtime": 181
         },
         {
             "adult": false,
@@ -1403,41 +1403,20 @@
             "original_language": "en",
             "original_title": "Ben-Hur",
             "overview": "Judas Ben\u2010Hur, prince de Jud\u00e9e, retrouve son ami d\u2019enfance Messala, venu prendre la t\u00eate de la garnison de J\u00e9rusalem. Mais leur amiti\u00e9 ne peut r\u00e9sister \u00e0 leurs caract\u00e8res diff\u00e9rents. Alors qu\u2019une pierre tombe du balcon de la maison familiale de Ben\u2010Hur, manquant de tuer le gouverneur qui paradait plus bas, Messala trahit son ami qu\u2019il sait innocent en l\u2019envoyant aux gal\u00e8res et en jetant en prison sa m\u00e8re et sa s\u0153ur. Ben\u2010Hur jure alors de reconqu\u00e9rir sa libert\u00e9 et pr\u00e9pare sa vengeance.",
-            "popularity": 8.8508,
+            "popularity": 8.561,
             "poster_path": "/4KH7VM5YyGwxe4kLSNxix2PNTn6.jpg",
             "release_date": "1959-11-18",
             "title": "Ben-Hur",
             "video": false,
-            "vote_average": 7.887,
+            "vote_average": 7.9,
             "vote_count": 3006,
             "genres": [
                 "Histoire",
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 212,
-            "tagline": "Le plus grand film de toute l\u2019histoire du cin\u00e9ma."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/eYHkb8xNizPXXGXAFfg4Gvm974b.jpg",
-            "id": 40885,
-            "original_language": "en",
-            "original_title": "Sayonara",
-            "overview": "Au cours de la Deuxi\u00e8me Guerre mondiale, une garnison de l'arm\u00e9e am\u00e9ricaine est stationn\u00e9e au Japon. Des soldats tombent amoureux de belles autochtones, bien que le code militaire interdise toutes relations avec l'ennemi.",
-            "popularity": 2.1748,
-            "poster_path": "/8MyL0DyWYX5PdQGCr3QvxWKd4w0.jpg",
-            "release_date": "1957-12-25",
-            "title": "Sayonara",
-            "video": false,
-            "vote_average": 6.68,
-            "vote_count": 139,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 147,
-            "tagline": ""
+            "tagline": "Le plus grand film de toute l\u2019histoire du cin\u00e9ma.",
+            "runtime": 212
         },
         {
             "adult": false,
@@ -1446,7 +1425,7 @@
             "original_language": "en",
             "original_title": "The Big Country",
             "overview": "L'histoire d'un capitaine de navire qui s'aventure dans l'Ouest et qui ne trouve sur son chemin que trahison et jalousie. Alors que ce h\u00e9ros peu enthousiaste se retrouve emport\u00e9 au sein d'une rivalit\u00e9 dangereuse, il devra se r\u00e9soudre \u00e0 sauver sa propre vie mais aussi celle de la femme qu'il aime\u2026",
-            "popularity": 1.9432,
+            "popularity": 2.6934,
             "poster_path": "/sFAOAziR8shTooGxOkk44Bp5uqt.jpg",
             "release_date": "1958-09-30",
             "title": "Les Grands Espaces",
@@ -1458,8 +1437,29 @@
                 "Western",
                 "Romance"
             ],
-            "runtime": 166,
-            "tagline": "Grandement ils se sont battus\u00a0! Grandement ils ont ador\u00e9\u00a0! Grande est leur histoire\u00a0!"
+            "tagline": "Grandement ils se sont battus\u00a0! Grandement ils ont ador\u00e9\u00a0! Grande est leur histoire\u00a0!",
+            "runtime": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eYHkb8xNizPXXGXAFfg4Gvm974b.jpg",
+            "id": 40885,
+            "original_language": "en",
+            "original_title": "Sayonara",
+            "overview": "Au cours de la Deuxi\u00e8me Guerre mondiale, une garnison de l'arm\u00e9e am\u00e9ricaine est stationn\u00e9e au Japon. Des soldats tombent amoureux de belles autochtones, bien que le code militaire interdise toutes relations avec l'ennemi.",
+            "popularity": 1.846,
+            "poster_path": "/8MyL0DyWYX5PdQGCr3QvxWKd4w0.jpg",
+            "release_date": "1957-12-25",
+            "title": "Sayonara",
+            "video": false,
+            "vote_average": 6.68,
+            "vote_count": 139,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 147
         },
         {
             "adult": false,
@@ -1468,7 +1468,7 @@
             "original_language": "en",
             "original_title": "Lust for Life",
             "overview": "1878. Fils d'un pasteur hollandais, Vincent Van Gogh s'engage dans une congr\u00e9gation religieuse pour aider les plus d\u00e9munis. Envoy\u00e9 dans le Borinage, une des r\u00e9gions les plus mis\u00e9rables de Belgique, il d\u00e9couvre la d\u00e9tresse des mineurs. Ceux-ci ne pr\u00eatent gu\u00e8re attention \u00e0 ses paroles de r\u00e9confort car, de toute \u00e9vidence, il ne conna\u00eet rien \u00e0 leur vie. Il se met en t\u00eate de travailler avec eux et de partager leur mis\u00e8re, mais sa sant\u00e9 fragile ne r\u00e9siste pas aux \u00e9preuves quotidiennes et il doit bient\u00f4t rentrer en Hollande. L\u00e0, il d\u00e9cide de se consacrer \u00e0 ses deux passions encore secr\u00e8tes, le dessin et la peinture. Son art, qui scandalise son entourage, l'isole chaque jour un peu plus. Il s'\u00e9prend d'une jeune veuve, qui le repousse. Son deuxi\u00e8me amour sera un peu plus heureux...",
-            "popularity": 0.9826,
+            "popularity": 1.1325,
             "poster_path": "/mgTzk9VDEnYapejmXkCv5fI5NAa.jpg",
             "release_date": "1956-09-15",
             "title": "La Vie passionn\u00e9e de Vincent Van Gogh",
@@ -1479,8 +1479,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 122,
-            "tagline": "Il avait envie de vivre. Tant\u00f4t brutal, tant\u00f4t d\u00e9licat, il a toujours v\u00e9cu avec une passion insatiable !"
+            "tagline": "Il avait envie de vivre. Tant\u00f4t brutal, tant\u00f4t d\u00e9licat, il a toujours v\u00e9cu avec une passion insatiable !",
+            "runtime": 122
         },
         {
             "adult": false,
@@ -1489,7 +1489,7 @@
             "original_language": "en",
             "original_title": "Mister Roberts",
             "overview": "Le lieutenant Roberts est \u00e0 bord d'un navire de guerre am\u00e9ricain naviguant au large du Pacifique, pendant la Seconde Guerre Mondiale. Il ferait tout pour monter au feu et voir un peu d'action. Roberts et l'\u00e9quipage sont cependant en conflit permanent.",
-            "popularity": 2.716,
+            "popularity": 2.3016,
             "poster_path": "/5B8Gc1N2S3CDWHBzm0VxaMPTyzJ.jpg",
             "release_date": "1955-07-10",
             "title": "Permission jusqu'\u00e0 l'aube",
@@ -1501,8 +1501,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 123,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 123
         },
         {
             "adult": false,
@@ -1511,7 +1511,7 @@
             "original_language": "en",
             "original_title": "The Barefoot Contessa",
             "overview": "\u00c0 l'enterrement de Maria Vargas, sous la pluie, Harry Dawes se souvient...Engag\u00e9 par le producteur Kirk Edwards pour r\u00e9aliser un film, ils d\u00e9couvrent leur vedette un soir dans un cabaret de Madrid: Maria Vargas. La danseuse devient alors Maria Vargas, une star hollywoodienne adul\u00e9e. Mais celle-ci se sent terriblement seule et r\u00eave de rencontrer son prince charmant. Elle finit par le trouver sous les traits du conte Vincenzo Torlano-Favrini, un s\u00e9duisant milliardaire. Ils se marient, mais Vincenzo cache un terrible secret...",
-            "popularity": 1.1387,
+            "popularity": 1.125,
             "poster_path": "/plT4xK9FF0mtM6fXY0ldO5TsRL5.jpg",
             "release_date": "1954-09-29",
             "title": "La Comtesse aux pieds nus",
@@ -1521,8 +1521,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 128,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -1531,7 +1531,7 @@
             "original_language": "en",
             "original_title": "From Here to Eternity",
             "overview": "En 1941, l'ancien boxeur Robert Prewitt est affect\u00e9 \u00e0 une caserne bas\u00e9e \u00e0 Honolulu o\u00f9 il est sollicit\u00e9 par le capitaine Holmes pour remonter sur le ring afin de d\u00e9fendre l'honneur de la garnison. Mais Prewitt refuse, hant\u00e9 d'avoir rendu aveugle un homme lors de son ultime combat. Il subit alors d'incessantes humiliations destin\u00e9es \u00e0 le forcer \u00e0 accepter le d\u00e9fi. Dans le m\u00eame temps, le sergent Warden s'\u00e9prend de Karen Holmes, la fille de son sup\u00e9rieur.",
-            "popularity": 1.6418,
+            "popularity": 1.7352,
             "poster_path": "/4isaTDz6W49UTdhorUFxi8ZVLSy.jpg",
             "release_date": "1953-08-28",
             "title": "Tant qu'il y aura des hommes",
@@ -1543,29 +1543,8 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 118,
-            "tagline": "Des passions... explosant sur grand \u00e9cran !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
-            "id": 702,
-            "original_language": "en",
-            "original_title": "A Streetcar Named Desire",
-            "overview": "Apr\u00e8s une longue s\u00e9paration, Blanche Dubois vient rejoindre sa soeur, Stella, qui vit avec son mari Stanley, ouvrier immigr\u00e9, dans le vieux quartier fran\u00e7ais de La Nouvelle-Orl\u00e9ans. Stanley n'appr\u00e9cie gu\u00e8re les mani\u00e8res distingu\u00e9es de Blanche et cherche \u00e0 savoir quel a \u00e9t\u00e9 son pass\u00e9.",
-            "popularity": 2.5741,
-            "poster_path": "/kf4GEaqCGFCvO1ASAwCcUMAUhNy.jpg",
-            "release_date": "1951-09-18",
-            "title": "Un tramway nomm\u00e9 D\u00e9sir",
-            "video": false,
-            "vote_average": 7.6,
-            "vote_count": 1438,
-            "genres": [
-                "Drame",
-                "Thriller"
-            ],
-            "runtime": 122,
-            "tagline": "...Blanche, qui voulait tellement rester une lady..."
+            "tagline": "Des passions... explosant sur grand \u00e9cran !",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -1574,7 +1553,7 @@
             "original_language": "en",
             "original_title": "Viva Zapata!",
             "overview": "1909. Porfirio D\u00edaz est \u00e0 la t\u00eate du Mexique depuis 34 ans. Un groupe de paysans du Morelos est spoli\u00e9 de ses terres par des propri\u00e9taires terriens, exploitants de canne \u00e0 sucre. Devant la condescendance du dictateur et son refus d'intervenir, Emiliano Zapata, aid\u00e9 de son ami Pancho Villa (Alan Reed) et de son fr\u00e8re Eufemio (Anthony Quinn), d\u00e9cide de prendre la t\u00eate de la r\u00e9volte et de faire triompher le bon droit des paysans.",
-            "popularity": 3.5867,
+            "popularity": 3.0316,
             "poster_path": "/4wkaYLAz21SBn3ANPBtoR8BiiM1.jpg",
             "release_date": "1952-02-07",
             "title": "Viva Zapata !",
@@ -1586,8 +1565,29 @@
                 "Drame",
                 "Western"
             ],
-            "runtime": 113,
-            "tagline": "L'histoire d'un bandit qui est devenu une l\u00e9gende !"
+            "tagline": "L'histoire d'un bandit qui est devenu une l\u00e9gende !",
+            "runtime": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+            "id": 702,
+            "original_language": "en",
+            "original_title": "A Streetcar Named Desire",
+            "overview": "Apr\u00e8s une longue s\u00e9paration, Blanche Dubois vient rejoindre sa soeur, Stella, qui vit avec son mari Stanley, ouvrier immigr\u00e9, dans le vieux quartier fran\u00e7ais de La Nouvelle-Orl\u00e9ans. Stanley n'appr\u00e9cie gu\u00e8re les mani\u00e8res distingu\u00e9es de Blanche et cherche \u00e0 savoir quel a \u00e9t\u00e9 son pass\u00e9.",
+            "popularity": 2.2141,
+            "poster_path": "/kf4GEaqCGFCvO1ASAwCcUMAUhNy.jpg",
+            "release_date": "1951-09-18",
+            "title": "Un tramway nomm\u00e9 D\u00e9sir",
+            "video": false,
+            "vote_average": 7.618,
+            "vote_count": 1439,
+            "genres": [
+                "Drame",
+                "Thriller"
+            ],
+            "tagline": "...Blanche, qui voulait tellement rester une lady...",
+            "runtime": 122
         },
         {
             "adult": false,
@@ -1596,7 +1596,7 @@
             "original_language": "en",
             "original_title": "All About Eve",
             "overview": "\u00c8ve Harrington re\u00e7oit, des mains d'un vieil acteur, le prix Sarah Siddons. L'entourage de celle-ci se souvient de son ascension.",
-            "popularity": 2.3656,
+            "popularity": 2.2693,
             "poster_path": "/nOtpigzE1n02tCF1NP2yKyspkbs.jpg",
             "release_date": "1950-11-09",
             "title": "\u00c8ve",
@@ -1606,8 +1606,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 138,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 138
         },
         {
             "adult": false,
@@ -1616,7 +1616,7 @@
             "original_language": "en",
             "original_title": "Twelve O'Clock High",
             "overview": "En 1949, le procureur am\u00e9ricain Harvey Stovall remarque dans la vitrine d'un magasin \u00e0 Londres un pichet ouvrag\u00e9. Il l'ach\u00e8te car cet objet lui rappelle des souvenirs. Il se rend sur la base a\u00e9rienne abandonn\u00e9e (fictive) d'Archbury o\u00f9 il a servi pendant la Seconde Guerre mondiale. Le film fait alors un flashback en 1942. Le colonel Keith Davenport \u00e9tait le commandant du 918e Groupe de bombardement \u00e9quip\u00e9 de Boeing B-17. Envoy\u00e9 au combat peu de temps apr\u00e8s son arriv\u00e9e, le 918e a subi de lourdes pertes, gagnant la r\u00e9putation d'\u00eatre un groupe \u00ab porte-poisse \u00bb et, le moral est au plus bas. La cause principale de ces pertes est la strat\u00e9gie am\u00e9ricaine de bombardement de pr\u00e9cision de jour pour d\u00e9truire des cibles sp\u00e9cifiques, plut\u00f4t que de proc\u00e9der \u00e0 des bombardements en \u00ab tapis de bombes \u00bb. Les B-17 volent \u00e0 10 000 m\u00e8tres en s'appuyant sur la pr\u00e9cision de leur viseur de bombardement Norden.",
-            "popularity": 3.6036,
+            "popularity": 4.0756,
             "poster_path": "/twYYaGlOInRkz5r7MuntOK2bfK2.jpg",
             "release_date": "1949-12-21",
             "title": "Un homme de fer",
@@ -1628,30 +1628,8 @@
                 "Action",
                 "Drame"
             ],
-            "runtime": 127,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/hHYoUYgto562dcQRjVuuVlosBKz.jpg",
-            "id": 11881,
-            "original_language": "en",
-            "original_title": "Miracle on 34th Street",
-            "overview": "Engag\u00e9 comme p\u00e8re No\u00ebl dans un grand magasin new-yorkais, un charmant vieux monsieur pr\u00e9tend \u00eatre le v\u00e9ritable Santa Claus.",
-            "popularity": 3.2744,
-            "poster_path": "/4gLbqSH4zxTAhqYdtyxBrqPJQJb.jpg",
-            "release_date": "1947-06-04",
-            "title": "Miracle sur la 34\u00e8me rue",
-            "video": false,
-            "vote_average": 7.369,
-            "vote_count": 815,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Familial"
-            ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 127
         },
         {
             "adult": false,
@@ -1660,7 +1638,7 @@
             "original_language": "en",
             "original_title": "The Treasure of the Sierra Madre",
             "overview": "Dobbs et Curtis travaillent sur un chantier dont le chef part avec le salaire des ouvriers. Ils partent \u00e0 sa recherche et r\u00e9cup\u00e8rent leur argent. Puis ils s'associent avec le vieil Howard pour exploiter un filon d'or dans la Sierra Madre.",
-            "popularity": 2.4088,
+            "popularity": 2.3238,
             "poster_path": "/mn4btqwxCcaegoW6pqag2s0YkZj.jpg",
             "release_date": "1948-01-15",
             "title": "Le Tr\u00e9sor de la Sierra Madre",
@@ -1672,8 +1650,30 @@
                 "Drame",
                 "Western"
             ],
-            "runtime": 126,
-            "tagline": "Plus ils se rapprochent de leur tr\u00e9sor, plus ils s'\u00e9loignent de la loi."
+            "tagline": "Plus ils se rapprochent de leur tr\u00e9sor, plus ils s'\u00e9loignent de la loi.",
+            "runtime": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hHYoUYgto562dcQRjVuuVlosBKz.jpg",
+            "id": 11881,
+            "original_language": "en",
+            "original_title": "Miracle on 34th Street",
+            "overview": "Engag\u00e9 comme p\u00e8re No\u00ebl dans un grand magasin new-yorkais, un charmant vieux monsieur pr\u00e9tend \u00eatre le v\u00e9ritable Santa Claus.",
+            "popularity": 3.3021,
+            "poster_path": "/4gLbqSH4zxTAhqYdtyxBrqPJQJb.jpg",
+            "release_date": "1947-06-04",
+            "title": "Miracle sur la 34\u00e8me rue",
+            "video": false,
+            "vote_average": 7.369,
+            "vote_count": 815,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Familial"
+            ],
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -1682,7 +1682,7 @@
             "original_language": "en",
             "original_title": "The Best Years of Our Lives",
             "overview": "En 1945, trois soldats d\u00e9mobilis\u00e9s, le sergent d'infanterie Al Stephenson, le capitaine d'aviation Fred Derry et le marin Homer Parrish, font connaissance dans l'avion qui les ram\u00e8ne \u00e0 Boone City, leur ville natale. Leurs sentiments sont partag\u00e9s entre l'impatience et l'appr\u00e9hension. Ils ne tardent pas \u00e0 reprendre contact avec la r\u00e9alit\u00e9 quotidienne...",
-            "popularity": 1.4894,
+            "popularity": 1.4493,
             "poster_path": "/6lIxkUOA76EklnH2kCvi6j8zQQK.jpg",
             "release_date": "1946-12-25",
             "title": "Les Plus Belles Ann\u00e9es de notre vie",
@@ -1693,8 +1693,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 172,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 172
         },
         {
             "adult": false,
@@ -1703,7 +1703,7 @@
             "original_language": "en",
             "original_title": "A Tree Grows in Brooklyn",
             "overview": "La famille Nolan vit pauvrement \u00e0 Brooklyn. Katie fait de nombreux travaux m\u00e9nagers. Ses deux enfants, Neeley et Francie, vendent de vieux chiffons \u00e0 la sortie de l'\u00e9cole pour aider un peu la famille. Johnny, le mari, travaille dans un restaurant lorsqu'il n'est pas ivre et sa soeur Sissy m\u00e8ne une vie trop agit\u00e9e au go\u00fbt de Katie. La vie est difficile et Francie est oblig\u00e9e de quitter l'\u00e9cole pour travailler dans un restaurant. Johnny dispara\u00eet un jour et meurt dans un h\u00f4pital alors que Katie attend un troisi\u00e8me enfant. Les beaux jours reviennent lorsque le policier Mac Shane demande la main de Katie.",
-            "popularity": 0.7517,
+            "popularity": 0.6517,
             "poster_path": "/oFmmEyjD3tnA8NbbasfeDFMaAjY.jpg",
             "release_date": "1945-02-28",
             "title": "Le Lys de Brooklyn",
@@ -1713,29 +1713,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 128,
-            "tagline": "Oscar du meilleur acteur dans un second r\u00f4le pour James Dunn"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
-            "id": 80616,
-            "original_language": "en",
-            "original_title": "The More the Merrier",
-            "overview": "La crise du logement qui s\u00e9vit aux \u00c9tats-Unis pendant la derni\u00e8re guerre oblige la jeune Connie \u00e0 louer un appartement \u00e0 un vieux monsieur, Benjamin Dingle. Celui-ci, de son c\u00f4t\u00e9, le sous-loue au jeune officier Carter...",
-            "popularity": 0.6053,
-            "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
-            "release_date": "1943-05-13",
-            "title": "Plus on est de fous",
-            "video": false,
-            "vote_average": 6.903,
-            "vote_count": 88,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "Oscar du meilleur acteur dans un second r\u00f4le pour James Dunn",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -1744,7 +1723,7 @@
             "original_language": "en",
             "original_title": "Going My Way",
             "overview": "Le p\u00e8re O'Malley, un jeune pr\u00eatre, est envoy\u00e9 dans une paroisse des quartiers pauvres de New York. Malgr\u00e9 quelques frictions initiales, il parviendra \u00e0 charmer le vieux pasteur auquel il doit succ\u00e9der, et il remettra dans le droit chemin de jeunes d\u00e9linquants, gr\u00e2ce au base-ball et au chant religieux.",
-            "popularity": 0.9753,
+            "popularity": 0.973,
             "poster_path": "/sQGNpTsmPFn4n6QFmyfdqiy8AMZ.jpg",
             "release_date": "1944-01-01",
             "title": "La Route sem\u00e9e d'\u00e9toiles",
@@ -1756,8 +1735,29 @@
                 "Com\u00e9die",
                 "Musique"
             ],
-            "runtime": 126,
-            "tagline": "Quand les St. Louis Browns ont perdu Bing, le Cardinal a trouv\u00e9 un bon chanteur !"
+            "tagline": "Quand les St. Louis Browns ont perdu Bing, le Cardinal a trouv\u00e9 un bon chanteur !",
+            "runtime": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
+            "id": 80616,
+            "original_language": "en",
+            "original_title": "The More the Merrier",
+            "overview": "La crise du logement qui s\u00e9vit aux \u00c9tats-Unis pendant la derni\u00e8re guerre oblige la jeune Connie \u00e0 louer un appartement \u00e0 un vieux monsieur, Benjamin Dingle. Celui-ci, de son c\u00f4t\u00e9, le sous-loue au jeune officier Carter...",
+            "popularity": 0.6827,
+            "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
+            "release_date": "1943-05-13",
+            "title": "Plus on est de fous",
+            "video": false,
+            "vote_average": 6.903,
+            "vote_count": 88,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -1766,7 +1766,7 @@
             "original_language": "en",
             "original_title": "Johnny Eager",
             "overview": "Johnny Eager est un gangster qui, une fois sorti de prison, semble mener une vie d'honn\u00eate homme. Il est devenu chauffeur de taxi et para\u00eet avoir rompu avec toutes ses anciennes relations de la p\u00e8gre. Cela n'est qu'une apparence, dissimul\u00e9 derri\u00e8re cette couverture, il a rapidement reconstitu\u00e9 un empire criminel et attend des autorisations pour ouvrir un champs de course de l\u00e9vriers. Il s'\u00e9prend de Lisbeth Bard, une des \u00e9tudiantes de son contr\u00f4leur judiciaire, M. Verne. Mais le p\u00e8re de Lisbeth est John Benson Farell, le procureur incorruptible, il n'aime pas Johnny et veut prot\u00e9ger sa fille.",
-            "popularity": 2.5046,
+            "popularity": 2.2072,
             "poster_path": "/eT56vNkYEHo1rv4xhtI3aJLKuUp.jpg",
             "release_date": "1941-12-09",
             "title": "Johnny, roi des gangsters",
@@ -1777,8 +1777,48 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+            "id": 43266,
+            "original_language": "en",
+            "original_title": "How Green Was My Valley",
+            "overview": "Dans une petite ville du Pays de Galles, un p\u00e8re et ses cinq fils travaillent \u00e0 la mine de charbon et la vie quotidienne s\u2019\u00e9coule paisiblement, rythm\u00e9e par des habitudes devenues de vrais rites. Mais les conditions de travail deviennent de plus en plus difficiles et les fils d\u00e9cident de faire gr\u00e8ve, contre l\u2019avis de leur p\u00e8re\u2026",
+            "popularity": 1.0659,
+            "poster_path": "/hRN6OAr02p7hxmqHWz8qpryDvdJ.jpg",
+            "release_date": "1941-10-28",
+            "title": "Qu'elle \u00e9tait verte ma vall\u00e9e",
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 438,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cp1QQPnRsPxzUbdAWURD1U0b0mv.jpg",
+            "id": 14710,
+            "original_language": "en",
+            "original_title": "The Westerner",
+            "overview": "Condamn\u00e9 \u00e0 mort par le juge Bean, un cow-boy est sauv\u00e9 parce qu'il feint conna\u00eetre Lily Langtry dont le juge est amoureux. Parvenu \u00e0 se faire nommer sh\u00e9rif d'une ville voisine, il affronte Bean.",
+            "popularity": 0.9167,
+            "poster_path": "/p2R45UXC6hpeNACH9CdLNnLw878.jpg",
+            "release_date": "1940-09-18",
+            "title": "Le Cavalier du d\u00e9sert",
+            "video": false,
+            "vote_average": 7.041,
+            "vote_count": 122,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -1787,7 +1827,7 @@
             "original_language": "en",
             "original_title": "Stagecoach",
             "overview": "La diligence est le lieu de rencontre de neuf personnes qui font route, en Arizona, sur une piste menac\u00e9e par les Indiens de Geronimo. Dallas, une prostitu\u00e9e, est chass\u00e9e de la ville, tout comme Josiah Boone, un vieux m\u00e9decin alcoolique. Mrs Mallory, enceinte, va rejoindre son mari, un officier, tandis que Hatfield, un joueur, d\u00e9cide de l'accompagner par galanterie. Gatewood, le banquier, s'enfuit avec l'or d\u00e9pos\u00e9 chez lui. Mr Peacok, qui place du whisky dans les saloons, regagne sa famille \u00e0 Kansas City. Curly Wilcox, le sh\u00e9rif, accompagne le conducteur Buck, sur cette route dangereuse. \u00c0 la sortie de la ville, ils prennent un autre passager, Ringo Kid, qui souhaite ex\u00e9cuter les trois fr\u00e8res Plummer, assassins de son p\u00e8re et de son fr\u00e8re. Toutes ces personnes font le difficile apprentissage de la cohabitation dans un espace clos. Le voyage se poursuit dans une atmosph\u00e8re de plus en plus tendue.",
-            "popularity": 2.3363,
+            "popularity": 2.1618,
             "poster_path": "/xohHfi6MijvL7EA5S745vlShZWz.jpg",
             "release_date": "1939-03-02",
             "title": "La Chevauch\u00e9e fantastique",
@@ -1798,48 +1838,8 @@
                 "Western",
                 "Aventure"
             ],
-            "runtime": 97,
-            "tagline": "2 femmes en voyage d\u00e9sesp\u00e9r\u00e9 avec 7 hommes \u00e9tranges."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
-            "id": 43266,
-            "original_language": "en",
-            "original_title": "How Green Was My Valley",
-            "overview": "Dans une petite ville du Pays de Galles, un p\u00e8re et ses cinq fils travaillent \u00e0 la mine de charbon et la vie quotidienne s\u2019\u00e9coule paisiblement, rythm\u00e9e par des habitudes devenues de vrais rites. Mais les conditions de travail deviennent de plus en plus difficiles et les fils d\u00e9cident de faire gr\u00e8ve, contre l\u2019avis de leur p\u00e8re\u2026",
-            "popularity": 1.1154,
-            "poster_path": "/hRN6OAr02p7hxmqHWz8qpryDvdJ.jpg",
-            "release_date": "1941-10-28",
-            "title": "Qu'elle \u00e9tait verte ma vall\u00e9e",
-            "video": false,
-            "vote_average": 7.305,
-            "vote_count": 438,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 118,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/cp1QQPnRsPxzUbdAWURD1U0b0mv.jpg",
-            "id": 14710,
-            "original_language": "en",
-            "original_title": "The Westerner",
-            "overview": "Condamn\u00e9 \u00e0 mort par le juge Bean, un cow-boy est sauv\u00e9 parce qu'il feint conna\u00eetre Lily Langtry dont le juge est amoureux. Parvenu \u00e0 se faire nommer sh\u00e9rif d'une ville voisine, il affronte Bean.",
-            "popularity": 0.7222,
-            "poster_path": "/p2R45UXC6hpeNACH9CdLNnLw878.jpg",
-            "release_date": "1940-09-18",
-            "title": "Le Cavalier du d\u00e9sert",
-            "video": false,
-            "vote_average": 7.041,
-            "vote_count": 122,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "2 femmes en voyage d\u00e9sesp\u00e9r\u00e9 avec 7 hommes \u00e9tranges.",
+            "runtime": 97
         },
         {
             "adult": false,
@@ -1848,7 +1848,7 @@
             "original_language": "en",
             "original_title": "The Lady's from Kentucky",
             "overview": "",
-            "popularity": 0.0646,
+            "popularity": 0.051,
             "poster_path": "/tbCYc2iGMn01qWidx14yL952vX9.jpg",
             "release_date": "1939-04-27",
             "title": "The Lady's from Kentucky",
@@ -1858,8 +1858,8 @@
             "genres": [
                 "Action"
             ],
-            "runtime": 67,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 67
         },
         {
             "adult": false,
@@ -1868,7 +1868,7 @@
             "original_language": "en",
             "original_title": "The Life of Emile Zola",
             "overview": "La vie et l\u2019\u0153uvre de l'\u00e9crivain et son combat contre l'antis\u00e9mitisme lors de l'affaire Dreyfus.",
-            "popularity": 0.685,
+            "popularity": 0.6573,
             "poster_path": "/gsEa6ZU1zHhjTYneNNBQApzl8Vu.jpg",
             "release_date": "1937-09-09",
             "title": "La Vie d'\u00c9mile Zola",
@@ -1879,8 +1879,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 116,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 116
         },
         {
             "adult": false,
@@ -1889,7 +1889,7 @@
             "original_language": "en",
             "original_title": "Come and Get It",
             "overview": "Apr\u00e8s une bonne saison, le patron d'une scierie d\u00e9cide de partir \u00e9pouser la femme qu'il aime. En chemin avec son ami, il tombe amoureux d'une autre femme.",
-            "popularity": 0.3826,
+            "popularity": 0.3617,
             "poster_path": "/1XrclgIlth8nt2Hh7gl3LpRyCfV.jpg",
             "release_date": "1936-11-06",
             "title": "Le vandale",
@@ -1900,8 +1900,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 99,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 99
         }
     ]
 }

@@ -4,72 +4,9 @@
     "source": "https://time.com/collection/100-best-movies/",
     "created_by": "lbnt",
     "added": "04/26/24",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
-            "id": 301,
-            "original_language": "en",
-            "original_title": "Rio Bravo",
-            "overview": "Apr\u00e8s un meurtre, le sh\u00e9riff John Grant arr\u00eate Joe Burdette et l'enferme dans une cellule en attendant l'arriv\u00e9e du pr\u00e9v\u00f4t des \u00c9tats-Unis. La prison est gard\u00e9e par ses deux adjoints, Dude, un alcoolique et Stumpy, un vieillard estropi\u00e9. Mais dehors, Nathan Burdette, son fr\u00e8re, et sa bande se r\u00e9unissent et attendent patiemment le moment favorable pour attaquer la prison et lib\u00e9rer Joe...",
-            "popularity": 4.1643,
-            "poster_path": "/pYOqsH9LEow7gAULZBmkWByHOIB.jpg",
-            "release_date": "1959-03-08",
-            "title": "Rio Bravo",
-            "video": false,
-            "vote_average": 7.805,
-            "vote_count": 1221,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 141,
-            "tagline": "Ils se sont battus dos \u00e0 dos... Pas de quartier donn\u00e9... Pas de quartier demand\u00e9... Pas d'entr\u00e9e... Pas de sortie... de Rio Bravo"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
-            "id": 5801,
-            "original_language": "bn",
-            "original_title": "\u09aa\u09a5\u09c7\u09b0 \u09aa\u09be\u0981\u099a\u09be\u09b2\u09c0",
-            "overview": "Dans un petit village du Bengale, vers 1910, Apu, un gar\u00e7on de 7 ans, vit pauvrement avec sa famille dans la maison ancestrale. Son p\u00e8re, se r\u00e9fugiant dans ses ambitions litt\u00e9raires, laisse sa famille s\u2019enfoncer dans la mis\u00e8re. Apu va alors d\u00e9couvrir le monde, avec ses deuils et ses f\u00eates, ses joies et ses drames.",
-            "popularity": 1.4089,
-            "poster_path": "/1ezyiT5U07omZd3mwkQ8bjFB6N7.jpg",
-            "release_date": "1955-08-26",
-            "title": "La Complainte du sentier",
-            "video": false,
-            "vote_average": 7.828,
-            "vote_count": 470,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 125,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
-            "id": 654,
-            "original_language": "en",
-            "original_title": "On the Waterfront",
-            "overview": "Un jeune docker, Terry Malloy, ancien boxeur, est manipul\u00e9 par son fr\u00e8re, avocat du syndicat des dockers dirig\u00e9 par le crapuleux Johnny Friendly. Il assiste sans intervenir au meurtre d'un employ\u00e9 qui voulait d\u00e9noncer les m\u00e9thodes ill\u00e9gales de ce dernier. Malloy se retrouve devant un cas de conscience\u2026",
-            "popularity": 2.6553,
-            "poster_path": "/opUWwg8V4CBohfUgRn63iv7s0Az.jpg",
-            "release_date": "1954-06-22",
-            "title": "Sur les quais",
-            "video": false,
-            "vote_average": 7.877,
-            "vote_count": 1705,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 106,
-            "tagline": "L\u2019homme vivait selon la loi de la jungle des docks\u00a0!"
-        },
         {
             "adult": false,
             "backdrop_path": "/bud4H3I6X9b9HIcilAb33k6mNES.jpg",
@@ -77,7 +14,7 @@
             "original_language": "en",
             "original_title": "The Band Wagon",
             "overview": "Dans le train qui l'emm\u00e8ne \u00e0 New York, Tony Hunter, star \u00e0 la d\u00e9rive de la com\u00e9die musicale, surprend une conversation entre deux voyageurs, qui l'estiment fini. Abattu, Tony retrouve cependant son optimisme lorsqu'il aper\u00e7oit, sur le quai de la gare, une foule de journalistes et de photographes. H\u00e9las, ceux-ci sont venus accueillir Ava Gardner, qui voyageait dans le m\u00eame train. Le moral de Tony est au plus bas. Il retrouve enfin ses amis, Lester et Lily Marton, qui lui racontent le sc\u00e9nario d'une prochaine com\u00e9die musicale, dont la mise en sc\u00e8ne sera sign\u00e9e par Cordova, la nouvelle coqueluche de Broadway. L'artiste monte des spectacles r\u00e9solument dramatiques et pompeux...",
-            "popularity": 1.2245,
+            "popularity": 1.148,
             "poster_path": "/vQbU9JCaQdttvQVdnoqTGLbDk88.jpg",
             "release_date": "1953-08-07",
             "title": "Tous en sc\u00e8ne !",
@@ -89,91 +26,30 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 112,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 112
         },
         {
             "adult": false,
-            "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
-            "id": 147,
-            "original_language": "fr",
-            "original_title": "Les Quatre Cents Coups",
-            "overview": "Antoine a une adolescence turbulente. Il ment \u00e0 ses parents indiff\u00e9rents \u00e0 son sort, vole, fugue. Son seul r\u00e9confort, il fait les quatre cents coups avec son ami Ren\u00e9. Un jour, la police s'en m\u00eale.",
-            "popularity": 4.2349,
-            "poster_path": "/nHZQrKd96pCytnuTCsFibhrRyIR.jpg",
-            "release_date": "1959-06-03",
-            "title": "Les Quatre Cents Coups",
-            "video": false,
-            "vote_average": 8.023,
-            "vote_count": 2261,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 100,
-            "tagline": "Des visages d'anges qui s'acharnent \u00e0 la violence."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5Ls2O8NnH8PR21Yqh0u7PU8GPtk.jpg",
-            "id": 19426,
-            "original_language": "it",
-            "original_title": "Le notti di Cabiria",
-            "overview": "\u00c0 Rome, Cabiria, une prostitu\u00e9e un peu simplette, \u00e9chappe \u00e0 la noyade apr\u00e8s avoir \u00e9t\u00e9 d\u00e9pouill\u00e9e par celui qu\u2019elle croyait \u00eatre son grand amour. Mais elle continue \u00e0 porter un regard \u00e9merveill\u00e9 sur la vie. Ainsi, apr\u00e8s avoir pass\u00e9 une nuit enchanteresse (bien qu\u2019elle l\u2019ait termin\u00e9e clo\u00eetr\u00e9e dans la salle de bain) chez le c\u00e9l\u00e8bre acteur Alberto Lazzari, elle fait la connaissance du gentil et timide Oscar. C\u2019est de nouveau le grand amour jusqu\u2019au soir o\u00f9 Oscar s\u2019enfuit avec toutes ses \u00e9conomies. Au petit matin, apr\u00e8s avoir voulu mourir, Cabiria reprend espoir au son de l\u2019aubade que de jeunes musiciens donnent au nouveau jour.",
-            "popularity": 1.5161,
-            "poster_path": "/26VJNsFVLZauRT6gIYz5B4hXLRD.jpg",
-            "release_date": "1957-10-03",
-            "title": "Les Nuits de Cabiria",
-            "video": false,
-            "vote_average": 7.987,
-            "vote_count": 831,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 110,
-            "tagline": "Prix d'interpr\u00e9tation f\u00e9minine \u00e0 Giulietta Masina au Festival de Cannes 1957, Oscar du meilleur film en langue \u00e9trang\u00e8re 1958"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
-            "id": 34148,
+            "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+            "id": 654,
             "original_language": "en",
-            "original_title": "Imitation of Life",
-            "overview": "\u00c0 New York, Lora Meredith, jeune m\u00e8re c\u00e9libataire d\u2019une fillette, Susie, veut se lancer dans la carri\u00e8re d\u2019actrice mais a du mal \u00e0 joindre les deux bouts. Elle fait la rencontre d\u2019Annie Johnson, une femme noire sans-abri, \u00e9galement seule dans la vie avec sa fille m\u00e9tisse, Sarah Jane. Les deux femmes sympathisent et Lora accueille les Johnson chez elle. Annie s'occupe de la maison pendant que Lora cherche du travail. Les ann\u00e9es passent et Lora devient une star accomplie, sacrifiant sa vie personnelle \u00e0 sa carri\u00e8re. Susie et Sarah Jane ont grandi ensemble, \u00e9lev\u00e9es par la fid\u00e8le Annie toujours pr\u00e9sente. Mais Sarah Jane, devenue adolescente, rejette sa m\u00e8re en raison de sa couleur de peau.",
-            "popularity": 1.025,
-            "poster_path": "/v8FO4COKOgefuej5QhFWpuGFUuH.jpg",
-            "release_date": "1959-04-09",
-            "title": "Mirage de la vie",
+            "original_title": "On the Waterfront",
+            "overview": "Un jeune docker, Terry Malloy, ancien boxeur, est manipul\u00e9 par son fr\u00e8re, avocat du syndicat des dockers dirig\u00e9 par le crapuleux Johnny Friendly. Il assiste sans intervenir au meurtre d'un employ\u00e9 qui voulait d\u00e9noncer les m\u00e9thodes ill\u00e9gales de ce dernier. Malloy se retrouve devant un cas de conscience\u2026",
+            "popularity": 2.4937,
+            "poster_path": "/opUWwg8V4CBohfUgRn63iv7s0Az.jpg",
+            "release_date": "1954-06-22",
+            "title": "Sur les quais",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 308,
+            "vote_average": 7.877,
+            "vote_count": 1705,
             "genres": [
+                "Crime",
                 "Drame",
                 "Romance"
             ],
-            "runtime": 125,
-            "tagline": "Deux nominations aux Oscar pour Juanita Moore et Susan Kohner pour meilleure actrice dans un second r\u00f4le."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
-            "id": 426,
-            "original_language": "en",
-            "original_title": "Vertigo",
-            "overview": "John Ferguson, surnomm\u00e9 \u00ab Scottie \u00bb, est pris de vertige tandis qu\u2019il poursuit un malfaiteur avec un coll\u00e8gue policier. L\u2019incident vaut la mort de ce dernier et la d\u00e9mission de Ferguson des services de police. Peu apr\u00e8s, une ancienne connaissance de Scottie le contacte afin de lui demander de suivre sa femme, Madeleine Elster, qui semble hant\u00e9e par l\u2019esprit d\u2019une morte, en l\u2019occurrence sa grand-m\u00e8re, qui se suicida apr\u00e8s avoir sombr\u00e9 dans la folie. Scottie s'\u00e9prend de la jeune femme et se trouve ballott\u00e9 par des \u00e9v\u00e9nements qu'il ne peut contr\u00f4ler.",
-            "popularity": 4.6082,
-            "poster_path": "/hkhbbSQdsV3U0HtuPugHfx2wOi9.jpg",
-            "release_date": "1958-05-09",
-            "title": "Sueurs froides",
-            "video": false,
-            "vote_average": 8.2,
-            "vote_count": 6156,
-            "genres": [
-                "Myst\u00e8re",
-                "Romance",
-                "Thriller"
-            ],
-            "runtime": 128,
-            "tagline": "Alfred Hitchcock vous engloutit dans un tourbillon de terreur et de tension\u00a0!"
+            "tagline": "L\u2019homme vivait selon la loi de la jungle des docks\u00a0!",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -182,7 +58,7 @@
             "original_language": "ja",
             "original_title": "\u4e03\u4eba\u306e\u4f8d",
             "overview": "Au XVIe si\u00e8cle, au Japon, des paysans d\u00e9cident d'embaucher des samoura\u00efs pour prot\u00e9ger leur village, et en trouvent sept. Ces hommes organisent la d\u00e9fense du village contre quarante brigands.",
-            "popularity": 8.9052,
+            "popularity": 8.2755,
             "poster_path": "/itaaGjeYL5ZzufV8BOxkTYQxx4K.jpg",
             "release_date": "1954-04-26",
             "title": "Les Sept Samoura\u00efs",
@@ -193,8 +69,132 @@
                 "Action",
                 "Drame"
             ],
-            "runtime": 207,
-            "tagline": "Ils sont devenus les sept h\u00e9ros d'un petit village."
+            "tagline": "Ils sont devenus les sept h\u00e9ros d'un petit village.",
+            "runtime": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+            "id": 5801,
+            "original_language": "bn",
+            "original_title": "\u09aa\u09a5\u09c7\u09b0 \u09aa\u09be\u0981\u099a\u09be\u09b2\u09c0",
+            "overview": "Dans un petit village du Bengale, vers 1910, Apu, un gar\u00e7on de 7 ans, vit pauvrement avec sa famille dans la maison ancestrale. Son p\u00e8re, se r\u00e9fugiant dans ses ambitions litt\u00e9raires, laisse sa famille s\u2019enfoncer dans la mis\u00e8re. Apu va alors d\u00e9couvrir le monde, avec ses deuils et ses f\u00eates, ses joies et ses drames.",
+            "popularity": 1.4067,
+            "poster_path": "/1ezyiT5U07omZd3mwkQ8bjFB6N7.jpg",
+            "release_date": "1955-08-26",
+            "title": "La Complainte du sentier",
+            "video": false,
+            "vote_average": 7.828,
+            "vote_count": 470,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Ls2O8NnH8PR21Yqh0u7PU8GPtk.jpg",
+            "id": 19426,
+            "original_language": "it",
+            "original_title": "Le notti di Cabiria",
+            "overview": "\u00c0 Rome, Cabiria, une prostitu\u00e9e un peu simplette, \u00e9chappe \u00e0 la noyade apr\u00e8s avoir \u00e9t\u00e9 d\u00e9pouill\u00e9e par celui qu\u2019elle croyait \u00eatre son grand amour. Mais elle continue \u00e0 porter un regard \u00e9merveill\u00e9 sur la vie. Ainsi, apr\u00e8s avoir pass\u00e9 une nuit enchanteresse (bien qu\u2019elle l\u2019ait termin\u00e9e clo\u00eetr\u00e9e dans la salle de bain) chez le c\u00e9l\u00e8bre acteur Alberto Lazzari, elle fait la connaissance du gentil et timide Oscar. C\u2019est de nouveau le grand amour jusqu\u2019au soir o\u00f9 Oscar s\u2019enfuit avec toutes ses \u00e9conomies. Au petit matin, apr\u00e8s avoir voulu mourir, Cabiria reprend espoir au son de l\u2019aubade que de jeunes musiciens donnent au nouveau jour.",
+            "popularity": 1.2848,
+            "poster_path": "/26VJNsFVLZauRT6gIYz5B4hXLRD.jpg",
+            "release_date": "1957-10-03",
+            "title": "Les Nuits de Cabiria",
+            "video": false,
+            "vote_average": 7.987,
+            "vote_count": 831,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Prix d'interpr\u00e9tation f\u00e9minine \u00e0 Giulietta Masina au Festival de Cannes 1957, Oscar du meilleur film en langue \u00e9trang\u00e8re 1958",
+            "runtime": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
+            "id": 426,
+            "original_language": "en",
+            "original_title": "Vertigo",
+            "overview": "John Ferguson, surnomm\u00e9 \u00ab Scottie \u00bb, est pris de vertige tandis qu\u2019il poursuit un malfaiteur avec un coll\u00e8gue policier. L\u2019incident vaut la mort de ce dernier et la d\u00e9mission de Ferguson des services de police. Peu apr\u00e8s, une ancienne connaissance de Scottie le contacte afin de lui demander de suivre sa femme, Madeleine Elster, qui semble hant\u00e9e par l\u2019esprit d\u2019une morte, en l\u2019occurrence sa grand-m\u00e8re, qui se suicida apr\u00e8s avoir sombr\u00e9 dans la folie. Scottie s'\u00e9prend de la jeune femme et se trouve ballott\u00e9 par des \u00e9v\u00e9nements qu'il ne peut contr\u00f4ler.",
+            "popularity": 4.539,
+            "poster_path": "/hkhbbSQdsV3U0HtuPugHfx2wOi9.jpg",
+            "release_date": "1958-05-09",
+            "title": "Sueurs froides",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 6157,
+            "genres": [
+                "Myst\u00e8re",
+                "Romance",
+                "Thriller"
+            ],
+            "tagline": "Alfred Hitchcock vous engloutit dans un tourbillon de terreur et de tension\u00a0!",
+            "runtime": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+            "id": 147,
+            "original_language": "fr",
+            "original_title": "Les Quatre Cents Coups",
+            "overview": "Antoine a une adolescence turbulente. Il ment \u00e0 ses parents indiff\u00e9rents \u00e0 son sort, vole, fugue. Son seul r\u00e9confort, il fait les quatre cents coups avec son ami Ren\u00e9. Un jour, la police s'en m\u00eale.",
+            "popularity": 2.9715,
+            "poster_path": "/nHZQrKd96pCytnuTCsFibhrRyIR.jpg",
+            "release_date": "1959-06-03",
+            "title": "Les Quatre Cents Coups",
+            "video": false,
+            "vote_average": 8.023,
+            "vote_count": 2262,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Des visages d'anges qui s'acharnent \u00e0 la violence.",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
+            "id": 34148,
+            "original_language": "en",
+            "original_title": "Imitation of Life",
+            "overview": "\u00c0 New York, Lora Meredith, jeune m\u00e8re c\u00e9libataire d\u2019une fillette, Susie, veut se lancer dans la carri\u00e8re d\u2019actrice mais a du mal \u00e0 joindre les deux bouts. Elle fait la rencontre d\u2019Annie Johnson, une femme noire sans-abri, \u00e9galement seule dans la vie avec sa fille m\u00e9tisse, Sarah Jane. Les deux femmes sympathisent et Lora accueille les Johnson chez elle. Annie s'occupe de la maison pendant que Lora cherche du travail. Les ann\u00e9es passent et Lora devient une star accomplie, sacrifiant sa vie personnelle \u00e0 sa carri\u00e8re. Susie et Sarah Jane ont grandi ensemble, \u00e9lev\u00e9es par la fid\u00e8le Annie toujours pr\u00e9sente. Mais Sarah Jane, devenue adolescente, rejette sa m\u00e8re en raison de sa couleur de peau.",
+            "popularity": 1.0275,
+            "poster_path": "/v8FO4COKOgefuej5QhFWpuGFUuH.jpg",
+            "release_date": "1959-04-09",
+            "title": "Mirage de la vie",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 308,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Deux nominations aux Oscar pour Juanita Moore et Susan Kohner pour meilleure actrice dans un second r\u00f4le.",
+            "runtime": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+            "id": 301,
+            "original_language": "en",
+            "original_title": "Rio Bravo",
+            "overview": "Apr\u00e8s un meurtre, le sh\u00e9riff John Grant arr\u00eate Joe Burdette et l'enferme dans une cellule en attendant l'arriv\u00e9e du pr\u00e9v\u00f4t des \u00c9tats-Unis. La prison est gard\u00e9e par ses deux adjoints, Dude, un alcoolique et Stumpy, un vieillard estropi\u00e9. Mais dehors, Nathan Burdette, son fr\u00e8re, et sa bande se r\u00e9unissent et attendent patiemment le moment favorable pour attaquer la prison et lib\u00e9rer Joe...",
+            "popularity": 3.8899,
+            "poster_path": "/pYOqsH9LEow7gAULZBmkWByHOIB.jpg",
+            "release_date": "1959-03-08",
+            "title": "Rio Bravo",
+            "video": false,
+            "vote_average": 7.805,
+            "vote_count": 1221,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "Ils se sont battus dos \u00e0 dos... Pas de quartier donn\u00e9... Pas de quartier demand\u00e9... Pas d'entr\u00e9e... Pas de sortie... de Rio Bravo",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -203,7 +203,7 @@
             "original_language": "en",
             "original_title": "Some Like It Hot",
             "overview": "Deux musiciens de jazz au ch\u00f4mage, m\u00eal\u00e9s involontairement \u00e0 un r\u00e8glement de comptes entre gangsters, se transforment en musiciennes pour leur \u00e9chapper. Ils partent en Floride avec un orchestre f\u00e9minin. Ils tombent illico amoureux d'une ravissante et blonde cr\u00e9ature, Alouette, qui veut \u00e9pouser un milliardaire\u2026",
-            "popularity": 4.5639,
+            "popularity": 4.6807,
             "poster_path": "/euufDAwaAcCOxD4l0c5nsS8YBca.jpg",
             "release_date": "1959-03-19",
             "title": "Certains l'aiment chaud",
@@ -215,8 +215,8 @@
                 "Romance",
                 "Crime"
             ],
-            "runtime": 121,
-            "tagline": "La com\u00e9die la plus dr\u00f4le, la plus grande et la plus sexy jamais faite !"
+            "tagline": "La com\u00e9die la plus dr\u00f4le, la plus grande et la plus sexy jamais faite !",
+            "runtime": 121
         }
     ]
 }

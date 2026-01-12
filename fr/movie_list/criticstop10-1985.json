@@ -4,51 +4,9 @@
     "source": "https://criticstop10.com/best-movies-of-1985/",
     "created_by": "lbnt",
     "added": "07/29/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/aON9Xpl2doO6ir7KRVfw2f6x2je.jpg",
-            "id": 11703,
-            "original_language": "en",
-            "original_title": "Kiss of the Spider Woman",
-            "overview": "Valentin, journaliste r\u00e9volutionnaire, a \u00e9t\u00e9 tortur\u00e9 et incarc\u00e9r\u00e9 pour ses convictions politiques dans une prison d'Am\u00e9rique latine. Molina, d\u00e9corateur homosexuel, est condamn\u00e9 pour une affaire de moeurs. Tout s\u00e9pare ces deux hommes qu'on enferme dans la m\u00eame cellule. Pour oublier la solitude de leurs nuits, Molina fait partager \u00e0 Valentin les r\u00eaves qu'il imagine d'apr\u00e8s les vieux films qui peuplent sa m\u00e9moire. Alors que l'animosit\u00e9 des deux d\u00e9tenus se transforme en amiti\u00e9, une toile de trahison se tisse autour d'eux, inexorablement, mettant \u00e0 l'\u00e9preuve leur confiance mutuelle et leur esprit de sacrifice\u2026",
-            "popularity": 1.249,
-            "poster_path": "/iZK2gXn8OJ9ndlQbyAsCYth71XU.jpg",
-            "release_date": "1985-07-26",
-            "title": "Le Baiser de la femme araign\u00e9e",
-            "video": false,
-            "vote_average": 7.015,
-            "vote_count": 325,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 120,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3wwMtp2F7CgmOl2EX9q1r2yjOEk.jpg",
-            "id": 10849,
-            "original_language": "en",
-            "original_title": "The Purple Rose of Cairo",
-            "overview": "Cecilia m\u00e8ne une existence morne et tourment\u00e9e. Le cin\u00e9ma est son seul refuge et sa seule \u00e9vasion. Lors d'une projection, Tom Baxter, le h\u00e9ros d'un m\u00e9lo la Rose pourpre du Caire sort de l'\u00e9cran et l'enl\u00e8ve.",
-            "popularity": 1.3307,
-            "poster_path": "/xMdHaSskIG9XhB89CzfwBWDXcxL.jpg",
-            "release_date": "1985-03-01",
-            "title": "La Rose pourpre du Caire",
-            "video": false,
-            "vote_average": 7.395,
-            "vote_count": 1110,
-            "genres": [
-                "Fantastique",
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 82,
-            "tagline": ""
-        },
         {
             "adult": false,
             "backdrop_path": "/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
@@ -56,7 +14,7 @@
             "original_language": "en",
             "original_title": "Prizzi's Honor",
             "overview": "Lorsque Charley, italien, et Ir\u00e8ne, polonaise, se rencontrent, c'est le coup de foudre. Ils s'aiment, ils se marient. L'histoire commence ici. Charley est l\u2019ex\u00e9cuteur d'une des plus c\u00e9l\u00e8bres familles de la mafia, les Prizzi, et la belle Ir\u00e8ne exerce en free-lance la m\u00eame dangereuse activit\u00e9.",
-            "popularity": 1.198,
+            "popularity": 1.0767,
             "poster_path": "/fKfBY7oS8FBJfOtC39LU7PS4gPY.jpg",
             "release_date": "1985-06-14",
             "title": "L'Honneur des Prizzi",
@@ -68,117 +26,30 @@
                 "Com\u00e9die",
                 "Crime"
             ],
-            "runtime": 124,
-            "tagline": "Tueurs \u00e0 gages le jour, amants la nuit, jusqu'\u00e0 leur prochain contrat\u2026"
+            "tagline": "Tueurs \u00e0 gages le jour, amants la nuit, jusqu'\u00e0 leur prochain contrat\u2026",
+            "runtime": 124
         },
         {
             "adult": false,
-            "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
-            "id": 111,
+            "backdrop_path": "/3wwMtp2F7CgmOl2EX9q1r2yjOEk.jpg",
+            "id": 10849,
             "original_language": "en",
-            "original_title": "Scarface",
-            "overview": "En 1980, le gouvernement cubain expulse plusieurs centaines de prisonniers dangereux vers la Floride. Parmi eux, Tony Montana : ambitieux et sans scrupules, il \u00e9labore un plan pour prendre la place d'un ca\u00efd de la drogue.",
-            "popularity": 14.6603,
-            "poster_path": "/eGctboDIdxBSxZIcF8iLc8gebd5.jpg",
-            "release_date": "1983-12-09",
-            "title": "Scarface",
+            "original_title": "The Purple Rose of Cairo",
+            "overview": "Cecilia m\u00e8ne une existence morne et tourment\u00e9e. Le cin\u00e9ma est son seul refuge et sa seule \u00e9vasion. Lors d'une projection, Tom Baxter, le h\u00e9ros d'un m\u00e9lo la Rose pourpre du Caire sort de l'\u00e9cran et l'enl\u00e8ve.",
+            "popularity": 2.8108,
+            "poster_path": "/xMdHaSskIG9XhB89CzfwBWDXcxL.jpg",
+            "release_date": "1985-03-01",
+            "title": "La Rose pourpre du Caire",
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 12650,
+            "vote_average": 7.395,
+            "vote_count": 1110,
             "genres": [
-                "Action",
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 165,
-            "tagline": "Il voulait vivre le r\u00eave am\u00e9ricain. Jusqu'au bout."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
-            "id": 11368,
-            "original_language": "en",
-            "original_title": "Blood Simple",
-            "overview": "Visser, un d\u00e9tective priv\u00e9 que les scrupules n'\u00e9touffent pas, est charg\u00e9 de surveiller la jeune et jolie Abby pour le compte de son mari, Julian Marty, un patron de bar malchanceux. Tr\u00e8s rapidement, Visser lui apporte des preuves qu'Abby a depuis quelque temps une liaison avec Ray, un employ\u00e9 de Julian...",
-            "popularity": 4.1443,
-            "poster_path": "/k0QC5dyEVZPiAqJITu4lK8im7Lo.jpg",
-            "release_date": "1985-01-18",
-            "title": "Sang pour sang",
-            "video": false,
-            "vote_average": 7.252,
-            "vote_count": 1562,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Thriller"
-            ],
-            "runtime": 96,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7Pj9AZ4CpnxkDXYMxzae4WmJUsJ.jpg",
-            "id": 10843,
-            "original_language": "en",
-            "original_title": "After Hours",
-            "overview": "Un soir, dans un caf\u00e9 de New York, Paul Hackett un modeste informaticien, fait la connaissance de la s\u00e9duisante Marcy avec qui il sympathise. La jeune femme l'invite chez elle, mais tout ne va pas se passer comme pr\u00e9vu.",
-            "popularity": 2.8273,
-            "poster_path": "/xbnXHTgyliktMV9lLF9EASaYxG.jpg",
-            "release_date": "1985-09-13",
-            "title": "After Hours",
-            "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1658,
-            "genres": [
+                "Fantastique",
                 "Com\u00e9die",
-                "Thriller",
-                "Drame"
+                "Romance"
             ],
-            "runtime": 98,
-            "tagline": "Quelle nuit de gal\u00e8re"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
-            "id": 606,
-            "original_language": "en",
-            "original_title": "Out of Africa",
-            "overview": "Apr\u00e8s une d\u00e9ception amoureuse, la jeune Danoise Karen d\u00e9cide de se marier et de s'embarquer pour l'Afrique. Vite d\u00e9laiss\u00e9e par un mari volage, elle se consacre \u00e0 la culture des caf\u00e9iers et fait figure de pionni\u00e8re. Son amiti\u00e9 pour l'aventurier Denys se transformera en amour mais elle ne saura pas retenir cet homme \u00e9pris de libert\u00e9.",
-            "popularity": 2.5697,
-            "poster_path": "/jmdAD2CnIG7HiPmL5srV9dORiVC.jpg",
-            "release_date": "1985-12-20",
-            "title": "Out of Africa",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 1488,
-            "genres": [
-                "Histoire",
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 161,
-            "tagline": "Bas\u00e9 sur une histoire vraie."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/lh6MbyxwCribn3hdAo81xLdPGoV.jpg",
-            "id": 873,
-            "original_language": "en",
-            "original_title": "The Color Purple",
-            "overview": "D\u00e9but du XXe si\u00e8cle. Au c\u0153ur de la communaut\u00e9 noire du sud des \u00c9tats-Unis, Celie et Nettie, deux s\u0153urs, vivent avec leur beau-p\u00e8re. Celui-ci veut se d\u00e9barrasser de Celie et l'offre \u00e0 Albert, un veuf tyrannique qui l'emm\u00e8ne vivre chez lui\u2026",
-            "popularity": 3.8049,
-            "poster_path": "/wAfFBREKsmmwohQtnMHDtcv9iux.jpg",
-            "release_date": "1985-12-18",
-            "title": "La Couleur pourpre",
-            "video": false,
-            "vote_average": 7.7,
-            "vote_count": 1910,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 154,
-            "tagline": "C'est la vie. C'est l'amour. Il s'agit de nous."
+            "tagline": "",
+            "runtime": 82
         },
         {
             "adult": false,
@@ -187,7 +58,7 @@
             "original_language": "en",
             "original_title": "Witness",
             "overview": "L'inspecteur John Book enqu\u00eate sur un meurtre dont le seul t\u00e9moin est un jeune gar\u00e7on membre de la communaut\u00e9 des Amish. Afin de prot\u00e9ger l'enfant, John Book se joint \u00e0 cette communaut\u00e9 pacifiste.",
-            "popularity": 5.1962,
+            "popularity": 5.1614,
             "poster_path": "/1WskGCodqajQAlM2Tk3eWkflqrE.jpg",
             "release_date": "1985-02-08",
             "title": "Witness",
@@ -200,8 +71,28 @@
                 "Romance",
                 "Thriller"
             ],
-            "runtime": 112,
-            "tagline": "Un flic de la ville. Un gosse de la campagne. Ils n'ont rien en commun\u2026 Sauf un meurtre."
+            "tagline": "Un flic de la ville. Un gosse de la campagne. Ils n'ont rien en commun\u2026 Sauf un meurtre.",
+            "runtime": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aON9Xpl2doO6ir7KRVfw2f6x2je.jpg",
+            "id": 11703,
+            "original_language": "en",
+            "original_title": "Kiss of the Spider Woman",
+            "overview": "Valentin, journaliste r\u00e9volutionnaire, a \u00e9t\u00e9 tortur\u00e9 et incarc\u00e9r\u00e9 pour ses convictions politiques dans une prison d'Am\u00e9rique latine. Molina, d\u00e9corateur homosexuel, est condamn\u00e9 pour une affaire de moeurs. Tout s\u00e9pare ces deux hommes qu'on enferme dans la m\u00eame cellule. Pour oublier la solitude de leurs nuits, Molina fait partager \u00e0 Valentin les r\u00eaves qu'il imagine d'apr\u00e8s les vieux films qui peuplent sa m\u00e9moire. Alors que l'animosit\u00e9 des deux d\u00e9tenus se transforme en amiti\u00e9, une toile de trahison se tisse autour d'eux, inexorablement, mettant \u00e0 l'\u00e9preuve leur confiance mutuelle et leur esprit de sacrifice\u2026",
+            "popularity": 1.4076,
+            "poster_path": "/iZK2gXn8OJ9ndlQbyAsCYth71XU.jpg",
+            "release_date": "1985-07-26",
+            "title": "Le Baiser de la femme araign\u00e9e",
+            "video": false,
+            "vote_average": 7.015,
+            "vote_count": 325,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -210,20 +101,129 @@
             "original_language": "en",
             "original_title": "Back to the Future",
             "overview": "En 1985, Marty, un adolescent comme les autres, m\u00e8ne une existence morne et ennuyeuse. Heureusement, il est \u00e9pris de la jolie Jennifer et entretient une profonde amiti\u00e9 avec Doc, un savant fou qui pr\u00e9tend avoir invent\u00e9 une machine \u00e0 explorer le temps. Un jour, Doc invite Marty \u00e0 l'essayer\u2026",
-            "popularity": 20.3182,
+            "popularity": 18.7344,
             "poster_path": "/iCgFtDUZxN8iUzNBCisjUrBmg2q.jpg",
             "release_date": "1985-07-03",
             "title": "Retour vers le futur",
             "video": false,
             "vote_average": 8.323,
-            "vote_count": 21257,
+            "vote_count": 21258,
             "genres": [
                 "Aventure",
                 "Com\u00e9die",
                 "Science-Fiction"
             ],
-            "runtime": 116,
-            "tagline": "Jamais \u00e0 temps \u00e0 l\u2019\u00e9cole, jamais \u00e0 temps \u00e0 la maison, un jour il se retrouve compl\u00e8tement hors du temps\u2026"
+            "tagline": "Jamais \u00e0 temps \u00e0 l\u2019\u00e9cole, jamais \u00e0 temps \u00e0 la maison, un jour il se retrouve compl\u00e8tement hors du temps\u2026",
+            "runtime": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+            "id": 111,
+            "original_language": "en",
+            "original_title": "Scarface",
+            "overview": "En 1980, le gouvernement cubain expulse plusieurs centaines de prisonniers dangereux vers la Floride. Parmi eux, Tony Montana : ambitieux et sans scrupules, il \u00e9labore un plan pour prendre la place d'un ca\u00efd de la drogue.",
+            "popularity": 15.4076,
+            "poster_path": "/eGctboDIdxBSxZIcF8iLc8gebd5.jpg",
+            "release_date": "1983-12-09",
+            "title": "Scarface",
+            "video": false,
+            "vote_average": 8.156,
+            "vote_count": 12652,
+            "genres": [
+                "Action",
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "Il voulait vivre le r\u00eave am\u00e9ricain. Jusqu'au bout.",
+            "runtime": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Pj9AZ4CpnxkDXYMxzae4WmJUsJ.jpg",
+            "id": 10843,
+            "original_language": "en",
+            "original_title": "After Hours",
+            "overview": "Un soir, dans un caf\u00e9 de New York, Paul Hackett un modeste informaticien, fait la connaissance de la s\u00e9duisante Marcy avec qui il sympathise. La jeune femme l'invite chez elle, mais tout ne va pas se passer comme pr\u00e9vu.",
+            "popularity": 2.9428,
+            "poster_path": "/xbnXHTgyliktMV9lLF9EASaYxG.jpg",
+            "release_date": "1985-09-13",
+            "title": "After Hours",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1658,
+            "genres": [
+                "Com\u00e9die",
+                "Thriller",
+                "Drame"
+            ],
+            "tagline": "Quelle nuit de gal\u00e8re",
+            "runtime": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lh6MbyxwCribn3hdAo81xLdPGoV.jpg",
+            "id": 873,
+            "original_language": "en",
+            "original_title": "The Color Purple",
+            "overview": "D\u00e9but du XXe si\u00e8cle. Au c\u0153ur de la communaut\u00e9 noire du sud des \u00c9tats-Unis, Celie et Nettie, deux s\u0153urs, vivent avec leur beau-p\u00e8re. Celui-ci veut se d\u00e9barrasser de Celie et l'offre \u00e0 Albert, un veuf tyrannique qui l'emm\u00e8ne vivre chez lui\u2026",
+            "popularity": 3.2272,
+            "poster_path": "/wAfFBREKsmmwohQtnMHDtcv9iux.jpg",
+            "release_date": "1985-12-18",
+            "title": "La Couleur pourpre",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1910,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "C'est la vie. C'est l'amour. Il s'agit de nous.",
+            "runtime": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
+            "id": 606,
+            "original_language": "en",
+            "original_title": "Out of Africa",
+            "overview": "Apr\u00e8s une d\u00e9ception amoureuse, la jeune Danoise Karen d\u00e9cide de se marier et de s'embarquer pour l'Afrique. Vite d\u00e9laiss\u00e9e par un mari volage, elle se consacre \u00e0 la culture des caf\u00e9iers et fait figure de pionni\u00e8re. Son amiti\u00e9 pour l'aventurier Denys se transformera en amour mais elle ne saura pas retenir cet homme \u00e9pris de libert\u00e9.",
+            "popularity": 3.0941,
+            "poster_path": "/jmdAD2CnIG7HiPmL5srV9dORiVC.jpg",
+            "release_date": "1985-12-20",
+            "title": "Out of Africa",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1488,
+            "genres": [
+                "Histoire",
+                "Romance",
+                "Drame"
+            ],
+            "tagline": "Bas\u00e9 sur une histoire vraie.",
+            "runtime": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+            "id": 11368,
+            "original_language": "en",
+            "original_title": "Blood Simple",
+            "overview": "Visser, un d\u00e9tective priv\u00e9 que les scrupules n'\u00e9touffent pas, est charg\u00e9 de surveiller la jeune et jolie Abby pour le compte de son mari, Julian Marty, un patron de bar malchanceux. Tr\u00e8s rapidement, Visser lui apporte des preuves qu'Abby a depuis quelque temps une liaison avec Ray, un employ\u00e9 de Julian...",
+            "popularity": 4.0941,
+            "poster_path": "/k0QC5dyEVZPiAqJITu4lK8im7Lo.jpg",
+            "release_date": "1985-01-18",
+            "title": "Sang pour sang",
+            "video": false,
+            "vote_average": 7.252,
+            "vote_count": 1562,
+            "genres": [
+                "Crime",
+                "Drame",
+                "Thriller"
+            ],
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -232,7 +232,7 @@
             "original_language": "en",
             "original_title": "Cocoon",
             "overview": "Un groupe d'aliens d\u00e9guis\u00e9s en humains reviennent sur Terre pour reprendre des cocons de leur esp\u00e8ce (de la plan\u00e8te Antarea) qu'ils avaient laiss\u00e9s lors d'un pr\u00e9c\u00e9dent voyage. Une fois qu'ils ont r\u00e9cup\u00e9r\u00e9 les cocons, ils les conservent dans la piscine d'une maison qu'ils ont lou\u00e9e dans une petite ville de Floride. Ils sont g\u00e9n\u00e9s dans leur entreprise par quelques personnes \u00e2g\u00e9es, pensionnaires d'une maison de retraite situ\u00e9e non loin de la maison. Ces derni\u00e8res se sont secr\u00e8tement baign\u00e9es dans la piscine et ont d\u00e9couvert les pouvoirs extraordinaires des cocons...",
-            "popularity": 3.1008,
+            "popularity": 2.8786,
             "poster_path": "/gAUtu6hDlR9AOKa6H9AGc0INWUg.jpg",
             "release_date": "1985-06-21",
             "title": "Cocoon",
@@ -245,28 +245,8 @@
                 "Myst\u00e8re",
                 "Drame"
             ],
-            "runtime": 117,
-            "tagline": "Si vous aviez une chance de rajeunir, la laisseriez-vous passer ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7XpgGenPC31U3nsqIQPJCr8OdhY.jpg",
-            "id": 27223,
-            "original_language": "en",
-            "original_title": "Lost in America",
-            "overview": "David et Linda Howard sont des yuppies prosp\u00e8res de LA. Alors qu'il est d\u00e9\u00e7u de son travail, David convainc Linda de quitter leurs emplois, liquider tous leurs biens et imiter le film Easy Rider, passant le reste de leur vie \u00e0 voyager \u00e0 travers l'Am\u00e9rique ... dans un Winnebago.",
-            "popularity": 0.7385,
-            "poster_path": "/j7QiwUekGiYOmjKratNORIr35zg.jpg",
-            "release_date": "1985-02-08",
-            "title": "Lost in America",
-            "video": false,
-            "vote_average": 6.889,
-            "vote_count": 157,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "Si vous aviez une chance de rajeunir, la laisseriez-vous passer ?",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -275,7 +255,7 @@
             "original_language": "en",
             "original_title": "Brazil",
             "overview": "Sam Lowry est un technocrate harcel\u00e9 dans une soci\u00e9t\u00e9 futuriste compl\u00e8tement alambiqu\u00e9e et inefficace. Dans son fantasme, il r\u00eave d'une vie o\u00f9 il pourra \u00e9chapper \u00e0 la bureaucratie \u00e9crasante et passer l'\u00e9ternit\u00e9 avec la femme de ses r\u00eaves. L'improbable se produit alors que Sam essaie de rectifier l'arrestation injustifi\u00e9e d'un certain Archibald Buttle ; l'ordinateur omnipr\u00e9sent qui contr\u00f4le tout dans le monde \u00ab r\u00e9el \u00bb dysfonctionne. Lorsque cela se produit, Sam rencontre vraiment la femme qu'il poursuit depuis toujours dans ses r\u00eaves, Jill Layton. Cependant, la bureaucratie m\u00e9canique l'a point\u00e9 du doigt pour une vague d'attentats terroristes, et les vies de Sam et de Jill sont mises en danger.",
-            "popularity": 6.1309,
+            "popularity": 6.1633,
             "poster_path": "/745fbQQG6MEr9n3Fovj7clf6AT4.jpg",
             "release_date": "1985-02-20",
             "title": "Brazil",
@@ -286,28 +266,49 @@
                 "Com\u00e9die",
                 "Science-Fiction"
             ],
-            "runtime": 143,
-            "tagline": "C'est seulement un \u00e9tat d'esprit."
+            "tagline": "C'est seulement un \u00e9tat d'esprit.",
+            "runtime": 143
         },
         {
             "adult": false,
-            "backdrop_path": "/iqgZXnNN9Sa6ufvlGuX8MwesE8y.jpg",
-            "id": 47908,
+            "backdrop_path": "/7XpgGenPC31U3nsqIQPJCr8OdhY.jpg",
+            "id": 27223,
             "original_language": "en",
-            "original_title": "The Trip to Bountiful",
-            "overview": "",
-            "popularity": 0.6947,
-            "poster_path": "/qJ6A6fvp8PLFxxLVPLveFUmTOCG.jpg",
-            "release_date": "1985-12-20",
-            "title": "M\u00e9moires du Texas",
+            "original_title": "Lost in America",
+            "overview": "David et Linda Howard sont des yuppies prosp\u00e8res de LA. Alors qu'il est d\u00e9\u00e7u de son travail, David convainc Linda de quitter leurs emplois, liquider tous leurs biens et imiter le film Easy Rider, passant le reste de leur vie \u00e0 voyager \u00e0 travers l'Am\u00e9rique ... dans un Winnebago.",
+            "popularity": 0.7521,
+            "poster_path": "/j7QiwUekGiYOmjKratNORIr35zg.jpg",
+            "release_date": "1985-02-08",
+            "title": "Lost in America",
             "video": false,
-            "vote_average": 7.205,
-            "vote_count": 56,
+            "vote_average": 6.889,
+            "vote_count": 157,
             "genres": [
-                "Drame"
+                "Com\u00e9die"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qYQmznfMC433HrX5m58MJB0QOlK.jpg",
+            "id": 29263,
+            "original_language": "es",
+            "original_title": "La historia oficial",
+            "overview": "En mars 1983, Alicia enseigne l'histoire dans un lyc\u00e9e de Buenos Aires alors que la dictature militaire vacille. Elle est mari\u00e9e \u00e0 Roberto, un industriel proche du pouvoir. Ils ont adopt\u00e9 une petite fille, Gaby, quelques ann\u00e9es plus t\u00f4t. Bourgeoise sans \u00e9tats d'\u00e2me, Alicia re\u00e7oit inopin\u00e9ment la visite d'Ana, son amie d'enfance, de retour d'un long exil politique. Ana lui raconte la prison, les tortures, les viols et les enfants arrach\u00e9s \u00e0 leurs parents. Dans sa vie professionnelle comme dans sa vie priv\u00e9e, elle a toujours accept\u00e9 \u00ab la version officielle \u00bb jusqu\u2019au jour o\u00f9 le r\u00e9gime s\u2019effondre. L'\u00e9norme mensonge se fissure, et Alicia se met \u00e0 suspecter que Gaby pourrait \u00eatre la fille d'un \u00ab disparu \u00bb. D\u00e9bute alors un inexorable voyage \u00e0 la recherche de la v\u00e9rit\u00e9, une qu\u00eate dans laquelle Alicia pourrait bien tout perdre\u2026",
+            "popularity": 0.5935,
+            "poster_path": "/5sv9HzbEHlh9Lg4LmKh9P6vvhFX.jpg",
+            "release_date": "1985-04-03",
+            "title": "L'Histoire officielle",
+            "video": false,
+            "vote_average": 7.449,
+            "vote_count": 197,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 112
         },
         {
             "adult": false,
@@ -316,7 +317,7 @@
             "original_language": "fr",
             "original_title": "Shoah",
             "overview": "Claude Lanzmann a retrouv\u00e9 des rescap\u00e9s juifs des camps d\u2019extermination. Il a traqu\u00e9 les nazis qui se cachaient et r\u00e9ussi \u00e0 les filmer clandestinement. Il est retourn\u00e9 sur les lieux, dans les villages limitrophes de Chelmno, Ponari, Treblinka, Sobibor, Auschwitz, pour interroger les t\u00e9moins polonais. Ni fiction\u00a0\u2013 tous les protagonistes ont \u00e9t\u00e9 en contact direct avec les camps\u00a0\u2013, ni documentaire\u00a0\u2013 il ne s\u2019agit pas d\u2019une compilation de souvenirs\u00a0\u2013, Shoah est avant tout un film de la m\u00e9moire qui abolit la distance entre le pass\u00e9 et le pr\u00e9sent. Sans recourir aux documents d\u2019archives\u00a0\u2013 il n\u2019y a pas un cadavre dans cette \u0153uvre p\u00e9trie de mort\u00a0\u2013 ni aux \u201cimages chocs\u201d, Shoah (\u201can\u00e9antissement\u201d, \u201cdestruction\u201d, en h\u00e9breu) d\u00e9monte les rouages de la \u201csolution finale\u201d. \u201cNous avons lu, apr\u00e8s la guerre, quantit\u00e9 de t\u00e9moignages sur les ghettos, sur les camps d\u2019extermination.",
-            "popularity": 2.7478,
+            "popularity": 2.2462,
             "poster_path": "/8TrQ0NfguZu61Ojz0glWGWJ1Q98.jpg",
             "release_date": "1985-04-21",
             "title": "Shoah",
@@ -327,8 +328,28 @@
                 "Documentaire",
                 "Histoire"
             ],
-            "runtime": 543,
-            "tagline": "Un \u00e9v\u00e9nement cin\u00e9matographique et historique majeur sur le g\u00e9nocide perp\u00e9tr\u00e9 par les nazis sur le peuple juif."
+            "tagline": "Un \u00e9v\u00e9nement cin\u00e9matographique et historique majeur sur le g\u00e9nocide perp\u00e9tr\u00e9 par les nazis sur le peuple juif.",
+            "runtime": 543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xhaIbAXa6HOpYFn387a63Ser2wy.jpg",
+            "id": 11177,
+            "original_language": "en",
+            "original_title": "Mask",
+            "overview": "Le jeune Rocky Dennis est n\u00e9 avec un visage d\u00e9form\u00e9 par une maladie g\u00e9n\u00e9tique rare qui d\u00e9forme radicalement son visage et lui donne un aspect de lion. Sa m\u00e8re Rusty fr\u00e9quente un gang de motards. Elle adore et prot\u00e8ge son fils, mais doit faire face \u00e0 ses propres hantises. Elle se plonge dans des aventures sans lendemain et dans la toxicomanie, jusqu'au moment o\u00f9 Gar, un ancien amant, revient. Rocky se fait accepter \u00e0 l'\u00e9cole, mais se sent triste et d\u00e9sesp\u00e9r\u00e9 \u00e0 cause du foss\u00e9 social que creuse sa difformit\u00e9 et qui l'emp\u00eache de mener une existence comme les autres jeunes de son \u00e2ge\u2026",
+            "popularity": 3.7197,
+            "poster_path": "/xYW2K00HHrKNibjlAnohWwgWnsY.jpg",
+            "release_date": "1985-03-08",
+            "title": "Mask",
+            "video": false,
+            "vote_average": 7.243,
+            "vote_count": 479,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "On lui avait dit qu'il ne serait jamais comme les autres. Alors il avait d\u00e9cid\u00e9 d'\u00eatre meilleur\u2026",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -337,7 +358,7 @@
             "original_language": "en",
             "original_title": "Desperately Seeking Susan",
             "overview": "Roberta, jeune bourgeoise un peu coinc\u00e9e du New Jersey, s'ennuie ferme dans sa luxueuse maison. Et quand elle d\u00e9couvre dans les petites annonces \u00ab\u00a0Recherche Susan d\u00e9sesp\u00e9r\u00e9ment\u00a0\u00bb, elle d\u00e9cide d'enqu\u00eater pour savoir qui est cette fameuse Susan...",
-            "popularity": 1.3565,
+            "popularity": 1.0965,
             "poster_path": "/zbYDOMHyUbATxSYrZfg5osrj5eX.jpg",
             "release_date": "1985-03-29",
             "title": "Recherche Susan d\u00e9sesp\u00e9r\u00e9ment",
@@ -349,8 +370,8 @@
                 "Com\u00e9die",
                 "Crime"
             ],
-            "runtime": 100,
-            "tagline": "Une vie si scandaleuse qu'il faut deux femmes pour l'assumer !"
+            "tagline": "Une vie si scandaleuse qu'il faut deux femmes pour l'assumer !",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -359,7 +380,7 @@
             "original_language": "en",
             "original_title": "The Emerald Forest",
             "overview": "Bill Markham et sa femme s'installent en Amazonie, o\u00f9 Bill est charg\u00e9 de diriger la construction d'un grand barrage. Leurs deux enfants les accompagnent. Au cours d'une promenade, le petit Tommy dispara\u00eet. Enlev\u00e9 par les \u00ab Invisibles \u00bb, une tribu autochtone, il est adopt\u00e9 et initi\u00e9 par leur chef, Wanadi. Parfaitement int\u00e9gr\u00e9, Tommy participe aux t\u00e2ches quotidiennes.  Un jour, alors qu'il cherche des pierres, il se trouve nez-\u00e0-nez avec son p\u00e8re, qui n'a jamais renonc\u00e9 \u00e0 retrouver sa trace. Celui-ci, poursuivi et bless\u00e9 par une autre tribu, les \u00ab F\u00e9roces \u00bb, est soign\u00e9 par les \u00ab Invisibles \u00bb. Bill, qui comprend et respecte le choix de son fils rest\u00e9 aupr\u00e8s de sa tribu, retourne en ville. De leur c\u00f4t\u00e9, les \u00ab F\u00e9roces \u00bb se procurent des balles pour le fusil-mitrailleur qu'ils ont trouv\u00e9...",
-            "popularity": 1.4017,
+            "popularity": 1.1275,
             "poster_path": "/2H2tqlgeqeJglmhzpCOLKkTyGMA.jpg",
             "release_date": "1985-06-22",
             "title": "La For\u00eat d'\u00e9meraude",
@@ -371,28 +392,8 @@
                 "Aventure",
                 "Drame"
             ],
-            "runtime": 113,
-            "tagline": "Quel genre d'homme reviendrait ann\u00e9e apr\u00e8s ann\u00e9e pendant dix ans pour sauver un gar\u00e7on disparu de la jungle la plus sauvage du monde\u00a0? Son p\u00e8re."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xhaIbAXa6HOpYFn387a63Ser2wy.jpg",
-            "id": 11177,
-            "original_language": "en",
-            "original_title": "Mask",
-            "overview": "Le jeune Rocky Dennis est n\u00e9 avec un visage d\u00e9form\u00e9 par une maladie g\u00e9n\u00e9tique rare qui d\u00e9forme radicalement son visage et lui donne un aspect de lion. Sa m\u00e8re Rusty fr\u00e9quente un gang de motards. Elle adore et prot\u00e8ge son fils, mais doit faire face \u00e0 ses propres hantises. Elle se plonge dans des aventures sans lendemain et dans la toxicomanie, jusqu'au moment o\u00f9 Gar, un ancien amant, revient. Rocky se fait accepter \u00e0 l'\u00e9cole, mais se sent triste et d\u00e9sesp\u00e9r\u00e9 \u00e0 cause du foss\u00e9 social que creuse sa difformit\u00e9 et qui l'emp\u00eache de mener une existence comme les autres jeunes de son \u00e2ge\u2026",
-            "popularity": 3.9389,
-            "poster_path": "/xYW2K00HHrKNibjlAnohWwgWnsY.jpg",
-            "release_date": "1985-03-08",
-            "title": "Mask",
-            "video": false,
-            "vote_average": 7.243,
-            "vote_count": 479,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 120,
-            "tagline": "On lui avait dit qu'il ne serait jamais comme les autres. Alors il avait d\u00e9cid\u00e9 d'\u00eatre meilleur\u2026"
+            "tagline": "Quel genre d'homme reviendrait ann\u00e9e apr\u00e8s ann\u00e9e pendant dix ans pour sauver un gar\u00e7on disparu de la jungle la plus sauvage du monde\u00a0? Son p\u00e8re.",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -401,7 +402,7 @@
             "original_language": "en",
             "original_title": "Silverado",
             "overview": "A la fin du XIXe si\u00e8cle, au Far West. Apr\u00e8s avoir fait sortir son fr\u00e8re Jake de prison, Emmett se rend avec ce dernier dans la petite ville de Silverado. Les deux hommes feront la connaissance de Paden et Mal Johnson. A eux quatre, ils vont unir leur force contre un \u00e9leveur de b\u00e9tail pret \u00e0 tout pour s'approprier les terrains de la r\u00e9gion...",
-            "popularity": 3.7381,
+            "popularity": 2.8986,
             "poster_path": "/m5UmoN9hCIoMDFe4UaCXet8nlt5.jpg",
             "release_date": "1985-07-10",
             "title": "Silverado",
@@ -412,29 +413,48 @@
                 "Western",
                 "Action"
             ],
-            "runtime": 133,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 133
         },
         {
             "adult": false,
-            "backdrop_path": "/qYQmznfMC433HrX5m58MJB0QOlK.jpg",
-            "id": 29263,
-            "original_language": "es",
-            "original_title": "La historia oficial",
-            "overview": "En mars 1983, Alicia enseigne l'histoire dans un lyc\u00e9e de Buenos Aires alors que la dictature militaire vacille. Elle est mari\u00e9e \u00e0 Roberto, un industriel proche du pouvoir. Ils ont adopt\u00e9 une petite fille, Gaby, quelques ann\u00e9es plus t\u00f4t. Bourgeoise sans \u00e9tats d'\u00e2me, Alicia re\u00e7oit inopin\u00e9ment la visite d'Ana, son amie d'enfance, de retour d'un long exil politique. Ana lui raconte la prison, les tortures, les viols et les enfants arrach\u00e9s \u00e0 leurs parents. Dans sa vie professionnelle comme dans sa vie priv\u00e9e, elle a toujours accept\u00e9 \u00ab la version officielle \u00bb jusqu\u2019au jour o\u00f9 le r\u00e9gime s\u2019effondre. L'\u00e9norme mensonge se fissure, et Alicia se met \u00e0 suspecter que Gaby pourrait \u00eatre la fille d'un \u00ab disparu \u00bb. D\u00e9bute alors un inexorable voyage \u00e0 la recherche de la v\u00e9rit\u00e9, une qu\u00eate dans laquelle Alicia pourrait bien tout perdre\u2026",
-            "popularity": 0.7088,
-            "poster_path": "/5sv9HzbEHlh9Lg4LmKh9P6vvhFX.jpg",
-            "release_date": "1985-04-03",
-            "title": "L'Histoire officielle",
+            "backdrop_path": "/iqgZXnNN9Sa6ufvlGuX8MwesE8y.jpg",
+            "id": 47908,
+            "original_language": "en",
+            "original_title": "The Trip to Bountiful",
+            "overview": "",
+            "popularity": 0.5203,
+            "poster_path": "/qJ6A6fvp8PLFxxLVPLveFUmTOCG.jpg",
+            "release_date": "1985-12-20",
+            "title": "M\u00e9moires du Texas",
             "video": false,
-            "vote_average": 7.449,
-            "vote_count": 197,
+            "vote_average": 7.205,
+            "vote_count": 56,
             "genres": [
-                "Drame",
-                "Histoire"
+                "Drame"
             ],
-            "runtime": 112,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bTi7ggNJeNpmyHAaehtDXp9cmdm.jpg",
+            "id": 42098,
+            "original_language": "en",
+            "original_title": "Streetwise",
+            "overview": "Dans les rues glauques et malfam\u00e9es de Seatle d\u00e9ambule une bande de pr\u00e9-adolescents qui vivent dans la mis\u00e8re et la drogue. Tiny, quatorze ans, est une prostitu\u00e9e \u00e0 l\u2019apparence juv\u00e9nile. Sa m\u00e8re alcoolique ne s\u2019occupe pas d\u2019elle, alors Tiny se vend pour gagner un peu d\u2019argent et se d\u00e9bauche avec Rat, Dewayne et les autres pour oublier ses bleus \u00e0 l\u2019\u00e2me\u2026",
+            "popularity": 1.7316,
+            "poster_path": "/fW9z3HXWYTKzlqE3CYMMxaXyyy2.jpg",
+            "release_date": "1984-12-07",
+            "title": "Streetwise",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 64,
+            "genres": [
+                "Documentaire"
+            ],
+            "tagline": "",
+            "runtime": 92
         },
         {
             "adult": false,
@@ -443,7 +463,7 @@
             "original_language": "en",
             "original_title": "The Breakfast Club",
             "overview": "Cinq lyc\u00e9ens aux personnalit\u00e9s totalement oppos\u00e9es se retrouvent en colle un samedi. Le professeur qui les surveille leur demande \u00e0 chacun de faire une dissertation de 1 000 mots avec pour sujet\u00a0: \u00ab\u00a0Qui pensez\u2010vous \u00eatre\u202f?\u00a0\u00bb. Au fur et \u00e0 mesure que la journ\u00e9e passe, ils discutent, se d\u00e9chirent et finissent par se trouver plus de points communs qu\u2019ils ne pensaient.",
-            "popularity": 7.0198,
+            "popularity": 7.1325,
             "poster_path": "/9AqAUMwqTwANhtTRTOiiG3i0BPU.jpg",
             "release_date": "1985-02-15",
             "title": "Breakfast Club",
@@ -454,30 +474,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 97,
-            "tagline": "Une seule rencontre suffit pour changer leur vie."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pZG36ITyZH6ZQllXugqaexJNdb2.jpg",
-            "id": 57300,
-            "original_language": "en",
-            "original_title": "The Shooting Party",
-            "overview": "",
-            "popularity": 1.1804,
-            "poster_path": "/cjFDPj3hrcHwrRhAqlFYtff8PbQ.jpg",
-            "release_date": "1985-02-01",
-            "title": "The Shooting Party",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 24,
-            "genres": [
-                "Drame",
-                "Romance",
-                "Histoire"
-            ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "Une seule rencontre suffit pour changer leur vie.",
+            "runtime": 97
         },
         {
             "adult": false,
@@ -486,7 +484,7 @@
             "original_language": "en",
             "original_title": "Sweet Dreams",
             "overview": "Le film est une biographie de Patsy Cline, chanteuse am\u00e9ricaine de musique country.",
-            "popularity": 0.4768,
+            "popularity": 0.4722,
             "poster_path": "/3BuTH2W1s2AQTZAfiLoUMTx1PmM.jpg",
             "release_date": "1985-10-02",
             "title": "Sweet Dreams",
@@ -498,30 +496,114 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 115,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 115
         },
         {
             "adult": false,
-            "backdrop_path": "/30lunazeLIB9bZVoPNOVbCC9Xx4.jpg",
-            "id": 5683,
+            "backdrop_path": "/pZG36ITyZH6ZQllXugqaexJNdb2.jpg",
+            "id": 57300,
             "original_language": "en",
-            "original_title": "Pee-wee's Big Adventure",
-            "overview": "Pee Wee, un adulte qui ressemble \u00e0 un enfant, s'appr\u00eate \u00e0 passer une belle journ\u00e9e avec l'amour de sa vie : sa bicyclette. Mais cet objet vient d'\u00eatre vol\u00e9 par le m\u00e9chant Francis. Pee Wee part \u00e0 la recherche de son amour perdu et nous entra\u00eene dans des aventures de plus en plus burlesques.",
-            "popularity": 1.3505,
-            "poster_path": "/vPcv4n3gp1VxUoa8VyikeQbSiO8.jpg",
-            "release_date": "1985-07-26",
-            "title": "Pee-wee Big Adventure",
+            "original_title": "The Shooting Party",
+            "overview": "",
+            "popularity": 0.9843,
+            "poster_path": "/cjFDPj3hrcHwrRhAqlFYtff8PbQ.jpg",
+            "release_date": "1985-02-01",
+            "title": "The Shooting Party",
             "video": false,
-            "vote_average": 6.463,
-            "vote_count": 829,
+            "vote_average": 6.5,
+            "vote_count": 24,
             "genres": [
-                "Com\u00e9die",
-                "Aventure",
-                "Familial"
+                "Drame",
+                "Romance",
+                "Histoire"
             ],
-            "runtime": 91,
-            "tagline": "L'histoire d'un rebelle et de sa bicyclette."
+            "tagline": "",
+            "runtime": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lEiyTTfpYcfMby6GDtXMPxeQIPi.jpg",
+            "id": 147747,
+            "original_language": "en",
+            "original_title": "Wetherby",
+            "overview": "Un jeune inconnu se pr\u00e9sente au domicile d'une enseignante c\u00e9libataire et se suicide devant elle. Choqu\u00e9e par cet acte incompr\u00e9hensible, elle tente de comprendre pourquoi ce jeune homme l'a choisie comme t\u00e9moin de sa mort.",
+            "popularity": 1.2584,
+            "poster_path": "/koVPZF3r1jFS1gKMTK27dco6crv.jpg",
+            "release_date": "1985-06-19",
+            "title": "Wetherby",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 40,
+            "genres": [
+                "Drame",
+                "Myst\u00e8re"
+            ],
+            "tagline": "",
+            "runtime": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Q5a6x8s4DK94LV4TGsuzqbWlMw.jpg",
+            "id": 42034,
+            "original_language": "en",
+            "original_title": "Dreamchild",
+            "overview": "Le film suit Alice Liddell, la jeune fille qui avait inspir\u00e9 Les Aventures d'Alice au pays des merveilles \u00e0 Lewis Carroll, qui est devenue une femme \u00e2g\u00e9e. Les personnages du conte, qui auparavant l'amusaient tant, sont devenus dans son esprit plus obscurs et commencent m\u00eame \u00e0 la hanter. Se replongeant dans son pass\u00e9, elle repense \u00e0 sa relation privil\u00e9gi\u00e9e avec le timide \u00e9crivain, en l\u2019envisageant maintenant sous un angle nouveau, auquel son \u00e2ge lui permet d\u00e9sormais d\u2019acc\u00e9der...",
+            "popularity": 1.1499,
+            "poster_path": "/1k615lxjzGHlrTXSXF5mqFt13Xl.jpg",
+            "release_date": "1985-10-04",
+            "title": "Dreamchild : De l'autre c\u00f4t\u00e9 du miroir",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 36,
+            "genres": [
+                "Drame",
+                "Fantastique"
+            ],
+            "tagline": "",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qmy3lk8YY9tBFfwMoPavUEM59u5.jpg",
+            "id": 26578,
+            "original_language": "en",
+            "original_title": "The Falcon and the Snowman",
+            "overview": "Peu apr\u00e8s le scandale du Watergate, un jeune homme employ\u00e9 dans l'\u00e9lectronique de pointe et en possession d'informations gouvernementales ultra-secr\u00e8tes, d\u00e9cide de vendre des renseignements \u00e0 l'URSS. Il convainc son meilleur ami de traiter avec les diplomates sovi\u00e9tiques de l'ambassade de Mexico. Mais ce dernier multiplie les maladresses et les deux espions en herbe se trouvent bient\u00f4t engag\u00e9s dans un engrenage fatal...",
+            "popularity": 0.6905,
+            "poster_path": "/vvElYNB10C0hksWFJqQ8AUXTyzU.jpg",
+            "release_date": "1985-01-25",
+            "title": "Le Jeu du faucon",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 169,
+            "genres": [
+                "Thriller",
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "On ne touche pas au r\u00eave am\u00e9ricain",
+            "runtime": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/brPMxVY4omak8bE54uSpVQwKbK.jpg",
+            "id": 123049,
+            "original_language": "en",
+            "original_title": "Twice in a Lifetime",
+            "overview": "Un ouvrier d'\u00e2ge m\u00fbr vit une vie de famille heureuse, mais il ressent comme un manque. Alors qu'il f\u00eate son 50\u00e8me anniversaire, il tombe sur une jeune et sexy barmaid, \u00e0 qui il plait \u00e9galement.",
+            "popularity": 1.1916,
+            "poster_path": "/bpPkDnPuLuFumbaJ99UdPXwMC0g.jpg",
+            "release_date": "1985-10-23",
+            "title": "Soleil d'automne",
+            "video": false,
+            "vote_average": 5.635,
+            "vote_count": 26,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 111
         },
         {
             "adult": false,
@@ -530,7 +612,7 @@
             "original_language": "en",
             "original_title": "Runaway Train",
             "overview": "Manny, un gangster r\u00e9put\u00e9 dangereux, et Buck, une petite frappe, s'\u00e9vadent d'un p\u00e9nitencier d'Alaska. Apr\u00e8s une course effr\u00e9n\u00e9e dans la neige, ils parviennent \u00e0 une gare et sautent \u00e0 bord d'un convoi providentiel qui s'\u00e9branle aussit\u00f4t. Peu apr\u00e8s, le conducteur de la locomotive est terrass\u00e9 par une crise cardiaque. Le train file de plus en plus vite dans la neige et la glace, sans frein et sans ma\u00eetre. Manny et Buck se rendent compte du d\u00e9sastre imminent et tentent de d\u00e9crocher les wagons, puis de stopper le train. En vain. La lourde locomotive poursuit sa terrible glissade vers la catastrophe. De son c\u00f4t\u00e9, Ranken, le directeur de la prison, met tout en oeuvre pour rattraper Manny, son ennemi jur\u00e9...",
-            "popularity": 1.8407,
+            "popularity": 1.8057,
             "poster_path": "/gkCfc0d4mnBomsmtjjXqLJcprPi.jpg",
             "release_date": "1985-11-15",
             "title": "Runaway Train",
@@ -543,112 +625,30 @@
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 110,
-            "tagline": "Un train fou dans un d\u00e9sert glac\u00e9 : Le prix de leur libert\u00e9 !!!"
+            "tagline": "Un train fou dans un d\u00e9sert glac\u00e9 : Le prix de leur libert\u00e9 !!!",
+            "runtime": 110
         },
         {
             "adult": false,
-            "backdrop_path": "/lEiyTTfpYcfMby6GDtXMPxeQIPi.jpg",
-            "id": 147747,
+            "backdrop_path": "/30lunazeLIB9bZVoPNOVbCC9Xx4.jpg",
+            "id": 5683,
             "original_language": "en",
-            "original_title": "Wetherby",
-            "overview": "Un jeune inconnu se pr\u00e9sente au domicile d'une enseignante c\u00e9libataire et se suicide devant elle. Choqu\u00e9e par cet acte incompr\u00e9hensible, elle tente de comprendre pourquoi ce jeune homme l'a choisie comme t\u00e9moin de sa mort.",
-            "popularity": 1.523,
-            "poster_path": "/koVPZF3r1jFS1gKMTK27dco6crv.jpg",
-            "release_date": "1985-06-19",
-            "title": "Wetherby",
+            "original_title": "Pee-wee's Big Adventure",
+            "overview": "Pee Wee, un adulte qui ressemble \u00e0 un enfant, s'appr\u00eate \u00e0 passer une belle journ\u00e9e avec l'amour de sa vie : sa bicyclette. Mais cet objet vient d'\u00eatre vol\u00e9 par le m\u00e9chant Francis. Pee Wee part \u00e0 la recherche de son amour perdu et nous entra\u00eene dans des aventures de plus en plus burlesques.",
+            "popularity": 1.5532,
+            "poster_path": "/vPcv4n3gp1VxUoa8VyikeQbSiO8.jpg",
+            "release_date": "1985-07-26",
+            "title": "Pee-wee Big Adventure",
             "video": false,
-            "vote_average": 5.9,
-            "vote_count": 40,
+            "vote_average": 6.463,
+            "vote_count": 829,
             "genres": [
-                "Drame",
-                "Myst\u00e8re"
+                "Com\u00e9die",
+                "Aventure",
+                "Familial"
             ],
-            "runtime": 102,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/brPMxVY4omak8bE54uSpVQwKbK.jpg",
-            "id": 123049,
-            "original_language": "en",
-            "original_title": "Twice in a Lifetime",
-            "overview": "Un ouvrier d'\u00e2ge m\u00fbr vit une vie de famille heureuse, mais il ressent comme un manque. Alors qu'il f\u00eate son 50\u00e8me anniversaire, il tombe sur une jeune et sexy barmaid, \u00e0 qui il plait \u00e9galement.",
-            "popularity": 1.09,
-            "poster_path": "/bpPkDnPuLuFumbaJ99UdPXwMC0g.jpg",
-            "release_date": "1985-10-23",
-            "title": "Soleil d'automne",
-            "video": false,
-            "vote_average": 5.635,
-            "vote_count": 26,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 111,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qmy3lk8YY9tBFfwMoPavUEM59u5.jpg",
-            "id": 26578,
-            "original_language": "en",
-            "original_title": "The Falcon and the Snowman",
-            "overview": "Peu apr\u00e8s le scandale du Watergate, un jeune homme employ\u00e9 dans l'\u00e9lectronique de pointe et en possession d'informations gouvernementales ultra-secr\u00e8tes, d\u00e9cide de vendre des renseignements \u00e0 l'URSS. Il convainc son meilleur ami de traiter avec les diplomates sovi\u00e9tiques de l'ambassade de Mexico. Mais ce dernier multiplie les maladresses et les deux espions en herbe se trouvent bient\u00f4t engag\u00e9s dans un engrenage fatal...",
-            "popularity": 0.9254,
-            "poster_path": "/vvElYNB10C0hksWFJqQ8AUXTyzU.jpg",
-            "release_date": "1985-01-25",
-            "title": "Le Jeu du faucon",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 169,
-            "genres": [
-                "Thriller",
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 132,
-            "tagline": "On ne touche pas au r\u00eave am\u00e9ricain"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bTi7ggNJeNpmyHAaehtDXp9cmdm.jpg",
-            "id": 42098,
-            "original_language": "en",
-            "original_title": "Streetwise",
-            "overview": "Dans les rues glauques et malfam\u00e9es de Seatle d\u00e9ambule une bande de pr\u00e9-adolescents qui vivent dans la mis\u00e8re et la drogue. Tiny, quatorze ans, est une prostitu\u00e9e \u00e0 l\u2019apparence juv\u00e9nile. Sa m\u00e8re alcoolique ne s\u2019occupe pas d\u2019elle, alors Tiny se vend pour gagner un peu d\u2019argent et se d\u00e9bauche avec Rat, Dewayne et les autres pour oublier ses bleus \u00e0 l\u2019\u00e2me\u2026",
-            "popularity": 2.1272,
-            "poster_path": "/fW9z3HXWYTKzlqE3CYMMxaXyyy2.jpg",
-            "release_date": "1984-12-07",
-            "title": "Streetwise",
-            "video": false,
-            "vote_average": 7.5,
-            "vote_count": 64,
-            "genres": [
-                "Documentaire"
-            ],
-            "runtime": 92,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6Q5a6x8s4DK94LV4TGsuzqbWlMw.jpg",
-            "id": 42034,
-            "original_language": "en",
-            "original_title": "Dreamchild",
-            "overview": "Le film suit Alice Liddell, la jeune fille qui avait inspir\u00e9 Les Aventures d'Alice au pays des merveilles \u00e0 Lewis Carroll, qui est devenue une femme \u00e2g\u00e9e. Les personnages du conte, qui auparavant l'amusaient tant, sont devenus dans son esprit plus obscurs et commencent m\u00eame \u00e0 la hanter. Se replongeant dans son pass\u00e9, elle repense \u00e0 sa relation privil\u00e9gi\u00e9e avec le timide \u00e9crivain, en l\u2019envisageant maintenant sous un angle nouveau, auquel son \u00e2ge lui permet d\u00e9sormais d\u2019acc\u00e9der...",
-            "popularity": 1.3628,
-            "poster_path": "/1k615lxjzGHlrTXSXF5mqFt13Xl.jpg",
-            "release_date": "1985-10-04",
-            "title": "Dreamchild : De l'autre c\u00f4t\u00e9 du miroir",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 36,
-            "genres": [
-                "Drame",
-                "Fantastique"
-            ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "L'histoire d'un rebelle et de sa bicyclette.",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -657,7 +657,7 @@
             "original_language": "en",
             "original_title": "Agnes of God",
             "overview": "Par une froide nuit d'hiver dans un couvent canadien. La jeune novice Agn\u00e8s baigne dans son sang. Dans une corbeille a papier, la m\u00e8re sup\u00e9rieure d\u00e9couvre un nouveau-n\u00e9 \u00e9trangl\u00e9... Un psychiatre, le Dr Martha Livingston, persuad\u00e9e de l'innocence d'Agnes, va affronter la M\u00e8re Sup\u00e9rieure Miriam Ruth.",
-            "popularity": 1.2831,
+            "popularity": 1.4516,
             "poster_path": "/wfaP3a6Il9MJkoB4jroBDRaBl1p.jpg",
             "release_date": "1985-09-13",
             "title": "Agn\u00e8s de Dieu",
@@ -668,28 +668,8 @@
                 "Drame",
                 "Myst\u00e8re"
             ],
-            "runtime": 98,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7heMAaXlsI3BwTatyxBSNTP3GhO.jpg",
-            "id": 21042,
-            "original_language": "sh",
-            "original_title": "Otac na slu\u017ebenom putu",
-            "overview": "En Yougoslavie, en 1952, \u00e0 l'heure o\u00f9 Tito divorce d'avec Staline, il n'est pas bon de laisser para\u00eetre des penchants staliniens. Mesa, le p\u00e8re de Malik, victime d'une vengeance de sa ma\u00eetresse, est envoy\u00e9 en camp de travail \u2014 pour ses enfants, il est \u00ab\u00a0en voyage d'affaires\u00a0\u00bb. Alors que son fr\u00e8re passe son temps au cin\u00e9ma, Malik, en r\u00e9action aux crises que traversent sa famille et son pays, se r\u00e9fugie dans le somnambulisme\u2026 Lorsque la famille est \u00e0 nouveau r\u00e9unie, Malik red\u00e9couvre son p\u00e8re, et conna\u00eet ses premiers \u00e9mois amoureux.",
-            "popularity": 0.7174,
-            "poster_path": "/gpQoVu9ACzKBPvh4JGEZifJwALB.jpg",
-            "release_date": "1985-01-15",
-            "title": "Papa est en voyage d'affaires",
-            "video": false,
-            "vote_average": 7.286,
-            "vote_count": 138,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 136,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -698,7 +678,7 @@
             "original_language": "en",
             "original_title": "Dance with a Stranger",
             "overview": "Londres, \u00e9t\u00e9 1953. La tr\u00e8s belle Ruth Ellis, h\u00f4tesse dans un night-club fr\u00e9quent\u00e9 par la haute soci\u00e9t\u00e9 londonnienne, rencontre David Blakely, s\u00e9duisant pilote de course et fils de bonne famille. Entre eux va na\u00eetre un amour ardent et violent qui les entrainera vers la mort.",
-            "popularity": 1.3964,
+            "popularity": 1.3688,
             "poster_path": "/eLsZeGGof9W93g025CXOuL0sJYb.jpg",
             "release_date": "1985-03-01",
             "title": "Un Crime pour une passion",
@@ -709,73 +689,70 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 102
         },
         {
             "adult": false,
-            "backdrop_path": "/depMebS7tRuR8ebxghxdkIlnX3s.jpg",
-            "id": 11904,
+            "backdrop_path": "/7heMAaXlsI3BwTatyxBSNTP3GhO.jpg",
+            "id": 21042,
+            "original_language": "sh",
+            "original_title": "Otac na slu\u017ebenom putu",
+            "overview": "En Yougoslavie, en 1952, \u00e0 l'heure o\u00f9 Tito divorce d'avec Staline, il n'est pas bon de laisser para\u00eetre des penchants staliniens. Mesa, le p\u00e8re de Malik, victime d'une vengeance de sa ma\u00eetresse, est envoy\u00e9 en camp de travail \u2014 pour ses enfants, il est \u00ab\u00a0en voyage d'affaires\u00a0\u00bb. Alors que son fr\u00e8re passe son temps au cin\u00e9ma, Malik, en r\u00e9action aux crises que traversent sa famille et son pays, se r\u00e9fugie dans le somnambulisme\u2026 Lorsque la famille est \u00e0 nouveau r\u00e9unie, Malik red\u00e9couvre son p\u00e8re, et conna\u00eet ses premiers \u00e9mois amoureux.",
+            "popularity": 0.6648,
+            "poster_path": "/gpQoVu9ACzKBPvh4JGEZifJwALB.jpg",
+            "release_date": "1985-01-15",
+            "title": "Papa est en voyage d'affaires",
+            "video": false,
+            "vote_average": 7.286,
+            "vote_count": 138,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nEs4WAMmfsywZWLkJHtKQh3LDpa.jpg",
+            "id": 16082,
             "original_language": "en",
-            "original_title": "Young Sherlock Holmes",
-            "overview": "Londres, en 1870. John Watson, fils d'un m\u00e9decin de campagne fra\u00eechement d\u00e9barqu\u00e9 de ses solitudes provinciales, d\u00e9couvre les couloirs et les brumes de son nouveau coll\u00e8ge. Il se retrouve nez \u00e0 nez avec un curieux hurluberlu, son nouveau condisciple, qui semble tout savoir de lui sans l'avoir pourtant jamais rencontr\u00e9. Ainsi na\u00eet une amiti\u00e9. Watson d\u00e9couvre rapidement que son nouveau compagnon, Sherlock Holmes, se pique de r\u00e9soudre les \u00e9nigmes les plus extravagantes et qu'aiguillonn\u00e9 par son rival dans le c\u0153ur de la belle Elizabeth, Dudley, il se r\u00e9v\u00e8le fort capable de devancer la police dans la solution d'un curieux suicide. L'oncle d'Elizabeth venant \u00e0 mourir, victime d'une sarbacane, le trio reprend du service, en d\u00e9pit des protestations de Watson, qui voudrait bien devenir m\u00e9decin\u2026",
-            "popularity": 2.1344,
-            "poster_path": "/zDRoaByYO73FX7KR6NMLIDvsE8I.jpg",
-            "release_date": "1985-12-04",
-            "title": "Le Secret de la pyramide",
+            "original_title": "White Nights",
+            "overview": "Ancien danseur-\u00e9toile du Kirov qui a fuit la Russie il y a dix ans, Nikolai Rodchenko se voit contraint, lors d'une de ses tourn\u00e9es, de retourner dans son pays natal. Il y fait la connaissance de Raymond Greenwood, danseur am\u00e9ricain. Il lui demande de l'aider \u00e0 repasser de nouveau \u00e0 l'Ouest\u2026",
+            "popularity": 2.2678,
+            "poster_path": "/rnJ7oli5k2aUerETKokwSJqoPh.jpg",
+            "release_date": "1985-11-22",
+            "title": "Soleil de nuit",
             "video": false,
             "vote_average": 6.7,
-            "vote_count": 679,
+            "vote_count": 138,
             "genres": [
-                "Myst\u00e8re",
-                "Aventure",
+                "Drame",
                 "Thriller"
             ],
-            "runtime": 104,
-            "tagline": "La premi\u00e8re aventure de Sherlock Holmes."
+            "tagline": "Trois vies, deux mondes, un r\u00eave : la Libert\u00e9.",
+            "runtime": 136
         },
         {
             "adult": false,
-            "backdrop_path": "/sPyvoKH0K1pu2ENXibRXJWzCREM.jpg",
-            "id": 42116,
-            "original_language": "ja",
-            "original_title": "\u7d30\u96ea",
-            "overview": "Les quatre s\u0153urs Makioka tentent de pr\u00e9server le prestige de leur nom. Depuis que leurs parents sont d\u00e9c\u00e9d\u00e9s, les deux a\u00een\u00e9es ont pris en charge les deux cadettes, essayant de leur trouver un \u00e9poux. Mais les deux jeunes filles, chacune \u00e0 leur mani\u00e8re, se montrent r\u00e9ticentes \u00e0 se conformer aux obligations que leur imposent les traditions...",
-            "popularity": 1.5223,
-            "poster_path": "/5EwRXLnCVDmgCIbBe6Pt4BjkDTZ.jpg",
-            "release_date": "1983-05-21",
-            "title": "Les Quatre s\u0153urs Makioka",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 48,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 140,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aTiarj2HriXg3EQROAuyRvHlf0V.jpg",
-            "id": 8992,
+            "backdrop_path": "/gErkgBa235TaRAdoCSLdRFk82g8.jpg",
+            "id": 41166,
             "original_language": "en",
-            "original_title": "The Sure Thing",
-            "overview": "Un dragueur inv\u00e9t\u00e9r\u00e9 et l'\u00e9tudiante qui l'a repouss\u00e9 se retrouvent pour un voyage impr\u00e9vu.",
-            "popularity": 1.6536,
-            "poster_path": "/8RkrisYGllVBmARCWdbhvQAqcH2.jpg",
-            "release_date": "1985-03-01",
-            "title": "Gar\u00e7on choc pour nana chic",
+            "original_title": "Plenty",
+            "overview": "En France, durant la Seconde Guerre mondiale, Susan Traherne sert d'agent de liaison entre les parachutistes anglais et la r\u00e9sistance fran\u00e7aise. La guerre \u00e9tant finie, elle est persuad\u00e9e que d\u00e9sormais rien ne sera comme avant, Susan veut faire bouger les choses, aller de l'avant. Mais elle retombe vite dans la routine de la vie quotidienne.",
+            "popularity": 2.0346,
+            "poster_path": "/x45XteYF8kw1GvwHWgJ2Kizyfnq.jpg",
+            "release_date": "1985-09-20",
+            "title": "Plenty",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 311,
+            "vote_average": 5.7,
+            "vote_count": 47,
             "genres": [
-                "Com\u00e9die",
                 "Drame",
                 "Romance"
             ],
-            "runtime": 95,
-            "tagline": "5 000 Km de gal\u00e8re pour un plan d'enfer, \u00e7a m\u00e9rite le respect..."
+            "tagline": "",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -784,7 +761,7 @@
             "original_language": "en",
             "original_title": "Jagged Edge",
             "overview": "L'h\u00e9riti\u00e8re d'une riche famille de San Francisco est sauvagement assassin\u00e9e dans sa luxueuse villa. Son mari, Jack Forrester,  est rapidement accus\u00e9 de son meurtre mais l'accusation ne repose que sur des pr\u00e9somptions. Teddy Barnes accepte de prendre sa d\u00e9fense mais tombe sous son charme...",
-            "popularity": 1.1142,
+            "popularity": 0.9481,
             "poster_path": "/b9nvMNAeIeiC9MAA5p9Px2DeihO.jpg",
             "release_date": "1985-10-04",
             "title": "\u00c0 double tranchant",
@@ -794,8 +771,30 @@
             "genres": [
                 "Thriller"
             ],
-            "runtime": 108,
-            "tagline": "Lorsqu'une affaire de meurtre est aussi choquante, \u00e0 qui faites-vous confiance ... vos \u00e9motions ou les preuves?"
+            "tagline": "Lorsqu'une affaire de meurtre est aussi choquante, \u00e0 qui faites-vous confiance ... vos \u00e9motions ou les preuves?",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/depMebS7tRuR8ebxghxdkIlnX3s.jpg",
+            "id": 11904,
+            "original_language": "en",
+            "original_title": "Young Sherlock Holmes",
+            "overview": "Londres, en 1870. John Watson, fils d'un m\u00e9decin de campagne fra\u00eechement d\u00e9barqu\u00e9 de ses solitudes provinciales, d\u00e9couvre les couloirs et les brumes de son nouveau coll\u00e8ge. Il se retrouve nez \u00e0 nez avec un curieux hurluberlu, son nouveau condisciple, qui semble tout savoir de lui sans l'avoir pourtant jamais rencontr\u00e9. Ainsi na\u00eet une amiti\u00e9. Watson d\u00e9couvre rapidement que son nouveau compagnon, Sherlock Holmes, se pique de r\u00e9soudre les \u00e9nigmes les plus extravagantes et qu'aiguillonn\u00e9 par son rival dans le c\u0153ur de la belle Elizabeth, Dudley, il se r\u00e9v\u00e8le fort capable de devancer la police dans la solution d'un curieux suicide. L'oncle d'Elizabeth venant \u00e0 mourir, victime d'une sarbacane, le trio reprend du service, en d\u00e9pit des protestations de Watson, qui voudrait bien devenir m\u00e9decin\u2026",
+            "popularity": 1.6497,
+            "poster_path": "/zDRoaByYO73FX7KR6NMLIDvsE8I.jpg",
+            "release_date": "1985-12-04",
+            "title": "Le Secret de la pyramide",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 681,
+            "genres": [
+                "Myst\u00e8re",
+                "Aventure",
+                "Thriller"
+            ],
+            "tagline": "La premi\u00e8re aventure de Sherlock Holmes.",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -804,7 +803,7 @@
             "original_language": "en",
             "original_title": "Mad Max Beyond Thunderdome",
             "overview": "Max, de retour, s'est fait d\u00e9pouiller de son maigre bien. Suivant le voleur, il arrive \u00e0 la Ville du Troc, o\u00f9 r\u00e8gne Entity. Celle-ci l'engage pour qu'il la d\u00e9barrasse de Master et Blaster, rois du Monde souterrain. N'ayant voulu tuer Blaster, Max est abandonn\u00e9 en plein d\u00e9sert, d'o\u00f9 il ressurgit \u00e0 la t\u00eate d'une troupe d'enfants pour faire exploser la Ville du Troc.",
-            "popularity": 5.6841,
+            "popularity": 4.7766,
             "poster_path": "/fHo2AJ9brsXKWbYJ2LA087UDBwZ.jpg",
             "release_date": "1985-06-29",
             "title": "Mad Max :  Au-del\u00e0 du d\u00f4me du tonnerre",
@@ -816,50 +815,51 @@
                 "Aventure",
                 "Science-Fiction"
             ],
-            "runtime": 107,
-            "tagline": "Deux hommes entrent. Un homme sort."
+            "tagline": "Deux hommes entrent. Un homme sort.",
+            "runtime": 107
         },
         {
             "adult": false,
-            "backdrop_path": "/nEs4WAMmfsywZWLkJHtKQh3LDpa.jpg",
-            "id": 16082,
+            "backdrop_path": "/aTiarj2HriXg3EQROAuyRvHlf0V.jpg",
+            "id": 8992,
             "original_language": "en",
-            "original_title": "White Nights",
-            "overview": "Ancien danseur-\u00e9toile du Kirov qui a fuit la Russie il y a dix ans, Nikolai Rodchenko se voit contraint, lors d'une de ses tourn\u00e9es, de retourner dans son pays natal. Il y fait la connaissance de Raymond Greenwood, danseur am\u00e9ricain. Il lui demande de l'aider \u00e0 repasser de nouveau \u00e0 l'Ouest\u2026",
-            "popularity": 2.4461,
-            "poster_path": "/rnJ7oli5k2aUerETKokwSJqoPh.jpg",
-            "release_date": "1985-11-22",
-            "title": "Soleil de nuit",
+            "original_title": "The Sure Thing",
+            "overview": "Un dragueur inv\u00e9t\u00e9r\u00e9 et l'\u00e9tudiante qui l'a repouss\u00e9 se retrouvent pour un voyage impr\u00e9vu.",
+            "popularity": 2.0369,
+            "poster_path": "/8RkrisYGllVBmARCWdbhvQAqcH2.jpg",
+            "release_date": "1985-03-01",
+            "title": "Gar\u00e7on choc pour nana chic",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 138,
+            "vote_average": 6.5,
+            "vote_count": 311,
             "genres": [
+                "Com\u00e9die",
                 "Drame",
-                "Thriller"
+                "Romance"
             ],
-            "runtime": 136,
-            "tagline": "Trois vies, deux mondes, un r\u00eave : la Libert\u00e9."
+            "tagline": "5 000 Km de gal\u00e8re pour un plan d'enfer, \u00e7a m\u00e9rite le respect...",
+            "runtime": 95
         },
         {
             "adult": false,
-            "backdrop_path": "/gErkgBa235TaRAdoCSLdRFk82g8.jpg",
-            "id": 41166,
-            "original_language": "en",
-            "original_title": "Plenty",
-            "overview": "En France, durant la Seconde Guerre mondiale, Susan Traherne sert d'agent de liaison entre les parachutistes anglais et la r\u00e9sistance fran\u00e7aise. La guerre \u00e9tant finie, elle est persuad\u00e9e que d\u00e9sormais rien ne sera comme avant, Susan veut faire bouger les choses, aller de l'avant. Mais elle retombe vite dans la routine de la vie quotidienne.",
-            "popularity": 2.2395,
-            "poster_path": "/x45XteYF8kw1GvwHWgJ2Kizyfnq.jpg",
-            "release_date": "1985-09-20",
-            "title": "Plenty",
+            "backdrop_path": "/sPyvoKH0K1pu2ENXibRXJWzCREM.jpg",
+            "id": 42116,
+            "original_language": "ja",
+            "original_title": "\u7d30\u96ea",
+            "overview": "Les quatre s\u0153urs Makioka tentent de pr\u00e9server le prestige de leur nom. Depuis que leurs parents sont d\u00e9c\u00e9d\u00e9s, les deux a\u00een\u00e9es ont pris en charge les deux cadettes, essayant de leur trouver un \u00e9poux. Mais les deux jeunes filles, chacune \u00e0 leur mani\u00e8re, se montrent r\u00e9ticentes \u00e0 se conformer aux obligations que leur imposent les traditions...",
+            "popularity": 1.5562,
+            "poster_path": "/5EwRXLnCVDmgCIbBe6Pt4BjkDTZ.jpg",
+            "release_date": "1983-05-21",
+            "title": "Les Quatre s\u0153urs Makioka",
             "video": false,
-            "vote_average": 5.7,
-            "vote_count": 47,
+            "vote_average": 7.4,
+            "vote_count": 48,
             "genres": [
                 "Drame",
                 "Romance"
             ],
-            "runtime": 124,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 140
         }
     ]
 }

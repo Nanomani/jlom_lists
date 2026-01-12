@@ -4,9 +4,30 @@
     "source": "https://criticstop10.com/best-movies-of-1929/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/lAhQmZJkcL3CjIyfzA3cDQeOLo.jpg",
+            "id": 84274,
+            "original_language": "en",
+            "original_title": "Disraeli",
+            "overview": "",
+            "popularity": 1.2168,
+            "poster_path": "/uVTmxQJp0sqBujbieSTrB2ui9al.jpg",
+            "release_date": "1929-11-01",
+            "title": "Disraeli",
+            "video": false,
+            "vote_average": 5.037,
+            "vote_count": 27,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 90
+        },
         {
             "adult": false,
             "backdrop_path": "/tEAEturRMtH4uY3wq2xvlINgiVj.jpg",
@@ -14,7 +35,7 @@
             "original_language": "en",
             "original_title": "The Broadway Melody",
             "overview": "Harriet et Queenie Mahoney, artistes de music-hall, viennent \u00e0 Broadway, o\u00f9 leur ami Eddie Kerns a besoin d'elles pour son spectacle. Eddie a \u00e9t\u00e9 amoureux d'Harriet, mais quand il rencontre Queenie, il tombe amoureux d'elle, mais celle-ci est courtis\u00e9e par Jock Warriner, un membre de la haute soci\u00e9t\u00e9 new-yorkaise.",
-            "popularity": 0.7926,
+            "popularity": 0.7729,
             "poster_path": "/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg",
             "release_date": "1929-02-08",
             "title": "Broadway Melody",
@@ -26,8 +47,28 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 101,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/whTHWiO7lXjMEXrO1fO6CwIhMd.jpg",
+            "id": 39075,
+            "original_language": "en",
+            "original_title": "Madame X",
+            "overview": "",
+            "popularity": 0.2486,
+            "poster_path": "/lUYtRWapt7UuqpEdVDPAY7iolHL.jpg",
+            "release_date": "1929-08-17",
+            "title": "Madame X",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 9,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -36,7 +77,7 @@
             "original_language": "en",
             "original_title": "Rio Rita",
             "overview": "",
-            "popularity": 1.8551,
+            "popularity": 1.4457,
             "poster_path": "/t0hiEf3xUorLbBWhGdhG3sVKvyr.jpg",
             "release_date": "1929-09-15",
             "title": "Rio Rita",
@@ -48,111 +89,29 @@
                 "Western",
                 "Musique"
             ],
-            "runtime": 140,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 140
         },
         {
             "adult": false,
-            "backdrop_path": "/8uGdBq7LE35IYrs5R05ANDO62yQ.jpg",
-            "id": 339806,
+            "backdrop_path": "/hNMCWNWVQlWgKKuRDeydmBL9Qmc.jpg",
+            "id": 44670,
             "original_language": "en",
-            "original_title": "The Cock-Eyed World",
+            "original_title": "Gold Diggers of Broadway",
             "overview": "",
-            "popularity": 0.5098,
-            "poster_path": "/7b7udJ52rm6o4soovuXgPZOAOC2.jpg",
-            "release_date": "1929-10-19",
-            "title": "The Cock-Eyed World",
+            "popularity": 0.1557,
+            "poster_path": "/hnoFrQmHJ7Uxj42oghx709LOo5a.jpg",
+            "release_date": "1929-08-30",
+            "title": "Gold Diggers of Broadway",
             "video": false,
-            "vote_average": 4.0,
-            "vote_count": 4,
+            "vote_average": 7.0,
+            "vote_count": 2,
             "genres": [
-                "Musique",
-                "Com\u00e9die"
+                "Com\u00e9die",
+                "Musique"
             ],
-            "runtime": 118,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/VRjzMGnGuAXycd1alavkwgAqQJ.jpg",
-            "id": 83989,
-            "original_language": "en",
-            "original_title": "In Old Arizona",
-            "overview": "",
-            "popularity": 0.2561,
-            "poster_path": "/x1XSQeLUdoi72P5UOXqAyL46B9a.jpg",
-            "release_date": "1928-12-25",
-            "title": "In Old Arizona",
-            "video": false,
-            "vote_average": 5.3,
-            "vote_count": 30,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 95,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/lAhQmZJkcL3CjIyfzA3cDQeOLo.jpg",
-            "id": 84274,
-            "original_language": "en",
-            "original_title": "Disraeli",
-            "overview": "",
-            "popularity": 1.353,
-            "poster_path": "/uVTmxQJp0sqBujbieSTrB2ui9al.jpg",
-            "release_date": "1929-11-01",
-            "title": "Disraeli",
-            "video": false,
-            "vote_average": 5.037,
-            "vote_count": 27,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aYm06AmXLNbWMPacucu34e25tpI.jpg",
-            "id": 72856,
-            "original_language": "en",
-            "original_title": "Hallelujah",
-            "overview": "Venu en ville negocier la vente de la recolte de coton, un jeune paysan tombe amoureux d'une fille cupide.",
-            "popularity": 0.2608,
-            "poster_path": "/eRRhrNMQkYLq90ZvwDqqMMebZWB.jpg",
-            "release_date": "1929-08-20",
-            "title": "Hallelujah",
-            "video": false,
-            "vote_average": 6.7,
-            "vote_count": 36,
-            "genres": [
-                "Musique",
-                "Drame"
-            ],
-            "runtime": 109,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/whTHWiO7lXjMEXrO1fO6CwIhMd.jpg",
-            "id": 39075,
-            "original_language": "en",
-            "original_title": "Madame X",
-            "overview": "",
-            "popularity": 0.2365,
-            "poster_path": "/lUYtRWapt7UuqpEdVDPAY7iolHL.jpg",
-            "release_date": "1929-08-17",
-            "title": "Madame X",
-            "video": false,
-            "vote_average": 6.1,
-            "vote_count": 9,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
         },
         {
             "adult": false,
@@ -161,7 +120,7 @@
             "original_language": "en",
             "original_title": "Bulldog Drummond",
             "overview": "",
-            "popularity": 1.84,
+            "popularity": 1.669,
             "poster_path": "/7pN3nEDQBfQRjrtgOwJ3WBBm23F.jpg",
             "release_date": "1929-05-02",
             "title": "Bulldog Drummond",
@@ -173,29 +132,49 @@
                 "Thriller",
                 "Drame"
             ],
-            "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
-            "backdrop_path": "/hNMCWNWVQlWgKKuRDeydmBL9Qmc.jpg",
-            "id": 44670,
+            "backdrop_path": "/VRjzMGnGuAXycd1alavkwgAqQJ.jpg",
+            "id": 83989,
             "original_language": "en",
-            "original_title": "Gold Diggers of Broadway",
+            "original_title": "In Old Arizona",
             "overview": "",
-            "popularity": 0.1219,
-            "poster_path": "/hnoFrQmHJ7Uxj42oghx709LOo5a.jpg",
-            "release_date": "1929-08-30",
-            "title": "Gold Diggers of Broadway",
+            "popularity": 0.3642,
+            "poster_path": "/x1XSQeLUdoi72P5UOXqAyL46B9a.jpg",
+            "release_date": "1928-12-25",
+            "title": "In Old Arizona",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 2,
+            "vote_average": 5.3,
+            "vote_count": 30,
             "genres": [
-                "Com\u00e9die",
-                "Musique"
+                "Western"
             ],
-            "runtime": 101,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8uGdBq7LE35IYrs5R05ANDO62yQ.jpg",
+            "id": 339806,
+            "original_language": "en",
+            "original_title": "The Cock-Eyed World",
+            "overview": "",
+            "popularity": 0.3959,
+            "poster_path": "/7b7udJ52rm6o4soovuXgPZOAOC2.jpg",
+            "release_date": "1929-10-19",
+            "title": "The Cock-Eyed World",
+            "video": false,
+            "vote_average": 4.0,
+            "vote_count": 4,
+            "genres": [
+                "Musique",
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -204,7 +183,7 @@
             "original_language": "en",
             "original_title": "The Last of Mrs. Cheyney",
             "overview": "",
-            "popularity": 0.1474,
+            "popularity": 0.1227,
             "poster_path": "/rqCEIEtvVVpW3yltemtU9HpHfNu.jpg",
             "release_date": "1929-07-06",
             "title": "The Last of Mrs. Cheyney",
@@ -215,8 +194,29 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYm06AmXLNbWMPacucu34e25tpI.jpg",
+            "id": 72856,
+            "original_language": "en",
+            "original_title": "Hallelujah",
+            "overview": "Venu en ville negocier la vente de la recolte de coton, un jeune paysan tombe amoureux d'une fille cupide.",
+            "popularity": 0.2212,
+            "poster_path": "/eRRhrNMQkYLq90ZvwDqqMMebZWB.jpg",
+            "release_date": "1929-08-20",
+            "title": "Hallelujah",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 36,
+            "genres": [
+                "Musique",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -225,7 +225,7 @@
             "original_language": "en",
             "original_title": "The Lady Lies",
             "overview": "",
-            "popularity": 1.4307,
+            "popularity": 1.4208,
             "poster_path": "/mUia3Sx0XFWvkUzVM5XuZJAY2jr.jpg",
             "release_date": "1929-09-21",
             "title": "The Lady Lies",
@@ -235,8 +235,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 73,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 73
         },
         {
             "adult": false,
@@ -245,7 +245,7 @@
             "original_language": "en",
             "original_title": "The Letter",
             "overview": "",
-            "popularity": 1.2993,
+            "popularity": 0.9755,
             "poster_path": "/w9meVsSbjXc0dnWqrqxs8NwXd91.jpg",
             "release_date": "1929-03-17",
             "title": "The Letter",
@@ -255,8 +255,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 65,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 65
         },
         {
             "adult": false,
@@ -265,7 +265,7 @@
             "original_language": "en",
             "original_title": "The Virginian",
             "overview": "Un cow-boy poursuit une bande de voleurs de betail a laquelle appartient son meilleur ami.",
-            "popularity": 1.812,
+            "popularity": 1.4563,
             "poster_path": "/6RX4GfCawXHtd0WMrHz5nSzXv7i.jpg",
             "release_date": "1929-11-09",
             "title": "The Virginian",
@@ -275,28 +275,89 @@
             "genres": [
                 "Western"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
-            "backdrop_path": "/yW79n4Hotw22QQxL6dxRHRNMPev.jpg",
-            "id": 91715,
+            "backdrop_path": "/19zoEjbkD4kjEAPKlhudF0l0rgX.jpg",
+            "id": 243549,
             "original_language": "en",
-            "original_title": "The Taming of the Shrew",
+            "original_title": "They Had to See Paris",
             "overview": "",
-            "popularity": 0.1794,
-            "poster_path": "/rjFHAo0Fy88KXSWJ9a8T0NtOx1n.jpg",
-            "release_date": "1929-10-26",
-            "title": "The Taming of the Shrew",
+            "popularity": 1.0889,
+            "poster_path": "/dEKlEIsnHn4ugsrLYTmfnrJhfSC.jpg",
+            "release_date": "1929-09-18",
+            "title": "They Had to See Paris",
             "video": false,
-            "vote_average": 5.4,
-            "vote_count": 12,
+            "vote_average": 5.9,
+            "vote_count": 7,
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 63,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gpQ7c3unSp5hWai6ecjb7FoJcBN.jpg",
+            "id": 366007,
+            "original_language": "en",
+            "original_title": "Gentlemen of the Press",
+            "overview": "",
+            "popularity": 4.1324,
+            "poster_path": "/bo9mIItKNgTbSgXcS4whn9zRmwK.jpg",
+            "release_date": "1929-05-04",
+            "title": "Gentlemen of the Press",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 1,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b1Lmbk9rPU9h2SH50ASRkd1P7e5.jpg",
+            "id": 20625,
+            "original_language": "en",
+            "original_title": "The Cocoanuts",
+            "overview": "Un agent immobilier malhonn\u00eate et ses deux complices s\u00e8ment le d\u00e9sordre \u00e0 Cocoanut Grove en essayant de vendre des terrains mar\u00e9cageux.",
+            "popularity": 2.1225,
+            "poster_path": "/xfiyCaWDfftKHzft2MKxAFFwHYL.jpg",
+            "release_date": "1929-05-23",
+            "title": "Noix de coco",
+            "video": false,
+            "vote_average": 6.459,
+            "vote_count": 121,
+            "genres": [
+                "Com\u00e9die",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eXDSLB4e3xAPAYOj3GBPdOdmmHG.jpg",
+            "id": 120540,
+            "original_language": "en",
+            "original_title": "The Trial of Mary Dugan",
+            "overview": "",
+            "popularity": 0.1666,
+            "poster_path": "/purHowehWfVqiwbgc0RFmoVvu1H.jpg",
+            "release_date": "1929-06-08",
+            "title": "The Trial of Mary Dugan",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 3,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -305,7 +366,7 @@
             "original_language": "en",
             "original_title": "Wings",
             "overview": "Deux jeunes pilotes amoureux de la meme femme s'engagent dans l'armee de l'air durant la Premiere Guerre mondiale.",
-            "popularity": 2.8217,
+            "popularity": 2.5883,
             "poster_path": "/kEl6KCBgdmT1Nex3ka0EIWAOmtm.jpg",
             "release_date": "1927-08-12",
             "title": "Les Ailes",
@@ -318,48 +379,8 @@
                 "Guerre",
                 "Romance"
             ],
-            "runtime": 150,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/gpQ7c3unSp5hWai6ecjb7FoJcBN.jpg",
-            "id": 366007,
-            "original_language": "en",
-            "original_title": "Gentlemen of the Press",
-            "overview": "",
-            "popularity": 3.1232,
-            "poster_path": "/bo9mIItKNgTbSgXcS4whn9zRmwK.jpg",
-            "release_date": "1929-05-04",
-            "title": "Gentlemen of the Press",
-            "video": false,
-            "vote_average": 5.0,
-            "vote_count": 1,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 80,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/19zoEjbkD4kjEAPKlhudF0l0rgX.jpg",
-            "id": 243549,
-            "original_language": "en",
-            "original_title": "They Had to See Paris",
-            "overview": "",
-            "popularity": 0.9761,
-            "poster_path": "/dEKlEIsnHn4ugsrLYTmfnrJhfSC.jpg",
-            "release_date": "1929-09-18",
-            "title": "They Had to See Paris",
-            "video": false,
-            "vote_average": 5.9,
-            "vote_count": 7,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 150
         },
         {
             "adult": false,
@@ -368,7 +389,7 @@
             "original_language": "en",
             "original_title": "Show Boat",
             "overview": "",
-            "popularity": 1.0917,
+            "popularity": 0.9757,
             "poster_path": "/psMrD853qs9CGITFjFlr5eoycXT.jpg",
             "release_date": "1929-07-27",
             "title": "Show Boat",
@@ -378,49 +399,28 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 146,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 146
         },
         {
             "adult": false,
-            "backdrop_path": "/eXDSLB4e3xAPAYOj3GBPdOdmmHG.jpg",
-            "id": 120540,
+            "backdrop_path": "/yW79n4Hotw22QQxL6dxRHRNMPev.jpg",
+            "id": 91715,
             "original_language": "en",
-            "original_title": "The Trial of Mary Dugan",
+            "original_title": "The Taming of the Shrew",
             "overview": "",
-            "popularity": 0.1523,
-            "poster_path": "/purHowehWfVqiwbgc0RFmoVvu1H.jpg",
-            "release_date": "1929-06-08",
-            "title": "The Trial of Mary Dugan",
+            "popularity": 0.18,
+            "poster_path": "/rjFHAo0Fy88KXSWJ9a8T0NtOx1n.jpg",
+            "release_date": "1929-10-26",
+            "title": "The Taming of the Shrew",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 3,
+            "vote_average": 5.4,
+            "vote_count": 12,
             "genres": [
-                "Drame"
+                "Com\u00e9die"
             ],
-            "runtime": 114,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/b1Lmbk9rPU9h2SH50ASRkd1P7e5.jpg",
-            "id": 20625,
-            "original_language": "en",
-            "original_title": "The Cocoanuts",
-            "overview": "Un agent immobilier malhonn\u00eate et ses deux complices s\u00e8ment le d\u00e9sordre \u00e0 Cocoanut Grove en essayant de vendre des terrains mar\u00e9cageux.",
-            "popularity": 2.5657,
-            "poster_path": "/xfiyCaWDfftKHzft2MKxAFFwHYL.jpg",
-            "release_date": "1929-05-23",
-            "title": "Noix de coco",
-            "video": false,
-            "vote_average": 6.459,
-            "vote_count": 121,
-            "genres": [
-                "Com\u00e9die",
-                "Musique"
-            ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 63
         },
         {
             "adult": false,
@@ -429,7 +429,7 @@
             "original_language": "en",
             "original_title": "Alibi",
             "overview": "",
-            "popularity": 0.2069,
+            "popularity": 0.2025,
             "poster_path": "/2C3ZDxVrOVafzNoOVrxsNQDiHey.jpg",
             "release_date": "1929-04-20",
             "title": "Alibi",
@@ -440,8 +440,8 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -450,7 +450,7 @@
             "original_language": "en",
             "original_title": "Welcome Danger",
             "overview": "Harold Bledsoe, \u00e9tudiant en botanique, est appel\u00e9 par la police de San Francisco, o\u00f9 son p\u00e8re a brill\u00e9 en tant que chef de la police durant de nombreuses ann\u00e9es, afin de r\u00e9soudre une affaire dans le quartier de Chinatown\u2026",
-            "popularity": 0.1366,
+            "popularity": 0.1253,
             "poster_path": "/yOYX74ymJkaNHArfWydsFt0Zf05.jpg",
             "release_date": "1929-10-12",
             "title": "Quel ph\u00e9nom\u00e8ne !",
@@ -460,8 +460,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 115,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -470,7 +470,7 @@
             "original_language": "en",
             "original_title": "The Desert Song",
             "overview": "",
-            "popularity": 3.075,
+            "popularity": 3.1777,
             "poster_path": "/pRnIACpVHsWcYlHxxGB69vhL4OT.jpg",
             "release_date": "1929-04-08",
             "title": "The Desert Song",
@@ -481,8 +481,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 123,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 123
         },
         {
             "adult": false,
@@ -491,7 +491,7 @@
             "original_language": "en",
             "original_title": "The Valiant",
             "overview": "",
-            "popularity": 2.3327,
+            "popularity": 1.9584,
             "poster_path": "/m9c3ZNBjtEh5gvg2ixYVbXLgPCi.jpg",
             "release_date": "1929-05-19",
             "title": "The Valiant",
@@ -501,8 +501,50 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 66,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zI1vCs12X1rxpT3BQs83TzDVyQA.jpg",
+            "id": 105852,
+            "original_language": "en",
+            "original_title": "The Dance of Life",
+            "overview": "",
+            "popularity": 0.1288,
+            "poster_path": "/moaU5Uv16hqmeQJhrL6I6VEpiZf.jpg",
+            "release_date": "1929-08-16",
+            "title": "The Dance of Life",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 11,
+            "genres": [
+                "Romance",
+                "Drame",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wRvxb5hOgJdBZevFEn0EZSeJOed.jpg",
+            "id": 85507,
+            "original_language": "en",
+            "original_title": "Coquette",
+            "overview": "",
+            "popularity": 1.1249,
+            "poster_path": "/55WVe0RBtaLADx7VW4dpKPTeYeq.jpg",
+            "release_date": "1929-03-30",
+            "title": "Coquette",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 30,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 76
         },
         {
             "adult": false,
@@ -511,7 +553,7 @@
             "original_language": "en",
             "original_title": "Sunny Side Up",
             "overview": "",
-            "popularity": 0.8922,
+            "popularity": 1.0262,
             "poster_path": "/vPINZiaEZg8R2cVIGQvsBYCCEcL.jpg",
             "release_date": "1929-12-25",
             "title": "Sunny Side Up",
@@ -523,8 +565,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 121,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 121
         },
         {
             "adult": false,
@@ -533,7 +575,7 @@
             "original_language": "en",
             "original_title": "The Doctor's Secret",
             "overview": "",
-            "popularity": 0.4995,
+            "popularity": 0.8068,
             "poster_path": "/cN9vxlPI3MNj1bEQCVnVbG40tzR.jpg",
             "release_date": "1929-01-26",
             "title": "The Doctor's Secret",
@@ -543,8 +585,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 61,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 61
         },
         {
             "adult": false,
@@ -553,7 +595,7 @@
             "original_language": "en",
             "original_title": "General Crack",
             "overview": "",
-            "popularity": 1.5985,
+            "popularity": 1.3559,
             "poster_path": "/raIocnZCwlloCn4MHTUJzm0ybwe.jpg",
             "release_date": "1929-12-16",
             "title": "General Crack",
@@ -567,28 +609,8 @@
                 "Romance",
                 "Guerre"
             ],
-            "runtime": 97,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wRvxb5hOgJdBZevFEn0EZSeJOed.jpg",
-            "id": 85507,
-            "original_language": "en",
-            "original_title": "Coquette",
-            "overview": "",
-            "popularity": 1.3307,
-            "poster_path": "/55WVe0RBtaLADx7VW4dpKPTeYeq.jpg",
-            "release_date": "1929-03-30",
-            "title": "Coquette",
-            "video": false,
-            "vote_average": 5.7,
-            "vote_count": 30,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 76,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 97
         },
         {
             "adult": false,
@@ -597,7 +619,7 @@
             "original_language": "en",
             "original_title": "Drag",
             "overview": "",
-            "popularity": 0.8563,
+            "popularity": 0.6983,
             "poster_path": "/qUc48aiBs6cNk4r865dUOvUM6SF.jpg",
             "release_date": "1929-07-21",
             "title": "Drag",
@@ -607,30 +629,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 85,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zI1vCs12X1rxpT3BQs83TzDVyQA.jpg",
-            "id": 105852,
-            "original_language": "en",
-            "original_title": "The Dance of Life",
-            "overview": "",
-            "popularity": 0.1444,
-            "poster_path": "/moaU5Uv16hqmeQJhrL6I6VEpiZf.jpg",
-            "release_date": "1929-08-16",
-            "title": "The Dance of Life",
-            "video": false,
-            "vote_average": 5.5,
-            "vote_count": 11,
-            "genres": [
-                "Romance",
-                "Drame",
-                "Musique"
-            ],
-            "runtime": 115,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 85
         },
         {
             "adult": false,
@@ -639,7 +639,7 @@
             "original_language": "en",
             "original_title": "The Bridge of San Luis Rey",
             "overview": "",
-            "popularity": 0.1495,
+            "popularity": 0.1793,
             "poster_path": "/iiHIrhue0jDvcY4TMa0rUIuzjy9.jpg",
             "release_date": "1929-03-30",
             "title": "The Bridge of San Luis Rey",
@@ -649,8 +649,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 87,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 87
         },
         {
             "adult": false,
@@ -659,7 +659,7 @@
             "original_language": "en",
             "original_title": "Thunderbolt",
             "overview": "",
-            "popularity": 0.8867,
+            "popularity": 0.6827,
             "poster_path": "/8eFNGOZn5c7lUyObcR8tdH9SbOW.jpg",
             "release_date": "1929-06-20",
             "title": "Thunderbolt",
@@ -670,8 +670,8 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -680,7 +680,7 @@
             "original_language": "en",
             "original_title": "Flight",
             "overview": "Lefty s'engage dans les Marines o\u00f9 il devient ami avec le plus \u00e2g\u00e9, Williams. Leur complicit\u00e9 est en p\u00e9ril car tous les deux partagent leur int\u00e9r\u00eat pour la m\u00eame femme.",
-            "popularity": 1.2869,
+            "popularity": 1.0768,
             "poster_path": "/2ifg7zZlsasM0tWlJ1Dx5ODCCXC.jpg",
             "release_date": "1929-09-14",
             "title": "Les mousquetaires de l'air",
@@ -691,29 +691,8 @@
                 "Aventure",
                 "Action"
             ],
-            "runtime": 110,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zCr8lkniyB5CcqTAOptBWc4jSrr.jpg",
-            "id": 104485,
-            "original_language": "en",
-            "original_title": "The Four Feathers",
-            "overview": "",
-            "popularity": 0.2545,
-            "poster_path": "/68vJHAczs2advscjed2edIbFEKd.jpg",
-            "release_date": "1929-06-01",
-            "title": "The Four Feathers",
-            "video": false,
-            "vote_average": 4.4,
-            "vote_count": 7,
-            "genres": [
-                "Drame",
-                "Aventure"
-            ],
-            "runtime": 81,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -722,7 +701,7 @@
             "original_language": "en",
             "original_title": "On With the Show!",
             "overview": "",
-            "popularity": 0.1174,
+            "popularity": 0.1696,
             "poster_path": "/2ayf8j4883ulZIQf0sgQuSbXIgb.jpg",
             "release_date": "1929-07-13",
             "title": "On With the Show!",
@@ -733,8 +712,29 @@
                 "Romance",
                 "Musique"
             ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zCr8lkniyB5CcqTAOptBWc4jSrr.jpg",
+            "id": 104485,
+            "original_language": "en",
+            "original_title": "The Four Feathers",
+            "overview": "",
+            "popularity": 0.284,
+            "poster_path": "/68vJHAczs2advscjed2edIbFEKd.jpg",
+            "release_date": "1929-06-01",
+            "title": "The Four Feathers",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 7,
+            "genres": [
+                "Drame",
+                "Aventure"
+            ],
+            "tagline": "",
+            "runtime": 81
         },
         {
             "adult": false,
@@ -743,7 +743,7 @@
             "original_language": "en",
             "original_title": "Paris Bound",
             "overview": "",
-            "popularity": 2.3094,
+            "popularity": 1.8446,
             "poster_path": "/thadNzQGlH6mjQw4V0eIBkZtfMl.jpg",
             "release_date": "1929-08-03",
             "title": "Paris Bound",
@@ -754,29 +754,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 73,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kLMl1x2AzmYH3jy6xa4AXJcIdlB.jpg",
-            "id": 171446,
-            "original_language": "en",
-            "original_title": "Weary River",
-            "overview": "",
-            "popularity": 1.0827,
-            "poster_path": "/m10r3v7Im2ZFpdz62Jqp8SO5HLt.jpg",
-            "release_date": "1929-02-10",
-            "title": "Weary River",
-            "video": false,
-            "vote_average": 5.7,
-            "vote_count": 12,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 86,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 73
         },
         {
             "adult": false,
@@ -785,7 +764,7 @@
             "original_language": "en",
             "original_title": "The Great Gabbo",
             "overview": "Gabbo est ventriloque. Bient\u00f4t, la relation qu'il entretient avec sa marionnette l'entra\u00eene vers la folie.",
-            "popularity": 0.1578,
+            "popularity": 0.1582,
             "poster_path": "/pnEXHaii4Kw7RmY0irO0FhcF4ua.jpg",
             "release_date": "1929-09-12",
             "title": "Gabbo le ventriloque",
@@ -797,8 +776,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 92,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kLMl1x2AzmYH3jy6xa4AXJcIdlB.jpg",
+            "id": 171446,
+            "original_language": "en",
+            "original_title": "Weary River",
+            "overview": "",
+            "popularity": 0.8338,
+            "poster_path": "/m10r3v7Im2ZFpdz62Jqp8SO5HLt.jpg",
+            "release_date": "1929-02-10",
+            "title": "Weary River",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 12,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -807,7 +807,7 @@
             "original_language": "en",
             "original_title": "Sonny Boy",
             "overview": "",
-            "popularity": 1.0598,
+            "popularity": 0.8416,
             "poster_path": "/nwW1rXbpwUB7XGXMSCofKKhzgrB.jpg",
             "release_date": "1929-04-18",
             "title": "Sonny Boy",
@@ -817,8 +817,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 70,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 70
         },
         {
             "adult": false,
@@ -827,7 +827,7 @@
             "original_language": "en",
             "original_title": "Condemned!",
             "overview": "Colman, un gentleman cambrioleur, est envoy\u00e9 en prison \u00e0 Devil's Island, o\u00f9 il tombe amoureux de la femme du directeur sadique Digges.",
-            "popularity": 0.1492,
+            "popularity": 0.0887,
             "poster_path": "/nbOOViVVKb2A3Bw7P2Dto8P6N9r.jpg",
             "release_date": "1929-11-03",
             "title": "Condamn\u00e9",
@@ -839,8 +839,8 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 86,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -849,7 +849,7 @@
             "original_language": "en",
             "original_title": "The Iron Mask",
             "overview": "Ann\u00e9e 1638, la cour de France est en effervescence. Le Roi annonce la naissance de son fils, le Dauphin, futur Louis XIV. Mais cet enfant a un fr\u00e8re jumeau que le cardinal Richelieu s\u2019empresse de cacher aux yeux du monde en le remettant \u00e0 un homme de confiance. Et pour que ce terrible secret ne soit jamais r\u00e9v\u00e9l\u00e9, le second enfant devenu adulte portera un masque de fer qui couvrira son visage royal. Quelques ann\u00e9es plus tard, la France est en p\u00e9ril. Le roi Louis XIV ne se soucie gu\u00e8re de ses sujets, ne songeant qu\u2019\u00e0 son propre int\u00e9r\u00eat. Tout semble perdu jusqu\u2019au jour o\u00f9 le secret de l\u2019homme au masque de fer est r\u00e9v\u00e9l\u00e9 \u00e0 d\u2019Artagnan et les Trois Mousquetaires.  Respectant l\u2019esprit romanesque des romans du XIX\u00e8me si\u00e8cle, ce film allie faits historiques, actes de bravoure, histoires sentimentales, action et grandeur d\u2019\u00e2me.",
-            "popularity": 0.2671,
+            "popularity": 0.1754,
             "poster_path": "/cYn9CS7VRquMy66IA3wDGYuxaCV.jpg",
             "release_date": "1929-02-21",
             "title": "Le Masque de fer",
@@ -860,8 +860,8 @@
                 "Aventure",
                 "Histoire"
             ],
-            "runtime": 103,
-            "tagline": "La suite des aventures des \u00ab Trois Mousquetaires \u00bb !"
+            "tagline": "La suite des aventures des \u00ab Trois Mousquetaires \u00bb !",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -870,7 +870,7 @@
             "original_language": "en",
             "original_title": "Fox Movietone Follies of 1929",
             "overview": "",
-            "popularity": 0.1141,
+            "popularity": 0.1744,
             "poster_path": "/9Kpycvzq2TiItffkH7EqDpWnNai.jpg",
             "release_date": "1929-05-25",
             "title": "Fox Movietone Follies of 1929",
@@ -880,8 +880,8 @@
             "genres": [
                 "Musique"
             ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 80
         },
         {
             "adult": false,
@@ -890,7 +890,7 @@
             "original_language": "en",
             "original_title": "Hearts in Dixie",
             "overview": "",
-            "popularity": 0.1295,
+            "popularity": 0.151,
             "poster_path": "/7jIH5qTkcTSIxxEUFO0Q6YmjGFE.jpg",
             "release_date": "1929-01-02",
             "title": "Hearts in Dixie",
@@ -901,8 +901,8 @@
                 "Musique",
                 "Drame"
             ],
-            "runtime": 71,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 71
         },
         {
             "adult": false,
@@ -911,7 +911,7 @@
             "original_language": "en",
             "original_title": "Innocents of Paris",
             "overview": "",
-            "popularity": 1.153,
+            "popularity": 1.5673,
             "poster_path": "/l3VI8cleYW1CURhHNO5qKAto6Co.jpg",
             "release_date": "1929-01-02",
             "title": "Innocents of Paris",
@@ -922,48 +922,8 @@
                 "Romance",
                 "Musique"
             ],
-            "runtime": 78,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rASflX7N1agEOnBavP6E2Ytpsuo.jpg",
-            "id": 198164,
-            "original_language": "en",
-            "original_title": "Charming Sinners",
-            "overview": "",
-            "popularity": 0.9579,
-            "poster_path": "/5WwOVA41jarG1tWNZjYvfpVChhr.jpg",
-            "release_date": "1929-08-17",
-            "title": "Charming Sinners",
-            "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 66,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/k0OuFXdGRJ1krCkUF4MdbyX0alv.jpg",
-            "id": 423766,
-            "original_language": "en",
-            "original_title": "The Wolf of Wall Street",
-            "overview": "",
-            "popularity": 0.2944,
-            "poster_path": "/ueUAIuI5TH9LPA8NpJCOjlopz57.jpg",
-            "release_date": "1929-02-09",
-            "title": "The Wolf of Wall Street",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 3,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 78
         },
         {
             "adult": false,
@@ -972,7 +932,7 @@
             "original_language": "en",
             "original_title": "Young Nowheres",
             "overview": "",
-            "popularity": 0.0776,
+            "popularity": 0.0921,
             "poster_path": "/ojrfENtdrE1xiFEE1phNC38iWi5.jpg",
             "release_date": "1929-10-20",
             "title": "Young Nowheres",
@@ -983,28 +943,48 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 65,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 65
         },
         {
             "adult": false,
-            "backdrop_path": "/rrrSYBeAdZozQgSnwk7zM883FFg.jpg",
-            "id": 190334,
+            "backdrop_path": "/rASflX7N1agEOnBavP6E2Ytpsuo.jpg",
+            "id": 198164,
             "original_language": "en",
-            "original_title": "The Show of Shows",
+            "original_title": "Charming Sinners",
             "overview": "",
-            "popularity": 0.4296,
-            "poster_path": "/U9WtkLusVGEKfaWHnUfvWJmy43.jpg",
-            "release_date": "1929-11-21",
-            "title": "The Show of Shows",
+            "popularity": 0.7656,
+            "poster_path": "/5WwOVA41jarG1tWNZjYvfpVChhr.jpg",
+            "release_date": "1929-08-17",
+            "title": "Charming Sinners",
             "video": false,
-            "vote_average": 5.5,
-            "vote_count": 2,
+            "vote_average": 0.0,
+            "vote_count": 0,
             "genres": [
-                "Musique"
+                "Drame"
             ],
-            "runtime": 128,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k0OuFXdGRJ1krCkUF4MdbyX0alv.jpg",
+            "id": 423766,
+            "original_language": "en",
+            "original_title": "The Wolf of Wall Street",
+            "overview": "",
+            "popularity": 0.2678,
+            "poster_path": "/ueUAIuI5TH9LPA8NpJCOjlopz57.jpg",
+            "release_date": "1929-02-09",
+            "title": "The Wolf of Wall Street",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 3,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -1013,7 +993,7 @@
             "original_language": "en",
             "original_title": "Marianne",
             "overview": "",
-            "popularity": 1.1902,
+            "popularity": 0.9893,
             "poster_path": "/170CVRvX4XHe8EDcgHdFbGR74y0.jpg",
             "release_date": "1929-08-24",
             "title": "Marianne",
@@ -1025,8 +1005,28 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 111,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrrSYBeAdZozQgSnwk7zM883FFg.jpg",
+            "id": 190334,
+            "original_language": "en",
+            "original_title": "The Show of Shows",
+            "overview": "",
+            "popularity": 0.4684,
+            "poster_path": "/U9WtkLusVGEKfaWHnUfvWJmy43.jpg",
+            "release_date": "1929-11-21",
+            "title": "The Show of Shows",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2,
+            "genres": [
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -1035,7 +1035,7 @@
             "original_language": "en",
             "original_title": "Three Live Ghosts",
             "overview": "",
-            "popularity": 0.7946,
+            "popularity": 0.7381,
             "poster_path": "/1cXYePW07LY84kmbbiSX63y4P0l.jpg",
             "release_date": "1929-09-15",
             "title": "Three Live Ghosts",
@@ -1045,8 +1045,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 87,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 87
         }
     ]
 }

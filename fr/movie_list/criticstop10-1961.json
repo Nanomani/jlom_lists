@@ -4,200 +4,9 @@
     "source": "https://criticstop10.com/best-movies-of-1961/",
     "created_by": "lbnt",
     "added": "07/30/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
-            "id": 990,
-            "original_language": "en",
-            "original_title": "The Hustler",
-            "overview": "Eddie Felson est un brillant joueur de billard. Il se rend \u00e0 New York en compagnie de son manager et rencontre le l\u00e9gendaire champion, Minnesota Fats, poulain de Bert Gordon. Minnesota gagne apr\u00e8s une nuit de combat acharn\u00e9. Au petit matin, Eddie, ivre, rencontre une jeune femme d\u00e9s\u0153uvr\u00e9e et alcoolique avec laquelle il se met a vivre. Sarah va mettre sa vie en jeu pour l'aider mais il n'a finalement besoin que d'une victoire.",
-            "popularity": 4.3885,
-            "poster_path": "/uTsKrRVvufDQwjilnWdS7PKJk8h.jpg",
-            "release_date": "1961-09-25",
-            "title": "L'Arnaqueur",
-            "video": false,
-            "vote_average": 7.7,
-            "vote_count": 1038,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 135,
-            "tagline": "Ils l'appelaient Fast Eddie. C'\u00e9tait un gagnant. C'\u00e9tait un perdant. C'\u00e9tait un arnaqueur."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bDsXa3PV3biQ8ZK1tQyK4vlkvCc.jpg",
-            "id": 821,
-            "original_language": "en",
-            "original_title": "Judgment at Nuremberg",
-            "overview": "En 1948, le juge Haywood est envoy\u00e9 \u00e0 Nuremberg pour pr\u00e9sider le proc\u00e8s de quatre magistrats allemands accus\u00e9s de trop de complaisance \u00e0 l'\u00e9gard du r\u00e9gime Nazi. L'un d'eux, Janning, se renferme dans un silence m\u00e9prisant et, en \u00e9cartant les t\u00e9moignages et les films sur les camps de concentration, dit qu'il n'a fait qu'appliquer la loi en vigueur...",
-            "popularity": 2.8999,
-            "poster_path": "/ufA7vfLYMF46h9OQYCJbJroggdI.jpg",
-            "release_date": "1961-12-18",
-            "title": "Jugement \u00e0 Nuremberg",
-            "video": false,
-            "vote_average": 8.0,
-            "vote_count": 895,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 179,
-            "tagline": "Le proc\u00e8s le plus sombre de l'histoire de l'humanit\u00e9"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3VIlHshnxV6Vwxz6Ega6llvGZiF.jpg",
-            "id": 28569,
-            "original_language": "en",
-            "original_title": "Splendor in the Grass",
-            "overview": "En 1929, dans une petite ville du Kansas, Bud, fils d'un riche propri\u00e9taire, et Deanie, fille d'un petit actionnaire, s'aiment passionn\u00e9ment et songent \u00e0 se marier. Mais les pr\u00e9jug\u00e9s sont trop forts, et leurs parents s'opposent \u00e0 cette union...",
-            "popularity": 2.7669,
-            "poster_path": "/wzh9KoyOEF3CCFn0ZN2P6kSlsFA.jpg",
-            "release_date": "1961-10-10",
-            "title": "La Fi\u00e8vre dans le sang",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 290,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 120,
-            "tagline": "Il y a un miracle \u00e0 \u00eatre jeune... et une crainte."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
-            "id": 19186,
-            "original_language": "en",
-            "original_title": "The Parent Trap",
-            "overview": "Sharon McKendrick et Susan Evers sont des jumelles de onze ans s\u00e9par\u00e9es quand elles \u00e9taient enfants suite au divorce de leurs parents. Susan est \u00e9lev\u00e9e par son p\u00e8re en Californie, Sharon avec sa m\u00e8re et son grand-p\u00e8re \u00e0 Londres. Elles se retrouvent dans un camp de vacances et d\u00e9cident d'\u00e9changer leurs places \u00e0 la fin des vacances afin de r\u00e9unir leurs parents. Il faut pour cela qu'elles se d\u00e9barrassent de Vicky Robinson, bien d\u00e9cid\u00e9e \u00e0 \u00e9pouser leur p\u00e8re par pur int\u00e9r\u00eat.",
-            "popularity": 3.3404,
-            "poster_path": "/c9EVwGbTRkJbCFjAvImbUq59eJY.jpg",
-            "release_date": "1961-05-13",
-            "title": "La Fianc\u00e9e de papa",
-            "video": false,
-            "vote_average": 7.021,
-            "vote_count": 412,
-            "genres": [
-                "Com\u00e9die",
-                "Familial",
-                "Romance"
-            ],
-            "runtime": 123,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
-            "id": 1725,
-            "original_language": "en",
-            "original_title": "West Side Story",
-            "overview": "\u00c0 New York, dans les ann\u00e9es 1950, deux gangs de rue rivaux, les Jets (Am\u00e9ricains d'origine polonaise, irlandaise et italienne) et les Sharks (immigr\u00e9s d'origine portoricaine), font la loi dans le quartier du West Side. Ils se provoquent sans cesse, et s'affrontent \u00e0 l'occasion. Tony, ancien chef des Jets qui a maintenant pris ses distances avec le gang, et Maria, la s\u0153ur du chef des Sharks, tombent amoureux, mais le couple doit subir les forces oppos\u00e9es de leurs clans respectifs.",
-            "popularity": 2.6623,
-            "poster_path": "/oJ32zGnSUs9XOP3GdELMCraJwyF.jpg",
-            "release_date": "1961-12-13",
-            "title": "West Side Story",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 1989,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 151,
-            "tagline": "\u00ab Rom\u00e9o et Juliette \u00bb dans le New York des ann\u00e9es 1950."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9Knw79HXoPpHIqa9TscDlwbuRJV.jpg",
-            "id": 1941,
-            "original_language": "en",
-            "original_title": "Exodus",
-            "overview": "Le film suit la route de l'Exodus, le bateau qui amena les immigrants juifs en terre d'Isra\u00ebl apr\u00e8s la guerre, ainsi que les n\u00e9gociations avec les autorit\u00e9s britanniques. Le nouvel \u00c9tat d'Isra\u00ebl se voit par la suite attaqu\u00e9 de toutes parts.",
-            "popularity": 2.3109,
-            "poster_path": "/1JXFJRztd43gCf4TAodNUwkfZoi.jpg",
-            "release_date": "1960-12-15",
-            "title": "Exodus",
-            "video": false,
-            "vote_average": 6.68,
-            "vote_count": 217,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 208,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-            "id": 164,
-            "original_language": "en",
-            "original_title": "Breakfast at Tiffany's",
-            "overview": "Holly Golightly est une d\u00e9licieuse call-girl tr\u00e8s en vue \u00e0 New York, d\u00e9termin\u00e9e \u00e0 se marier \u00e0 un milliardaire br\u00e9silien. Son voisin est un jeune \u00e9crivain entretenu par une riche d\u00e9coratrice. D\u2019une relation amicale va na\u00eetre une forte passion entre ces deux \u00eatres si diff\u00e9rents.\r Une nouvelle fois Audrey Hepburn illumine l\u2019\u00e9cran de son charme dans cette com\u00e9die de Blake Edwards, adapt\u00e9e du best-seller de Truman Capote (Breakfast at Tiffany\u2019s).\r Henry Mancini remporta l\u2019Oscar\u00ae pour la chanson \u00abMoon River\u00bb.",
-            "popularity": 5.5862,
-            "poster_path": "/nauABSXgv994NIlqWlMtuV51eqj.jpg",
-            "release_date": "1961-10-06",
-            "title": "Diamants sur canap\u00e9",
-            "video": false,
-            "vote_average": 7.6,
-            "vote_count": 4394,
-            "genres": [
-                "Com\u00e9die",
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 120,
-            "tagline": "Il s'agit de tout ce que vous avez toujours voulu faire et... avec qui vous avez toujours voulu le faire !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/dAZHTUshMem8EvyumRDQcNH6nUU.jpg",
-            "id": 153652,
-            "original_language": "en",
-            "original_title": "The Mark",
-            "overview": "Un homme qui a servi de prison pour intention de molester un enfant essaie de construire une nouvelle vie avec l'aide d'un psychiatre sympathique.",
-            "popularity": 0.2818,
-            "poster_path": "/qMnIbQWrU38YNqwlNw7eZVJzHpq.jpg",
-            "release_date": "1961-01-26",
-            "title": "La marque",
-            "video": false,
-            "vote_average": 6.2,
-            "vote_count": 20,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 190,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/lR6w55w1XYU9udAPWmCv6EA9Nib.jpg",
-            "id": 84050,
-            "original_language": "en",
-            "original_title": "Fanny",
-            "overview": "Pr\u00e8s de 19 ans, Marius se sent dans une orni\u00e8re \u00e0 Marseille, sa vie pr\u00e9vue pour lui par son p\u00e8re Cafe' poss\u00e9dantes, et il d\u00e9sire ardemment la mer. La nuit avant de partir est un voyage de 5 ans, Fanny, une jeune fille, il a grandi avec, r\u00e9v\u00e8le qu'elle est amoureuse de lui, et il d\u00e9couvre qu'il est amoureux d'elle. Il doit choisir entre une vie passionnante en mer, et une vie ennuyeuse avec la femme qu'il aime. Et Fanny doit choisir entre garder l'homme qu'elle aime, et lui laisser vivre la vie, il semble vouloir.",
-            "popularity": 1.7437,
-            "poster_path": "/7Q8w1yC3dRupGciuOIt3a9n0bGP.jpg",
-            "release_date": "1961-06-28",
-            "title": "Fanny",
-            "video": false,
-            "vote_average": 6.702,
-            "vote_count": 42,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 134,
-            "tagline": ""
-        },
         {
             "adult": false,
             "backdrop_path": "/AsBJ7JjNR7wcONrfkUW027C8D5c.jpg",
@@ -205,7 +14,7 @@
             "original_language": "en",
             "original_title": "The Guns of Navarone",
             "overview": "Durant la Seconde Guerre mondiale, les allemands ont install\u00e9 deux \u00e9normes canons sur l'\u00eele de Navarone, au large de la Turquie. Ces armes puissantes sont braqu\u00e9es sur l'\u00eele voisine de Kheros, rendant impossible l'\u00e9vacuation des 2 000 soldats de la garnison britannique. Ces hommes assi\u00e9g\u00e9s se retrouvent dans une situation critique. L'\u00e9tat-major confie alors \u00e0 un commando d'\u00e9lite la d\u00e9licate mission de d\u00e9truire ces deux redoutables cerb\u00e8res. Les 6 hommes, parmi lesquels un alpiniste et un sp\u00e9cialiste des explosifs, doivent, pour s'approcher de leur objectif, neutraliser la vedette de surveillance avant d'escalader la falaise qui prot\u00e8ge les canons...",
-            "popularity": 2.6403,
+            "popularity": 2.7928,
             "poster_path": "/jdMFdn6jtWWgfJAwnlFNGvOmbBS.jpg",
             "release_date": "1961-04-27",
             "title": "Les Canons de Navarone",
@@ -218,29 +27,199 @@
                 "Thriller",
                 "Action"
             ],
-            "runtime": 150,
-            "tagline": "Une guerre ne se gagne qu'au prix de bien de sacrifices."
+            "tagline": "Une guerre ne se gagne qu'au prix de bien de sacrifices.",
+            "runtime": 150
         },
         {
             "adult": false,
-            "backdrop_path": "/ljFZlaGaB9fixUXhJYzIBPRrUTH.jpg",
-            "id": 29478,
+            "backdrop_path": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+            "id": 990,
             "original_language": "en",
-            "original_title": "A Raisin in the Sun",
-            "overview": "Un paiement d'assurance substantiel pourrait signifier soit le salut financier, soit la ruine personnelle d'une famille noire pauvre.",
-            "popularity": 0.7304,
-            "poster_path": "/fxGAJFfryAgdi4ONkVyrBWKDBbI.jpg",
-            "release_date": "1961-05-28",
-            "title": "Un raisin au soleil",
+            "original_title": "The Hustler",
+            "overview": "Eddie Felson est un brillant joueur de billard. Il se rend \u00e0 New York en compagnie de son manager et rencontre le l\u00e9gendaire champion, Minnesota Fats, poulain de Bert Gordon. Minnesota gagne apr\u00e8s une nuit de combat acharn\u00e9. Au petit matin, Eddie, ivre, rencontre une jeune femme d\u00e9s\u0153uvr\u00e9e et alcoolique avec laquelle il se met a vivre. Sarah va mettre sa vie en jeu pour l'aider mais il n'a finalement besoin que d'une victoire.",
+            "popularity": 4.7583,
+            "poster_path": "/uTsKrRVvufDQwjilnWdS7PKJk8h.jpg",
+            "release_date": "1961-09-25",
+            "title": "L'Arnaqueur",
             "video": false,
             "vote_average": 7.7,
-            "vote_count": 140,
+            "vote_count": 1038,
             "genres": [
                 "Drame",
                 "Romance"
             ],
-            "runtime": 128,
-            "tagline": ""
+            "tagline": "Ils l'appelaient Fast Eddie. C'\u00e9tait un gagnant. C'\u00e9tait un perdant. C'\u00e9tait un arnaqueur.",
+            "runtime": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+            "id": 164,
+            "original_language": "en",
+            "original_title": "Breakfast at Tiffany's",
+            "overview": "Holly Golightly est une d\u00e9licieuse call-girl tr\u00e8s en vue \u00e0 New York, d\u00e9termin\u00e9e \u00e0 se marier \u00e0 un milliardaire br\u00e9silien. Son voisin est un jeune \u00e9crivain entretenu par une riche d\u00e9coratrice. D\u2019une relation amicale va na\u00eetre une forte passion entre ces deux \u00eatres si diff\u00e9rents.\r Une nouvelle fois Audrey Hepburn illumine l\u2019\u00e9cran de son charme dans cette com\u00e9die de Blake Edwards, adapt\u00e9e du best-seller de Truman Capote (Breakfast at Tiffany\u2019s).\r Henry Mancini remporta l\u2019Oscar\u00ae pour la chanson \u00abMoon River\u00bb.",
+            "popularity": 5.9221,
+            "poster_path": "/nauABSXgv994NIlqWlMtuV51eqj.jpg",
+            "release_date": "1961-10-06",
+            "title": "Diamants sur canap\u00e9",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 4395,
+            "genres": [
+                "Com\u00e9die",
+                "Romance",
+                "Drame"
+            ],
+            "tagline": "Il s'agit de tout ce que vous avez toujours voulu faire et... avec qui vous avez toujours voulu le faire !",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lR6w55w1XYU9udAPWmCv6EA9Nib.jpg",
+            "id": 84050,
+            "original_language": "en",
+            "original_title": "Fanny",
+            "overview": "Pr\u00e8s de 19 ans, Marius se sent dans une orni\u00e8re \u00e0 Marseille, sa vie pr\u00e9vue pour lui par son p\u00e8re Cafe' poss\u00e9dantes, et il d\u00e9sire ardemment la mer. La nuit avant de partir est un voyage de 5 ans, Fanny, une jeune fille, il a grandi avec, r\u00e9v\u00e8le qu'elle est amoureuse de lui, et il d\u00e9couvre qu'il est amoureux d'elle. Il doit choisir entre une vie passionnante en mer, et une vie ennuyeuse avec la femme qu'il aime. Et Fanny doit choisir entre garder l'homme qu'elle aime, et lui laisser vivre la vie, il semble vouloir.",
+            "popularity": 1.4897,
+            "poster_path": "/7Q8w1yC3dRupGciuOIt3a9n0bGP.jpg",
+            "release_date": "1961-06-28",
+            "title": "Fanny",
+            "video": false,
+            "vote_average": 6.702,
+            "vote_count": 42,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+            "id": 1725,
+            "original_language": "en",
+            "original_title": "West Side Story",
+            "overview": "\u00c0 New York, dans les ann\u00e9es 1950, deux gangs de rue rivaux, les Jets (Am\u00e9ricains d'origine polonaise, irlandaise et italienne) et les Sharks (immigr\u00e9s d'origine portoricaine), font la loi dans le quartier du West Side. Ils se provoquent sans cesse, et s'affrontent \u00e0 l'occasion. Tony, ancien chef des Jets qui a maintenant pris ses distances avec le gang, et Maria, la s\u0153ur du chef des Sharks, tombent amoureux, mais le couple doit subir les forces oppos\u00e9es de leurs clans respectifs.",
+            "popularity": 2.9231,
+            "poster_path": "/oJ32zGnSUs9XOP3GdELMCraJwyF.jpg",
+            "release_date": "1961-12-13",
+            "title": "West Side Story",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1989,
+            "genres": [
+                "Crime",
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "\u00ab Rom\u00e9o et Juliette \u00bb dans le New York des ann\u00e9es 1950.",
+            "runtime": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bDsXa3PV3biQ8ZK1tQyK4vlkvCc.jpg",
+            "id": 821,
+            "original_language": "en",
+            "original_title": "Judgment at Nuremberg",
+            "overview": "En 1948, le juge Haywood est envoy\u00e9 \u00e0 Nuremberg pour pr\u00e9sider le proc\u00e8s de quatre magistrats allemands accus\u00e9s de trop de complaisance \u00e0 l'\u00e9gard du r\u00e9gime Nazi. L'un d'eux, Janning, se renferme dans un silence m\u00e9prisant et, en \u00e9cartant les t\u00e9moignages et les films sur les camps de concentration, dit qu'il n'a fait qu'appliquer la loi en vigueur...",
+            "popularity": 3.4479,
+            "poster_path": "/ufA7vfLYMF46h9OQYCJbJroggdI.jpg",
+            "release_date": "1961-12-18",
+            "title": "Jugement \u00e0 Nuremberg",
+            "video": false,
+            "vote_average": 8.017,
+            "vote_count": 896,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "Le proc\u00e8s le plus sombre de l'histoire de l'humanit\u00e9",
+            "runtime": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
+            "id": 19186,
+            "original_language": "en",
+            "original_title": "The Parent Trap",
+            "overview": "Sharon McKendrick et Susan Evers sont des jumelles de onze ans s\u00e9par\u00e9es quand elles \u00e9taient enfants suite au divorce de leurs parents. Susan est \u00e9lev\u00e9e par son p\u00e8re en Californie, Sharon avec sa m\u00e8re et son grand-p\u00e8re \u00e0 Londres. Elles se retrouvent dans un camp de vacances et d\u00e9cident d'\u00e9changer leurs places \u00e0 la fin des vacances afin de r\u00e9unir leurs parents. Il faut pour cela qu'elles se d\u00e9barrassent de Vicky Robinson, bien d\u00e9cid\u00e9e \u00e0 \u00e9pouser leur p\u00e8re par pur int\u00e9r\u00eat.",
+            "popularity": 3.1263,
+            "poster_path": "/c9EVwGbTRkJbCFjAvImbUq59eJY.jpg",
+            "release_date": "1961-05-13",
+            "title": "La Fianc\u00e9e de papa",
+            "video": false,
+            "vote_average": 7.021,
+            "vote_count": 412,
+            "genres": [
+                "Com\u00e9die",
+                "Familial",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Knw79HXoPpHIqa9TscDlwbuRJV.jpg",
+            "id": 1941,
+            "original_language": "en",
+            "original_title": "Exodus",
+            "overview": "Le film suit la route de l'Exodus, le bateau qui amena les immigrants juifs en terre d'Isra\u00ebl apr\u00e8s la guerre, ainsi que les n\u00e9gociations avec les autorit\u00e9s britanniques. Le nouvel \u00c9tat d'Isra\u00ebl se voit par la suite attaqu\u00e9 de toutes parts.",
+            "popularity": 2.1637,
+            "poster_path": "/1JXFJRztd43gCf4TAodNUwkfZoi.jpg",
+            "release_date": "1960-12-15",
+            "title": "Exodus",
+            "video": false,
+            "vote_average": 6.68,
+            "vote_count": 217,
+            "genres": [
+                "Drame",
+                "Guerre"
+            ],
+            "tagline": "",
+            "runtime": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3VIlHshnxV6Vwxz6Ega6llvGZiF.jpg",
+            "id": 28569,
+            "original_language": "en",
+            "original_title": "Splendor in the Grass",
+            "overview": "En 1929, dans une petite ville du Kansas, Bud, fils d'un riche propri\u00e9taire, et Deanie, fille d'un petit actionnaire, s'aiment passionn\u00e9ment et songent \u00e0 se marier. Mais les pr\u00e9jug\u00e9s sont trop forts, et leurs parents s'opposent \u00e0 cette union...",
+            "popularity": 3.1372,
+            "poster_path": "/wzh9KoyOEF3CCFn0ZN2P6kSlsFA.jpg",
+            "release_date": "1961-10-10",
+            "title": "La Fi\u00e8vre dans le sang",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 290,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Il y a un miracle \u00e0 \u00eatre jeune... et une crainte.",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dAZHTUshMem8EvyumRDQcNH6nUU.jpg",
+            "id": 153652,
+            "original_language": "en",
+            "original_title": "The Mark",
+            "overview": "Un homme qui a servi de prison pour intention de molester un enfant essaie de construire une nouvelle vie avec l'aide d'un psychiatre sympathique.",
+            "popularity": 0.272,
+            "poster_path": "/qMnIbQWrU38YNqwlNw7eZVJzHpq.jpg",
+            "release_date": "1961-01-26",
+            "title": "La marque",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 20,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 190
         },
         {
             "adult": false,
@@ -249,7 +228,7 @@
             "original_language": "en",
             "original_title": "The World of Suzie Wong",
             "overview": "Au d\u00e9but des ann\u00e9es soixante, Robert Lomax, architecte et homme d'affaires, quitte les Etats-Unis pour refaire sa vie \u00e0 Hong-Kong et se consacrer \u00e0 sa passion, la peinture. Sur le Star Ferry, il fait la connaissance d'une jeune chinoise \u00e0 laquelle il demande de poser pour lui.",
-            "popularity": 0.5949,
+            "popularity": 0.53,
             "poster_path": "/5EzuPR3FEBKp2ytdFVJfvOLmFrs.jpg",
             "release_date": "1960-11-10",
             "title": "Le monde de Suzie Wong",
@@ -260,29 +239,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 126,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 126
         },
         {
             "adult": false,
-            "backdrop_path": "/yjkxPcfjw1YUt1SHrizfxLTqibE.jpg",
-            "id": 94917,
+            "backdrop_path": "/ljFZlaGaB9fixUXhJYzIBPRrUTH.jpg",
+            "id": 29478,
             "original_language": "en",
-            "original_title": "Summer and Smoke",
-            "overview": "",
-            "popularity": 0.7433,
-            "poster_path": "/eFpVZFokirARldwjvvoEwGQhUXW.jpg",
-            "release_date": "1961-11-16",
-            "title": "Summer and Smoke",
+            "original_title": "A Raisin in the Sun",
+            "overview": "Un paiement d'assurance substantiel pourrait signifier soit le salut financier, soit la ruine personnelle d'une famille noire pauvre.",
+            "popularity": 0.6305,
+            "poster_path": "/fxGAJFfryAgdi4ONkVyrBWKDBbI.jpg",
+            "release_date": "1961-05-28",
+            "title": "Un raisin au soleil",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 27,
+            "vote_average": 7.7,
+            "vote_count": 140,
             "genres": [
                 "Drame",
                 "Romance"
             ],
-            "runtime": 118,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -291,7 +270,7 @@
             "original_language": "en",
             "original_title": "The Alamo",
             "overview": "En f\u00e9vrier 1836, le g\u00e9n\u00e9ral Sam Houston, qui commande les Texans r\u00e9volt\u00e9s contre l'autorit\u00e9 mexicaine, est poursuivi par les troupes du g\u00e9n\u00e9ral Santa Anna. Il passe le Rio Grande pour former une arm\u00e9e et confie au Colonel Travis le soin d'arr\u00eater Santa Anna le plus longtemps possible. Dans le fort Alamo, Travis rentre en conflit avec James Bowie, alcoolique et insubordonn\u00e9. Davy Crockett doit souvent s'interposer entre les deux hommes. Travis attend un important renfort, mais celui-ci est intercept\u00e9 par Santa Anna. La garnison ne peut compter que sur elle-m\u00eame, et les hommes de Travis comprennent qu'ils sont condamn\u00e9s \u00e0 p\u00e9rir sous les assauts des Mexicains\u2026",
-            "popularity": 1.7985,
+            "popularity": 1.5641,
             "poster_path": "/44XDJCqKWUHMkyJgUk4Vh85J2Es.jpg",
             "release_date": "1960-10-23",
             "title": "Alamo",
@@ -304,8 +283,29 @@
                 "Histoire",
                 "Western"
             ],
-            "runtime": 167,
-            "tagline": "La mission qui est devenue une forteresse ! La forteresse qui est devenue un sanctuaire !"
+            "tagline": "La mission qui est devenue une forteresse ! La forteresse qui est devenue un sanctuaire !",
+            "runtime": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjkxPcfjw1YUt1SHrizfxLTqibE.jpg",
+            "id": 94917,
+            "original_language": "en",
+            "original_title": "Summer and Smoke",
+            "overview": "",
+            "popularity": 0.5761,
+            "poster_path": "/eFpVZFokirARldwjvvoEwGQhUXW.jpg",
+            "release_date": "1961-11-16",
+            "title": "Summer and Smoke",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 27,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -314,61 +314,19 @@
             "original_language": "en",
             "original_title": "King of Kings",
             "overview": "P\u00e9plum retra\u00e7ant la vie de J\u00e9sus.",
-            "popularity": 2.3989,
+            "popularity": 2.328,
             "poster_path": "/lQWGXaiPofDKgjH2ddabZLOu2PC.jpg",
             "release_date": "1961-10-11",
             "title": "Le Roi des rois",
             "video": false,
-            "vote_average": 7.159,
-            "vote_count": 224,
+            "vote_average": 7.153,
+            "vote_count": 225,
             "genres": [
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 171,
-            "tagline": "Dieu ou le Diable, l'amour ou la haine, la paix ou la guerre."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fqcf7OgkgnYu71ZegbsE3bjKkyI.jpg",
-            "id": 40894,
-            "original_language": "en",
-            "original_title": "Lover Come Back",
-            "overview": "Une jeune femme prude et un jeune homme d\u00e9vergond\u00e9 travaillent dans deux agences de publicit\u00e9 concurrentes de New-York. Le jeune homme, joyeux f\u00eatard sans scrupules, se heurte \u00e0 la jeune femme qui, de prime abord, le d\u00e9teste, et tombe na\u00efvement dans chacun des pi\u00e8ges qu'il lui tend \u2013 notamment \u00e0 l'occasion du lancement d'un myst\u00e9rieux produit-miracle, le \u00ab\u00a0Vip\u00a0\u00bb. Finiront-ils par se r\u00e9concilier ?",
-            "popularity": 0.744,
-            "poster_path": "/zT7S2rrgACz1NeuwYFDcf1Gn1rC.jpg",
-            "release_date": "1961-12-20",
-            "title": "Un pyjama pour deux",
-            "video": false,
-            "vote_average": 6.947,
-            "vote_count": 161,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 107,
-            "tagline": "Une nouvelle tournure d\u00e9cha\u00een\u00e9e dans l'art de la persuasion douce\u00a0!"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kYaqmkeCSqNSat8nKgdLSz0A20l.jpg",
-            "id": 248,
-            "original_language": "en",
-            "original_title": "Pocketful of Miracles",
-            "overview": "Annie est une clocharde qui vend des pommes \u00e0 Broadway. Elle a fait croire \u00e0 sa fille Louise, \u00e9lev\u00e9e en Espagne, qu\u2019elle appartenait \u00e0 la haute soci\u00e9t\u00e9 new-yorkaise. Mais Louise annonce son arriv\u00e9e aux \u00c9tats-Unis, accompagn\u00e9e de son fianc\u00e9 et de son p\u00e8re, des nobles espagnols. Dave \"the Dude\" Conway, un gangster convaincu que les pommes d\u2019Annie lui portent chance, et son amie \"Queenie\" Martin vont s\u2019efforcer de faire passer Annie pour une femme du monde le temps du s\u00e9jour de Louise.",
-            "popularity": 1.4474,
-            "poster_path": "/tI93YQx9WHnKi5K2SLophXFq22U.jpg",
-            "release_date": "1961-12-18",
-            "title": "Milliardaire pour un jour",
-            "video": false,
-            "vote_average": 7.273,
-            "vote_count": 176,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 136,
-            "tagline": ""
+            "tagline": "Dieu ou le Diable, l'amour ou la haine, la paix ou la guerre.",
+            "runtime": 171
         },
         {
             "adult": false,
@@ -377,7 +335,7 @@
             "original_language": "en",
             "original_title": "Flower Drum Song",
             "overview": "Une histoire d'amour dans le milieu des \u00e9migr\u00e9s de Chinatown \u00e0 San Francisco.",
-            "popularity": 0.4376,
+            "popularity": 0.5282,
             "poster_path": "/d87EHTG1F1uNOWzu8i0yYssWRX5.jpg",
             "release_date": "1961-11-09",
             "title": "Au rythme des tambours fleuris",
@@ -389,8 +347,50 @@
                 "Romance",
                 "Com\u00e9die"
             ],
-            "runtime": 133,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fqcf7OgkgnYu71ZegbsE3bjKkyI.jpg",
+            "id": 40894,
+            "original_language": "en",
+            "original_title": "Lover Come Back",
+            "overview": "Une jeune femme prude et un jeune homme d\u00e9vergond\u00e9 travaillent dans deux agences de publicit\u00e9 concurrentes de New-York. Le jeune homme, joyeux f\u00eatard sans scrupules, se heurte \u00e0 la jeune femme qui, de prime abord, le d\u00e9teste, et tombe na\u00efvement dans chacun des pi\u00e8ges qu'il lui tend \u2013 notamment \u00e0 l'occasion du lancement d'un myst\u00e9rieux produit-miracle, le \u00ab\u00a0Vip\u00a0\u00bb. Finiront-ils par se r\u00e9concilier ?",
+            "popularity": 0.7794,
+            "poster_path": "/zT7S2rrgACz1NeuwYFDcf1Gn1rC.jpg",
+            "release_date": "1961-12-20",
+            "title": "Un pyjama pour deux",
+            "video": false,
+            "vote_average": 6.947,
+            "vote_count": 161,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "Une nouvelle tournure d\u00e9cha\u00een\u00e9e dans l'art de la persuasion douce\u00a0!",
+            "runtime": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kYaqmkeCSqNSat8nKgdLSz0A20l.jpg",
+            "id": 248,
+            "original_language": "en",
+            "original_title": "Pocketful of Miracles",
+            "overview": "Annie est une clocharde qui vend des pommes \u00e0 Broadway. Elle a fait croire \u00e0 sa fille Louise, \u00e9lev\u00e9e en Espagne, qu\u2019elle appartenait \u00e0 la haute soci\u00e9t\u00e9 new-yorkaise. Mais Louise annonce son arriv\u00e9e aux \u00c9tats-Unis, accompagn\u00e9e de son fianc\u00e9 et de son p\u00e8re, des nobles espagnols. Dave \"the Dude\" Conway, un gangster convaincu que les pommes d\u2019Annie lui portent chance, et son amie \"Queenie\" Martin vont s\u2019efforcer de faire passer Annie pour une femme du monde le temps du s\u00e9jour de Louise.",
+            "popularity": 1.4028,
+            "poster_path": "/tI93YQx9WHnKi5K2SLophXFq22U.jpg",
+            "release_date": "1961-12-18",
+            "title": "Milliardaire pour un jour",
+            "video": false,
+            "vote_average": 7.273,
+            "vote_count": 176,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 136
         },
         {
             "adult": false,
@@ -399,7 +399,7 @@
             "original_language": "en",
             "original_title": "Saturday Night and Sunday Morning",
             "overview": "Les ann\u00e9es 60, Nottingham, Arthur un ouvrier de 24 ans, le week-end venu s'\u00e9tourdit dans les \"pubs\", pour oublier sa condition sociale..jusqu'au jour o\u00f9 il rencontre Doreen...",
-            "popularity": 0.5003,
+            "popularity": 0.6907,
             "poster_path": "/wc3MwQPBtLuFRUcsIjQupGlbsmv.jpg",
             "release_date": "1960-10-27",
             "title": "Samedi soir, dimanche matin",
@@ -410,8 +410,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 89,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 89
         },
         {
             "adult": false,
@@ -420,7 +420,7 @@
             "original_language": "en",
             "original_title": "The Absent-Minded Professor",
             "overview": "Ned Brainard, professeur de sciences au lyc\u00e9e de Metfield, est un chercheur et inventeur acharn\u00e9. Ses recherches pour inventer une nouvelle mati\u00e8re l'absorbent tellement qu'il oublie de se rendre \u00e0 son propre mariage pour la troisi\u00e8me fois, ce qui exasp\u00e8re sa fianc\u00e9e Betsy Carlisle. Apr\u00e8s l'explosion de son laboratoire, dont il ressort indemne, il se rend compte qu'il a d\u00e9velopp\u00e9 une nouvelle substance : Le plaxmol (traduit de l'anglais Flubber). Cette mati\u00e8re a la propri\u00e9t\u00e9 fantastique de gagner en \u00e9nergie et en mouvement au moindre contact avec une surface solide. Ravi de son invention, Brainard va la mettre \u00e0 profit afin de r\u00e9soudre tous les probl\u00e8mes qu'il rencontre.",
-            "popularity": 3.7415,
+            "popularity": 4.4123,
             "poster_path": "/ndBImc1Ky1MnJp2u354ZbK3XFey.jpg",
             "release_date": "1961-01-20",
             "title": "Monte l\u00e0-d'ssus",
@@ -432,8 +432,8 @@
                 "Familial",
                 "Science-Fiction"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -442,7 +442,7 @@
             "original_language": "en",
             "original_title": "One-Eyed Jacks",
             "overview": "Sonora, Mexique, 1880. Apr\u00e8s un hold-up, Dad Longworth (Karl Malden) abandonne son jeune complice Rio (Marlon Brando) aux mains des autorit\u00e9s et dispara\u00eet avec le butin. Cinq ans apr\u00e8s sa sortie de prison, Rio retrouve Longworth devenu un homme respectable, p\u00e8re de famille et sh\u00e9rif d'une petite ville de Californie. Va-t-il r\u00e9ussir \u00e0 se venger\u00a0?",
-            "popularity": 2.1524,
+            "popularity": 5.2155,
             "poster_path": "/mteUSVQryU9yVre1n60ijU2SiHR.jpg",
             "release_date": "1961-03-30",
             "title": "La Vengeance aux deux visages",
@@ -453,8 +453,8 @@
                 "Western",
                 "Drame"
             ],
-            "runtime": 141,
-            "tagline": "Le film qui lance sa propre tradition de grandeur."
+            "tagline": "Le film qui lance sa propre tradition de grandeur.",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -463,7 +463,7 @@
             "original_language": "en",
             "original_title": "The Roman Spring of Mrs. Stone",
             "overview": "Karen Stone, une com\u00e9dienne de th\u00e9\u00e2tre en fin de carri\u00e8re, d\u00e9cide d'arr\u00eater d\u00e9finitivement la com\u00e9die et de partir quelques temps en vacances en Italie avec son mari. Mais ce dernier meurt d'une crise cardiaque pendant le trajet en avion. Tr\u00e8s atteinte par cette disparition, Karen prend le parti de refaire sa vie \u00e0 Rome. Elle y rencontre une comtesse qui lui fait faire la connaissance de Paolo, un beau jeune-homme auquel elle succombe rapidement. Mais derri\u00e8re les apparences, Paolo se r\u00e9v\u00e8le \u00eatre un gigolo qui partage l'argent que lui donne Karen avec la comtesse...",
-            "popularity": 0.5199,
+            "popularity": 0.4266,
             "poster_path": "/frw7Z2CMR8S0VaciAo335YKNtUA.jpg",
             "release_date": "1961-12-28",
             "title": "Le visage du plaisir",
@@ -474,8 +474,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -484,7 +484,7 @@
             "original_language": "en",
             "original_title": "Come September",
             "overview": "Chaque mois de septembre, un brillant homme d'affaires new-yorkais se rend \u00e0 sa villa italienne pour se d\u00e9tendre et poursuivre sa liaison avec sa petite amie romaine. Mais un jour de juillet o\u00f9 il arrive sans pr\u00e9venir, il reste tout surpris en voyant que, pendant son absence, sa belle demeure a \u00e9t\u00e9 transform\u00e9e en h\u00f4tel. Et de surcroit, parmi les clients du moment se trouve une troupe de jeunes Am\u00e9ricaines constamment talonn\u00e9es par des gar\u00e7ons qui soupirent d'amour pour elles. En tentant d\u00e9sesp\u00e9r\u00e9ment de reprendre les choses en main, l'homme d'affaires perdra son intimit\u00e9, sa petite amie et la t\u00eate, jusqu'\u00e0 ce qu'il ait un plan dont il a lui-m\u00eame l'id\u00e9e.",
-            "popularity": 2.2715,
+            "popularity": 2.1081,
             "poster_path": "/dMVe3MLlZYz6frB24XLWdHkPHO1.jpg",
             "release_date": "1961-08-09",
             "title": "Le Rendez-vous de septembre",
@@ -495,51 +495,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 112,
-            "tagline": "Un refuge tranquille... Un rendez-vous secret... puis les ados ont fait irruption !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/hyy0mqJtpj1Z9AQ39k1avhNlCam.jpg",
-            "id": 52841,
-            "original_language": "en",
-            "original_title": "Bachelor in Paradise",
-            "overview": "Un \u00e9crivain c\u00e9libataire, sp\u00e9cialiste dans les questions matrimoniales, vient s'installer \u00e0 Paradise, petite ville r\u00e9cemment construite et habit\u00e9e surtout par des jeunes couples.",
-            "popularity": 1.0318,
-            "poster_path": "/qGNmRvWLokiXTMr7jNvKrj0Avd8.jpg",
-            "release_date": "1961-11-01",
-            "title": "L'Am\u00e9ricaine et l'amour",
-            "video": false,
-            "vote_average": 6.271,
-            "vote_count": 24,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 109,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fUhx4x5QZwNVdvpdbPNEdMF1oY0.jpg",
-            "id": 31916,
-            "original_language": "en",
-            "original_title": "The Devil at 4 O'Clock",
-            "overview": "Sur l'\u00eele volcanique polyn\u00e9sienne fran\u00e7aise (fictive) de Talua, le p\u00e8re Matthew Doonan est tomb\u00e9 en disgr\u00e2ce aupr\u00e8s du gouverneur et des habitants, pour avoir favoris\u00e9 la construction d'un h\u00f4pital d'enfants, au pied du volcan, afin de soigner la l\u00e8pre (sujet tabou) dont ils sont atteints. Il doit bient\u00f4t c\u00e9der la placer \u00e0 son successeur, le p\u00e8re Joseph Perreau. Mais lorsque le volcan se r\u00e9veille et que l'\u00e9vacuation de l'\u00eele commence, le p\u00e8re Doonan choisit de retourner une derni\u00e8re fois \u00e0 la l\u00e9proserie, afin de tenter de sauver les enfants et le personnel de l'h\u00f4pital. Personne ne voulant l'accompagner, il parvient toutefois \u00e0 d\u00e9baucher trois bagnards en fuite (dans l'espoir pour eux d'une remise de peine), Harry, Charlie et Marcel. L'unique route d'acc\u00e8s \u00e9tant coup\u00e9e, le seul moyen pour eux de rallier les lieux est un parachutage...",
-            "popularity": 0.3244,
-            "poster_path": "/qqK8hRvYv1rLGFPi1R2s7gtnCh8.jpg",
-            "release_date": "1961-10-18",
-            "title": "Le Diable a 4 Heures",
-            "video": false,
-            "vote_average": 6.3,
-            "vote_count": 43,
-            "genres": [
-                "Aventure",
-                "Drame",
-                "Thriller"
-            ],
-            "runtime": 126,
-            "tagline": ""
+            "tagline": "Un refuge tranquille... Un rendez-vous secret... puis les ados ont fait irruption !",
+            "runtime": 112
         },
         {
             "adult": false,
@@ -548,7 +505,7 @@
             "original_language": "en",
             "original_title": "Swiss Family Robinson",
             "overview": "Une famille naviguant vers la Nouvelle-Guin\u00e9e est poursuivie par des pirates dans une temp\u00eate. Le capitaine et l'\u00e9quipage abandonnent le bateau laissant la famille naufrag\u00e9e sur une \u00eele inhabit\u00e9e. Le p\u00e8re et ses deux fils a\u00een\u00e9s, Fritz et Ernest, r\u00e9cup\u00e8rent tout ce qu'ils peuvent de l'\u00e9pave dont le b\u00e9tail, des outils et m\u00eame un orgue. Les trois hommes de la famille Robinson entament alors la construction d'une maison dans un arbre. Malgr\u00e9 le relatif confort de leur nouvel habitat, Fritz et Ernest, en accord avec la famille, partent en exp\u00e9dition autour de l'\u00eele, esp\u00e9rant trouver de l'aide pour rejoindre la civilisation. Par hasard, ils tombent sur les pirates qui les ont attaqu\u00e9s et qui ont fait prisonnier le capitaine Moreland et sa fille Roberta (d\u00e9guis\u00e9e en gar\u00e7on et renomm\u00e9e Bertie pour que les pirates ne s'en prennent pas \u00e0 elle). Ils parviennent \u00e0 lib\u00e9rer Roberta juste \u00e0 temps et \u00e0 s'enfuir dans la jungle.",
-            "popularity": 1.7918,
+            "popularity": 1.6441,
             "poster_path": "/zAn2RDqDbebuDroYuHrnpj8zY0Y.jpg",
             "release_date": "1960-12-21",
             "title": "Les Robinsons des mers du sud",
@@ -559,29 +516,29 @@
                 "Aventure",
                 "Familial"
             ],
-            "runtime": 126,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 126
         },
         {
             "adult": false,
-            "backdrop_path": "/kBDQja5cwHYVba8MfJOAtdwNo7e.jpg",
-            "id": 82792,
+            "backdrop_path": "/hyy0mqJtpj1Z9AQ39k1avhNlCam.jpg",
+            "id": 52841,
             "original_language": "en",
-            "original_title": "Pepe",
-            "overview": "Pepe\" est employ\u00e9 dans un ranch, un patron d'Hollywood ach\u00e8te un cheval qui appartient au patron de P\u00e9p\u00e9 mais celui ci est d\u00e9termin\u00e9 \u00e0 ramener le cheval qui fait partie de la famille. Il part \u00e0 Hollywood et y rencontre des stars de cin\u00e9ma: Frank Sinatra, Jack Lemmon, Bing Crosby...",
-            "popularity": 2.6086,
-            "poster_path": "/th8c4sGS5ZAOW7zhyGWyhykuL0M.jpg",
-            "release_date": "1960-12-21",
-            "title": "Pepe",
+            "original_title": "Bachelor in Paradise",
+            "overview": "Un \u00e9crivain c\u00e9libataire, sp\u00e9cialiste dans les questions matrimoniales, vient s'installer \u00e0 Paradise, petite ville r\u00e9cemment construite et habit\u00e9e surtout par des jeunes couples.",
+            "popularity": 1.6752,
+            "poster_path": "/qGNmRvWLokiXTMr7jNvKrj0Avd8.jpg",
+            "release_date": "1961-11-01",
+            "title": "L'Am\u00e9ricaine et l'amour",
             "video": false,
-            "vote_average": 6.255,
-            "vote_count": 49,
+            "vote_average": 6.271,
+            "vote_count": 24,
             "genres": [
                 "Com\u00e9die",
-                "Musique"
+                "Romance"
             ],
-            "runtime": 180,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -590,12 +547,12 @@
             "original_language": "en",
             "original_title": "One Hundred and One Dalmatians",
             "overview": "Pongo, Perdita et leurs 15 chiots vivent paisiblement avec leurs ma\u00eetres Roger et Anita, jusqu'\u00e0 ce que Cruella D'Enfer, une amie d'\u00e9cole d'Anita, et ses acolytes kidnappent la port\u00e9e. Pongo et Perdita, aid\u00e9s par d'h\u00e9ro\u00efques animaux, partent \u00e0 leur rescousse.",
-            "popularity": 6.4154,
+            "popularity": 6.7686,
             "poster_path": "/i0it09qQB6kz7FDf7n0wRBmKyOQ.jpg",
             "release_date": "1961-01-25",
             "title": "Les 101 Dalmatiens",
             "video": false,
-            "vote_average": 7.174,
+            "vote_average": 7.2,
             "vote_count": 6542,
             "genres": [
                 "Aventure",
@@ -603,8 +560,8 @@
                 "Com\u00e9die",
                 "Familial"
             ],
-            "runtime": 79,
-            "tagline": "Du fou rire anim\u00e9 \u00e0 101\u202f%"
+            "tagline": "Du fou rire anim\u00e9 \u00e0 101\u202f%",
+            "runtime": 79
         },
         {
             "adult": false,
@@ -613,7 +570,7 @@
             "original_language": "en",
             "original_title": "Where the Boys Are",
             "overview": "Quatre \u00e9tudiantes en recherche d'aventures sentimentales pour leurs vacances de printemps au soleil de Fort Lauderdale, Floride.  Malgr\u00e9 le sujet pos\u00e9 au d\u00e9but du film, la libert\u00e9 sexuelle des filles, le d\u00e9nouement se conforme \u00e0 la morale conventionnelle.",
-            "popularity": 1.1284,
+            "popularity": 0.9671,
             "poster_path": "/if6vjNZZX2JEclfd4rcus9kOHwT.jpg",
             "release_date": "1960-12-28",
             "title": "Ces folles filles d'\u00c8ve",
@@ -625,8 +582,51 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 99,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fUhx4x5QZwNVdvpdbPNEdMF1oY0.jpg",
+            "id": 31916,
+            "original_language": "en",
+            "original_title": "The Devil at 4 O'Clock",
+            "overview": "Sur l'\u00eele volcanique polyn\u00e9sienne fran\u00e7aise (fictive) de Talua, le p\u00e8re Matthew Doonan est tomb\u00e9 en disgr\u00e2ce aupr\u00e8s du gouverneur et des habitants, pour avoir favoris\u00e9 la construction d'un h\u00f4pital d'enfants, au pied du volcan, afin de soigner la l\u00e8pre (sujet tabou) dont ils sont atteints. Il doit bient\u00f4t c\u00e9der la placer \u00e0 son successeur, le p\u00e8re Joseph Perreau. Mais lorsque le volcan se r\u00e9veille et que l'\u00e9vacuation de l'\u00eele commence, le p\u00e8re Doonan choisit de retourner une derni\u00e8re fois \u00e0 la l\u00e9proserie, afin de tenter de sauver les enfants et le personnel de l'h\u00f4pital. Personne ne voulant l'accompagner, il parvient toutefois \u00e0 d\u00e9baucher trois bagnards en fuite (dans l'espoir pour eux d'une remise de peine), Harry, Charlie et Marcel. L'unique route d'acc\u00e8s \u00e9tant coup\u00e9e, le seul moyen pour eux de rallier les lieux est un parachutage...",
+            "popularity": 0.3025,
+            "poster_path": "/qqK8hRvYv1rLGFPi1R2s7gtnCh8.jpg",
+            "release_date": "1961-10-18",
+            "title": "Le Diable a 4 Heures",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 43,
+            "genres": [
+                "Aventure",
+                "Drame",
+                "Thriller"
+            ],
+            "tagline": "",
+            "runtime": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kBDQja5cwHYVba8MfJOAtdwNo7e.jpg",
+            "id": 82792,
+            "original_language": "en",
+            "original_title": "Pepe",
+            "overview": "Pepe\" est employ\u00e9 dans un ranch, un patron d'Hollywood ach\u00e8te un cheval qui appartient au patron de P\u00e9p\u00e9 mais celui ci est d\u00e9termin\u00e9 \u00e0 ramener le cheval qui fait partie de la famille. Il part \u00e0 Hollywood et y rencontre des stars de cin\u00e9ma: Frank Sinatra, Jack Lemmon, Bing Crosby...",
+            "popularity": 2.4992,
+            "poster_path": "/th8c4sGS5ZAOW7zhyGWyhykuL0M.jpg",
+            "release_date": "1960-12-21",
+            "title": "Pepe",
+            "video": false,
+            "vote_average": 6.255,
+            "vote_count": 49,
+            "genres": [
+                "Com\u00e9die",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 180
         },
         {
             "adult": false,
@@ -635,7 +635,7 @@
             "original_language": "en",
             "original_title": "The Pleasure of His Company",
             "overview": "Jessica Poole s'appr\u00eate \u00e0 \u00e9pouser Roger Berk Henderson. Sa m\u00e8re, Kate, et son beau-p\u00e8re, Jim, ont organis\u00e9 la c\u00e9r\u00e9monie jusque dans les moindres d\u00e9tails. Mais tout \u00e0 coup arrive un visiteur impr\u00e9vu, Pogo, le premier mari de Kate et p\u00e8re de Jessica. Il correspond exactement \u00e0 l'image que Jessica s'\u00e9tait forg\u00e9e. C'est un homme charmant et amusant, qui parcourt le monde et distribue les compliments autour de lui. Cette bonne entente qui unit Pogo \u00e0 Jessica a le don d'\u00e9nerver Jim...",
-            "popularity": 0.6367,
+            "popularity": 0.6245,
             "poster_path": "/90GiYW7FGSnbpi60N5pZbY2bH34.jpg",
             "release_date": "1961-06-01",
             "title": "Mon s\u00e9ducteur de p\u00e8re",
@@ -645,8 +645,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 116,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 116
         },
         {
             "adult": false,
@@ -655,7 +655,7 @@
             "original_language": "en",
             "original_title": "Cimarron",
             "overview": "En 1889, le pr\u00e9sident Harrison ouvre aux pionniers l\u2019\u00c9tat de l'Oklahoma, jusqu'alors vierge de toute population. Munis de leurs chariots, ceux-ci envahissent alors cette nouvelle terre. Yancey \u00ab\u00a0Cimarron\u00a0\u00bb Cravat et sa femme en font partie. Ils s'installent dans la ville d'Osage et fondent un journal. De plus en plus connus, ils doivent affronter une bande de tueurs.",
-            "popularity": 1.9548,
+            "popularity": 1.6308,
             "poster_path": "/w1xMORlVMhHz4CBR2zXZMfY76JR.jpg",
             "release_date": "1960-12-01",
             "title": "La Ru\u00e9e vers l'Ouest",
@@ -665,8 +665,8 @@
             "genres": [
                 "Western"
             ],
-            "runtime": 147,
-            "tagline": "L'histoire d'un homme, d'une terre et d'un amour !"
+            "tagline": "L'histoire d'un homme, d'une terre et d'un amour !",
+            "runtime": 147
         },
         {
             "adult": false,
@@ -675,7 +675,7 @@
             "original_language": "en",
             "original_title": "Francis of Assisi",
             "overview": "Le destin hors du commun de Saint-Fran\u00e7ois d'Assise, qui \u00e9changea son \u00e9p\u00e9e contre une croix et devint Saint apr\u00e8s avoir entendu la voix de J\u00e9sus.",
-            "popularity": 0.2814,
+            "popularity": 0.229,
             "poster_path": "/xRmSc8wVMoPjhHJ5a3ZB3Hh6VQ9.jpg",
             "release_date": "1961-07-12",
             "title": "Saint-Fran\u00e7ois d'Assise",
@@ -686,8 +686,8 @@
                 "Histoire",
                 "Drame"
             ],
-            "runtime": 105,
-            "tagline": "L'histoire d'un jeune aventurier robuste, luttant qui a \u00e9chang\u00e9 son \u00e9p\u00e9e pour une croix"
+            "tagline": "L'histoire d'un jeune aventurier robuste, luttant qui a \u00e9chang\u00e9 son \u00e9p\u00e9e pour une croix",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -696,7 +696,7 @@
             "original_language": "en",
             "original_title": "Romanoff and Juliet",
             "overview": "satire politique a de Shakespeare histoire de Rom\u00e9o et Juliette mis \u00e0 jour \u00e0 l'\u00e8re de la guerre froide, avec les enfants des ambassadeurs am\u00e9ricains et russes de tomber amoureux.",
-            "popularity": 0.7782,
+            "popularity": 0.5273,
             "poster_path": "/yFWOlDdzsowJcxDxEZE2ZgncdcP.jpg",
             "release_date": "1961-06-08",
             "title": "Romanoff et Juliette",
@@ -706,8 +706,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 93,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 93
         },
         {
             "adult": false,
@@ -716,7 +716,7 @@
             "original_language": "en",
             "original_title": "Parrish",
             "overview": "Accompagn\u00e9e de son fils, une veuve doit chaperonner l'h\u00e9riti\u00e8re d'une plantation de tabac du Connecticut.",
-            "popularity": 1.4936,
+            "popularity": 1.3569,
             "poster_path": "/cXSELfL7DYE3ZrGwqiWw5QsYI2U.jpg",
             "release_date": "1961-05-04",
             "title": "La soif de la jeunesse",
@@ -727,50 +727,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 138,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/uaEfEkb2tjl4hN1oaSyzcxt4cEg.jpg",
-            "id": 439,
-            "original_language": "it",
-            "original_title": "La dolce vita",
-            "overview": "Le chroniqueur Marcello fait le tour des lieux \u00e0 scandale de Rome pour alimenter les potins d'un journal \u00e0 fort tirage. Il rencontre une faune corrompue et d\u00e9risoire qui feint de s'amuser et dissimule mal son ennui.\r Palme d'Or 1960",
-            "popularity": 2.3521,
-            "poster_path": "/h71MPYMsPYuYqXNXL371pTcYno8.jpg",
-            "release_date": "1960-02-05",
-            "title": "La dolce vita",
-            "video": false,
-            "vote_average": 8.049,
-            "vote_count": 1990,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 167,
-            "tagline": "Le film dont on parle le plus aujourd'hui !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tlQ2OBQAC7woOTZgk1vE9U69vQT.jpg",
-            "id": 11773,
-            "original_language": "en",
-            "original_title": "Village of the Damned",
-            "overview": "Une bourgade est victime d'un ph\u00e9nom\u00e8ne surnaturel. Quelques mois plus tard, douze t\u00eates blondes naissent au m\u00eame instant avec des intentions particuli\u00e8rement hostiles.",
-            "popularity": 1.4069,
-            "poster_path": "/iBiBn5recNfVIPSdy82albbVbnL.jpg",
-            "release_date": "1960-06-16",
-            "title": "Le Village des damn\u00e9s",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 482,
-            "genres": [
-                "Horreur",
-                "Science-Fiction"
-            ],
-            "runtime": 77,
-            "tagline": "Quelle force d\u00e9moniaque se cache derri\u00e8re ces yeux?"
+            "tagline": "",
+            "runtime": 138
         },
         {
             "adult": false,
@@ -779,7 +737,7 @@
             "original_language": "en",
             "original_title": "The Great Impostor",
             "overview": "Les p\u00e9r\u00e9grinations de Ferdinand Waldo Demara, imposteur qui retombe toujours sur ses pieds.",
-            "popularity": 0.7652,
+            "popularity": 1.7525,
             "poster_path": "/geTOtU4S4nM5By8aA49nLpppwya.jpg",
             "release_date": "1960-12-23",
             "title": "Le Roi des imposteurs",
@@ -790,8 +748,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 113,
-            "tagline": "Le vrai Fred Demara va-t-il se lever ??"
+            "tagline": "Le vrai Fred Demara va-t-il se lever ??",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -800,7 +758,7 @@
             "original_language": "en",
             "original_title": "The Grass Is Greener",
             "overview": "Pour joindre les \"deux bouts\", le tr\u00e8s fair-play lord Rhevyll autorise la visite payante de sa propri\u00e9t\u00e9. C'est ainsi qu'un touriste am\u00e9ricain fera la connaissance de la tr\u00e8s \u00e9pouse et tr\u00e8s m\u00e8re de famille lady Rhevyll qui n'a pas \u00e9t\u00e9 immunis\u00e9e contre les surprises des sens.",
-            "popularity": 0.6938,
+            "popularity": 0.6092,
             "poster_path": "/4qAYrXtIyG3WZPWl9dp2WXrEp9c.jpg",
             "release_date": "1960-12-23",
             "title": "Ailleurs l'herbe est plus verte",
@@ -811,8 +769,50 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 105,
-            "tagline": "Avez-vous d\u00e9j\u00e0 vu un triangle \u00e0 quatre c\u00f4t\u00e9s?"
+            "tagline": "Avez-vous d\u00e9j\u00e0 vu un triangle \u00e0 quatre c\u00f4t\u00e9s?",
+            "runtime": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uaEfEkb2tjl4hN1oaSyzcxt4cEg.jpg",
+            "id": 439,
+            "original_language": "it",
+            "original_title": "La dolce vita",
+            "overview": "Le chroniqueur Marcello fait le tour des lieux \u00e0 scandale de Rome pour alimenter les potins d'un journal \u00e0 fort tirage. Il rencontre une faune corrompue et d\u00e9risoire qui feint de s'amuser et dissimule mal son ennui.\r Palme d'Or 1960",
+            "popularity": 3.394,
+            "poster_path": "/h71MPYMsPYuYqXNXL371pTcYno8.jpg",
+            "release_date": "1960-02-05",
+            "title": "La dolce vita",
+            "video": false,
+            "vote_average": 8.049,
+            "vote_count": 1990,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "Le film dont on parle le plus aujourd'hui !",
+            "runtime": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tlQ2OBQAC7woOTZgk1vE9U69vQT.jpg",
+            "id": 11773,
+            "original_language": "en",
+            "original_title": "Village of the Damned",
+            "overview": "Une bourgade est victime d'un ph\u00e9nom\u00e8ne surnaturel. Quelques mois plus tard, douze t\u00eates blondes naissent au m\u00eame instant avec des intentions particuli\u00e8rement hostiles.",
+            "popularity": 1.3599,
+            "poster_path": "/iBiBn5recNfVIPSdy82albbVbnL.jpg",
+            "release_date": "1960-06-16",
+            "title": "Le Village des damn\u00e9s",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 482,
+            "genres": [
+                "Horreur",
+                "Science-Fiction"
+            ],
+            "tagline": "Quelle force d\u00e9moniaque se cache derri\u00e8re ces yeux?",
+            "runtime": 77
         },
         {
             "adult": false,
@@ -821,7 +821,7 @@
             "original_language": "en",
             "original_title": "Return to Peyton Place",
             "overview": "Allison a trouv\u00e9 le succ\u00e8s gr\u00e2ce \u00e0 son livre qui relate les moindres ev\u00e9nements de la petite ville de Peyton Place. Mais son livre r\u00e9volutionne la ville, et suscite des vengeances. Le beau-p\u00e8re d'Allison en fait les frais, mais heureusement, il trouvera un avocat valable en la personne de l'\u00e9diteur...",
-            "popularity": 0.402,
+            "popularity": 0.314,
             "poster_path": "/p4TVDg0Q4TkuDi0q8k4x89kTyTA.jpg",
             "release_date": "1961-05-05",
             "title": "Les lauriers sont coup\u00e9s",
@@ -832,8 +832,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 123,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 123
         }
     ]
 }

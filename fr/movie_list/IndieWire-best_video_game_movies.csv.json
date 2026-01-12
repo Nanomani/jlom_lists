@@ -4,7 +4,7 @@
     "source": "https://www.indiewire.com/gallery/best-video-game-movies/",
     "created_by": "lbnt",
     "added": "04/04/24",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,7 +14,7 @@
             "original_language": "ja",
             "original_title": "\u9006\u8ee2\u88c1\u5224",
             "overview": "Phoenix Wright est un jeune avocat qui, pour ces premi\u00e8res affaires, doit prouver l\u2019innocence de ses clients malgr\u00e9 d\u2019\u00e9normes emb\u00fbches.",
-            "popularity": 1.8706,
+            "popularity": 1.4691,
             "poster_path": "/ezqlqQ0z7L4dsvJ1N1MEBWLve4P.jpg",
             "release_date": "2012-02-11",
             "title": "Ace Attorney",
@@ -26,29 +26,29 @@
                 "Myst\u00e8re",
                 "Drame"
             ],
-            "runtime": 135,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 135
         },
         {
             "adult": false,
-            "backdrop_path": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
-            "id": 9312,
+            "backdrop_path": "/ae25gpphxDPEYGUxvAGmR07oQqC.jpg",
+            "id": 800497,
             "original_language": "en",
-            "original_title": "Mortal Kombat",
-            "overview": "Lord Rayden fait \u00e9quipe avec un guerrier, un ma\u00eetre en arts martiaux et une belle d\u00e9tective pour remporter le tournoi Mortal Kombat. S'ils \u00e9chouent, ce sera la fin de l'Humanit\u00e9.",
-            "popularity": 4.2106,
-            "poster_path": "/4Wr3FCCeiknJtrb4dgErFS2wnbd.jpg",
-            "release_date": "1995-08-18",
-            "title": "Mortal Kombat",
+            "original_title": "Werewolves Within",
+            "overview": "Alors qu\u2019un projet de pipeline cr\u00e9e des tensions entre les habitants d'une petite ville, un garde forestier nouvellement arriv\u00e9 doit maintenir la paix apr\u00e8s qu'une temp\u00eate de neige ait confin\u00e9 les habitants dans un vieux pavillon.  Mais lorsqu'une myst\u00e9rieuse cr\u00e9ature commence \u00e0 terroriser le groupe, leurs pires tendances et pr\u00e9jug\u00e9s refont surface.",
+            "popularity": 1.5557,
+            "poster_path": "/yRDHQTrEJGoFrGNR8GpSAxIdQSJ.jpg",
+            "release_date": "2021-06-25",
+            "title": "Loups-garous",
             "video": false,
-            "vote_average": 5.876,
-            "vote_count": 2437,
+            "vote_average": 6.026,
+            "vote_count": 605,
             "genres": [
-                "Action",
-                "Fantastique"
+                "Horreur",
+                "Com\u00e9die"
             ],
-            "runtime": 102,
-            "tagline": "Rien en ce monde ne vous y a pr\u00e9par\u00e9"
+            "tagline": "Quand le village s\u2019endort, ils se r\u00e9veillent.",
+            "runtime": 97
         },
         {
             "adult": false,
@@ -57,7 +57,7 @@
             "original_language": "en",
             "original_title": "Silent Hill",
             "overview": "De plus en plus souvent, la petite Sharon r\u00eave d'une ville abandonn\u00e9e, Silent Hill. Sa m\u00e8re, Rose, d\u00e9cid\u00e9e \u00e0 comprendre l'\u00e9trange mal dont souffre son enfant, d\u00e9cide de l'accompagner sur place. Alors qu'elles p\u00e9n\u00e8trent dans cet univers lugubre, Sharon dispara\u00eet. Rose se lance \u00e0 sa poursuite, mais se rend vite compte que ce lieu \u00e9trange ne ressemble \u00e0 rien de normal. Noy\u00e9e dans le brouillard, peupl\u00e9e d'\u00e9tranges cr\u00e9atures, hant\u00e9e par des t\u00e9n\u00e8bres vivantes qui d\u00e9vorent litt\u00e9ralement tout ce qu'elles touchent, cette dimension va peu \u00e0 peu livrer ses terrifiants secrets\u2026 Avec l'aide de Cybil, de la police locale, Rose se jette dans une qu\u00eate \u00e9perdue pour arracher sa fille au monde de Silent Hill. D'indices en \u00e9preuves, elle va d\u00e9couvrir tout ce que Sharon risque et ce qu'elle repr\u00e9sente dans une mal\u00e9diction qui d\u00e9passe tout\u2026",
-            "popularity": 8.8281,
+            "popularity": 8.6046,
             "poster_path": "/2I6UnjiJqmrYOzpsjIMjINcRSKF.jpg",
             "release_date": "2006-04-21",
             "title": "Silent Hill",
@@ -68,53 +68,8 @@
                 "Horreur",
                 "Myst\u00e8re"
             ],
-            "runtime": 125,
-            "tagline": "Nous vous attendions\u2026"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7pU5ZCY0Pe8uIVDL5JAVGoUEQx9.jpg",
-            "id": 9607,
-            "original_language": "en",
-            "original_title": "Super Mario Bros.",
-            "overview": "Inspir\u00e9 du jeu vid\u00e9o \"Super Mario\", ce film raconte l'histoire d'un peuple de dinosaures vivant pacifiquement sous la Terre, menac\u00e9s par un tyran qui, pour arriver \u00e0 ses fins, kidnappe Daisy, jeune et belle arch\u00e9ologue. Les fr\u00e8res Mario, plombiers, se rendent dans ce monde souterrain afin d'aider la jeune fille \u00e0 s'\u00e9chapper.",
-            "popularity": 2.144,
-            "poster_path": "/rQJR3Xc5MXzN7qeOieSQbaMPITD.jpg",
-            "release_date": "1993-05-28",
-            "title": "Super Mario Bros.",
-            "video": false,
-            "vote_average": 4.465,
-            "vote_count": 1398,
-            "genres": [
-                "Aventure",
-                "Fantastique",
-                "Com\u00e9die",
-                "Familial"
-            ],
-            "runtime": 104,
-            "tagline": "Plus palpitant qu'un jeu vid\u00e9o"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
-            "id": 1995,
-            "original_language": "en",
-            "original_title": "Lara Croft: Tomb Raider",
-            "overview": "Lara Croft a h\u00e9rit\u00e9 de son p\u00e8re arch\u00e9ologue de nombreux tr\u00e9sors parmi lesquels une myst\u00e9rieuse horloge magique. Des ann\u00e9es plus t\u00f4t, celui-ci lui d\u00e9voila l'existence d'une organisation secr\u00e8te, les Illuminati, qui s'\u00e9tait lanc\u00e9e \u00e0 la recherche d'une horloge dont la cl\u00e9 ouvrait les portes du Temps et de l'Espace. Celle-ci est un triangle sacr\u00e9 qui assura, 5 000 ans auparavant, la victoire des premiers Illuminati sur leurs ennemis. Si le triangle venait \u00e0 \u00eatre recompos\u00e9, ces lointains anc\u00eatres reviendraient \u00e0 la vie et le sort de l'Humanit\u00e9 en serait boulevers\u00e9 \u00e0 jamais. Le puissance de ce triangle atteindra son summum lorsque trois plan\u00e8tes s'aligneront dans le ciel en une \u00e9clipse totale qui survient une fois tous les 5 000 ans. L'aventuri\u00e8re ne dispose que de 48 heures pour r\u00e9soudre l'\u00e9nigme du triangle magique et ainsi sauver le monde.",
-            "popularity": 5.734,
-            "poster_path": "/t7hdugSBoox8ojzrwZWPJtNMlWb.jpg",
-            "release_date": "2001-06-15",
-            "title": "Lara Croft : Tomb Raider",
-            "video": false,
-            "vote_average": 5.907,
-            "vote_count": 6372,
-            "genres": [
-                "Aventure",
-                "Action",
-                "Fantastique"
-            ],
-            "runtime": 100,
-            "tagline": "N\u00e9e dans la richesse. Soign\u00e9e par l'\u00e9lite. Entra\u00een\u00e9e au combat."
+            "tagline": "Nous vous attendions\u2026",
+            "runtime": 125
         },
         {
             "adult": false,
@@ -123,7 +78,7 @@
             "original_language": "en",
             "original_title": "Street Fighter",
             "overview": "En Asie du Sud-Est, le g\u00e9n\u00e9ral Bison menace de faire \u00e9clater une guerre mondiale si on ne lui accorde pas 20 milliards de dollars, en \u00e9change de la vie de 63 membres des nations alli\u00e9es qu'il a pris en otage.",
-            "popularity": 4.3074,
+            "popularity": 4.7199,
             "poster_path": "/1Tke4esd803VK2JGBR3Z4RoUoOa.jpg",
             "release_date": "1994-12-23",
             "title": "Street Fighter : L'Ultime combat",
@@ -136,73 +91,52 @@
                 "Com\u00e9die",
                 "Thriller"
             ],
-            "runtime": 102,
-            "tagline": "Le combat pour sauver le monde est lanc\u00e9 !"
+            "tagline": "Le combat pour sauver le monde est lanc\u00e9 !",
+            "runtime": 102
         },
         {
             "adult": false,
-            "backdrop_path": "/ae25gpphxDPEYGUxvAGmR07oQqC.jpg",
-            "id": 800497,
+            "backdrop_path": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+            "id": 9312,
             "original_language": "en",
-            "original_title": "Werewolves Within",
-            "overview": "Alors qu\u2019un projet de pipeline cr\u00e9e des tensions entre les habitants d'une petite ville, un garde forestier nouvellement arriv\u00e9 doit maintenir la paix apr\u00e8s qu'une temp\u00eate de neige ait confin\u00e9 les habitants dans un vieux pavillon.  Mais lorsqu'une myst\u00e9rieuse cr\u00e9ature commence \u00e0 terroriser le groupe, leurs pires tendances et pr\u00e9jug\u00e9s refont surface.",
-            "popularity": 1.6763,
-            "poster_path": "/yRDHQTrEJGoFrGNR8GpSAxIdQSJ.jpg",
-            "release_date": "2021-06-25",
-            "title": "Loups-garous",
+            "original_title": "Mortal Kombat",
+            "overview": "Lord Rayden fait \u00e9quipe avec un guerrier, un ma\u00eetre en arts martiaux et une belle d\u00e9tective pour remporter le tournoi Mortal Kombat. S'ils \u00e9chouent, ce sera la fin de l'Humanit\u00e9.",
+            "popularity": 4.0614,
+            "poster_path": "/4Wr3FCCeiknJtrb4dgErFS2wnbd.jpg",
+            "release_date": "1995-08-18",
+            "title": "Mortal Kombat",
             "video": false,
-            "vote_average": 6.026,
-            "vote_count": 605,
-            "genres": [
-                "Horreur",
-                "Com\u00e9die"
-            ],
-            "runtime": 97,
-            "tagline": "Quand le village s\u2019endort, ils se r\u00e9veillent."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9EpgaLS44zlXoTSAOhGiJmkIA4B.jpg",
-            "id": 8814,
-            "original_language": "en",
-            "original_title": "Doom",
-            "overview": "Une chose terrible est arriv\u00e9e \u00e0 la station de recherche scientifique Olduvai, bas\u00e9e sur la plan\u00e8te Mars. Toutes les exp\u00e9riences se sont arr\u00eat\u00e9es, la communication ne passe plus. Les derniers messages re\u00e7us sont pour le moins angoissants. Le niveau 5 de quarantaine est d\u00e9clar\u00e9 et les seules personnes auxquelles l'acc\u00e8s est autoris\u00e9 sont les membres du commando des Rapid Response Tactical Squad (RRTS). Mais sont-ils face \u00e0 n'importe quel ennemi ? Les scientifiques de cette station de la plan\u00e8te rouge ont malencontreusement ouvert une porte dans laquelle se sont engouffr\u00e9es toutes les cr\u00e9atures de l'enfer. Une arm\u00e9e de cr\u00e9atures de cauchemars d'origine inconnue est tapie derri\u00e8re chaque recoin des innombrables pi\u00e8ces et couloirs de la base, tuant les quelques rares humains encore pr\u00e9sents...",
-            "popularity": 3.6142,
-            "poster_path": "/ttcGOb2nmYi4VNjsUt3vbxug1ad.jpg",
-            "release_date": "2005-10-20",
-            "title": "Doom",
-            "video": false,
-            "vote_average": 5.185,
-            "vote_count": 2365,
+            "vote_average": 5.876,
+            "vote_count": 2437,
             "genres": [
                 "Action",
-                "Horreur",
-                "Science-Fiction"
-            ],
-            "runtime": 104,
-            "tagline": "Personne ne sort vivant."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
-            "id": 447404,
-            "original_language": "en",
-            "original_title": "Pok\u00e9mon Detective Pikachu",
-            "overview": "Harry Goodman, un d\u00e9tective priv\u00e9 disparait myst\u00e9rieusement. Une s\u00e9paration qui pousse alors son fils Tim, 21 ans, \u00e0 tenter de d\u00e9couvrir ce qui s\u2019est pass\u00e9.  Le d\u00e9tective Pikachu, ancien partenaire de Harry, participe alors \u00e0 l\u2019enqu\u00eate\u2026",
-            "popularity": 5.0851,
-            "poster_path": "/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
-            "release_date": "2019-05-03",
-            "title": "Pok\u00e9mon D\u00e9tective Pikachu",
-            "video": false,
-            "vote_average": 6.91,
-            "vote_count": 7190,
-            "genres": [
-                "Action",
-                "Aventure",
                 "Fantastique"
             ],
-            "runtime": 104,
-            "tagline": "Une amiti\u00e9 du tonnerre. Une aventure l\u00e9gendaire."
+            "tagline": "Rien en ce monde ne vous y a pr\u00e9par\u00e9",
+            "runtime": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7pU5ZCY0Pe8uIVDL5JAVGoUEQx9.jpg",
+            "id": 9607,
+            "original_language": "en",
+            "original_title": "Super Mario Bros.",
+            "overview": "Inspir\u00e9 du jeu vid\u00e9o \"Super Mario\", ce film raconte l'histoire d'un peuple de dinosaures vivant pacifiquement sous la Terre, menac\u00e9s par un tyran qui, pour arriver \u00e0 ses fins, kidnappe Daisy, jeune et belle arch\u00e9ologue. Les fr\u00e8res Mario, plombiers, se rendent dans ce monde souterrain afin d'aider la jeune fille \u00e0 s'\u00e9chapper.",
+            "popularity": 2.3436,
+            "poster_path": "/rQJR3Xc5MXzN7qeOieSQbaMPITD.jpg",
+            "release_date": "1993-05-28",
+            "title": "Super Mario Bros.",
+            "video": false,
+            "vote_average": 4.465,
+            "vote_count": 1398,
+            "genres": [
+                "Aventure",
+                "Fantastique",
+                "Com\u00e9die",
+                "Familial"
+            ],
+            "tagline": "Plus palpitant qu'un jeu vid\u00e9o",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -211,7 +145,7 @@
             "original_language": "en",
             "original_title": "Sonic the Hedgehog 2",
             "overview": "Bien install\u00e9 dans la petite ville de Green Hills, Sonic veut maintenant prouver qu\u2019il a l\u2019\u00e9toffe d' un v\u00e9ritable h\u00e9ros. Un d\u00e9fi de taille se pr\u00e9sente \u00e0 lui quand le Dr Robotnik refait son apparition. Accompagn\u00e9 de son nouveau complice Knuckles, ils sont en qu\u00eate d\u2019une \u00e9meraude dont le pouvoir permettrait de d\u00e9truire l\u2019humanit\u00e9 tout enti\u00e8re. Pour s\u2019assurer que l\u2019\u00e9meraude ne tombe entre de mauvaises mains, Sonic fait \u00e9quipe avec Tails. Commence alors un voyage \u00e0 travers le monde, plein de p\u00e9rip\u00e9ties.",
-            "popularity": 9.3641,
+            "popularity": 9.2746,
             "poster_path": "/7RSCL6V8BlekgVnNPok6tLW50tP.jpg",
             "release_date": "2022-03-30",
             "title": "Sonic 2, le film",
@@ -224,8 +158,74 @@
                 "Familial",
                 "Com\u00e9die"
             ],
-            "runtime": 124,
-            "tagline": "2 fois plus de fun."
+            "tagline": "2 fois plus de fun.",
+            "runtime": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9EpgaLS44zlXoTSAOhGiJmkIA4B.jpg",
+            "id": 8814,
+            "original_language": "en",
+            "original_title": "Doom",
+            "overview": "Une chose terrible est arriv\u00e9e \u00e0 la station de recherche scientifique Olduvai, bas\u00e9e sur la plan\u00e8te Mars. Toutes les exp\u00e9riences se sont arr\u00eat\u00e9es, la communication ne passe plus. Les derniers messages re\u00e7us sont pour le moins angoissants. Le niveau 5 de quarantaine est d\u00e9clar\u00e9 et les seules personnes auxquelles l'acc\u00e8s est autoris\u00e9 sont les membres du commando des Rapid Response Tactical Squad (RRTS). Mais sont-ils face \u00e0 n'importe quel ennemi ? Les scientifiques de cette station de la plan\u00e8te rouge ont malencontreusement ouvert une porte dans laquelle se sont engouffr\u00e9es toutes les cr\u00e9atures de l'enfer. Une arm\u00e9e de cr\u00e9atures de cauchemars d'origine inconnue est tapie derri\u00e8re chaque recoin des innombrables pi\u00e8ces et couloirs de la base, tuant les quelques rares humains encore pr\u00e9sents...",
+            "popularity": 3.6242,
+            "poster_path": "/ttcGOb2nmYi4VNjsUt3vbxug1ad.jpg",
+            "release_date": "2005-10-20",
+            "title": "Doom",
+            "video": false,
+            "vote_average": 5.185,
+            "vote_count": 2365,
+            "genres": [
+                "Action",
+                "Horreur",
+                "Science-Fiction"
+            ],
+            "tagline": "Personne ne sort vivant.",
+            "runtime": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+            "id": 1995,
+            "original_language": "en",
+            "original_title": "Lara Croft: Tomb Raider",
+            "overview": "Lara Croft a h\u00e9rit\u00e9 de son p\u00e8re arch\u00e9ologue de nombreux tr\u00e9sors parmi lesquels une myst\u00e9rieuse horloge magique. Des ann\u00e9es plus t\u00f4t, celui-ci lui d\u00e9voila l'existence d'une organisation secr\u00e8te, les Illuminati, qui s'\u00e9tait lanc\u00e9e \u00e0 la recherche d'une horloge dont la cl\u00e9 ouvrait les portes du Temps et de l'Espace. Celle-ci est un triangle sacr\u00e9 qui assura, 5 000 ans auparavant, la victoire des premiers Illuminati sur leurs ennemis. Si le triangle venait \u00e0 \u00eatre recompos\u00e9, ces lointains anc\u00eatres reviendraient \u00e0 la vie et le sort de l'Humanit\u00e9 en serait boulevers\u00e9 \u00e0 jamais. Le puissance de ce triangle atteindra son summum lorsque trois plan\u00e8tes s'aligneront dans le ciel en une \u00e9clipse totale qui survient une fois tous les 5 000 ans. L'aventuri\u00e8re ne dispose que de 48 heures pour r\u00e9soudre l'\u00e9nigme du triangle magique et ainsi sauver le monde.",
+            "popularity": 5.5494,
+            "poster_path": "/t7hdugSBoox8ojzrwZWPJtNMlWb.jpg",
+            "release_date": "2001-06-15",
+            "title": "Lara Croft : Tomb Raider",
+            "video": false,
+            "vote_average": 5.907,
+            "vote_count": 6372,
+            "genres": [
+                "Aventure",
+                "Action",
+                "Fantastique"
+            ],
+            "tagline": "N\u00e9e dans la richesse. Soign\u00e9e par l'\u00e9lite. Entra\u00een\u00e9e au combat.",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+            "id": 447404,
+            "original_language": "en",
+            "original_title": "Pok\u00e9mon Detective Pikachu",
+            "overview": "Harry Goodman, un d\u00e9tective priv\u00e9 disparait myst\u00e9rieusement. Une s\u00e9paration qui pousse alors son fils Tim, 21 ans, \u00e0 tenter de d\u00e9couvrir ce qui s\u2019est pass\u00e9.  Le d\u00e9tective Pikachu, ancien partenaire de Harry, participe alors \u00e0 l\u2019enqu\u00eate\u2026",
+            "popularity": 4.7717,
+            "poster_path": "/gsoZQqBX04yXe5nXNKyILy9fuuF.jpg",
+            "release_date": "2019-05-03",
+            "title": "Pok\u00e9mon D\u00e9tective Pikachu",
+            "video": false,
+            "vote_average": 6.91,
+            "vote_count": 7190,
+            "genres": [
+                "Action",
+                "Aventure",
+                "Fantastique"
+            ],
+            "tagline": "Une amiti\u00e9 du tonnerre. Une aventure l\u00e9gendaire.",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -234,7 +234,7 @@
             "original_language": "en",
             "original_title": "Resident Evil: Welcome to Raccoon City",
             "overview": "Ce nouveau chapitre de la saga Resident Evil, situ\u00e9 en 1998, d\u00e9voile enfin les secrets du manoir Spencer et de la ville qui fut autrefois le si\u00e8ge florissant du g\u00e9ant pharmaceutique Umbrella Corporation. Depuis le d\u00e9part de la toute-puissante entreprise, Raccoon City a sombr\u00e9 jusqu\u2019\u00e0 la ruine, et une menace terrible r\u00f4de dans l\u2019ombre. Lorsque le mal se r\u00e9veille, Claire et Chris Redfield accompagn\u00e9s de Jill Valentine unissent leurs forces pour tenter de d\u00e9couvrir la v\u00e9rit\u00e9 sur Umbrella, en esp\u00e9rant voir le bout de la nuit...",
-            "popularity": 7.1785,
+            "popularity": 7.4565,
             "poster_path": "/huY3JAjrLdAOv6lq3m8kcTNJs8r.jpg",
             "release_date": "2021-11-24",
             "title": "Resident Evil : Bienvenue \u00e0 Raccoon City",
@@ -246,8 +246,8 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 107,
-            "tagline": "D\u00e9couvrez l'origine du mal"
+            "tagline": "D\u00e9couvrez l'origine du mal",
+            "runtime": 107
         }
     ]
 }

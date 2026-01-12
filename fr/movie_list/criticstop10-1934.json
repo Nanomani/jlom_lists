@@ -4,50 +4,9 @@
     "source": "https://criticstop10.com/best-movies-of-1934/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
-            "id": 3078,
-            "original_language": "en",
-            "original_title": "It Happened One Night",
-            "overview": "Ellie Andrews, jeune fille g\u00e2t\u00e9e, \u00e9chappe \u00e0 l'emprise de son p\u00e8re millionnaire qui veut \u00e0 tout prix l'emp\u00eacher d'\u00e9pouser un play boy sans avenir. En route pour New York, elle rencontre Peter Warner, journaliste au ch\u00f4mage. Mais le bus tombe en panne et le couple impromptu se lance dans une folle randonn\u00e9e improvis\u00e9e.",
-            "popularity": 1.722,
-            "poster_path": "/mjMgTY1RkcPD9O62WXIf7icO3NK.jpg",
-            "release_date": "1934-02-22",
-            "title": "New York - Miami",
-            "video": false,
-            "vote_average": 7.831,
-            "vote_count": 1355,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 105,
-            "tagline": "Ensemble pour la premi\u00e8re fois !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": null,
-            "id": 111312,
-            "original_language": "en",
-            "original_title": "Sequoia",
-            "overview": "",
-            "popularity": 1.9114,
-            "poster_path": "/lQxYXCz1Dkn5L4JZUdtmFLRhJ7P.jpg",
-            "release_date": "1935-01-16",
-            "title": "Sequoia",
-            "video": false,
-            "vote_average": 6.0,
-            "vote_count": 1,
-            "genres": [
-                "Aventure"
-            ],
-            "runtime": 68,
-            "tagline": ""
-        },
         {
             "adult": false,
             "backdrop_path": "/lLmI59EA1gYKuOLVIHt1n7N0CnN.jpg",
@@ -55,7 +14,7 @@
             "original_language": "en",
             "original_title": "The Barretts of Wimpole Street",
             "overview": "",
-            "popularity": 0.2293,
+            "popularity": 0.187,
             "poster_path": "/c8BfdxxwmABRATDnMVJNmW2sLhG.jpg",
             "release_date": "1934-09-21",
             "title": "The Barretts of Wimpole Street",
@@ -66,8 +25,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -76,7 +35,7 @@
             "original_language": "en",
             "original_title": "The House of Rothschild",
             "overview": "L'histoire de la tr\u00e8s riche famille Rothschild qui souffre des pr\u00e9jug\u00e9s de la soci\u00e9t\u00e9 antis\u00e9mite dans laquelle elle vit.",
-            "popularity": 0.7428,
+            "popularity": 0.6069,
             "poster_path": "/emqmRhpoMpN565Djn4yps3GnZal.jpg",
             "release_date": "1934-04-07",
             "title": "La Maison des Rothschild",
@@ -88,29 +47,50 @@
                 "Histoire",
                 "Romance"
             ],
-            "runtime": 88,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 88
         },
         {
             "adult": false,
-            "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
-            "id": 28288,
+            "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+            "id": 3078,
             "original_language": "en",
-            "original_title": "The Gay Divorcee",
-            "overview": "Une jeune femme souhaitant divorcer simule un adult\u00e8re en engageant par correspondance un homme qui se fera passer pour son amant. Elle rencontre \u00e0 la douane Guy Holden, un danseur, et est persuad\u00e9e qu'il s'agit de son homme de paille...",
-            "popularity": 1.4169,
-            "poster_path": "/gyenmDB2UyByOyLV0oahnUQ6qN.jpg",
-            "release_date": "1934-10-12",
-            "title": "La Joyeuse Divorc\u00e9e",
+            "original_title": "It Happened One Night",
+            "overview": "Ellie Andrews, jeune fille g\u00e2t\u00e9e, \u00e9chappe \u00e0 l'emprise de son p\u00e8re millionnaire qui veut \u00e0 tout prix l'emp\u00eacher d'\u00e9pouser un play boy sans avenir. En route pour New York, elle rencontre Peter Warner, journaliste au ch\u00f4mage. Mais le bus tombe en panne et le couple impromptu se lance dans une folle randonn\u00e9e improvis\u00e9e.",
+            "popularity": 2.7403,
+            "poster_path": "/mjMgTY1RkcPD9O62WXIf7icO3NK.jpg",
+            "release_date": "1934-02-22",
+            "title": "New York - Miami",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 138,
+            "vote_average": 7.831,
+            "vote_count": 1355,
             "genres": [
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 107,
-            "tagline": "Le Roi et la Reine de la \"carioca\""
+            "tagline": "Ensemble pour la premi\u00e8re fois !",
+            "runtime": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+            "id": 84097,
+            "original_language": "en",
+            "original_title": "One Night of Love",
+            "overview": "",
+            "popularity": 0.3346,
+            "poster_path": "/x4qOQ35bpwMC1Ar09aPZcaXg6sZ.jpg",
+            "release_date": "1934-07-16",
+            "title": "Une nuit d'amour",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 17,
+            "genres": [
+                "Musique",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 84
         },
         {
             "adult": false,
@@ -119,7 +99,7 @@
             "original_language": "en",
             "original_title": "The Thin Man",
             "overview": "Convaincue de la culpabilit\u00e9 de son p\u00e8re dans une affaire de meurtre, Dorothy Wynant s'accuse elle-m\u00eame aupr\u00e8s du d\u00e9tective amateur Nick Charles. Excit\u00e9e par ce meurtre myst\u00e9rieux, l'\u00e9pouse de Nick, la fantasque Nora, le pousse \u00e0 accepter l'affaire. D'abord r\u00e9ticent, Nick finit par se lancer dans l'enqu\u00eate quand il se rend compte que la police fait fausse route...",
-            "popularity": 1.126,
+            "popularity": 1.1065,
             "poster_path": "/biha4NCniPmk7oAVN7kHfQsoImF.jpg",
             "release_date": "1934-05-25",
             "title": "L'Introuvable",
@@ -131,8 +111,70 @@
                 "Myst\u00e8re",
                 "Crime"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
+            "id": 43604,
+            "original_language": "en",
+            "original_title": "Viva Villa!",
+            "overview": "Les paysans mexicains vivent sous la terreur d'un dictateur impitoyable durant cette ann\u00e9e 1880. Les terres sont r\u00e9quisitionn\u00e9es par la troupe et toute r\u00e9bellion est durement r\u00e9prim\u00e9e. Le jeune Pancho Villa voit ainsi sont p\u00e8re fouett\u00e9 \u00e0 mort sans qu'il puisse intervenir. Des ann\u00e9es plus tard, apr\u00e8s avoir \u00e9pous\u00e9 Rosita, il devient le g\u00e9n\u00e9ral des paysans r\u00e9volt\u00e9s. Il fait la connaissance de Francisco Madero, qui va devenir pr\u00e9sident apr\u00e8s l'attaque victorieuse de Santa Rosalia par les troupes de Pancho Villa. Pancho fait alors le serment \u00e0 Madero de lui porter secours s'il venait \u00e0 \u00eatre menac\u00e9. Mais c'est Pancho qui, le premier, aura besoin de Madero...",
+            "popularity": 2.238,
+            "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
+            "release_date": "1934-04-27",
+            "title": "Viva Villa!",
+            "video": false,
+            "vote_average": 6.241,
+            "vote_count": 29,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "",
+            "runtime": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6nDGPhvBm5SGqotqwueTL2SYSdK.jpg",
+            "id": 43691,
+            "original_language": "en",
+            "original_title": "The Count of Monte Cristo",
+            "overview": "Victime d'une d\u00e9nonciation calmonieuse, Edmond Dant\u00e8s est arr\u00eat\u00e9 et envoy\u00e9 au Ch\u00e2teau d'If, alors qu'il \u00e9tait sur le point de se fiancer. Parvenant \u00e0 s'enfuir apr\u00e8s 14 ans de d\u00e9tention, il met la main sur le tr\u00e9sor dont lui avait parl\u00e9 l'Abb\u00e9 Faria, un autre prisonnier. Dant\u00e8s, devenu le richissime Comte de Monte Cristo, est d\u00e9termin\u00e9 \u00e0 se venger...",
+            "popularity": 0.7092,
+            "poster_path": "/gpfDds86hBynC48ZJdb6mmijgkk.jpg",
+            "release_date": "1934-09-06",
+            "title": "Le Comte de Monte Cristo",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 58,
+            "genres": [
+                "Drame",
+                "Aventure"
+            ],
+            "tagline": "",
+            "runtime": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+            "id": 28288,
+            "original_language": "en",
+            "original_title": "The Gay Divorcee",
+            "overview": "Une jeune femme souhaitant divorcer simule un adult\u00e8re en engageant par correspondance un homme qui se fera passer pour son amant. Elle rencontre \u00e0 la douane Guy Holden, un danseur, et est persuad\u00e9e qu'il s'agit de son homme de paille...",
+            "popularity": 1.1371,
+            "poster_path": "/gyenmDB2UyByOyLV0oahnUQ6qN.jpg",
+            "release_date": "1934-10-12",
+            "title": "La Joyeuse Divorc\u00e9e",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 138,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "Le Roi et la Reine de la \"carioca\"",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -141,7 +183,7 @@
             "original_language": "en",
             "original_title": "Judge Priest",
             "overview": "Une petite ville du Kentucky, 1891. Le Juge Priest assiste avec plaisir au retour au bercail de son neveu, parti \u00e9tudier le droit. Le jeune avocat revient et courtise la jeune Ellie May, mais celle-ci n'est pas du gout de la belle-s\u0153ur de Priest: elle n'a jamais connu son p\u00e8re, et n'est pas un beau parti. Mais un homme, venu du Nord, prend la d\u00e9fense de la jeune femme, chez un coiffeur ou le nom d'Ellie May a \u00e9t\u00e9 souill\u00e9. Ce m\u00eame homme va se retrouver accus\u00e9 de tentative de meurtre dans un proc\u00e8s qui va opposer le juge Priest, son neveu avocat, et l'opposant de Priest, procureur\u2026",
-            "popularity": 0.3265,
+            "popularity": 0.2669,
             "poster_path": "/vo7jPkmVR4M0rlw4wwM31bUopyK.jpg",
             "release_date": "1934-09-15",
             "title": "Judge Priest",
@@ -153,70 +195,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 80
         },
         {
             "adult": false,
-            "backdrop_path": "/6nDGPhvBm5SGqotqwueTL2SYSdK.jpg",
-            "id": 43691,
+            "backdrop_path": null,
+            "id": 111312,
             "original_language": "en",
-            "original_title": "The Count of Monte Cristo",
-            "overview": "Victime d'une d\u00e9nonciation calmonieuse, Edmond Dant\u00e8s est arr\u00eat\u00e9 et envoy\u00e9 au Ch\u00e2teau d'If, alors qu'il \u00e9tait sur le point de se fiancer. Parvenant \u00e0 s'enfuir apr\u00e8s 14 ans de d\u00e9tention, il met la main sur le tr\u00e9sor dont lui avait parl\u00e9 l'Abb\u00e9 Faria, un autre prisonnier. Dant\u00e8s, devenu le richissime Comte de Monte Cristo, est d\u00e9termin\u00e9 \u00e0 se venger...",
-            "popularity": 0.7688,
-            "poster_path": "/gpfDds86hBynC48ZJdb6mmijgkk.jpg",
-            "release_date": "1934-09-06",
-            "title": "Le Comte de Monte Cristo",
+            "original_title": "Sequoia",
+            "overview": "",
+            "popularity": 1.6569,
+            "poster_path": "/lQxYXCz1Dkn5L4JZUdtmFLRhJ7P.jpg",
+            "release_date": "1935-01-16",
+            "title": "Sequoia",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 58,
+            "vote_average": 6.0,
+            "vote_count": 1,
             "genres": [
-                "Drame",
                 "Aventure"
             ],
-            "runtime": 113,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
-            "id": 43604,
-            "original_language": "en",
-            "original_title": "Viva Villa!",
-            "overview": "Les paysans mexicains vivent sous la terreur d'un dictateur impitoyable durant cette ann\u00e9e 1880. Les terres sont r\u00e9quisitionn\u00e9es par la troupe et toute r\u00e9bellion est durement r\u00e9prim\u00e9e. Le jeune Pancho Villa voit ainsi sont p\u00e8re fouett\u00e9 \u00e0 mort sans qu'il puisse intervenir. Des ann\u00e9es plus tard, apr\u00e8s avoir \u00e9pous\u00e9 Rosita, il devient le g\u00e9n\u00e9ral des paysans r\u00e9volt\u00e9s. Il fait la connaissance de Francisco Madero, qui va devenir pr\u00e9sident apr\u00e8s l'attaque victorieuse de Santa Rosalia par les troupes de Pancho Villa. Pancho fait alors le serment \u00e0 Madero de lui porter secours s'il venait \u00e0 \u00eatre menac\u00e9. Mais c'est Pancho qui, le premier, aura besoin de Madero...",
-            "popularity": 2.506,
-            "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
-            "release_date": "1934-04-27",
-            "title": "Viva Villa!",
-            "video": false,
-            "vote_average": 6.241,
-            "vote_count": 29,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 115,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
-            "id": 84097,
-            "original_language": "en",
-            "original_title": "One Night of Love",
-            "overview": "",
-            "popularity": 0.4124,
-            "poster_path": "/x4qOQ35bpwMC1Ar09aPZcaXg6sZ.jpg",
-            "release_date": "1934-07-16",
-            "title": "Une nuit d'amour",
-            "video": false,
-            "vote_average": 5.2,
-            "vote_count": 17,
-            "genres": [
-                "Musique",
-                "Romance"
-            ],
-            "runtime": 84,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 68
         },
         {
             "adult": false,
@@ -225,7 +225,7 @@
             "original_language": "en",
             "original_title": "Broadway Bill",
             "overview": "Dan Brooks est mari\u00e9 \u00e0 une riche h\u00e9riti\u00e8re et travaille pour son beau-p\u00e8re. Sa femme ne comprend ni sa r\u00e9pugnance \u00e0 la vie de parasite dans laquelle il s'abime, ni sa passion pour les chevaux auxquels il consacre de plus en plus de temps. Un soir, lors d'un d\u00eener de famille, il plaque tout et part avec Whitey pour pr\u00e9senter son cheval dans une grande comp\u00e9tition aid\u00e9 par le colonel Pettigrew et par sa jeune belle-s\u0153ur Alice.",
-            "popularity": 0.279,
+            "popularity": 0.3417,
             "poster_path": "/w434kXG5k8wbXDbD7cvvqSyYYcL.jpg",
             "release_date": "1934-11-30",
             "title": "La Course de Broadway Bill",
@@ -236,50 +236,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 104,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fbc8uZJ6snwCbOSNjbikBajGUx0.jpg",
-            "id": 43905,
-            "original_language": "en",
-            "original_title": "Of Human Bondage",
-            "overview": "Un \u00e9tudiant en m\u00e9decine s'\u00e9prend d'une serveuse. Il ne peut malgr\u00e9 tout se d\u00e9tourner d'elle.",
-            "popularity": 0.6799,
-            "poster_path": "/2m60bg3zjkBwEAkg4Azcp6q1qgB.jpg",
-            "release_date": "1934-07-20",
-            "title": "L'Emprise",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 136,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 83,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/nfhnwX0SyCw9qEPyFVdMc4zZnSp.jpg",
-            "id": 43687,
-            "original_language": "en",
-            "original_title": "The Rise of Catherine the Great",
-            "overview": "La femme qui deviendra Catherine la Grande se marie dans la famille royale russe lorsqu'elle \u00e9pousera le grand-duc Pierre, le neveu de l'imp\u00e9ratrice Elizabeth. Bien que le couple ait des moments de contentement, le comportement cruel et erratique de Peter provoque une rupture entre lui et Catherine. Quelques mois \u00e0 peine apr\u00e8s que Peter succ\u00e8de \u00e0 sa tante \u00e0 la t\u00eate de la Russie, une r\u00e9volte se pr\u00e9pare et Catherine est sur le point de monter sur le tr\u00f4ne en tant que nouvelle imp\u00e9ratrice du pays.",
-            "popularity": 0.3376,
-            "poster_path": "/tcfc8jgMrmP0R6VD2cSqr58D1IQ.jpg",
-            "release_date": "1934-02-09",
-            "title": "The Rise of Catherine the Great",
-            "video": false,
-            "vote_average": 5.6,
-            "vote_count": 20,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -288,7 +246,7 @@
             "original_language": "en",
             "original_title": "Treasure Island",
             "overview": "Dans cet adaptation en noir et blanc du c\u00e9l\u00e8bre roman de Stevenson, le jeune Jim Hawkins est embarqu\u00e9 dans une aventure qui le conduira \u00e0 la recherche du tr\u00e9sor de Flint. Tr\u00e9sor sur lequel l'\u00e9quipage, sous la conduite de Long John Silver, voudrait bien mettre la main \u00e0 la place du jeune gar\u00e7on et de ses amis...",
-            "popularity": 2.3643,
+            "popularity": 2.0892,
             "poster_path": "/fi1FVASJ01K5D5xeM9U8BsF2A9d.jpg",
             "release_date": "1934-08-17",
             "title": "L'\u00cele au Tr\u00e9sor",
@@ -299,8 +257,8 @@
                 "Aventure",
                 "Familial"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -309,7 +267,7 @@
             "original_language": "en",
             "original_title": "Queen Christina",
             "overview": "La tr\u00e8s belle et tr\u00e8s intelligente Reine Christine de Su\u00e8de tombe \u00e9perdument amoureuse de Don Antonio de la Prada, l'envoy\u00e9 du Roi d'Espagne. Devant le m\u00e9contentement de la cour et du peuple, elle abdique en faveur du Prince Charles Gustave pour pouvoir \u00e9pouser celui qu'elle aime. Mais Magnus, son dernier amant, va tout faire pour briser son bonheur.",
-            "popularity": 2.8343,
+            "popularity": 2.2858,
             "poster_path": "/gt04jlGLtQcmpCccBCP5y9tj42T.jpg",
             "release_date": "1934-02-09",
             "title": "La Reine Christine",
@@ -321,92 +279,50 @@
                 "Histoire",
                 "Drame"
             ],
-            "runtime": 99,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 99
         },
         {
             "adult": false,
-            "backdrop_path": "/yWLMR2dZMMQLrPgkJaankQZJXNK.jpg",
-            "id": 43150,
+            "backdrop_path": "/nfhnwX0SyCw9qEPyFVdMc4zZnSp.jpg",
+            "id": 43687,
             "original_language": "en",
-            "original_title": "Little Miss Marker",
-            "overview": "Sorrowful Jones, un bookmaker qui officie sur les champs de courses, croise le chemin d'une gamine dont le p\u00e8re s'est suicid\u00e9 apr\u00e8s avoir parier sur le mauvais cheval. Attendrie par la fillette, Jones d\u00e9cide de la recueillir.",
-            "popularity": 0.3371,
-            "poster_path": "/zRpQfx6RrNJnaEVIQHinqIqSGTS.jpg",
-            "release_date": "1934-06-01",
-            "title": "Petite Miss",
+            "original_title": "The Rise of Catherine the Great",
+            "overview": "La femme qui deviendra Catherine la Grande se marie dans la famille royale russe lorsqu'elle \u00e9pousera le grand-duc Pierre, le neveu de l'imp\u00e9ratrice Elizabeth. Bien que le couple ait des moments de contentement, le comportement cruel et erratique de Peter provoque une rupture entre lui et Catherine. Quelques mois \u00e0 peine apr\u00e8s que Peter succ\u00e8de \u00e0 sa tante \u00e0 la t\u00eate de la Russie, une r\u00e9volte se pr\u00e9pare et Catherine est sur le point de monter sur le tr\u00f4ne en tant que nouvelle imp\u00e9ratrice du pays.",
+            "popularity": 0.37,
+            "poster_path": "/tcfc8jgMrmP0R6VD2cSqr58D1IQ.jpg",
+            "release_date": "1934-02-09",
+            "title": "The Rise of Catherine the Great",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 24,
+            "vote_average": 5.6,
+            "vote_count": 20,
             "genres": [
-                "Com\u00e9die",
-                "Familial"
+                "Drame",
+                "Histoire"
             ],
-            "runtime": 79,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
-            "backdrop_path": "/gb01PQypcQVz7Q15vsZQRqhdSQc.jpg",
-            "id": 28293,
+            "backdrop_path": "/fbc8uZJ6snwCbOSNjbikBajGUx0.jpg",
+            "id": 43905,
             "original_language": "en",
-            "original_title": "Flying Down to Rio",
-            "overview": "Roger Bond, grand s\u00e9ducteur, tombe un jour r\u00e9ellement amoureux mais Belinha est d\u00e9j\u00e0 fianc\u00e9e. Alors que son orchestre doit se rendre \u00e0 Rio, il propose \u00e0 la belle Br\u00e9silienne de voyager avec lui. Confiant il ne voit pas que Belinha reste partag\u00e9e entre lui et son fianc\u00e9 Julio...",
-            "popularity": 0.6233,
-            "poster_path": "/zKBXy84eN6tgwXaYsiFSCgq0GBc.jpg",
-            "release_date": "1933-12-22",
-            "title": "Carioca",
+            "original_title": "Of Human Bondage",
+            "overview": "Un \u00e9tudiant en m\u00e9decine s'\u00e9prend d'une serveuse. Il ne peut malgr\u00e9 tout se d\u00e9tourner d'elle.",
+            "popularity": 0.6842,
+            "poster_path": "/2m60bg3zjkBwEAkg4Azcp6q1qgB.jpg",
+            "release_date": "1934-07-20",
+            "title": "L'Emprise",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 69,
+            "vote_average": 6.5,
+            "vote_count": 136,
             "genres": [
-                "Com\u00e9die",
+                "Drame",
                 "Romance"
             ],
-            "runtime": 89,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/kOZpCxSvaGZogZAU1o9zJdcuZs0.jpg",
-            "id": 261754,
-            "original_language": "en",
-            "original_title": "David Harum",
-            "overview": "",
-            "popularity": 0.1313,
-            "poster_path": "/p39WjKYRzvSi4yCA7qh1hSoDDPN.jpg",
-            "release_date": "1934-03-02",
-            "title": "David Harum",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 1,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 83,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/cMUjH61we5JUDLmIpLFxlS0tHvB.jpg",
-            "id": 77210,
-            "original_language": "en",
-            "original_title": "Design for Living",
-            "overview": "Dans le train \u00e0 destination de Paris, un auteur dramatique et un peintre tombent sous le charme d\u2019une caricaturiste. Ind\u00e9cise, la jeune femme entame des relations platoniques avec ses deux soupirants. Mais les passions ne peuvent pas attendre\u2026",
-            "popularity": 0.63,
-            "poster_path": "/70x1zs6kQloCHGTnSnjXPRmm87z.jpg",
-            "release_date": "1933-12-29",
-            "title": "S\u00e9r\u00e9nade \u00e0 trois",
-            "video": false,
-            "vote_average": 7.111,
-            "vote_count": 203,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 91,
-            "tagline": "Trois c\u0153urs qui battent \u00e0 l'unisson."
+            "tagline": "",
+            "runtime": 83
         },
         {
             "adult": false,
@@ -415,7 +331,7 @@
             "original_language": "en",
             "original_title": "Death Takes a Holiday",
             "overview": "La Mort d\u00e9cide de prendre des vacances afin de voir comment vivent les mortels...",
-            "popularity": 0.3997,
+            "popularity": 0.353,
             "poster_path": "/becYmbZXZalAvxNC4JVpQSjvqtk.jpg",
             "release_date": "1934-03-30",
             "title": "Death Takes a Holiday",
@@ -427,8 +343,92 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 78,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kOZpCxSvaGZogZAU1o9zJdcuZs0.jpg",
+            "id": 261754,
+            "original_language": "en",
+            "original_title": "David Harum",
+            "overview": "",
+            "popularity": 0.129,
+            "poster_path": "/p39WjKYRzvSi4yCA7qh1hSoDDPN.jpg",
+            "release_date": "1934-03-02",
+            "title": "David Harum",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gb01PQypcQVz7Q15vsZQRqhdSQc.jpg",
+            "id": 28293,
+            "original_language": "en",
+            "original_title": "Flying Down to Rio",
+            "overview": "Roger Bond, grand s\u00e9ducteur, tombe un jour r\u00e9ellement amoureux mais Belinha est d\u00e9j\u00e0 fianc\u00e9e. Alors que son orchestre doit se rendre \u00e0 Rio, il propose \u00e0 la belle Br\u00e9silienne de voyager avec lui. Confiant il ne voit pas que Belinha reste partag\u00e9e entre lui et son fianc\u00e9 Julio...",
+            "popularity": 0.4654,
+            "poster_path": "/zKBXy84eN6tgwXaYsiFSCgq0GBc.jpg",
+            "release_date": "1933-12-22",
+            "title": "Carioca",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 69,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWLMR2dZMMQLrPgkJaankQZJXNK.jpg",
+            "id": 43150,
+            "original_language": "en",
+            "original_title": "Little Miss Marker",
+            "overview": "Sorrowful Jones, un bookmaker qui officie sur les champs de courses, croise le chemin d'une gamine dont le p\u00e8re s'est suicid\u00e9 apr\u00e8s avoir parier sur le mauvais cheval. Attendrie par la fillette, Jones d\u00e9cide de la recueillir.",
+            "popularity": 0.3617,
+            "poster_path": "/zRpQfx6RrNJnaEVIQHinqIqSGTS.jpg",
+            "release_date": "1934-06-01",
+            "title": "Petite Miss",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 24,
+            "genres": [
+                "Com\u00e9die",
+                "Familial"
+            ],
+            "tagline": "",
+            "runtime": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cMUjH61we5JUDLmIpLFxlS0tHvB.jpg",
+            "id": 77210,
+            "original_language": "en",
+            "original_title": "Design for Living",
+            "overview": "Dans le train \u00e0 destination de Paris, un auteur dramatique et un peintre tombent sous le charme d\u2019une caricaturiste. Ind\u00e9cise, la jeune femme entame des relations platoniques avec ses deux soupirants. Mais les passions ne peuvent pas attendre\u2026",
+            "popularity": 0.5883,
+            "poster_path": "/70x1zs6kQloCHGTnSnjXPRmm87z.jpg",
+            "release_date": "1933-12-29",
+            "title": "S\u00e9r\u00e9nade \u00e0 trois",
+            "video": false,
+            "vote_average": 7.111,
+            "vote_count": 203,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "Trois c\u0153urs qui battent \u00e0 l'unisson.",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -437,7 +437,7 @@
             "original_language": "en",
             "original_title": "What Every Woman Knows",
             "overview": "",
-            "popularity": 0.2189,
+            "popularity": 0.2177,
             "poster_path": "/4SQHFGu4IqxkoPqhkwh10Qi9Ayp.jpg",
             "release_date": "1934-10-18",
             "title": "What Every Woman Knows",
@@ -447,8 +447,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 89,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 89
         },
         {
             "adult": false,
@@ -457,7 +457,7 @@
             "original_language": "en",
             "original_title": "Mrs. Wiggs of the Cabbage Patch",
             "overview": "",
-            "popularity": 0.1067,
+            "popularity": 0.1026,
             "poster_path": "/sNworf7TDQlMPC5pj1RXsB8SXxd.jpg",
             "release_date": "1934-10-28",
             "title": "Mrs. Wiggs of the Cabbage Patch",
@@ -467,8 +467,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 80
         },
         {
             "adult": false,
@@ -477,7 +477,7 @@
             "original_language": "en",
             "original_title": "The Little Minister",
             "overview": "Dans un petit village d'\u00c9cosse o\u00f9 il vient de prendre ses fonctions, un jeune pr\u00eatre rencontre une jolie gitane qui bouleverse sa vie. Tir\u00e9 d'un roman de J.M. Barrie (le p\u00e8re de \"Peter Pan\"), ce drame offre l'un de ses premiers grands r\u00f4les \u00e0 une Katharine Hepburn d'autant plus envo\u00fbtante que l'atmosph\u00e8re typiquement \u00e9cossaise apporte une touche de myst\u00e8re.",
-            "popularity": 0.2509,
+            "popularity": 0.3447,
             "poster_path": "/kKj7KJDsgoTX5PtfQkMZosfwf9v.jpg",
             "release_date": "1934-12-28",
             "title": "The Little Minister",
@@ -488,8 +488,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 110,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -498,7 +498,7 @@
             "original_language": "en",
             "original_title": "Eskimo",
             "overview": "",
-            "popularity": 0.2253,
+            "popularity": 0.2236,
             "poster_path": "/q58veDBmq2E4dX2kEqNaVElJBmt.jpg",
             "release_date": "1933-11-14",
             "title": "Eskimo",
@@ -510,8 +510,8 @@
                 "Action",
                 "Aventure"
             ],
-            "runtime": 117,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -520,7 +520,7 @@
             "original_language": "en",
             "original_title": "Men in White",
             "overview": "",
-            "popularity": 0.3951,
+            "popularity": 0.3304,
             "poster_path": "/gnD3XousuE2zkt4Y1dQP9lfOa4Y.jpg",
             "release_date": "1934-04-06",
             "title": "Men in White",
@@ -531,92 +531,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 74,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xcVYow0RZZv4KCHLk32r7vuR5Xm.jpg",
-            "id": 47684,
-            "original_language": "en",
-            "original_title": "Man of Aran",
-            "overview": "Un documentaire sur la vie des habitants des \u00eeles d'Aran o\u00f9 ils vivent une existence paysanne  \u00e9prouvante, hostile mais magnifique.",
-            "popularity": 1.1922,
-            "poster_path": "/jY3EzuIjfAZrMeLYKpBsbqMlZsh.jpg",
-            "release_date": "1934-05-06",
-            "title": "L'Homme d'Aran",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 52,
-            "genres": [
-                "Documentaire"
-            ],
-            "runtime": 76,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qG1Q0BTLtwo1Onbyy5wgUN2i9qo.jpg",
-            "id": 31835,
-            "original_language": "en",
-            "original_title": "Twentieth Century",
-            "overview": "Dans les ann\u00e9es 1930, aux \u00c9tats-Unis. Un producteur de Broadway fait d'une inconnue une vedette. Pour \u00e9chapper \u00e0 sa tutelle, elle part \u00e0 Hollywood o\u00f9 elle triomphe. Pendant ce temps, lui d\u00e9cline. Ils se retrouvent dans le train de Chicago \u00e0 New-York...",
-            "popularity": 0.3794,
-            "poster_path": "/3a5n2YUZO4D2c0HLGhMUREE1Et6.jpg",
-            "release_date": "1934-05-11",
-            "title": "Train de luxe",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 109,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qFVBzz29GllQwTeRgwi6EQnUEcA.jpg",
-            "id": 28157,
-            "original_language": "en",
-            "original_title": "Crime Without Passion",
-            "overview": "",
-            "popularity": 0.1293,
-            "poster_path": "/8DHkiHKEdWB7TRjqTIJf7AQWEzm.jpg",
-            "release_date": "1934-08-30",
-            "title": "Crime Without Passion",
-            "video": false,
-            "vote_average": 5.792,
-            "vote_count": 24,
-            "genres": [
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 70,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
-            "id": 112951,
-            "original_language": "en",
-            "original_title": "The Affairs of Cellini",
-            "overview": "",
-            "popularity": 0.8541,
-            "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
-            "release_date": "1934-08-24",
-            "title": "The Affairs of Cellini",
-            "video": false,
-            "vote_average": 4.923,
-            "vote_count": 13,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 74
         },
         {
             "adult": false,
@@ -625,7 +541,7 @@
             "original_language": "en",
             "original_title": "Cleopatra",
             "overview": "En conqu\u00e9rant l\u2019\u00c9gypte, C\u00e9sar conquiert le c\u0153ur de Cl\u00e9op\u00e2tre avec qui il revient, triomphant, \u00e0 Rome. Il y est rapidement assassin\u00e9 et Cl\u00e9op\u00e2tre rejoint son pays. Peu de temps apr\u00e8s, le Consul Marc-Antoine succombe lui aussi \u00e0 ses attraits, mais Rome se f\u00e2che.",
-            "popularity": 1.9295,
+            "popularity": 1.5795,
             "poster_path": "/20usY6PikRMRucHf3cCtCJQDGCh.jpg",
             "release_date": "1934-10-05",
             "title": "Cl\u00e9op\u00e2tre",
@@ -637,8 +553,92 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qG1Q0BTLtwo1Onbyy5wgUN2i9qo.jpg",
+            "id": 31835,
+            "original_language": "en",
+            "original_title": "Twentieth Century",
+            "overview": "Dans les ann\u00e9es 1930, aux \u00c9tats-Unis. Un producteur de Broadway fait d'une inconnue une vedette. Pour \u00e9chapper \u00e0 sa tutelle, elle part \u00e0 Hollywood o\u00f9 elle triomphe. Pendant ce temps, lui d\u00e9cline. Ils se retrouvent dans le train de Chicago \u00e0 New-York...",
+            "popularity": 0.3102,
+            "poster_path": "/3a5n2YUZO4D2c0HLGhMUREE1Et6.jpg",
+            "release_date": "1934-05-11",
+            "title": "Train de luxe",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 109,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xcVYow0RZZv4KCHLk32r7vuR5Xm.jpg",
+            "id": 47684,
+            "original_language": "en",
+            "original_title": "Man of Aran",
+            "overview": "Un documentaire sur la vie des habitants des \u00eeles d'Aran o\u00f9 ils vivent une existence paysanne  \u00e9prouvante, hostile mais magnifique.",
+            "popularity": 1.2713,
+            "poster_path": "/jY3EzuIjfAZrMeLYKpBsbqMlZsh.jpg",
+            "release_date": "1934-05-06",
+            "title": "L'Homme d'Aran",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 52,
+            "genres": [
+                "Documentaire"
+            ],
+            "tagline": "",
+            "runtime": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qFVBzz29GllQwTeRgwi6EQnUEcA.jpg",
+            "id": 28157,
+            "original_language": "en",
+            "original_title": "Crime Without Passion",
+            "overview": "",
+            "popularity": 0.1299,
+            "poster_path": "/8DHkiHKEdWB7TRjqTIJf7AQWEzm.jpg",
+            "release_date": "1934-08-30",
+            "title": "Crime Without Passion",
+            "video": false,
+            "vote_average": 5.792,
+            "vote_count": 24,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
+            "id": 112951,
+            "original_language": "en",
+            "original_title": "The Affairs of Cellini",
+            "overview": "",
+            "popularity": 0.8701,
+            "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
+            "release_date": "1934-08-24",
+            "title": "The Affairs of Cellini",
+            "video": false,
+            "vote_average": 4.923,
+            "vote_count": 13,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 80
         },
         {
             "adult": false,
@@ -647,7 +647,7 @@
             "original_language": "en",
             "original_title": "As the Earth Turns",
             "overview": "",
-            "popularity": 0.2142,
+            "popularity": 0.2181,
             "poster_path": "/iAf302zXuNh5dDph5aHcnFjBMWO.jpg",
             "release_date": "1934-02-14",
             "title": "As the Earth Turns",
@@ -657,8 +657,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 73,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 73
         },
         {
             "adult": false,
@@ -667,7 +667,7 @@
             "original_language": "en",
             "original_title": "The Lost Patrol",
             "overview": "Durant la Premi\u00e8re Guerre mondiale, une patrouille de militaires traverse le d\u00e9sert de M\u00e9sopotamie lorsque leur commandant, le seul \u00e0 conna\u00eetre leur destination, est abattu par des bandits cach\u00e9s. Le sergent de la patrouille d\u00e9cide de continuer d'avancer en esp\u00e9rant retrouver la brigade.",
-            "popularity": 1.021,
+            "popularity": 1.0738,
             "poster_path": "/7FMFPH1TKM7i4XqjjX3jdhSd0iS.jpg",
             "release_date": "1934-02-16",
             "title": "La Patrouille perdue",
@@ -678,8 +678,8 @@
                 "Action",
                 "Guerre"
             ],
-            "runtime": 73,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 73
         },
         {
             "adult": false,
@@ -688,7 +688,7 @@
             "original_language": "en",
             "original_title": "Hi, Nellie!",
             "overview": "",
-            "popularity": 2.1299,
+            "popularity": 1.661,
             "poster_path": "/7z3ICgwmBCjSsWUYQWbGAKyFTHO.jpg",
             "release_date": "1934-01-20",
             "title": "Hi, Nellie!",
@@ -700,8 +700,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 75,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 75
         },
         {
             "adult": false,
@@ -710,7 +710,7 @@
             "original_language": "en",
             "original_title": "Riptide",
             "overview": "",
-            "popularity": 2.2793,
+            "popularity": 1.7202,
             "poster_path": "/7FbgeJZwZIiwi8b1fvVc42taXNZ.jpg",
             "release_date": "1934-03-29",
             "title": "Riptide",
@@ -721,28 +721,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 92,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 92
         },
         {
             "adult": false,
-            "backdrop_path": "/9GnYxSEDtiiSFygsqRu5IogVDFC.jpg",
-            "id": 99472,
+            "backdrop_path": "/qytu013HQUfsDDaOry3e5asBVx7.jpg",
+            "id": 41347,
             "original_language": "en",
-            "original_title": "The Mighty Barnum",
-            "overview": "",
-            "popularity": 0.2685,
-            "poster_path": "/5rKJRbeLfxqszvQk44C3nHlccd6.jpg",
-            "release_date": "1934-12-23",
-            "title": "The Mighty Barnum",
+            "original_title": "The Cat's-Paw",
+            "overview": "Ezekiel Cobb est un jeune homme na\u00eff qui a grandi en Chine, \u00e9lev\u00e9 par des missionnaires. Arriv\u00e9 \u00e0 l'\u00e2ge de se marier, il retourne aux \u00c9tats-Unis afin d'y trouver une \u00e9pouse. Il se retrouve, par le plus grand des hasards, candidat \u00e0 la mairie de la ville\u2026",
+            "popularity": 0.3497,
+            "poster_path": "/qxrR4uZ1JpNQDS0FKYvuueYh3cn.jpg",
+            "release_date": "1934-08-07",
+            "title": "Patte de chat",
             "video": false,
-            "vote_average": 0.5,
-            "vote_count": 1,
+            "vote_average": 6.316,
+            "vote_count": 19,
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 87,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -751,7 +751,7 @@
             "original_language": "en",
             "original_title": "The White Parade",
             "overview": "",
-            "popularity": 0.8189,
+            "popularity": 0.9101,
             "poster_path": "/1S8Lddk2JI6phE4veYhF1qyUA64.jpg",
             "release_date": "1934-11-16",
             "title": "The White Parade",
@@ -761,8 +761,28 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GnYxSEDtiiSFygsqRu5IogVDFC.jpg",
+            "id": 99472,
+            "original_language": "en",
+            "original_title": "The Mighty Barnum",
+            "overview": "",
+            "popularity": 0.2321,
+            "poster_path": "/5rKJRbeLfxqszvQk44C3nHlccd6.jpg",
+            "release_date": "1934-12-23",
+            "title": "The Mighty Barnum",
+            "video": false,
+            "vote_average": 0.5,
+            "vote_count": 1,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 87
         },
         {
             "adult": false,
@@ -771,7 +791,7 @@
             "original_language": "en",
             "original_title": "No Greater Glory",
             "overview": "",
-            "popularity": 0.4606,
+            "popularity": 0.4656,
             "poster_path": "/fTqthQUFR6JoapNLH0hmtMv53hd.jpg",
             "release_date": "1934-03-30",
             "title": "No Greater Glory",
@@ -781,8 +801,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 74,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 74
         },
         {
             "adult": false,
@@ -791,7 +811,7 @@
             "original_language": "en",
             "original_title": "The Merry Widow",
             "overview": "Surpris par le roi dans le boudoir de la reine, le prince Danilo est contraint pour se racheter d\u2019aller s\u00e9duire une jeune et jolie veuve \u00e9migr\u00e9e \u00e0 Paris, dont l\u2019immense fortune est n\u00e9cessaire au r\u00e9tablissement des finances du royaume. \u00c9videmment, rien ne se passera comme pr\u00e9vu\u2026",
-            "popularity": 1.3653,
+            "popularity": 1.4496,
             "poster_path": "/jbKngQ96X7bpnTYLahF04BeYrW7.jpg",
             "release_date": "1934-11-02",
             "title": "La Veuve joyeuse",
@@ -803,28 +823,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 99,
-            "tagline": "Laissez la joie s'\u00e9panouir !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qytu013HQUfsDDaOry3e5asBVx7.jpg",
-            "id": 41347,
-            "original_language": "en",
-            "original_title": "The Cat's-Paw",
-            "overview": "Ezekiel Cobb est un jeune homme na\u00eff qui a grandi en Chine, \u00e9lev\u00e9 par des missionnaires. Arriv\u00e9 \u00e0 l'\u00e2ge de se marier, il retourne aux \u00c9tats-Unis afin d'y trouver une \u00e9pouse. Il se retrouve, par le plus grand des hasards, candidat \u00e0 la mairie de la ville\u2026",
-            "popularity": 0.4657,
-            "poster_path": "/qxrR4uZ1JpNQDS0FKYvuueYh3cn.jpg",
-            "release_date": "1934-08-07",
-            "title": "Patte de chat",
-            "video": false,
-            "vote_average": 6.316,
-            "vote_count": 19,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 102,
-            "tagline": ""
+            "tagline": "Laissez la joie s'\u00e9panouir !",
+            "runtime": 99
         },
         {
             "adult": false,
@@ -833,7 +833,7 @@
             "original_language": "en",
             "original_title": "Operator 13",
             "overview": "",
-            "popularity": 0.2485,
+            "popularity": 0.1884,
             "poster_path": "/n53ekxC0iWdo4Q1aEUXCPlE8b8t.jpg",
             "release_date": "1934-06-08",
             "title": "Operator 13",
@@ -845,8 +845,8 @@
                 "Romance",
                 "Guerre"
             ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 82
         },
         {
             "adult": false,
@@ -855,7 +855,7 @@
             "original_language": "en",
             "original_title": "The Life of Vergie Winters",
             "overview": "",
-            "popularity": 1.7384,
+            "popularity": 1.9454,
             "poster_path": "/iguti300GJ86e9sNY7DsXDKA7vb.jpg",
             "release_date": "1934-06-14",
             "title": "The Life of Vergie Winters",
@@ -865,8 +865,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 82
         },
         {
             "adult": false,
@@ -875,7 +875,7 @@
             "original_language": "en",
             "original_title": "The Last Gentleman",
             "overview": "",
-            "popularity": 1.1091,
+            "popularity": 1.1813,
             "poster_path": "/qfXk9w3aUsCySbmosKhIzagiVla.jpg",
             "release_date": "1934-04-27",
             "title": "The Last Gentleman",
@@ -885,8 +885,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 72,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 72
         },
         {
             "adult": false,
@@ -895,7 +895,7 @@
             "original_language": "en",
             "original_title": "Bulldog Drummond Strikes Back",
             "overview": "",
-            "popularity": 0.3276,
+            "popularity": 0.424,
             "poster_path": "/qPp8feJejNXt2UlbiwevFZYQSha.jpg",
             "release_date": "1934-08-15",
             "title": "Bulldog Drummond Strikes Back",
@@ -907,8 +907,8 @@
                 "Aventure",
                 "Myst\u00e8re"
             ],
-            "runtime": 83,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 83
         },
         {
             "adult": false,
@@ -917,7 +917,7 @@
             "original_language": "en",
             "original_title": "British Agent",
             "overview": "",
-            "popularity": 1.7692,
+            "popularity": 1.507,
             "poster_path": "/1RpsrH4jOCOoqmOxO7yS3Id1mJT.jpg",
             "release_date": "1934-09-15",
             "title": "British Agent",
@@ -929,8 +929,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 80
         },
         {
             "adult": false,
@@ -939,7 +939,7 @@
             "original_language": "en",
             "original_title": "Here Comes the Navy",
             "overview": "Un ouvrier licenci\u00e9 apr\u00e8s une bagarre avec un officier de la marine s'engage dans la Navy pour retrouver son adversaire et finit par se couvrir de gloire.",
-            "popularity": 0.9349,
+            "popularity": 0.828,
             "poster_path": "/m2eHdAuXq1UElpmGK3RjfXOBjUR.jpg",
             "release_date": "1934-07-21",
             "title": "Voici la marine",
@@ -950,8 +950,8 @@
                 "Guerre",
                 "Drame"
             ],
-            "runtime": 87,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 87
         },
         {
             "adult": false,
@@ -960,7 +960,7 @@
             "original_language": "en",
             "original_title": "Handy Andy",
             "overview": "",
-            "popularity": 1.3689,
+            "popularity": 1.0592,
             "poster_path": "/5MtzSqNizJH0IPE8ITAB8YMwZI7.jpg",
             "release_date": "1934-07-19",
             "title": "Handy Andy",
@@ -970,8 +970,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 83,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 83
         },
         {
             "adult": false,
@@ -980,7 +980,7 @@
             "original_language": "en",
             "original_title": "Caravan",
             "overview": "",
-            "popularity": 1.7107,
+            "popularity": 1.2885,
             "poster_path": "/qDiwsk1M60iiq72zyBGs86vvbDU.jpg",
             "release_date": "1934-12-30",
             "title": "Caravan",
@@ -990,8 +990,8 @@
             "genres": [
                 "Musique"
             ],
-            "runtime": 101,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
         }
     ]
 }

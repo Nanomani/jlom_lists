@@ -4,29 +4,9 @@
     "source": "https://criticstop10.com/best-movies-of-1949/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
-            "id": 25918,
-            "original_language": "en",
-            "original_title": "Champion",
-            "overview": "Boxer Midge Kelly monte \u00e0 la c\u00e9l\u00e9brit\u00e9 ... principalement en marchant sur d'autres personnes.",
-            "popularity": 1.7718,
-            "poster_path": "/ixjgIvTX04yJIk8pXF6k8UQPpgY.jpg",
-            "release_date": "1949-04-09",
-            "title": "Le Champion",
-            "video": false,
-            "vote_average": 6.6,
-            "vote_count": 95,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 99,
-            "tagline": "L'histoire de l'ascension d'un boxeur..."
-        },
         {
             "adult": false,
             "backdrop_path": "/feSYboaBumxLbMKjfk3ASMcRP36.jpg",
@@ -34,7 +14,7 @@
             "original_language": "en",
             "original_title": "A Letter to Three Wives",
             "overview": "Trois amies, Deborah Bishop, Rita Phipps et Laura May Hollingsway, embarquent pour une croisi\u00e8re. Mais au moment de partir, elles re\u00e7oivent une lettre d'une relation commune, Addie Ross. Celle-ci les pr\u00e9vient qu'elle part avec le mari de l'une d'entre elles. Mais lequel ?",
-            "popularity": 0.4311,
+            "popularity": 0.4949,
             "poster_path": "/8GJ0HSL5Lj7jLMsmvxzi2uLEgCc.jpg",
             "release_date": "1948-12-01",
             "title": "Cha\u00eenes conjugales",
@@ -46,8 +26,28 @@
                 "Drame",
                 "Myst\u00e8re"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
+            "id": 25918,
+            "original_language": "en",
+            "original_title": "Champion",
+            "overview": "Boxer Midge Kelly monte \u00e0 la c\u00e9l\u00e9brit\u00e9 ... principalement en marchant sur d'autres personnes.",
+            "popularity": 1.468,
+            "poster_path": "/ixjgIvTX04yJIk8pXF6k8UQPpgY.jpg",
+            "release_date": "1949-04-09",
+            "title": "Le Champion",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 95,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "L'histoire de l'ascension d'un boxeur...",
+            "runtime": 99
         },
         {
             "adult": false,
@@ -56,7 +56,7 @@
             "original_language": "en",
             "original_title": "The Stratton Story",
             "overview": "Monty Stratton est un jeune fermier partageant son temps entre une exploitation agricole qu\u2019il g\u00e8re avec sa m\u00e8re et sa passion pour le base-ball. Sa vie s\u2019\u00e9coule tranquillement jusqu\u2019au jour o\u00f9 un ancien joueur professionnel, Barney Wile, remarque ses qualit\u00e9s de lanceur. Persuad\u00e9 d\u2019avoir d\u00e9nich\u00e9 un futur champion, Wile prend Stratton sous son aile et l\u2019entra\u00eene afin qu\u2019il int\u00e8gre l\u2019\u00e9quipe des White Sox de Chicago. Malgr\u00e9 les r\u00e9ticences de sa m\u00e8re, Monty am\u00e9liore son jeu et convainc l\u2019entra\u00eeneur des Sox. Petit \u00e0 petit, Stratton remporte ses galons de titulaire puis devient un \u00e9l\u00e9ment cl\u00e9 de l\u2019\u00e9quipe. Parall\u00e8lement, il rencontre la belle Ethel dont il conquiert le c\u0153ur. Apr\u00e8s son mariage et alors que sa carri\u00e8re atteint son apog\u00e9e, le champion est victime d\u2019un accident de chasse et perd une jambe...",
-            "popularity": 7.9089,
+            "popularity": 11.0646,
             "poster_path": "/vLa8IZvCRS0Db0mACFVHbMmnT0X.jpg",
             "release_date": "1949-05-12",
             "title": "Un homme change son destin",
@@ -67,51 +67,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 106,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/gR1qe43Sz2uayZWpSKrIuEFSmiP.jpg",
-            "id": 90807,
-            "original_language": "en",
-            "original_title": "Home of the Brave",
-            "overview": "",
-            "popularity": 0.3932,
-            "poster_path": "/5DCIWBuKVZmJcM61gOcPDzm4sRU.jpg",
-            "release_date": "1949-05-12",
-            "title": "Home of the Brave",
-            "video": false,
-            "vote_average": 6.6,
-            "vote_count": 17,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 86,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7DAmOH52a1rm4bsdSBV2PJeLDLy.jpg",
-            "id": 23567,
-            "original_language": "en",
-            "original_title": "I Was a Male War Bride",
-            "overview": "Les amours mouvement\u00e9es et rocambolesques de deux agents secrets, l'un fran\u00e7ais, l'autre am\u00e9ricain, en mission en Allemagne en 1945.",
-            "popularity": 0.4482,
-            "poster_path": "/3QrhivIrvOwDmz0tNhxU6mW4Erj.jpg",
-            "release_date": "1949-08-26",
-            "title": "Allez coucher ailleurs !",
-            "video": false,
-            "vote_average": 6.914,
-            "vote_count": 140,
-            "genres": [
-                "Com\u00e9die",
-                "Romance",
-                "Guerre"
-            ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -120,7 +77,7 @@
             "original_language": "en",
             "original_title": "Come to the Stable",
             "overview": "",
-            "popularity": 1.0464,
+            "popularity": 1.3185,
             "poster_path": "/5S8e0COr9OmIeuy9nGL6x0H1oda.jpg",
             "release_date": "1949-07-27",
             "title": "Come to the Stable",
@@ -131,8 +88,29 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gR1qe43Sz2uayZWpSKrIuEFSmiP.jpg",
+            "id": 90807,
+            "original_language": "en",
+            "original_title": "Home of the Brave",
+            "overview": "",
+            "popularity": 0.436,
+            "poster_path": "/5DCIWBuKVZmJcM61gOcPDzm4sRU.jpg",
+            "release_date": "1949-05-12",
+            "title": "Home of the Brave",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 17,
+            "genres": [
+                "Drame",
+                "Guerre"
+            ],
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -141,7 +119,7 @@
             "original_language": "en",
             "original_title": "Pinky",
             "overview": "Pinky est une afro-am\u00e9ricaine \u00e0 la peau assez claire pour se faire passer pour blanche. D\u00e9sormais infirmi\u00e8re, elle revient dans sa ville natale. Elle soigne Miss Em qui fait d'elle son h\u00e9riti\u00e8re. Mais \u00e0 la mort de celle-ci, l'h\u00e9ritage est contest\u00e9...",
-            "popularity": 2.3289,
+            "popularity": 2.0755,
             "poster_path": "/4k4QIMzjKMxNIuDvjW2Tu3ZAump.jpg",
             "release_date": "1949-09-28",
             "title": "L'h\u00e9ritage De La Chair",
@@ -151,28 +129,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 102,
-            "tagline": "L'histoire poignante d'une jeune fille tomb\u00e9e \u00e9perdument amoureuse !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rZBPCvuVlxtkFwCnQLEco0ScjHy.jpg",
-            "id": 100257,
-            "original_language": "en",
-            "original_title": "Quartet",
-            "overview": "",
-            "popularity": 1.4943,
-            "poster_path": "/hCPWlJus4LXWigzsRtJpJwlmD9o.jpg",
-            "release_date": "1948-10-26",
-            "title": "Quartet",
-            "video": false,
-            "vote_average": 6.2,
-            "vote_count": 15,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 120,
-            "tagline": ""
+            "tagline": "L'histoire poignante d'une jeune fille tomb\u00e9e \u00e9perdument amoureuse !",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -181,7 +139,7 @@
             "original_language": "en",
             "original_title": "The Heiress",
             "overview": "A la fin du XIX\u00e8me si\u00e8cle, Catherine Sloper vit dans une riche demeure de Washington Square en compagnie de son p\u00e8re, un veuf richissime et tyrannique. La jeune fille, timide et sans grands attraits, fait la rencontre du s\u00e9duisant Morris Townsend lors d'un bal. Le jeune homme lui fait aussit\u00f4t une cour empress\u00e9e. Devenant un habitu\u00e9 de la maison des Sloper, il demande la main de Catherine \u00e0 son p\u00e8re. Mais, celui-ci ne tarde pas \u00e0 accuser le jeune homme d'\u00eatre un coureur de dot et refuse...",
-            "popularity": 1.7505,
+            "popularity": 2.9361,
             "poster_path": "/brptEwhHwlHYgIqB0R887faUduT.jpg",
             "release_date": "1949-10-06",
             "title": "L'H\u00e9riti\u00e8re",
@@ -193,8 +151,8 @@
                 "Romance",
                 "Histoire"
             ],
-            "runtime": 115,
-            "tagline": "Quand une femme aime un homme... Elle ne veut pas conna\u00eetre la v\u00e9rit\u00e9 sur lui !"
+            "tagline": "Quand une femme aime un homme... Elle ne veut pas conna\u00eetre la v\u00e9rit\u00e9 sur lui !",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -203,7 +161,7 @@
             "original_language": "en",
             "original_title": "Lost Boundaries",
             "overview": "",
-            "popularity": 0.2735,
+            "popularity": 0.4881,
             "poster_path": "/g2SsOErhrmOBtAbKIFEJQeQuFOj.jpg",
             "release_date": "1949-07-02",
             "title": "Fronti\u00e8res Oubli\u00e9es",
@@ -213,8 +171,112 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 99,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7DAmOH52a1rm4bsdSBV2PJeLDLy.jpg",
+            "id": 23567,
+            "original_language": "en",
+            "original_title": "I Was a Male War Bride",
+            "overview": "Les amours mouvement\u00e9es et rocambolesques de deux agents secrets, l'un fran\u00e7ais, l'autre am\u00e9ricain, en mission en Allemagne en 1945.",
+            "popularity": 0.37,
+            "poster_path": "/3QrhivIrvOwDmz0tNhxU6mW4Erj.jpg",
+            "release_date": "1949-08-26",
+            "title": "Allez coucher ailleurs !",
+            "video": false,
+            "vote_average": 6.914,
+            "vote_count": 140,
+            "genres": [
+                "Com\u00e9die",
+                "Romance",
+                "Guerre"
+            ],
+            "tagline": "",
+            "runtime": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rZBPCvuVlxtkFwCnQLEco0ScjHy.jpg",
+            "id": 100257,
+            "original_language": "en",
+            "original_title": "Quartet",
+            "overview": "",
+            "popularity": 1.1718,
+            "poster_path": "/hCPWlJus4LXWigzsRtJpJwlmD9o.jpg",
+            "release_date": "1948-10-26",
+            "title": "Quartet",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 15,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sckxtq50B8Eue9URqT6lo1GJZas.jpg",
+            "id": 43435,
+            "original_language": "en",
+            "original_title": "Jolson Sings Again",
+            "overview": "Al Jolson est un chanteur dont la sant\u00e9 chancelle. Il doit accepter l'abandon des planches, apr\u00e8s une t\u00e9m\u00e9raire tentative aupr\u00e8s des troupes alli\u00e9s durant la guerre. Il se retire, \u00e9pousant une infirmi\u00e8re qui l'a soign\u00e9. Celle-ci le pousse \u00e0 renouer avec son art, mais ses chansons sont pass\u00e9es de mode. C'est alors qu'un producteur de Hollywoood lui propose de faire de sa vie un film ...",
+            "popularity": 0.5989,
+            "poster_path": "/sswaVzdGmBrDL1Ki0KfpLcclww2.jpg",
+            "release_date": "1949-08-17",
+            "title": "Je chante pour vous",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 10,
+            "genres": [
+                "Drame",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7cVQJWjlyUw7Gl2h2walQGytmXg.jpg",
+            "id": 32684,
+            "original_language": "en",
+            "original_title": "The Window",
+            "overview": "Un petit gar\u00e7on, Tom, surprend par une fen\u00eatre les Kellerton en train d'assassiner un marin ivre. Quand il raconte les faits, personne ne le prend au s\u00e9rieux, sauf les Kellerton, qui vont chercher \u00e0 se d\u00e9barrasser de lui.",
+            "popularity": 1.4886,
+            "poster_path": "/fB72gy1k6O6yCl2WxeIkd0oL9Gn.jpg",
+            "release_date": "1949-05-10",
+            "title": "Une Incroyable histoire",
+            "video": false,
+            "vote_average": 6.93,
+            "vote_count": 71,
+            "genres": [
+                "Thriller",
+                "Crime"
+            ],
+            "tagline": "",
+            "runtime": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A2eEFV6b3gmzXZTVAyi5qCp9GP2.jpg",
+            "id": 77012,
+            "original_language": "en",
+            "original_title": "Mr. Belvedere Goes to College",
+            "overview": "Un g\u00e9nie d'\u00e2ge moyen va \u00e0 l'universit\u00e9 pour la premi\u00e8re fois.",
+            "popularity": 0.2708,
+            "poster_path": "/2q5UUR0ytGqMal3brK3T8RrJmcT.jpg",
+            "release_date": "1949-04-15",
+            "title": "Monsieur Belv\u00e9d\u00e8re au coll\u00e8ge",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 7,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 83
         },
         {
             "adult": false,
@@ -223,7 +285,7 @@
             "original_language": "en",
             "original_title": "Little Women",
             "overview": "Pendant la guerre de S\u00e9cession, dans le Massachusetts, Mme March et ses 4 filles, Jo, Beth, Amy et Meg tentent de se d\u00e9brouiller, tandis que leur p\u00e8re combat au front. Jo se d\u00e9couvre alors une passion pour l'\u00e9criture et r\u00e9dige des pi\u00e8ces de th\u00e9\u00e2tre que jouent ses s\u0153urs en plus de son idylle avec leur voisin Laurie. Quand elle a l'opportunit\u00e9 de devenir \u00e9crivain, Jo s'en va \u00e0 New York o\u00f9 elle rencontre le professeur Baher.",
-            "popularity": 3.4956,
+            "popularity": 2.84,
             "poster_path": "/5Nm374x88Fl0Iu5kUPqqfIPljTF.jpg",
             "release_date": "1949-03-10",
             "title": "Les Quatre Filles du docteur March",
@@ -235,70 +297,29 @@
                 "Drame",
                 "Familial"
             ],
-            "runtime": 122,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 122
         },
         {
             "adult": false,
-            "backdrop_path": "/7AHYt8RanRRMhLpazdlWXh3ehoY.jpg",
-            "id": 24650,
+            "backdrop_path": "/lraknsIRsxNE38469HayRlmM8Lm.jpg",
+            "id": 29885,
             "original_language": "en",
-            "original_title": "The Fountainhead",
-            "overview": "Howard Roark, jeune architecte id\u00e9aliste et individualiste, est renvoy\u00e9 de son universit\u00e9 pour cause de divergences avec la norme architecturale environnante. Sa carri\u00e8re est sauv\u00e9e in extremis quand il est embauch\u00e9 par Henry Cameron, architecte aux m\u00eames vues que lui. Mais quelques ann\u00e9es plus tard Cameron a sombr\u00e9 dans l'alcoolisme, non sans avoir averti Howard que la m\u00eame chose l'attendait \u00e0 moins qu'il n'accepte de mettre un peu d'eau dans ses id\u00e9aux. Mais Roark est d\u00e9cid\u00e9 \u00e0 conserver son int\u00e9grit\u00e9 \u00e0 tout prix.",
-            "popularity": 2.8893,
-            "poster_path": "/igD5lZ5mHbp8BP53aFkdIYD3DAg.jpg",
-            "release_date": "1949-06-25",
-            "title": "Le Rebelle",
+            "original_title": "The Barkleys of Broadway",
+            "overview": "\u00c0 la sortie d\u2019une grande premi\u00e8re, Josh (Fred Astaire) et Dinah (Ginger Rogers) Barkley prennent part \u00e0 une grande r\u00e9ception o\u00f9 ils rencontrent Jacques Barredout (Jacques Fran\u00e7ois), dramaturge fran\u00e7ais \u00e9migr\u00e9 aux \u00c9tats-Unis. Celui-ci, non fervent des com\u00e9dies musicales, leur conseille de s\u2019orienter vers la trag\u00e9die. Apr\u00e8s une exp\u00e9rience pourtant r\u00e9ussie, Josh et Dinah d\u00e9cident de retourner \u00e0 leurs premi\u00e8res amours en encha\u00eenant sur un final dans\u00e9.",
+            "popularity": 4.6533,
+            "poster_path": "/vloIKUlFZ3mHsx5cf6f84wr6yxt.jpg",
+            "release_date": "1949-05-04",
+            "title": "Entrons dans la danse",
             "video": false,
-            "vote_average": 6.843,
-            "vote_count": 153,
+            "vote_average": 6.9,
+            "vote_count": 49,
             "genres": [
-                "Drame",
+                "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 114,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7cVQJWjlyUw7Gl2h2walQGytmXg.jpg",
-            "id": 32684,
-            "original_language": "en",
-            "original_title": "The Window",
-            "overview": "Un petit gar\u00e7on, Tom, surprend par une fen\u00eatre les Kellerton en train d'assassiner un marin ivre. Quand il raconte les faits, personne ne le prend au s\u00e9rieux, sauf les Kellerton, qui vont chercher \u00e0 se d\u00e9barrasser de lui.",
-            "popularity": 1.3651,
-            "poster_path": "/fB72gy1k6O6yCl2WxeIkd0oL9Gn.jpg",
-            "release_date": "1949-05-10",
-            "title": "Une Incroyable histoire",
-            "video": false,
-            "vote_average": 6.93,
-            "vote_count": 71,
-            "genres": [
-                "Thriller",
-                "Crime"
-            ],
-            "runtime": 73,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/A2eEFV6b3gmzXZTVAyi5qCp9GP2.jpg",
-            "id": 77012,
-            "original_language": "en",
-            "original_title": "Mr. Belvedere Goes to College",
-            "overview": "Un g\u00e9nie d'\u00e2ge moyen va \u00e0 l'universit\u00e9 pour la premi\u00e8re fois.",
-            "popularity": 0.1654,
-            "poster_path": "/2q5UUR0ytGqMal3brK3T8RrJmcT.jpg",
-            "release_date": "1949-04-15",
-            "title": "Monsieur Belv\u00e9d\u00e8re au coll\u00e8ge",
-            "video": false,
-            "vote_average": 6.7,
-            "vote_count": 7,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 83,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -307,7 +328,7 @@
             "original_language": "en",
             "original_title": "Task Force",
             "overview": "Durant la Seconde Guerre mondiale, un officier essaie de prouver l'interet des porte-avions, cause pour laquelle il milite depuis des annees.",
-            "popularity": 3.7639,
+            "popularity": 3.3534,
             "poster_path": "/av1YqGB6yXTumCq2K3DpbCkP1C1.jpg",
             "release_date": "1949-08-30",
             "title": "Horizons en flammes",
@@ -319,72 +340,29 @@
                 "Romance",
                 "Guerre"
             ],
-            "runtime": 116,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 116
         },
         {
             "adult": false,
-            "backdrop_path": "/lraknsIRsxNE38469HayRlmM8Lm.jpg",
-            "id": 29885,
+            "backdrop_path": "/7AHYt8RanRRMhLpazdlWXh3ehoY.jpg",
+            "id": 24650,
             "original_language": "en",
-            "original_title": "The Barkleys of Broadway",
-            "overview": "\u00c0 la sortie d\u2019une grande premi\u00e8re, Josh (Fred Astaire) et Dinah (Ginger Rogers) Barkley prennent part \u00e0 une grande r\u00e9ception o\u00f9 ils rencontrent Jacques Barredout (Jacques Fran\u00e7ois), dramaturge fran\u00e7ais \u00e9migr\u00e9 aux \u00c9tats-Unis. Celui-ci, non fervent des com\u00e9dies musicales, leur conseille de s\u2019orienter vers la trag\u00e9die. Apr\u00e8s une exp\u00e9rience pourtant r\u00e9ussie, Josh et Dinah d\u00e9cident de retourner \u00e0 leurs premi\u00e8res amours en encha\u00eenant sur un final dans\u00e9.",
-            "popularity": 3.168,
-            "poster_path": "/vloIKUlFZ3mHsx5cf6f84wr6yxt.jpg",
-            "release_date": "1949-05-04",
-            "title": "Entrons dans la danse",
+            "original_title": "The Fountainhead",
+            "overview": "Howard Roark, jeune architecte id\u00e9aliste et individualiste, est renvoy\u00e9 de son universit\u00e9 pour cause de divergences avec la norme architecturale environnante. Sa carri\u00e8re est sauv\u00e9e in extremis quand il est embauch\u00e9 par Henry Cameron, architecte aux m\u00eames vues que lui. Mais quelques ann\u00e9es plus tard Cameron a sombr\u00e9 dans l'alcoolisme, non sans avoir averti Howard que la m\u00eame chose l'attendait \u00e0 moins qu'il n'accepte de mettre un peu d'eau dans ses id\u00e9aux. Mais Roark est d\u00e9cid\u00e9 \u00e0 conserver son int\u00e9grit\u00e9 \u00e0 tout prix.",
+            "popularity": 2.9356,
+            "poster_path": "/igD5lZ5mHbp8BP53aFkdIYD3DAg.jpg",
+            "release_date": "1949-06-25",
+            "title": "Le Rebelle",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 49,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 109,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/npDnqGGKvjaLMCYWaZ9AIwjCv87.jpg",
-            "id": 20003,
-            "original_language": "en",
-            "original_title": "House of Strangers",
-            "overview": "Reglements de comptes, haine et passion dans une famille de la Petite Italie de New York. Max Monetti, brillant avocat a ete envoye en prison sur la denonciation d'un de ses freres jaloux de l'affection que lui portait leur pere, modeste coiffeur devenu banquier. A sa sortie, malgre l'amour d'Irene qui le supplie de partir, il est bien decide a se venger.",
-            "popularity": 0.6882,
-            "poster_path": "/l4JVUG0OYuQguBq2ygXIP8OBJTg.jpg",
-            "release_date": "1949-07-01",
-            "title": "La Maison des \u00e9trangers",
-            "video": false,
-            "vote_average": 6.963,
-            "vote_count": 81,
-            "genres": [
-                "Drame",
-                "Crime",
-                "Thriller"
-            ],
-            "runtime": 101,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/90RUkFDU9xa5asnlU6FGBVuKGt7.jpg",
-            "id": 27563,
-            "original_language": "en",
-            "original_title": "Flamingo Road",
-            "overview": "Lane Bellamy, une danseuse de f\u00eate foraine, \u00e9choue dans une ville du Sud sous la coupe du tout-puissant Titus Semple, qui voit d'un mauvais \u0153il sa liaison avec son adjoint Carlisle. Il le jette dans les bras d'une jeune fille de la bonne soci\u00e9t\u00e9 et compromet Lane dans un coup mont\u00e9. Sortie de prison, Lane revient en ville, bien d\u00e9cid\u00e9e \u00e0 se venger.",
-            "popularity": 2.0666,
-            "poster_path": "/hhoeeq3AAYr7v0Fm2OWGoqZAKHO.jpg",
-            "release_date": "1949-04-30",
-            "title": "Boulevard des passions",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 57,
+            "vote_average": 6.843,
+            "vote_count": 153,
             "genres": [
                 "Drame",
                 "Romance"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -393,7 +371,7 @@
             "original_language": "en",
             "original_title": "White Heat",
             "overview": "Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'op\u00e9ration, quatre employ\u00e9s sont tu\u00e9s. La police est d\u00e9termin\u00e9e \u00e0 retrouver les coupables et surveille la m\u00e8re de Cody, \u00e0 laquelle ce dernier voue une adoration pathologique. Pour d\u00e9tourner les soup\u00e7ons, Cody se rend \u00e0 la police pr\u00e9textant un d\u00e9lit mineur. Les policiers ne sont pas dupes et d\u00e9l\u00e8guent un des leurs dans la prison o\u00f9 est enferm\u00e9 le gangster...",
-            "popularity": 3.0908,
+            "popularity": 3.3071,
             "poster_path": "/fKLnrPJUeArmNpguAkZKLinNiHA.jpg",
             "release_date": "1949-09-02",
             "title": "L'enfer est \u00e0 lui",
@@ -405,29 +383,71 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 114,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 114
         },
         {
             "adult": false,
-            "backdrop_path": "/sckxtq50B8Eue9URqT6lo1GJZas.jpg",
-            "id": 43435,
+            "backdrop_path": "/npDnqGGKvjaLMCYWaZ9AIwjCv87.jpg",
+            "id": 20003,
             "original_language": "en",
-            "original_title": "Jolson Sings Again",
-            "overview": "Al Jolson est un chanteur dont la sant\u00e9 chancelle. Il doit accepter l'abandon des planches, apr\u00e8s une t\u00e9m\u00e9raire tentative aupr\u00e8s des troupes alli\u00e9s durant la guerre. Il se retire, \u00e9pousant une infirmi\u00e8re qui l'a soign\u00e9. Celle-ci le pousse \u00e0 renouer avec son art, mais ses chansons sont pass\u00e9es de mode. C'est alors qu'un producteur de Hollywoood lui propose de faire de sa vie un film ...",
-            "popularity": 0.5219,
-            "poster_path": "/sswaVzdGmBrDL1Ki0KfpLcclww2.jpg",
-            "release_date": "1949-08-17",
-            "title": "Je chante pour vous",
+            "original_title": "House of Strangers",
+            "overview": "Reglements de comptes, haine et passion dans une famille de la Petite Italie de New York. Max Monetti, brillant avocat a ete envoye en prison sur la denonciation d'un de ses freres jaloux de l'affection que lui portait leur pere, modeste coiffeur devenu banquier. A sa sortie, malgre l'amour d'Irene qui le supplie de partir, il est bien decide a se venger.",
+            "popularity": 0.7551,
+            "poster_path": "/l4JVUG0OYuQguBq2ygXIP8OBJTg.jpg",
+            "release_date": "1949-07-01",
+            "title": "La Maison des \u00e9trangers",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 10,
+            "vote_average": 6.963,
+            "vote_count": 81,
             "genres": [
                 "Drame",
-                "Musique"
+                "Crime",
+                "Thriller"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/90RUkFDU9xa5asnlU6FGBVuKGt7.jpg",
+            "id": 27563,
+            "original_language": "en",
+            "original_title": "Flamingo Road",
+            "overview": "Lane Bellamy, une danseuse de f\u00eate foraine, \u00e9choue dans une ville du Sud sous la coupe du tout-puissant Titus Semple, qui voit d'un mauvais \u0153il sa liaison avec son adjoint Carlisle. Il le jette dans les bras d'une jeune fille de la bonne soci\u00e9t\u00e9 et compromet Lane dans un coup mont\u00e9. Sortie de prison, Lane revient en ville, bien d\u00e9cid\u00e9e \u00e0 se venger.",
+            "popularity": 1.7451,
+            "poster_path": "/hhoeeq3AAYr7v0Fm2OWGoqZAKHO.jpg",
+            "release_date": "1949-04-30",
+            "title": "Boulevard des passions",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 57,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Y1rjxSizHpbQcHjm8ySgr488Jl.jpg",
+            "id": 57693,
+            "original_language": "en",
+            "original_title": "Sorrowful Jones",
+            "overview": "",
+            "popularity": 0.1907,
+            "poster_path": "/nXBch0q1ZfILe7KbBqciJ7rkVqP.jpg",
+            "release_date": "1949-07-04",
+            "title": "Sorrowful Jones",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 8,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 88
         },
         {
             "adult": false,
@@ -436,7 +456,7 @@
             "original_language": "en",
             "original_title": "The Set-Up",
             "overview": "Bill Thompson, un boxeur sur le d\u00e9clin, doit se coucher lors d'un combat. Mais dans un sursaut d'orgueil, il fait volte-face et met son adversaire au tapis. Il doit maintenant faire face aux cons\u00e9quences.",
-            "popularity": 2.1123,
+            "popularity": 2.5032,
             "poster_path": "/ebscY6J8JDSURd9DLA5CggSENiG.jpg",
             "release_date": "1949-03-29",
             "title": "Nous avons gagn\u00e9 ce soir",
@@ -447,28 +467,29 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 72,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 72
         },
         {
             "adult": false,
-            "backdrop_path": "/2Y1rjxSizHpbQcHjm8ySgr488Jl.jpg",
-            "id": 57693,
+            "backdrop_path": "/1EvJFAFyMHe5dhDdtTNgyIjutmx.jpg",
+            "id": 41214,
             "original_language": "en",
-            "original_title": "Sorrowful Jones",
-            "overview": "",
-            "popularity": 0.1513,
-            "poster_path": "/nXBch0q1ZfILe7KbBqciJ7rkVqP.jpg",
-            "release_date": "1949-07-04",
-            "title": "Sorrowful Jones",
+            "original_title": "Knock on Any Door",
+            "overview": "Un jeune d\u00e9linquant, accus\u00e9 du meurtre d'un policier, est d\u00e9fendu par un avocat qui est n\u00e9 et a v\u00e9cu dans le m\u00eame quartier que le pr\u00e9venu: \"Skid Row\", les ruelles du malheur.",
+            "popularity": 4.1457,
+            "poster_path": "/urKChGw0JIHfhL9qBQzNu8T6AJu.jpg",
+            "release_date": "1949-02-22",
+            "title": "Les Ruelles du malheur",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 8,
+            "vote_average": 6.131,
+            "vote_count": 65,
             "genres": [
-                "Com\u00e9die"
+                "Drame",
+                "Crime"
             ],
-            "runtime": 88,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -477,7 +498,7 @@
             "original_language": "en",
             "original_title": "That Midnight Kiss",
             "overview": "La richissime Abigail Budell aurait voulu faire carri\u00e8re dans l'op\u00e9ra. Elle reporte ses espoirs sur sa fille Prudence, qui rencontre un camionneur \u00e0 la voix exceptionnelle.",
-            "popularity": 1.0424,
+            "popularity": 1.2573,
             "poster_path": "/qLCvVrikZq63eGoyxEbfYxnKcf0.jpg",
             "release_date": "1949-09-22",
             "title": "Le Baiser de minuit",
@@ -488,30 +509,69 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
-            "backdrop_path": "/5NCVJR1pS9DZQvqFTVN2SUK5AHU.jpg",
-            "id": 40718,
+            "backdrop_path": "/4qJx4Ng41BeIPzzRlj5rrtuQFEV.jpg",
+            "id": 94615,
             "original_language": "en",
-            "original_title": "Wake of the Red Witch",
-            "overview": "Dans les ann\u00e9es 1860, le capitaine Ralls qui commande un voilier marchand, d\u00e9barque avec son second, Sam Rosen, sur une \u00eele des Mers du Sud o\u00f9 vit le riche armateur Mayrant Ruysdaal Sidneye. Celui-ci expose \u00e0 Rosen les circonstances qui ont amen\u00e9 Ralls, sept ans plus t\u00f4t, \u00e0 saborder \"La Sorci\u00e8re Rouge\", navire affr\u00e9t\u00e9 par l'armateur, et son chargement d'or...",
-            "popularity": 0.8606,
-            "poster_path": "/pxRcp9wYHfQxaXemE9p0rMp4wp9.jpg",
-            "release_date": "1948-12-30",
-            "title": "Le R\u00e9veil de la sorci\u00e8re rouge",
+            "original_title": "Look for the Silver Lining",
+            "overview": "",
+            "popularity": 0.1408,
+            "poster_path": "/b38nKALKl0jYWuzA2VMvQn5EBxw.jpg",
+            "release_date": "1949-07-30",
+            "title": "Look for the Silver Lining",
             "video": false,
-            "vote_average": 5.6,
-            "vote_count": 47,
+            "vote_average": 5.7,
+            "vote_count": 6,
             "genres": [
-                "Aventure",
                 "Drame",
-                "Histoire"
+                "Romance"
             ],
-            "runtime": 106,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AtHgVNKU1ydVdYRdU7dbCUXn26f.jpg",
+            "id": 209179,
+            "original_language": "en",
+            "original_title": "Anna Lucasta",
+            "overview": "",
+            "popularity": 1.8783,
+            "poster_path": "/blssvMUqfKvDfo3KocEYeXxRvRk.jpg",
+            "release_date": "1949-07-11",
+            "title": "Anna Lucasta",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 4,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k91si3A9xAyDN2OL0dvtJHHqqvG.jpg",
+            "id": 260681,
+            "original_language": "en",
+            "original_title": "Everybody Does It",
+            "overview": "",
+            "popularity": 0.1166,
+            "poster_path": "/dVrJAeyc2YMN40IQk69qGia1brd.jpg",
+            "release_date": "1949-10-24",
+            "title": "Everybody Does It",
+            "video": false,
+            "vote_average": 8.125,
+            "vote_count": 4,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -520,7 +580,7 @@
             "original_language": "en",
             "original_title": "The Great Gatsby",
             "overview": "Les relations d'un couple et d'un myst\u00e9rieux m\u00e9c\u00e8ne \u00e0 Long Island....",
-            "popularity": 2.7093,
+            "popularity": 2.8526,
             "poster_path": "/tpNkW8Hl7oVSWKhYsuIFaod4VUp.jpg",
             "release_date": "1949-06-06",
             "title": "Le prix du silence",
@@ -532,28 +592,30 @@
                 "Myst\u00e8re",
                 "Romance"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
-            "backdrop_path": "/AtHgVNKU1ydVdYRdU7dbCUXn26f.jpg",
-            "id": 209179,
+            "backdrop_path": "/5NCVJR1pS9DZQvqFTVN2SUK5AHU.jpg",
+            "id": 40718,
             "original_language": "en",
-            "original_title": "Anna Lucasta",
-            "overview": "",
-            "popularity": 1.8134,
-            "poster_path": "/blssvMUqfKvDfo3KocEYeXxRvRk.jpg",
-            "release_date": "1949-07-11",
-            "title": "Anna Lucasta",
+            "original_title": "Wake of the Red Witch",
+            "overview": "Dans les ann\u00e9es 1860, le capitaine Ralls qui commande un voilier marchand, d\u00e9barque avec son second, Sam Rosen, sur une \u00eele des Mers du Sud o\u00f9 vit le riche armateur Mayrant Ruysdaal Sidneye. Celui-ci expose \u00e0 Rosen les circonstances qui ont amen\u00e9 Ralls, sept ans plus t\u00f4t, \u00e0 saborder \"La Sorci\u00e8re Rouge\", navire affr\u00e9t\u00e9 par l'armateur, et son chargement d'or...",
+            "popularity": 0.8772,
+            "poster_path": "/pxRcp9wYHfQxaXemE9p0rMp4wp9.jpg",
+            "release_date": "1948-12-30",
+            "title": "Le R\u00e9veil de la sorci\u00e8re rouge",
             "video": false,
-            "vote_average": 3.5,
-            "vote_count": 4,
+            "vote_average": 5.6,
+            "vote_count": 47,
             "genres": [
-                "Drame"
+                "Aventure",
+                "Drame",
+                "Histoire"
             ],
-            "runtime": 86,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -562,7 +624,7 @@
             "original_language": "en",
             "original_title": "She Wore a Yellow Ribbon",
             "overview": "1876. \u00c0 la veille de quitter l'arm\u00e9e, sa v\u00e9ritable famille, le capitaine Nathan Brittles se voit confier une derni\u00e8re mission. Il doit conduire madame Allshard, la femme du commandant, et Olivia Dandridge, sa ni\u00e8ce, jusqu'au relais de la diligence. Mais les Indiens ont incendi\u00e9 les lieux\u2026",
-            "popularity": 1.3597,
+            "popularity": 1.3111,
             "poster_path": "/t0E1YmX1o5TzaXVgHduNjllvhT1.jpg",
             "release_date": "1949-10-22",
             "title": "La Charge h\u00e9ro\u00efque",
@@ -573,92 +635,8 @@
                 "Drame",
                 "Western"
             ],
-            "runtime": 104,
-            "tagline": "Cent h\u00e9ros m\u00e9connus contre mille sauvages en peinture de guerre !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1EvJFAFyMHe5dhDdtTNgyIjutmx.jpg",
-            "id": 41214,
-            "original_language": "en",
-            "original_title": "Knock on Any Door",
-            "overview": "Un jeune d\u00e9linquant, accus\u00e9 du meurtre d'un policier, est d\u00e9fendu par un avocat qui est n\u00e9 et a v\u00e9cu dans le m\u00eame quartier que le pr\u00e9venu: \"Skid Row\", les ruelles du malheur.",
-            "popularity": 3.708,
-            "poster_path": "/urKChGw0JIHfhL9qBQzNu8T6AJu.jpg",
-            "release_date": "1949-02-22",
-            "title": "Les Ruelles du malheur",
-            "video": false,
-            "vote_average": 6.131,
-            "vote_count": 65,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 100,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/k91si3A9xAyDN2OL0dvtJHHqqvG.jpg",
-            "id": 260681,
-            "original_language": "en",
-            "original_title": "Everybody Does It",
-            "overview": "",
-            "popularity": 0.1356,
-            "poster_path": "/dVrJAeyc2YMN40IQk69qGia1brd.jpg",
-            "release_date": "1949-10-24",
-            "title": "Everybody Does It",
-            "video": false,
-            "vote_average": 8.125,
-            "vote_count": 4,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 98,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4qJx4Ng41BeIPzzRlj5rrtuQFEV.jpg",
-            "id": 94615,
-            "original_language": "en",
-            "original_title": "Look for the Silver Lining",
-            "overview": "",
-            "popularity": 0.1013,
-            "poster_path": "/b38nKALKl0jYWuzA2VMvQn5EBxw.jpg",
-            "release_date": "1949-07-30",
-            "title": "Look for the Silver Lining",
-            "video": false,
-            "vote_average": 5.7,
-            "vote_count": 6,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 106,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/naRUQ7gNgz0Q9VjBuQGewJlRKmf.jpg",
-            "id": 29682,
-            "original_language": "en",
-            "original_title": "So Dear to My Heart",
-            "overview": "Danny, le petit mouton noir raconte l\u2019histoire d\u2019un jeune gar\u00e7on nomm\u00e9 Jeremiah qui au d\u00e9but du XX\u1d49 si\u00e8cle, d\u00e9cide d\u2019\u00e9lever un mouton noir que sa grand\u2010m\u00e8re ne souhaitait pas garder. Il pr\u00e9nomme l\u2019animal Danny en l\u2019honneur du c\u00e9l\u00e8bre \u00e9talon noir Dan Patch, l\u2019un de ses h\u00e9ros. Malgr\u00e9 les nombreuses fac\u00e9ties de Danny, Jeremiah souhaite le pr\u00e9senter \u00e0 un concours agricole. Jeremiah regroupe des souvenirs et r\u00eave devant un album dont les personnages s\u2019animent et lui prodiguent des conseils.",
-            "popularity": 1.049,
-            "poster_path": "/rLOQ4KnV2KJhfO5Kk8PIxyrigPy.jpg",
-            "release_date": "1948-11-29",
-            "title": "Danny, le petit mouton noir",
-            "video": false,
-            "vote_average": 6.628,
-            "vote_count": 47,
-            "genres": [
-                "Drame",
-                "Familial",
-                "Animation"
-            ],
-            "runtime": 79,
-            "tagline": "Une belle histoire qui sera ch\u00e8re \u00e0 votre c\u0153ur\u202f!"
+            "tagline": "Cent h\u00e9ros m\u00e9connus contre mille sauvages en peinture de guerre !",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -667,7 +645,7 @@
             "original_language": "en",
             "original_title": "Rope of Sand",
             "overview": "En Afrique du Sud, Mike Davis a cach\u00e9 un sac de diamants dans la mine de Fred Martingale. Vogel, le chef de la s\u00e9curit\u00e9, pr\u00eat \u00e0 tout pour mettre la main sur le magot, torture Davis qui ne pipe mot. Suzanne, une prostitu\u00e9e, essaie alors de l'avoir par les sentiments. Rien n'y fait. D'autant plus que la belle le pr\u00e9vient de la machination ourdie contre lui. Davis r\u00e9cup\u00e8re alors les diamants et passe en Angola. Mais Vogel, qui n'entend pas laisser partir ainsi cette fortune, s\u00e8me la terreur autour de lui pour obliger Davis \u00e0 revenir. Suzanne, accus\u00e9e injustement de meurtre, risque la corde... CRITIQUE: Avec Casablanca dans le r\u00e9troviseur, un bon film d'aventures dont la mise en sc\u00e8ne dynamique et inventive fait oublier les couacs du sc\u00e9nario. Dans une petite ville mini\u00e8re d'Afrique du Sud, se c\u00f4toient aventuriers en qu\u00eate d'argent, hommes d'affaires corrompus, policiers v\u00e9reux et entra\u00eeneuses.",
-            "popularity": 1.3085,
+            "popularity": 1.3578,
             "poster_path": "/sqlmARGcxFr8ss3yGjyuluUfGz9.jpg",
             "release_date": "1949-08-03",
             "title": "La Corde de sable",
@@ -679,8 +657,8 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 99,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 99
         },
         {
             "adult": false,
@@ -689,7 +667,7 @@
             "original_language": "en",
             "original_title": "Take Me Out to the Ball Game",
             "overview": "Deux artistes de music-hall jouent dans une \u00e9quipe de baseball et ont la surprise de d\u00e9couvrir que leur nouvel entra\u00eeneur K.C. Higgins est une femme.",
-            "popularity": 0.4603,
+            "popularity": 0.509,
             "poster_path": "/icP984Ob3Sa4hcA47a5KUEMqdfb.jpg",
             "release_date": "1949-03-09",
             "title": "Match d'amour",
@@ -701,8 +679,51 @@
                 "Romance",
                 "Musique"
             ],
-            "runtime": 93,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/naRUQ7gNgz0Q9VjBuQGewJlRKmf.jpg",
+            "id": 29682,
+            "original_language": "en",
+            "original_title": "So Dear to My Heart",
+            "overview": "Danny, le petit mouton noir raconte l\u2019histoire d\u2019un jeune gar\u00e7on nomm\u00e9 Jeremiah qui au d\u00e9but du XX\u1d49 si\u00e8cle, d\u00e9cide d\u2019\u00e9lever un mouton noir que sa grand\u2010m\u00e8re ne souhaitait pas garder. Il pr\u00e9nomme l\u2019animal Danny en l\u2019honneur du c\u00e9l\u00e8bre \u00e9talon noir Dan Patch, l\u2019un de ses h\u00e9ros. Malgr\u00e9 les nombreuses fac\u00e9ties de Danny, Jeremiah souhaite le pr\u00e9senter \u00e0 un concours agricole. Jeremiah regroupe des souvenirs et r\u00eave devant un album dont les personnages s\u2019animent et lui prodiguent des conseils.",
+            "popularity": 1.3731,
+            "poster_path": "/rLOQ4KnV2KJhfO5Kk8PIxyrigPy.jpg",
+            "release_date": "1948-11-29",
+            "title": "Danny, le petit mouton noir",
+            "video": false,
+            "vote_average": 6.628,
+            "vote_count": 47,
+            "genres": [
+                "Drame",
+                "Familial",
+                "Animation"
+            ],
+            "tagline": "Une belle histoire qui sera ch\u00e8re \u00e0 votre c\u0153ur\u202f!",
+            "runtime": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3SnfrqhypSXRw15EliwJouPBYfs.jpg",
+            "id": 96432,
+            "original_language": "en",
+            "original_title": "My Friend Irma",
+            "overview": "Prototype dumb blonde Irma et son slacker, magouilleur copain Al interf\u00e8rent dans la vie d'amour de t\u00eate de niveau chambre compagnon de Irma Jane.",
+            "popularity": 1.0998,
+            "poster_path": "/o7mNkoLDstiYPUELgaRD5jXPtmA.jpg",
+            "release_date": "1949-10-14",
+            "title": "Ma bonne amie Irma",
+            "video": false,
+            "vote_average": 6.818,
+            "vote_count": 22,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -711,7 +732,7 @@
             "original_language": "en",
             "original_title": "In the Good Old Summertime",
             "overview": "Le hasard et l'amour r\u00e9concilient deux coll\u00e8gues - un homme et une femme c\u00e9libataires - pourtant allergiques l'un \u00e0 l'autre au premier abord.",
-            "popularity": 0.8106,
+            "popularity": 0.9243,
             "poster_path": "/5kPe0U01FrHaS1GsvBe9ZkWdg6d.jpg",
             "release_date": "1949-07-29",
             "title": "Amour Poste Restante",
@@ -723,29 +744,29 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 102
         },
         {
             "adult": false,
-            "backdrop_path": "/3SnfrqhypSXRw15EliwJouPBYfs.jpg",
-            "id": 96432,
+            "backdrop_path": "/o82GZeidFbK5MXafnihhHng7ukJ.jpg",
+            "id": 29846,
             "original_language": "en",
-            "original_title": "My Friend Irma",
-            "overview": "Prototype dumb blonde Irma et son slacker, magouilleur copain Al interf\u00e8rent dans la vie d'amour de t\u00eate de niveau chambre compagnon de Irma Jane.",
-            "popularity": 1.4756,
-            "poster_path": "/o7mNkoLDstiYPUELgaRD5jXPtmA.jpg",
-            "release_date": "1949-10-14",
-            "title": "Ma bonne amie Irma",
+            "original_title": "The Accused",
+            "overview": "Wilma Tuttle est une professeure d'universit\u00e9 qui devient la cible de l'int\u00e9r\u00eat sexuel de son \u00e9l\u00e8ve Bill Perry. Lorsque Perry tente de violer Tuttle, elle le bat \u00e0 mort avec une pi\u00e8ce automobile, involontairement, dans un effort terrifi\u00e9 de l\u00e9gitime d\u00e9fense. Elle dissimule son crime en donnant l'impression que Perry a \u00e9t\u00e9 tu\u00e9 en plongeant dans la mer depuis une falaise escarp\u00e9e. Alors qu'elle suit l'enqu\u00eate polici\u00e8re sur la mort de Perry, Wilma se rend compte qu'elle ne pourra jamais \u00e9chapper \u00e0 sa conscience, surtout lorsqu'elle tombe amoureuse de Warren Ford , le tuteur du gar\u00e7on mort.",
+            "popularity": 7.5456,
+            "poster_path": "/mXCvHsAaDjcpofn397h416xjwzP.jpg",
+            "release_date": "1949-01-12",
+            "title": "Mirages de la peur",
             "video": false,
-            "vote_average": 6.818,
-            "vote_count": 22,
+            "vote_average": 6.1,
+            "vote_count": 23,
             "genres": [
-                "Com\u00e9die",
-                "Romance"
+                "Drame",
+                "Thriller"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "Mirages de la peur",
+            "runtime": 101
         },
         {
             "adult": false,
@@ -754,7 +775,7 @@
             "original_language": "en",
             "original_title": "The Adventures of Ichabod and Mr. Toad",
             "overview": "Deux histoires inoubliables : La Mare aux Grenouilles et La L\u00e9gende de la Vall\u00e9e endormie se rejoignent pour une fabuleuse aventure. Pr\u00e9parez-vous pour une folle vir\u00e9e \u00e0 bord de la voiture de Crapaud avec ses amis. Puis faites la connaissance d'Ichabod Crane, qui r\u00eave de conqu\u00e9rir la belle Katrina Van Tassel, malgr\u00e9 l'opposition de la brute du village, Brom Bones, qui aime aussi Katrina.",
-            "popularity": 2.463,
+            "popularity": 2.6183,
             "poster_path": "/uwFNkFMv5Mbi5vJBvkyKdPkA3fO.jpg",
             "release_date": "1949-10-05",
             "title": "Le Crapaud et le Ma\u00eetre d\u2019\u00e9cole",
@@ -767,8 +788,8 @@
                 "Animation",
                 "Familial"
             ],
-            "runtime": 68,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 68
         },
         {
             "adult": false,
@@ -777,7 +798,7 @@
             "original_language": "en",
             "original_title": "Under Capricorn",
             "overview": "Charles Adare, aristocrate anglais, d\u00e9barque en 1835 chez son oncle gouverneur \u00e0 Sydney. Au cour d'un d\u00eener, il retrouve sa cousine Harrietta, mari\u00e9e \u00e0 Sam Flusky. Elle semble compl\u00e8tement d\u00e9sorient\u00e9e et arrive titubante et d\u00e9coiff\u00e9e. Sam raconte \u00e0 Charles qu'il rencontra sa femme en Irlande alors qu'il n'\u00e9tait qu'un gar\u00e7on d'\u00e9table. Il tua le fr\u00e8re d'Harrietta qui s'opposait \u00e0 leur mariage...",
-            "popularity": 0.7232,
+            "popularity": 0.6978,
             "poster_path": "/y1tcFSdiiDgv2EXMnhaFLJXv3wV.jpg",
             "release_date": "1949-09-08",
             "title": "Les Amants du Capricorne",
@@ -788,8 +809,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 117,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -798,7 +819,7 @@
             "original_language": "en",
             "original_title": "A Connecticut Yankee in King Arthur's Court",
             "overview": "Hank Martin r\u00eave qu'il se trouve \u00e0 la cour du roi Arthur au temps des chevaliers. Arr\u00eate par des gardes, il est condamne a \u00eatre br\u00fbl\u00e9 vif comme sorcier Il \u00e9chappe a la sentence gr\u00e2ce a l'intervention de la ni\u00e8ce du roi, \u00e9prise de lui. Martin fait comprendre au roi la mis\u00e8re de son peuple. A son r\u00e9veil, il retrouve l'h\u00e9ro\u00efne de ses r\u00eaves...",
-            "popularity": 0.6904,
+            "popularity": 0.5994,
             "poster_path": "/A1B9TT5yI3YR2wZbkFQGeAuiCDp.jpg",
             "release_date": "1949-04-18",
             "title": "Un Yankee \u00e0 la cour du Roi Arthur",
@@ -811,8 +832,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 106,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -821,7 +842,7 @@
             "original_language": "en",
             "original_title": "Sword in the Desert",
             "overview": "",
-            "popularity": 2.9954,
+            "popularity": 3.3965,
             "poster_path": "/8V9Bi4XG98SukAK14c9SGNTsp84.jpg",
             "release_date": "1949-08-24",
             "title": "Sword in the Desert",
@@ -833,29 +854,28 @@
                 "Guerre",
                 "Drame"
             ],
-            "runtime": 101,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
         },
         {
             "adult": false,
-            "backdrop_path": "/o82GZeidFbK5MXafnihhHng7ukJ.jpg",
-            "id": 29846,
+            "backdrop_path": "/ha2SjOAlGkNBZWMx2VKyTycD1hZ.jpg",
+            "id": 126265,
             "original_language": "en",
-            "original_title": "The Accused",
-            "overview": "Wilma Tuttle est une professeure d'universit\u00e9 qui devient la cible de l'int\u00e9r\u00eat sexuel de son \u00e9l\u00e8ve Bill Perry. Lorsque Perry tente de violer Tuttle, elle le bat \u00e0 mort avec une pi\u00e8ce automobile, involontairement, dans un effort terrifi\u00e9 de l\u00e9gitime d\u00e9fense. Elle dissimule son crime en donnant l'impression que Perry a \u00e9t\u00e9 tu\u00e9 en plongeant dans la mer depuis une falaise escarp\u00e9e. Alors qu'elle suit l'enqu\u00eate polici\u00e8re sur la mort de Perry, Wilma se rend compte qu'elle ne pourra jamais \u00e9chapper \u00e0 sa conscience, surtout lorsqu'elle tombe amoureuse de Warren Ford , le tuteur du gar\u00e7on mort.",
-            "popularity": 6.8398,
-            "poster_path": "/mXCvHsAaDjcpofn397h416xjwzP.jpg",
-            "release_date": "1949-01-12",
-            "title": "Mirages de la peur",
+            "original_title": "Not Wanted",
+            "overview": "Une jeune fille est arr\u00eat\u00e9e suite \u00e0 un vol de b\u00e9b\u00e9. Dans sa cellule, elle \u00e9voque son pass\u00e9...",
+            "popularity": 1.7599,
+            "poster_path": "/atjGyy4JDGBSmLjGoVh4mlWFCdH.jpg",
+            "release_date": "1949-06-24",
+            "title": "Avant de t'aimer",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 23,
+            "vote_average": 6.8,
+            "vote_count": 32,
             "genres": [
-                "Drame",
-                "Thriller"
+                "Drame"
             ],
-            "runtime": 101,
-            "tagline": "Mirages de la peur"
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -864,7 +884,7 @@
             "original_language": "en",
             "original_title": "City Across the River",
             "overview": "",
-            "popularity": 0.328,
+            "popularity": 0.2537,
             "poster_path": "/lcFSi4PppbyGc6U1N2KbTJhuAF0.jpg",
             "release_date": "1949-04-07",
             "title": "City Across the River",
@@ -875,28 +895,8 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ha2SjOAlGkNBZWMx2VKyTycD1hZ.jpg",
-            "id": 126265,
-            "original_language": "en",
-            "original_title": "Not Wanted",
-            "overview": "Une jeune fille est arr\u00eat\u00e9e suite \u00e0 un vol de b\u00e9b\u00e9. Dans sa cellule, elle \u00e9voque son pass\u00e9...",
-            "popularity": 2.0286,
-            "poster_path": "/atjGyy4JDGBSmLjGoVh4mlWFCdH.jpg",
-            "release_date": "1949-06-24",
-            "title": "Avant de t'aimer",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 32,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -905,7 +905,7 @@
             "original_language": "en",
             "original_title": "Christopher Columbus",
             "overview": "En 1485, Christophe Colomb et son jeune fils s'acheminent vers le monast\u00e8re de La R\u00e1bida, en Andalousie. Il souhaite convaincre le p\u00e8re Perez, ancien confesseur de la reine d'Espagne, d'interc\u00e9der aupr\u00e8s de la souveraine pour pouvoir lui pr\u00e9senter son projet : ouvrir, par l'ouest, une nouvelle route maritime vers les Indes. Six ans plus tard, en 1492, le G\u00e9nois prend enfin la mer avec La Ni\u00f1a, La Pinta et la Santa-Mar\u00eda\u2026",
-            "popularity": 2.3111,
+            "popularity": 1.8128,
             "poster_path": "/AhA9L5AgzjE7Y20cHWOoUeQzSXI.jpg",
             "release_date": "1949-10-12",
             "title": "Christophe Colomb",
@@ -918,8 +918,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -928,7 +928,7 @@
             "original_language": "en",
             "original_title": "Family Honeymoon",
             "overview": "",
-            "popularity": 1.3631,
+            "popularity": 1.0,
             "poster_path": "/bykKceX4Fu4SPZO7UoCqb4kcnw7.jpg",
             "release_date": "1948-12-06",
             "title": "Family Honeymoon",
@@ -938,29 +938,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9A88YZ2qZhpE0RM7e6BDJeDX2fh.jpg",
-            "id": 21631,
-            "original_language": "en",
-            "original_title": "The Fallen Idol",
-            "overview": "Fils d'un ambassadeur \u00e0 Londres, le jeune Philippe est confi\u00e9, en l'absence de ses parents, \u00e0 la garde de Baines, le majordome auquel il voue une confiance sans bornes. Philippe d\u00e9couvre alors que Baines entretient une ma\u00eetresse...",
-            "popularity": 1.1264,
-            "poster_path": "/5lek2MqvNohrLMpJved5X2M7YxL.jpg",
-            "release_date": "1948-09-30",
-            "title": "Premi\u00e8re d\u00e9sillusion",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 187,
-            "genres": [
-                "Drame",
-                "Thriller"
-            ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -969,7 +948,7 @@
             "original_language": "en",
             "original_title": "Beyond the Forest",
             "overview": "Rosa Moline, l'\u00e9pouse d'un m\u00e9decin d'une petite ville, a pour amant un homme d'affaires de Chicago, Neil Latimer, qu'elle retrouve les week-ends dans sa luxueuse villa en bordure du lac. Ce dernier devant retourner a Chicago, Rosa d\u00e9cide de le rejoindre. Elle est cependant \u00e9conduite, Latimer devant \u00e9pouser une autre femme. Rosa revient chez son mari et d\u00e9couvre peu apres qu'elle est enceinte. Le Docteur Moline, pensant \u00eatre le p\u00e8re, est ravi et esp\u00e8re pouvoir enfin s'attacher sa femme. Mais Rosa s'incruste aupr\u00e8s du vrai p\u00e8re, dont elle finit par regagner les faveurs. Le vieux Moose, l'intendant de Latimer, menace Rosa de r\u00e9v\u00e9ler la v\u00e9rit\u00e9 \u00e0 Lewis. Rosa le tue.",
-            "popularity": 1.0205,
+            "popularity": 1.0959,
             "poster_path": "/vKVNZQpyGldpYhEudwJmeAWdSW3.jpg",
             "release_date": "1949-10-21",
             "title": "La Garce",
@@ -980,8 +959,49 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 97,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9A88YZ2qZhpE0RM7e6BDJeDX2fh.jpg",
+            "id": 21631,
+            "original_language": "en",
+            "original_title": "The Fallen Idol",
+            "overview": "Fils d'un ambassadeur \u00e0 Londres, le jeune Philippe est confi\u00e9, en l'absence de ses parents, \u00e0 la garde de Baines, le majordome auquel il voue une confiance sans bornes. Philippe d\u00e9couvre alors que Baines entretient une ma\u00eetresse...",
+            "popularity": 0.9175,
+            "poster_path": "/5lek2MqvNohrLMpJved5X2M7YxL.jpg",
+            "release_date": "1948-09-30",
+            "title": "Premi\u00e8re d\u00e9sillusion",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 187,
+            "genres": [
+                "Drame",
+                "Thriller"
+            ],
+            "tagline": "",
+            "runtime": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xC6suee08ve5VGuVpKKfeBCweqg.jpg",
+            "id": 30095,
+            "original_language": "en",
+            "original_title": "Passport to Pimlico",
+            "overview": "Peu apr\u00e8s la fin de la Seconde Guerre mondiale, les habitants de Pimlico, quartier du centre de Londres, d\u00e9couvrent, apr\u00e8s l'explosion tardive d'une bombe largu\u00e9e par l'aviation allemande, un parchemin d\u00e9montrant que leur quartier est en droit une d\u00e9pendance du duch\u00e9 de Bourgogne, qui avait perdu son ind\u00e9pendance depuis 1482. Apr\u00e8s l'arriv\u00e9e d'un homme s'affirmant duc de Bourgogne, et venu revendiquer ses droits, les habitants proclament leur ind\u00e9pendance par rapport au Royaume-Uni, devenant ainsi une micro-nation. Dans le but de reprendre le contr\u00f4le de la situation et de retirer cette \u00ab \u00e9pine \u00bb fich\u00e9e au c\u0153ur m\u00eame de la capitale, le gouvernement britannique interrompt la fourniture de tous les services assur\u00e9s dans le quartier et instaure un contr\u00f4le frontalier. Les \u00ab Bourguignons \u00bb organisent la r\u00e9sistance...",
+            "popularity": 7.1271,
+            "poster_path": "/2fe6c4oKj7iqQuT421eL1IAvSGO.jpg",
+            "release_date": "1949-10-26",
+            "title": "Passeport pour Pimlico",
+            "video": false,
+            "vote_average": 6.915,
+            "vote_count": 94,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 84
         },
         {
             "adult": false,
@@ -990,7 +1010,7 @@
             "original_language": "en",
             "original_title": "Neptune's Daughter",
             "overview": "",
-            "popularity": 0.7297,
+            "popularity": 0.5593,
             "poster_path": "/d9O19EfkPl9FCmGh6QfklCDcoIv.jpg",
             "release_date": "1949-06-10",
             "title": "Neptune's Daughter",
@@ -1002,28 +1022,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 95,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xC6suee08ve5VGuVpKKfeBCweqg.jpg",
-            "id": 30095,
-            "original_language": "en",
-            "original_title": "Passport to Pimlico",
-            "overview": "Peu apr\u00e8s la fin de la Seconde Guerre mondiale, les habitants de Pimlico, quartier du centre de Londres, d\u00e9couvrent, apr\u00e8s l'explosion tardive d'une bombe largu\u00e9e par l'aviation allemande, un parchemin d\u00e9montrant que leur quartier est en droit une d\u00e9pendance du duch\u00e9 de Bourgogne, qui avait perdu son ind\u00e9pendance depuis 1482. Apr\u00e8s l'arriv\u00e9e d'un homme s'affirmant duc de Bourgogne, et venu revendiquer ses droits, les habitants proclament leur ind\u00e9pendance par rapport au Royaume-Uni, devenant ainsi une micro-nation. Dans le but de reprendre le contr\u00f4le de la situation et de retirer cette \u00ab \u00e9pine \u00bb fich\u00e9e au c\u0153ur m\u00eame de la capitale, le gouvernement britannique interrompt la fourniture de tous les services assur\u00e9s dans le quartier et instaure un contr\u00f4le frontalier. Les \u00ab Bourguignons \u00bb organisent la r\u00e9sistance...",
-            "popularity": 5.6679,
-            "poster_path": "/2fe6c4oKj7iqQuT421eL1IAvSGO.jpg",
-            "release_date": "1949-10-26",
-            "title": "Passeport pour Pimlico",
-            "video": false,
-            "vote_average": 6.915,
-            "vote_count": 94,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 84,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -1032,7 +1032,7 @@
             "original_language": "en",
             "original_title": "Battleground",
             "overview": "Seconde Guerre mondiale, d\u00e9cembre 1944 : La 101\u00b0 Division a\u00e9roport\u00e9e atteint la ville de Bastogne. Holley, un soldat, se lie avec Denise. La progression se poursuit, mais le barrage de l'arm\u00e9e allemande est acharn\u00e9 alors qu'elle semblait vou\u00e9e \u00e0 la d\u00e9route. Certains allemands s'infiltrent parmi les am\u00e9ricains pour des missions de sabotage...",
-            "popularity": 2.6645,
+            "popularity": 2.396,
             "poster_path": "/gTfN7UR4Hd2ZfGtK08njErhxLZR.jpg",
             "release_date": "1949-11-09",
             "title": "Bastogne",
@@ -1045,8 +1045,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 118,
-            "tagline": "La premi\u00e8re grande image de la Seconde Guerre mondiale!"
+            "tagline": "La premi\u00e8re grande image de la Seconde Guerre mondiale!",
+            "runtime": 118
         }
     ]
 }

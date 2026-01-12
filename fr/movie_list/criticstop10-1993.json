@@ -4,7 +4,7 @@
     "source": "https://criticstop10.com/best-movies-of-1993/",
     "created_by": "lbnt",
     "added": "07/29/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,20 +14,126 @@
             "original_language": "en",
             "original_title": "Schindler's List",
             "overview": "\u00c9vocation des ann\u00e9es de guerre d\u2019Oskar Schindler, fils d\u2019industriel d\u2019origine autrichienne rentr\u00e9 \u00e0 Cracovie en 1939 avec les troupes allemandes. Il va, tout au long de la guerre, prot\u00e9ger des juifs en les faisant travailler dans sa fabrique et en 1944 sauver 800 hommes et 300 femmes du camp d\u2019extermination d\u2019Auschwitz\u2010Birkenau.",
-            "popularity": 13.764,
+            "popularity": 13.866,
             "poster_path": "/fLRbv1fGQD0OCPWkFy7PI2sESLj.jpg",
             "release_date": "1993-12-15",
             "title": "La Liste de Schindler",
             "video": false,
             "vote_average": 8.565,
-            "vote_count": 16978,
+            "vote_count": 16979,
             "genres": [
                 "Drame",
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 195,
-            "tagline": "Celui qui sauve une vie, sauve le monde."
+            "tagline": "Celui qui sauve une vie, sauve le monde.",
+            "runtime": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
+            "id": 713,
+            "original_language": "en",
+            "original_title": "The Piano",
+            "overview": "Au si\u00e8cle dernier en Nouvelle-Z\u00e9lande, Ada, m\u00e8re d'une fillette de neuf ans, s\u2019appr\u00eate \u00e0 suivre son nouveau mari au fin fond du bush. Il accepte de transporter tous ses meubles \u00e0 l'exception d'un piano qui \u00e9choue chez un voisin illettr\u00e9. Ne pouvant supporter cette perte, Ada accepte le march\u00e9 que lui propose ce dernier : r\u00e9cup\u00e9rer son piano touche par touche en se soumettant \u00e0 ses fantaisies.",
+            "popularity": 4.9547,
+            "poster_path": "/wyQO9ugIqj6mB8v7dwPJZOYijV4.jpg",
+            "release_date": "1993-05-18",
+            "title": "La Le\u00e7on de piano",
+            "video": false,
+            "vote_average": 7.378,
+            "vote_count": 1606,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jha4hsGYlxPSsZC2AL35PJNW3o5.jpg",
+            "id": 10436,
+            "original_language": "en",
+            "original_title": "The Age of Innocence",
+            "overview": "New York, au XIXe si\u00e8cle (1870). C'est en entrant dans la loge de sa fianc\u00e9e, l'ing\u00e9nue May Welland, que Newland Archer, un avocat tr\u00e8s en vue, apprend le prochain retour aux \u00c9tats-Unis de la comtesse Ellen Olenska, une cousine de May \u00e0 pr\u00e9sent s\u00e9par\u00e9e de son mari, un aristocrate polonais. Au bal qui suit la repr\u00e9sentation, Newland rencontre la comtesse. Frapp\u00e9 au c\u0153ur, il lui fait aussit\u00f4t envoyer des fleurs, cependant que May le presse d'avancer la date de leur mariage. Embarrass\u00e9, Newland est bien oblig\u00e9 de s'avouer qu'il est \u00e9perdument \u00e9pris de la comtesse Olenska, alors m\u00eame que sa famille l'a officiellement charg\u00e9 de l'emp\u00eacher de divorcer\u2026",
+            "popularity": 2.6894,
+            "poster_path": "/fXPgii2ZEy9vvJCqIgKyu0sEjQq.jpg",
+            "release_date": "1993-09-10",
+            "title": "Le Temps de l'innocence",
+            "video": false,
+            "vote_average": 6.969,
+            "vote_count": 1181,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Dans un monde de traditions, une soci\u00e9t\u00e9 de privil\u00e8ges, ils ont os\u00e9 d\u00e9fier la morale et l'ordre \u00e9tabli.",
+            "runtime": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vFhxd3Z1zaV3Yu5XLpvWzSxJCe8.jpg",
+            "id": 1245,
+            "original_language": "en",
+            "original_title": "The Remains of the Day",
+            "overview": "Un Am\u00e9ricain, Lewis, vient d'acheter la riche et vaste demeure de Darlington Hall. \u00c0 peine install\u00e9, il prie James Stevens, majordome dans la maison depuis plus de 30 ans, de prendre des vacances. Stevens d\u00e9cide d'en profiter pour rendre visite \u00e0 madame Benn, qu'il connut et aima sans jamais le lui avouer, lorsqu'elle n'\u00e9tait encore que miss Sarah Kenton et \u0153uvrait comme gouvernante \u00e0 Darlington Hall. Pendant le trajet, Stevens se souvient. Il revoit son ma\u00eetre, lord Darlington, un in\u00e9puisable partisan du rapprochement entre l'Allemagne nazie et l'Angleterre, \u00e9prouvant encore l'esp\u00e8ce de fid\u00e9lit\u00e9 qui le liait \u00e0 cet homme controvers\u00e9\u2026",
+            "popularity": 2.854,
+            "poster_path": "/74by6zzrrfr817p1CLkvJKZtQRJ.jpg",
+            "release_date": "1993-11-05",
+            "title": "Les Vestiges du jour",
+            "video": false,
+            "vote_average": 7.363,
+            "vote_count": 1431,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "La vie de la classe sup\u00e9rieure et des domestiques dans l'Angleterre de l'apr\u00e8s Premi\u00e8re Guerre mondiale.",
+            "runtime": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+            "id": 695,
+            "original_language": "en",
+            "original_title": "Short Cuts",
+            "overview": "Librement inspir\u00e9 de neuf nouvelles et d'un po\u00e8me de Raymond Carver, \"Short Cuts\" et un voyage \u00e0 travers le Los Angeles des ann\u00e9es 90, une fresque intimiste ou s'entrem\u00ealent les destins contrast\u00e9s de 22 personnages aux prises avec les drames, les \u00e9motions, les plaisirs, les surprises et les hasards de la vie quotidienne.",
+            "popularity": 1.7541,
+            "poster_path": "/klBSGQweOLzQzRlF0fGqmiyoiNB.jpg",
+            "release_date": "1993-10-01",
+            "title": "Short Cuts",
+            "video": false,
+            "vote_average": 7.19,
+            "vote_count": 654,
+            "genres": [
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "tagline": "Short Cuts l\u00e8ve le toit sur l'Am\u00e9rique.",
+            "runtime": 188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+            "id": 5503,
+            "original_language": "en",
+            "original_title": "The Fugitive",
+            "overview": "Mars 1992, Chicago. Richard Kimble est un chirurgien vasculaire renomm\u00e9. Au sortir d'une intervention chirurgicale, le praticien rentre chez lui et d\u00e9couvre avec stupeur le cadavre de son \u00e9pouse, Helen, qui vient d'\u00eatre assassin\u00e9e \u00e0 leur domicile. Accus\u00e9 du meurtre par la police de Chicago. Les policiers, doutant de la v\u00e9racit\u00e9 de son t\u00e9moignage, l'inculpent pour homicide, avec pour mobile le fait que Kimble est le seul h\u00e9ritier de la fortune de sa femme. Le tribunal le condamne \u00e0 la peine capitale. Lors de son transfert vers le lieu de son incarc\u00e9ration, le bus p\u00e9nitentiaire est la cible d'une tentative d'\u00e9vasion de la part de certains prisonniers. R\u00e9ussissant \u00e0 s'\u00e9chapper du bus, Kimble en profite pour dispara\u00eetre dans la nature. Les fugitifs sont pris en chasse par l'ensemble des forces de police de l'\u00c9tat et plus sp\u00e9cialement par l'\u00e9quipe d'enqu\u00eateurs de l'unit\u00e9 des marshals des \u00c9tats-Unis de Chicago, dirig\u00e9e par le marshal Samuel Gerard.",
+            "popularity": 6.018,
+            "poster_path": "/uVGTJKNIHi08Eclu96OvpiOGuQf.jpg",
+            "release_date": "1993-08-06",
+            "title": "Le Fugitif",
+            "video": false,
+            "vote_average": 7.466,
+            "vote_count": 4612,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Drame"
+            ],
+            "tagline": "Une \u00e9pouse assassin\u00e9e. Un manchot. Un flic tenace. La chasse est ouverte.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -36,7 +142,7 @@
             "original_language": "en",
             "original_title": "Much Ado About Nothing",
             "overview": "En 1599, le prince Don Pedro d'Aragon, revenu victorieux d'une exp\u00e9dition militaire, arrive \u00e0 Messine, en Sicile, accompagn\u00e9 de ses fid\u00e8les compagnons d'armes, Benedict et Claudio, et de Don Juan, son fourbe demi-fr\u00e8re. Il sont accueillis chaleureusement dans la demeure de Leonato, le gouverneur de la ville. Benedict retrouve la ni\u00e8ce du gouverneur, B\u00e9atrice, qu'il appr\u00e9cie pour son charme et son esprit, et Claudio tombe amoureux de Hero, la fille du gouverneur.",
-            "popularity": 1.9126,
+            "popularity": 1.7485,
             "poster_path": "/iCEFY4pezsa97J8w0bWU3I3hDzP.jpg",
             "release_date": "1993-05-07",
             "title": "Beaucoup de bruit pour rien",
@@ -48,29 +154,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 110,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/jha4hsGYlxPSsZC2AL35PJNW3o5.jpg",
-            "id": 10436,
-            "original_language": "en",
-            "original_title": "The Age of Innocence",
-            "overview": "New York, au XIXe si\u00e8cle (1870). C'est en entrant dans la loge de sa fianc\u00e9e, l'ing\u00e9nue May Welland, que Newland Archer, un avocat tr\u00e8s en vue, apprend le prochain retour aux \u00c9tats-Unis de la comtesse Ellen Olenska, une cousine de May \u00e0 pr\u00e9sent s\u00e9par\u00e9e de son mari, un aristocrate polonais. Au bal qui suit la repr\u00e9sentation, Newland rencontre la comtesse. Frapp\u00e9 au c\u0153ur, il lui fait aussit\u00f4t envoyer des fleurs, cependant que May le presse d'avancer la date de leur mariage. Embarrass\u00e9, Newland est bien oblig\u00e9 de s'avouer qu'il est \u00e9perdument \u00e9pris de la comtesse Olenska, alors m\u00eame que sa famille l'a officiellement charg\u00e9 de l'emp\u00eacher de divorcer\u2026",
-            "popularity": 2.7463,
-            "poster_path": "/fXPgii2ZEy9vvJCqIgKyu0sEjQq.jpg",
-            "release_date": "1993-09-10",
-            "title": "Le Temps de l'innocence",
-            "video": false,
-            "vote_average": 6.969,
-            "vote_count": 1181,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 135,
-            "tagline": "Dans un monde de traditions, une soci\u00e9t\u00e9 de privil\u00e8ges, ils ont os\u00e9 d\u00e9fier la morale et l'ordre \u00e9tabli."
+            "tagline": "",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -79,60 +164,18 @@
             "original_language": "en",
             "original_title": "The Joy Luck Club",
             "overview": "A travers une s\u00e9rie de flashbacks, quatre jeunes Chinoises, n\u00e9es aux \u00c9tats-Unis, et leurs m\u00e8res respectives, originaires de la Chine f\u00e9odale, partent \u00e0 la recherche de leur pass\u00e9. Cette qu\u00eate leur permettra d'approfondir leurs relations.",
-            "popularity": 1.0109,
+            "popularity": 1.2737,
             "poster_path": "/wArYwAjpOLuycrjNpLrLKnepEc6.jpg",
             "release_date": "1993-09-08",
             "title": "Le Club de la chance",
             "video": false,
-            "vote_average": 7.087,
+            "vote_average": 7.1,
             "vote_count": 155,
             "genres": [
                 "Drame"
             ],
-            "runtime": 139,
-            "tagline": "Entre chaque m\u00e8re et chaque fille, il y a une histoire \u00e0 raconter."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
-            "id": 695,
-            "original_language": "en",
-            "original_title": "Short Cuts",
-            "overview": "Librement inspir\u00e9 de neuf nouvelles et d'un po\u00e8me de Raymond Carver, \"Short Cuts\" et un voyage \u00e0 travers le Los Angeles des ann\u00e9es 90, une fresque intimiste ou s'entrem\u00ealent les destins contrast\u00e9s de 22 personnages aux prises avec les drames, les \u00e9motions, les plaisirs, les surprises et les hasards de la vie quotidienne.",
-            "popularity": 1.5437,
-            "poster_path": "/klBSGQweOLzQzRlF0fGqmiyoiNB.jpg",
-            "release_date": "1993-10-01",
-            "title": "Short Cuts",
-            "video": false,
-            "vote_average": 7.19,
-            "vote_count": 654,
-            "genres": [
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 188,
-            "tagline": "Short Cuts l\u00e8ve le toit sur l'Am\u00e9rique."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
-            "id": 713,
-            "original_language": "en",
-            "original_title": "The Piano",
-            "overview": "Au si\u00e8cle dernier en Nouvelle-Z\u00e9lande, Ada, m\u00e8re d'une fillette de neuf ans, s\u2019appr\u00eate \u00e0 suivre son nouveau mari au fin fond du bush. Il accepte de transporter tous ses meubles \u00e0 l'exception d'un piano qui \u00e9choue chez un voisin illettr\u00e9. Ne pouvant supporter cette perte, Ada accepte le march\u00e9 que lui propose ce dernier : r\u00e9cup\u00e9rer son piano touche par touche en se soumettant \u00e0 ses fantaisies.",
-            "popularity": 5.0282,
-            "poster_path": "/wyQO9ugIqj6mB8v7dwPJZOYijV4.jpg",
-            "release_date": "1993-05-18",
-            "title": "La Le\u00e7on de piano",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 1605,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 120,
-            "tagline": ""
+            "tagline": "Entre chaque m\u00e8re et chaque fille, il y a une histoire \u00e0 raconter.",
+            "runtime": 139
         },
         {
             "adult": false,
@@ -141,7 +184,7 @@
             "original_language": "en",
             "original_title": "In the Line of Fire",
             "overview": "Frank Horrigan, agent des services secrets am\u00e9ricains, est hant\u00e9 par le souvenir d'un \u00e9chec douloureux. Il faisait partie de la brigade charg\u00e9e de la protection de John Fitzgerald Kennedy. Trente ans plus tard, il est \u00e0 nouveau appel\u00e9 \u00e0 faire partie de la brigade de protection du pr\u00e9sident des \u00c9tats-Unis, qui entre en campagne de r\u00e9\u00e9lection.",
-            "popularity": 3.4182,
+            "popularity": 4.649,
             "poster_path": "/viZxDvrWrBk6KgQ6QO5wSLWPje8.jpg",
             "release_date": "1993-07-08",
             "title": "Dans la ligne de mire",
@@ -155,29 +198,8 @@
                 "Crime",
                 "Myst\u00e8re"
             ],
-            "runtime": 130,
-            "tagline": "Ils veulent abattre le pr\u00e9sident des \u00c9tats-Unis. Un seul homme peut s'interposer."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/vFhxd3Z1zaV3Yu5XLpvWzSxJCe8.jpg",
-            "id": 1245,
-            "original_language": "en",
-            "original_title": "The Remains of the Day",
-            "overview": "Un Am\u00e9ricain, Lewis, vient d'acheter la riche et vaste demeure de Darlington Hall. \u00c0 peine install\u00e9, il prie James Stevens, majordome dans la maison depuis plus de 30 ans, de prendre des vacances. Stevens d\u00e9cide d'en profiter pour rendre visite \u00e0 madame Benn, qu'il connut et aima sans jamais le lui avouer, lorsqu'elle n'\u00e9tait encore que miss Sarah Kenton et \u0153uvrait comme gouvernante \u00e0 Darlington Hall. Pendant le trajet, Stevens se souvient. Il revoit son ma\u00eetre, lord Darlington, un in\u00e9puisable partisan du rapprochement entre l'Allemagne nazie et l'Angleterre, \u00e9prouvant encore l'esp\u00e8ce de fid\u00e9lit\u00e9 qui le liait \u00e0 cet homme controvers\u00e9\u2026",
-            "popularity": 2.3361,
-            "poster_path": "/74by6zzrrfr817p1CLkvJKZtQRJ.jpg",
-            "release_date": "1993-11-05",
-            "title": "Les Vestiges du jour",
-            "video": false,
-            "vote_average": 7.363,
-            "vote_count": 1431,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 128,
-            "tagline": "La vie de la classe sup\u00e9rieure et des domestiques dans l'Angleterre de l'apr\u00e8s Premi\u00e8re Guerre mondiale."
+            "tagline": "Ils veulent abattre le pr\u00e9sident des \u00c9tats-Unis. Un seul homme peut s'interposer.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -186,7 +208,7 @@
             "original_language": "zh",
             "original_title": "\u9738\u738b\u522b\u59ec",
             "overview": "Douzi et Shitou se rencontrent \u00e0 l'acad\u00e9mie de l'op\u00e9ra de P\u00e9kin. Amis d\u00e8s le premier jour, les deux gar\u00e7ons sont les acteurs principaux de l'op\u00e9ra \u00ab\u00a0Adieu ma concubine\u00a0\u00bb. Lors de la tourn\u00e9e, Douzi tombe amoureux de son ami mais celui-ci pr\u00e9f\u00e8re les charmes de Juxian, une prostitu\u00e9e. Lorsque Shitou veut \u00e9pouser la jeune femme, cette d\u00e9cision aura de s\u00e9rieuses cons\u00e9quences sur leur amiti\u00e9.  Palme d'Or en 1993  \u00e0 Cannes (ex-\u00e6quo avec \"La le\u00e7on de piano\").",
-            "popularity": 3.567,
+            "popularity": 3.7289,
             "poster_path": "/93d1TB5MfcPaTgTTKEnRwfQi8F4.jpg",
             "release_date": "1993-01-01",
             "title": "Adieu ma concubine",
@@ -196,30 +218,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 171,
-            "tagline": "L'histoire passionn\u00e9e de deux amis de toujours et de la femme qui les s\u00e9pare."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
-            "id": 5503,
-            "original_language": "en",
-            "original_title": "The Fugitive",
-            "overview": "Mars 1992, Chicago. Richard Kimble est un chirurgien vasculaire renomm\u00e9. Au sortir d'une intervention chirurgicale, le praticien rentre chez lui et d\u00e9couvre avec stupeur le cadavre de son \u00e9pouse, Helen, qui vient d'\u00eatre assassin\u00e9e \u00e0 leur domicile. Accus\u00e9 du meurtre par la police de Chicago. Les policiers, doutant de la v\u00e9racit\u00e9 de son t\u00e9moignage, l'inculpent pour homicide, avec pour mobile le fait que Kimble est le seul h\u00e9ritier de la fortune de sa femme. Le tribunal le condamne \u00e0 la peine capitale. Lors de son transfert vers le lieu de son incarc\u00e9ration, le bus p\u00e9nitentiaire est la cible d'une tentative d'\u00e9vasion de la part de certains prisonniers. R\u00e9ussissant \u00e0 s'\u00e9chapper du bus, Kimble en profite pour dispara\u00eetre dans la nature. Les fugitifs sont pris en chasse par l'ensemble des forces de police de l'\u00c9tat et plus sp\u00e9cialement par l'\u00e9quipe d'enqu\u00eateurs de l'unit\u00e9 des marshals des \u00c9tats-Unis de Chicago, dirig\u00e9e par le marshal Samuel Gerard.",
-            "popularity": 6.415,
-            "poster_path": "/uVGTJKNIHi08Eclu96OvpiOGuQf.jpg",
-            "release_date": "1993-08-06",
-            "title": "Le Fugitif",
-            "video": false,
-            "vote_average": 7.466,
-            "vote_count": 4612,
-            "genres": [
-                "Action",
-                "Thriller",
-                "Drame"
-            ],
-            "runtime": 130,
-            "tagline": "Une \u00e9pouse assassin\u00e9e. Un manchot. Un flic tenace. La chasse est ouverte."
+            "tagline": "L'histoire passionn\u00e9e de deux amis de toujours et de la femme qui les s\u00e9pare.",
+            "runtime": 171
         },
         {
             "adult": false,
@@ -228,7 +228,7 @@
             "original_language": "es",
             "original_title": "Como agua para chocolate",
             "overview": "Tita est amoureuse de Pedro. Mais \u00e9tant la cadette de la famille, elle doit rester, comme le veut la tradition, avec sa m\u00e8re jusqu'\u00e0 ce que celle-ci meurt. Pedro d\u00e9cide alors d'\u00e9pouser la soeur de sa bien-aim\u00e9e pour \u00eatre plus pr\u00e8s d'elle. Mais surveill\u00e9e de pr\u00e8s par sa m\u00e8re dure et m\u00e9chante, Tita n'a qu'une fa\u00e7on d'exprimer ses sentiments et sa passion : \u00e0 travers la nourriture",
-            "popularity": 0.9489,
+            "popularity": 1.0888,
             "poster_path": "/bBToqYouLBaoojtC6AyRNeFcQoV.jpg",
             "release_date": "1992-04-16",
             "title": "Les \u00e9pices de la passion",
@@ -239,8 +239,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 123,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 123
         },
         {
             "adult": false,
@@ -249,19 +249,59 @@
             "original_language": "en",
             "original_title": "Jurassic Park",
             "overview": "G\u00e9n\u00e9ticien de g\u00e9nie, le professeur John Hammond a recr\u00e9\u00e9 de nombreuses esp\u00e8ces de dinosaures \u00e0 partir d'une goutte de sang pr\u00e9lev\u00e9e sur un moustique fossilis\u00e9. D\u00e9miurge na\u00eff et g\u00e9n\u00e9reux, d\u00e9pass\u00e9 par ses propres ambitions, il projette d\u2019ouvrir un gigantesque et terrifiant parc d'attractions. Mais la puret\u00e9 de son r\u00eave se heurte \u00e0 la cupidit\u00e9 des hommes et, plus grave, \u00e0 la violence latente, indomptable de la Nature.",
-            "popularity": 8.38,
+            "popularity": 8.2264,
             "poster_path": "/i268GVIlp777W1Ykws5R3LYYLIw.jpg",
             "release_date": "1993-06-11",
             "title": "Jurassic Park",
             "video": false,
             "vote_average": 7.965,
-            "vote_count": 17398,
+            "vote_count": 17399,
             "genres": [
                 "Aventure",
                 "Science-Fiction"
             ],
-            "runtime": 126,
-            "tagline": "Il a fallu 65 millions d'ann\u00e9es pour que cette aventure devienne possible."
+            "tagline": "Il a fallu 65 millions d'ann\u00e9es pour que cette aventure devienne possible.",
+            "runtime": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/auKXOVH7znRHb8rl7DAS3c98hp4.jpg",
+            "id": 10443,
+            "original_language": "en",
+            "original_title": "Fearless",
+            "overview": "Rescap\u00e9 d'une catastrophe a\u00e9rienne, un homme, persuad\u00e9 d'\u00eatre immortel, se comporte de fa\u00e7on absurde : un psychologue tente de le raisonner.",
+            "popularity": 2.0006,
+            "poster_path": "/1QUAXaItVydfMCVmpr3DqItOzNp.jpg",
+            "release_date": "1993-10-15",
+            "title": "\u00c9tat second",
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 327,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
+            "id": 9800,
+            "original_language": "en",
+            "original_title": "Philadelphia",
+            "overview": "Andrew Beckett, brillant avocat, est appel\u00e9 \u00e0 une carriere fulgurante. Adul\u00e9 par son milieu, rien ne semble pouvoir ralentir son ascension. Mais, le jour o\u00f9 ses associ\u00e9s apprennent qu'Andrew est atteint du sida, ils n'h\u00e9sitent pas \u00e0 pretexter une faute professionnelle pour justifier son renvoi. Andrew d\u00e9cide de ne pas se laisser faire et attaque le cabinet pour licenciement abusif.",
+            "popularity": 4.7627,
+            "poster_path": "/nOw0nfcTQ7L1YkvUUrjgNyu7KPK.jpg",
+            "release_date": "1993-12-22",
+            "title": "Philadelphia",
+            "video": false,
+            "vote_average": 7.714,
+            "vote_count": 4504,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Personne ne voulait s'occuper de son cas... Jusqu'\u00e0 ce qu'un homme d\u00e9cide de d\u00e9fier le syst\u00e8me.",
+            "runtime": 125
         },
         {
             "adult": false,
@@ -270,7 +310,7 @@
             "original_language": "en",
             "original_title": "Naked Lunch",
             "overview": "Apr\u00e8s avoir d\u00e9velopp\u00e9 une d\u00e9pendance \u00e0 la substance qu'il utilise pour tuer les insectes, un exterminateur tue accidentellement sa femme et se retrouve impliqu\u00e9 dans un complot gouvernemental secret.",
-            "popularity": 1.5581,
+            "popularity": 1.5138,
             "poster_path": "/zCXB1sm5CzBFeRmQErI6CIvNKGR.jpg",
             "release_date": "1991-12-27",
             "title": "Le festin nu",
@@ -281,8 +321,30 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 115,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+            "id": 137,
+            "original_language": "en",
+            "original_title": "Groundhog Day",
+            "overview": "Phil Connors, pr\u00e9sentateur m\u00e9t\u00e9o grincheux et arrogant, doit tourner un reportage sur la f\u00eate de la marmotte. Mais lorsqu'il se r\u00e9veille le lendemain, il d\u00e9couvre avec stupeur que la date n'a pas chang\u00e9 et qu'il est condamn\u00e9 \u00e0 revivre un par un les \u00e9v\u00e9nements de la veille. Connors se voit d\u00e8s lors oblig\u00e9 de faire face \u00e0 la r\u00e9p\u00e9tition infinie du Jour de la marmotte.",
+            "popularity": 12.8665,
+            "poster_path": "/kSdgmtOmxFxdiJqK1R3kfKBqRUo.jpg",
+            "release_date": "1993-02-11",
+            "title": "Un jour sans fin",
+            "video": false,
+            "vote_average": 7.621,
+            "vote_count": 8595,
+            "genres": [
+                "Romance",
+                "Fantastique",
+                "Com\u00e9die"
+            ],
+            "tagline": "Prisonnier du temps, il revit tous les jours le m\u00eame jour, jusqu'au plus beau jour de sa vie.",
+            "runtime": 101
         },
         {
             "adult": false,
@@ -291,7 +353,7 @@
             "original_language": "en",
             "original_title": "Menace II Society",
             "overview": "La vie d'une bande dans le Watts, quartier noir-am\u00e9ricain de Los Angeles, un an apr\u00e8s les \u00e9meutes. Aux \u00c9tats-Unis, les adolescents repr\u00e9sentent 42 % des d\u00e9linquants juv\u00e9niles en \u00e9tat d'arrestation, alors qu'ils ne repr\u00e9sentent que 16 % de la population \u00e2g\u00e9e de moins de 18 ans.",
-            "popularity": 2.8236,
+            "popularity": 2.7599,
             "poster_path": "/P8TlsTzTCnaQzPNLMpo4SJSSUJ.jpg",
             "release_date": "1993-05-26",
             "title": "Menace II society",
@@ -303,8 +365,8 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 96,
-            "tagline": "C'est la v\u00e9rit\u00e9. C'est ce qui est r\u00e9el."
+            "tagline": "C'est la v\u00e9rit\u00e9. C'est ce qui est r\u00e9el.",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -313,7 +375,7 @@
             "original_language": "en",
             "original_title": "Dazed and Confused",
             "overview": "Les aventures d'\u00e9tudiants d'un lyc\u00e9e du Texas, lors de leur dernier jour de cours en mai 1976\u2026",
-            "popularity": 3.1259,
+            "popularity": 3.8825,
             "poster_path": "/wilkBmvlzTJ1lUy4VbjRctpwtcz.jpg",
             "release_date": "1993-09-24",
             "title": "G\u00e9n\u00e9ration Rebelle",
@@ -324,91 +386,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 103,
-            "tagline": "C\u2019\u00e9tait le dernier jour d\u2019\u00e9cole en 1976, une \u00e9poque qu\u2019ils n\u2019oublieraient jamais\u2026 si seulement ils pouvaient s\u2019en souvenir."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
-            "id": 9800,
-            "original_language": "en",
-            "original_title": "Philadelphia",
-            "overview": "Andrew Beckett, brillant avocat, est appel\u00e9 \u00e0 une carriere fulgurante. Adul\u00e9 par son milieu, rien ne semble pouvoir ralentir son ascension. Mais, le jour o\u00f9 ses associ\u00e9s apprennent qu'Andrew est atteint du sida, ils n'h\u00e9sitent pas \u00e0 pretexter une faute professionnelle pour justifier son renvoi. Andrew d\u00e9cide de ne pas se laisser faire et attaque le cabinet pour licenciement abusif.",
-            "popularity": 4.1375,
-            "poster_path": "/nOw0nfcTQ7L1YkvUUrjgNyu7KPK.jpg",
-            "release_date": "1993-12-22",
-            "title": "Philadelphia",
-            "video": false,
-            "vote_average": 7.714,
-            "vote_count": 4503,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 125,
-            "tagline": "Personne ne voulait s'occuper de son cas... Jusqu'\u00e0 ce qu'un homme d\u00e9cide de d\u00e9fier le syst\u00e8me."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bnN6H3vng04ofPXa0Xe7PJHFd7J.jpg",
-            "id": 34024,
-            "original_language": "en",
-            "original_title": "King of the Hill",
-            "overview": "Pendant la Grande D\u00e9pression, en 1933, une famille d'origine allemande, les Kurlander, tente de mener une vie normale dans un h\u00f4tel de passage. Mais peu \u00e0 peu la famille se s\u00e9pare et certains quittent l'\u00c9tat. Le p\u00e8re est l'avant-dernier \u00e0 partir et promet \u00e0 son fils Aaron qu'il restera sur place pour le nourrir et l'\u00e9lever. Mais Aaron s'apercevra rapidement qu'il est d\u00e9sormais livr\u00e9 \u00e0 lui-m\u00eame...",
-            "popularity": 0.9089,
-            "poster_path": "/vmV21mWwclW2A3lmlBejn8TyIu2.jpg",
-            "release_date": "1993-08-20",
-            "title": "King of the Hill",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 167,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 109,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
-            "id": 137,
-            "original_language": "en",
-            "original_title": "Groundhog Day",
-            "overview": "Phil Connors, pr\u00e9sentateur m\u00e9t\u00e9o grincheux et arrogant, doit tourner un reportage sur la f\u00eate de la marmotte. Mais lorsqu'il se r\u00e9veille le lendemain, il d\u00e9couvre avec stupeur que la date n'a pas chang\u00e9 et qu'il est condamn\u00e9 \u00e0 revivre un par un les \u00e9v\u00e9nements de la veille. Connors se voit d\u00e8s lors oblig\u00e9 de faire face \u00e0 la r\u00e9p\u00e9tition infinie du Jour de la marmotte.",
-            "popularity": 14.5986,
-            "poster_path": "/kSdgmtOmxFxdiJqK1R3kfKBqRUo.jpg",
-            "release_date": "1993-02-11",
-            "title": "Un jour sans fin",
-            "video": false,
-            "vote_average": 7.621,
-            "vote_count": 8594,
-            "genres": [
-                "Romance",
-                "Fantastique",
-                "Com\u00e9die"
-            ],
-            "runtime": 101,
-            "tagline": "Prisonnier du temps, il revit tous les jours le m\u00eame jour, jusqu'au plus beau jour de sa vie."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/auKXOVH7znRHb8rl7DAS3c98hp4.jpg",
-            "id": 10443,
-            "original_language": "en",
-            "original_title": "Fearless",
-            "overview": "Rescap\u00e9 d'une catastrophe a\u00e9rienne, un homme, persuad\u00e9 d'\u00eatre immortel, se comporte de fa\u00e7on absurde : un psychologue tente de le raisonner.",
-            "popularity": 2.1818,
-            "poster_path": "/1QUAXaItVydfMCVmpr3DqItOzNp.jpg",
-            "release_date": "1993-10-15",
-            "title": "\u00c9tat second",
-            "video": false,
-            "vote_average": 6.885,
-            "vote_count": 327,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 122,
-            "tagline": ""
+            "tagline": "C\u2019\u00e9tait le dernier jour d\u2019\u00e9cole en 1976, une \u00e9poque qu\u2019ils n\u2019oublieraient jamais\u2026 si seulement ils pouvaient s\u2019en souvenir.",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -417,7 +396,7 @@
             "original_language": "en",
             "original_title": "True Romance",
             "overview": "Le jour de son anniversaire, Clarence Worley rencontre la splendide Alabama dans un cin\u00e9ma miteux. Coup de foudre imm\u00e9diat. Apr\u00e8s une nuit d\u2019amour, Alabama avoue \u00e0 Clarence qu\u2019elle a \u00e9t\u00e9 en fait engag\u00e9e par le patron de Clarence comme cadeau d\u2019anniversaire. De l\u00e0 va commencer une folle aventure.",
-            "popularity": 4.1154,
+            "popularity": 4.453,
             "poster_path": "/e5B8YvuUrFTtaBOcPbFGBqTgWsx.jpg",
             "release_date": "1993-09-09",
             "title": "True Romance",
@@ -429,8 +408,29 @@
                 "Crime",
                 "Romance"
             ],
-            "runtime": 120,
-            "tagline": "Qui a dit que le romantisme \u00e9tait mort\u202f?"
+            "tagline": "Qui a dit que le romantisme \u00e9tait mort\u202f?",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bnN6H3vng04ofPXa0Xe7PJHFd7J.jpg",
+            "id": 34024,
+            "original_language": "en",
+            "original_title": "King of the Hill",
+            "overview": "Pendant la Grande D\u00e9pression, en 1933, une famille d'origine allemande, les Kurlander, tente de mener une vie normale dans un h\u00f4tel de passage. Mais peu \u00e0 peu la famille se s\u00e9pare et certains quittent l'\u00c9tat. Le p\u00e8re est l'avant-dernier \u00e0 partir et promet \u00e0 son fils Aaron qu'il restera sur place pour le nourrir et l'\u00e9lever. Mais Aaron s'apercevra rapidement qu'il est d\u00e9sormais livr\u00e9 \u00e0 lui-m\u00eame...",
+            "popularity": 0.8097,
+            "poster_path": "/vmV21mWwclW2A3lmlBejn8TyIu2.jpg",
+            "release_date": "1993-08-20",
+            "title": "King of the Hill",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 167,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -439,62 +439,40 @@
             "original_language": "en",
             "original_title": "The Nightmare Before Christmas",
             "overview": "Jack Skellington, un \u00e9pouvantail squelettique surnomm\u00e9 \u00ab le Roi des citrouilles \u00bb, vit dans la ville d'Halloween. En tant que ma\u00eetre de l'\u00e9pouvante, Jack occupe ses journ\u00e9es \u00e0 pr\u00e9parer la prochaine f\u00eate d'Halloween. Mais le terrible \u00e9pouvantail, lass\u00e9 de cette vie r\u00e9p\u00e9titive et monotone, d\u00e9cide de partir. C'est alors qu'il d\u00e9couvre la ville de No\u00ebl. Apr\u00e8s cette aventure, il revient chez lui, avec une id\u00e9e originale en t\u00eate : et si cette ann\u00e9e, c'\u00e9taient les habitants de la ville d'Halloween qui allaient f\u00eater No\u00ebl ?",
-            "popularity": 8.5836,
+            "popularity": 8.7872,
             "poster_path": "/41hibKUdlEo6Qy8BZmc5GOenB8y.jpg",
             "release_date": "1993-10-09",
             "title": "L'\u00c9trange No\u00ebl de monsieur Jack",
             "video": false,
             "vote_average": 7.832,
-            "vote_count": 10112,
+            "vote_count": 10113,
             "genres": [
                 "Fantastique",
                 "Animation",
                 "Familial"
             ],
-            "runtime": 75,
-            "tagline": "Son plus beau r\u00eave sera votre pire cauchemar."
+            "tagline": "Son plus beau r\u00eave sera votre pire cauchemar.",
+            "runtime": 75
         },
         {
             "adult": false,
-            "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
-            "id": 10409,
+            "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
+            "id": 7984,
             "original_language": "en",
-            "original_title": "Strictly Ballroom",
-            "overview": "L'histoire de Scott Hastings, jeune champion de danse qui se rebelle contre la toute-puissante F\u00e9d\u00e9ration en introduisant ses propres figures contre celles impos\u00e9es par les concours. Pour ce premier long-m\u00e9trage de sa trilogie du \u00ab Rideau Rouge \u00bb, qui va durer pr\u00e8s de 10 ans avec plus tard Romeo + Juliette et Moulin Rouge!, le r\u00e9alisateur Baz Luhrmann a su insuffler ce grain de folie qui fait sa particularit\u00e9 dans ses autres films. Tr\u00e8s color\u00e9, d\u00e9jant\u00e9 et musical, ce film qui parle essentiellement de danse, (Luhrmann a beaucoup pratiqu\u00e9 la danse dans son jeune \u00e2ge), se montre critique envers les conventions impos\u00e9es m\u00eame dans les concours de danse, qu'il a probablement d\u00fb lui-m\u00eame affronter. L'histoire n'est pas originale (la fin en particulier rappelle Dirty Dancing), mais les acteurs, les personnages, les costumes, cette fa\u00e7on de filmer typique de Luhrmann en fait un film d\u00e9licieux \u00e0 voir si l'on est amateur du genre.",
-            "popularity": 2.7658,
-            "poster_path": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
-            "release_date": "1992-08-20",
-            "title": "Ballroom Dancing",
+            "original_title": "In the Name of the Father",
+            "overview": "En 1975, Gerry Conlon, jeune d\u00e9linquant originaire de Belfast, est arr\u00eat\u00e9 par la police londonienne qui l'accuse d'\u00eatre l'instigateur des attentats terroristes \u00e0 Guildford pour le compte de l'IRA. Sous la pression des policiers, Gerry signe des aveux fabriqu\u00e9s de toutes pi\u00e8ces qui non seulement le mettent en cause mais \u00e9galement Pau Hill son ami d'enfance, un couple d'amis hippies, ainsi que plusieurs membres de sa famille dont son propre p\u00e8re.",
+            "popularity": 2.6957,
+            "poster_path": "/pbAFTdg3QmXb041of8BTarB1AIi.jpg",
+            "release_date": "1993-12-12",
+            "title": "Au nom du p\u00e8re",
             "video": false,
-            "vote_average": 6.584,
-            "vote_count": 368,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 94,
-            "tagline": "Une histoire de danse"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/swXvzkH1oSVHh4flmcthXnusbwc.jpg",
-            "id": 14291,
-            "original_language": "en",
-            "original_title": "Searching for Bobby Fischer",
-            "overview": "New York, ann\u00e9es 80. Fred et Bonnie Waitzkin d\u00e9couvrent le talent exceptionnel de leur fils Josh pour les \u00e9checs. Ils le confient au professeur Pandolfini pour d\u00e9velopper ses capacit\u00e9s. Stup\u00e9fait des aptitudes de l'enfant, il lui impose une discipline rigoureuse pour en faire un second Bobby Fischer, champion des Etats-Unis \u00e0 14 ans.",
-            "popularity": 2.0358,
-            "poster_path": "/kt2gbK7GZG4GwheS3WwTQVP1Xxi.jpg",
-            "release_date": "1993-08-13",
-            "title": "\u00c0 la recherche de Bobby Fischer",
-            "video": false,
-            "vote_average": 7.061,
-            "vote_count": 617,
+            "vote_average": 7.894,
+            "vote_count": 1888,
             "genres": [
                 "Drame"
             ],
-            "runtime": 110,
-            "tagline": "Chaque partie commence par un coup gagnant."
+            "tagline": "Accus\u00e9 \u00e0 tort. Emprisonn\u00e9 \u00e0 tort. Il s'est battu pour la justice afin de blanchir le nom de son p\u00e8re.",
+            "runtime": 133
         },
         {
             "adult": false,
@@ -503,7 +481,7 @@
             "original_language": "en",
             "original_title": "The Secret Garden",
             "overview": "Une jeune orpheline recueillie par son oncle dans un lugubre manoir du Yorkshire va d\u00e9couvrir en explorant la propri\u00e9t\u00e9 un jardin laiss\u00e9 \u00e0 l'abandon. Elle d\u00e9cide d'en faire son domaine et, aid\u00e9e d'un jeune domestique, elle va redonner vie non seulement au jardin mais \u00e9galement aux habitants de la triste demeure.",
-            "popularity": 3.4405,
+            "popularity": 3.9515,
             "poster_path": "/9tzWlX6SgOvb4lVvblZJ9FbHYiq.jpg",
             "release_date": "1993-08-13",
             "title": "Le Jardin secret",
@@ -515,8 +493,50 @@
                 "Familial",
                 "Fantastique"
             ],
-            "runtime": 101,
-            "tagline": "L'histoire intemporelle d'un lieu sp\u00e9cial o\u00f9 la magie, l'espoir et l'amour grandissent."
+            "tagline": "L'histoire intemporelle d'un lieu sp\u00e9cial o\u00f9 la magie, l'espoir et l'amour grandissent.",
+            "runtime": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+            "id": 10409,
+            "original_language": "en",
+            "original_title": "Strictly Ballroom",
+            "overview": "L'histoire de Scott Hastings, jeune champion de danse qui se rebelle contre la toute-puissante F\u00e9d\u00e9ration en introduisant ses propres figures contre celles impos\u00e9es par les concours. Pour ce premier long-m\u00e9trage de sa trilogie du \u00ab Rideau Rouge \u00bb, qui va durer pr\u00e8s de 10 ans avec plus tard Romeo + Juliette et Moulin Rouge!, le r\u00e9alisateur Baz Luhrmann a su insuffler ce grain de folie qui fait sa particularit\u00e9 dans ses autres films. Tr\u00e8s color\u00e9, d\u00e9jant\u00e9 et musical, ce film qui parle essentiellement de danse, (Luhrmann a beaucoup pratiqu\u00e9 la danse dans son jeune \u00e2ge), se montre critique envers les conventions impos\u00e9es m\u00eame dans les concours de danse, qu'il a probablement d\u00fb lui-m\u00eame affronter. L'histoire n'est pas originale (la fin en particulier rappelle Dirty Dancing), mais les acteurs, les personnages, les costumes, cette fa\u00e7on de filmer typique de Luhrmann en fait un film d\u00e9licieux \u00e0 voir si l'on est amateur du genre.",
+            "popularity": 2.7418,
+            "poster_path": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+            "release_date": "1992-08-20",
+            "title": "Ballroom Dancing",
+            "video": false,
+            "vote_average": 6.584,
+            "vote_count": 368,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Une histoire de danse",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/swXvzkH1oSVHh4flmcthXnusbwc.jpg",
+            "id": 14291,
+            "original_language": "en",
+            "original_title": "Searching for Bobby Fischer",
+            "overview": "New York, ann\u00e9es 80. Fred et Bonnie Waitzkin d\u00e9couvrent le talent exceptionnel de leur fils Josh pour les \u00e9checs. Ils le confient au professeur Pandolfini pour d\u00e9velopper ses capacit\u00e9s. Stup\u00e9fait des aptitudes de l'enfant, il lui impose une discipline rigoureuse pour en faire un second Bobby Fischer, champion des Etats-Unis \u00e0 14 ans.",
+            "popularity": 1.9356,
+            "poster_path": "/kt2gbK7GZG4GwheS3WwTQVP1Xxi.jpg",
+            "release_date": "1993-08-13",
+            "title": "\u00c0 la recherche de Bobby Fischer",
+            "video": false,
+            "vote_average": 7.061,
+            "vote_count": 617,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Chaque partie commence par un coup gagnant.",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -525,7 +545,7 @@
             "original_language": "fr",
             "original_title": "Trois couleurs : Bleu",
             "overview": "Apr\u00e8s la mort de son mari, compositeur r\u00e9put\u00e9, et de leur fille dans un accident de voiture, Julie commence une nouvelle vie, coupant tout lien avec son pass\u00e9. Ex-assistant du couple, Olivier, amoureux d'elle, tente de l'inciter \u00e0 terminer le Concerto pour l'Europe.",
-            "popularity": 3.7252,
+            "popularity": 4.5388,
             "poster_path": "/70O1cudvYiEWpKW2Sb1FPAdaqjf.jpg",
             "release_date": "1993-09-08",
             "title": "Trois couleurs : Bleu",
@@ -535,8 +555,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -545,7 +565,7 @@
             "original_language": "en",
             "original_title": "Sleepless in Seattle",
             "overview": "Annie Reed, journaliste, s'\u00e9meut quand elle entend \u00e0 la radio l'histoire de Sam Baldwin. Touch\u00e9e par cette histoire, elle tente d'entrer en contact avec Sam, malgr\u00e9 l'approche de son mariage avec Walter et la distance qui s\u00e9pare Seattle de Baltimore. C'est le d\u00e9but d'une course \u00e0 l'amour.",
-            "popularity": 4.4307,
+            "popularity": 4.5023,
             "poster_path": "/6N6F80zYR3tFhDt2zIAFtK4TH6.jpg",
             "release_date": "1993-06-24",
             "title": "Nuits Blanches \u00e0 Seattle",
@@ -557,28 +577,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 105,
-            "tagline": "Elle ne l'a jamais vu. Il ne la conna\u00eet pas. Et pourtant... ils s'aiment d\u00e9j\u00e0 !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
-            "id": 7984,
-            "original_language": "en",
-            "original_title": "In the Name of the Father",
-            "overview": "En 1975, Gerry Conlon, jeune d\u00e9linquant originaire de Belfast, est arr\u00eat\u00e9 par la police londonienne qui l'accuse d'\u00eatre l'instigateur des attentats terroristes \u00e0 Guildford pour le compte de l'IRA. Sous la pression des policiers, Gerry signe des aveux fabriqu\u00e9s de toutes pi\u00e8ces qui non seulement le mettent en cause mais \u00e9galement Pau Hill son ami d'enfance, un couple d'amis hippies, ainsi que plusieurs membres de sa famille dont son propre p\u00e8re.",
-            "popularity": 2.9271,
-            "poster_path": "/pbAFTdg3QmXb041of8BTarB1AIi.jpg",
-            "release_date": "1993-12-12",
-            "title": "Au nom du p\u00e8re",
-            "video": false,
-            "vote_average": 7.894,
-            "vote_count": 1888,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 133,
-            "tagline": "Accus\u00e9 \u00e0 tort. Emprisonn\u00e9 \u00e0 tort. Il s'est battu pour la justice afin de blanchir le nom de son p\u00e8re."
+            "tagline": "Elle ne l'a jamais vu. Il ne la conna\u00eet pas. Et pourtant... ils s'aiment d\u00e9j\u00e0 !",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -587,7 +587,7 @@
             "original_language": "en",
             "original_title": "A Bronx Tale",
             "overview": "L'histoire de la communaut\u00e9 italienne des ann\u00e9es 60 dans le Bronx \u00e0 travers les yeux de Calogero, neuf ans, qui h\u00e9site entre la vie de son p\u00e8re, honn\u00eate travailleur, et celle des affranchis, qui semble plus prometteuse.",
-            "popularity": 9.0412,
+            "popularity": 9.3194,
             "poster_path": "/lN1czG0wuaun7IlpiadX9RrgI6C.jpg",
             "release_date": "1993-10-01",
             "title": "Il \u00e9tait une fois le Bronx",
@@ -598,8 +598,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 121,
-            "tagline": "Seul contre la mafia, il veut sauver son fils."
+            "tagline": "Seul contre la mafia, il veut sauver son fils.",
+            "runtime": 121
         },
         {
             "adult": false,
@@ -608,7 +608,7 @@
             "original_language": "en",
             "original_title": "A Bronx Tale",
             "overview": "L'histoire de la communaut\u00e9 italienne des ann\u00e9es 60 dans le Bronx \u00e0 travers les yeux de Calogero, neuf ans, qui h\u00e9site entre la vie de son p\u00e8re, honn\u00eate travailleur, et celle des affranchis, qui semble plus prometteuse.",
-            "popularity": 9.0412,
+            "popularity": 9.3194,
             "poster_path": "/lN1czG0wuaun7IlpiadX9RrgI6C.jpg",
             "release_date": "1993-10-01",
             "title": "Il \u00e9tait une fois le Bronx",
@@ -619,8 +619,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 121,
-            "tagline": "Seul contre la mafia, il veut sauver son fils."
+            "tagline": "Seul contre la mafia, il veut sauver son fils.",
+            "runtime": 121
         },
         {
             "adult": false,
@@ -629,7 +629,7 @@
             "original_language": "en",
             "original_title": "Manhattan Murder Mystery",
             "overview": "L'\u00e9diteur Larry Lipton et son \u00e9pouse Carol logent dans un luxueux appartement de Manhattan o\u00f9 ils se lient rapidement d'amiti\u00e9 avec leur voisins de palier, Paul et Lillian House. Un jour, cette derni\u00e8re d\u00e9c\u00e8de d'une crise cardiaque.",
-            "popularity": 1.649,
+            "popularity": 1.6667,
             "poster_path": "/rwaw9xB3PC53ZNGLdXvomFfN3QO.jpg",
             "release_date": "1993-05-02",
             "title": "Meurtre myst\u00e9rieux \u00e0 Manhattan",
@@ -640,8 +640,8 @@
                 "Com\u00e9die",
                 "Myst\u00e8re"
             ],
-            "runtime": 108,
-            "tagline": "Qui a tu\u00e9 qui?"
+            "tagline": "Qui a tu\u00e9 qui?",
+            "runtime": 108
         },
         {
             "adult": false,
@@ -650,7 +650,7 @@
             "original_language": "en",
             "original_title": "Shadowlands",
             "overview": "Les amours de C. S. Lewis, brillant professeur d'Oxford et auteur \u00e0 succ\u00e8s et d'une jeune romanci\u00e8re juive am\u00e9ricaine qui va d\u00e9concerter ce c\u00e9libataire endurci.",
-            "popularity": 2.9788,
+            "popularity": 2.961,
             "poster_path": "/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg",
             "release_date": "1993-12-25",
             "title": "Les Ombres du c\u0153ur",
@@ -661,74 +661,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 131,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
-            "id": 23210,
-            "original_language": "en",
-            "original_title": "Six Degrees of Separation",
-            "overview": "\u00c0 travers l'histoire d'une famille qui se fait berner par un \u00e9l\u00e9gant jeune homme, satire sur les rapports de classes, la na\u00efvet\u00e9 de la bourgeoisie am\u00e9ricaine lib\u00e9rale et les effets d\u00e9vastateurs d'une imposture sur la vie d'une famille \"politiquement correcte\".",
-            "popularity": 1.4231,
-            "poster_path": "/iPb5mv0xp6Sb2RMoDBH7d9rWEY4.jpg",
-            "release_date": "1993-12-08",
-            "title": "Six Degr\u00e9s de S\u00e9paration",
-            "video": false,
-            "vote_average": 6.429,
-            "vote_count": 352,
-            "genres": [
-                "Myst\u00e8re",
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 111,
-            "tagline": "Pour Paul, chaque \u00eatre humain est une porte ouverte sur un monde nouveau."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ow5u27LapD6xMe24o2ITnZDoz7z.jpg",
-            "id": 15765,
-            "original_language": "en",
-            "original_title": "What's Love Got to Do with It",
-            "overview": "L'histoire d'Anna Mae Bullock, promise \u00e0 l'humble carri\u00e8re d'infirmi\u00e8re, qui, apr\u00e8s sa rencontre avec Ike Turner et leur vie orageuse, va devenir la grande chanteuse de rock que l'on connait.",
-            "popularity": 1.2381,
-            "poster_path": "/lbuihohECSqGGMet3ZaduuFVaTP.jpg",
-            "release_date": "1993-06-09",
-            "title": "Tina",
-            "video": false,
-            "vote_average": 7.049,
-            "vote_count": 347,
-            "genres": [
-                "Drame",
-                "Musique",
-                "Histoire"
-            ],
-            "runtime": 110,
-            "tagline": "Qui a besoin d'un c\u0153ur quand un c\u0153ur peut se briser ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ycII7Hmh0NizxZd4flyfkDwG6Jq.jpg",
-            "id": 10655,
-            "original_language": "en",
-            "original_title": "Gettysburg",
-            "overview": "En 1863, les forces sudistes et nordistes vont s'affronter \u00e0 Gettysburg lors d'une bataille d\u00e9cisive de la Guerre de Secession.",
-            "popularity": 4.9582,
-            "poster_path": "/tgq1d67GGNVFsNi0apgfX1cKaPD.jpg",
-            "release_date": "1993-10-08",
-            "title": "Gettysburg",
-            "video": false,
-            "vote_average": 6.94,
-            "vote_count": 316,
-            "genres": [
-                "Drame",
-                "Histoire",
-                "Guerre"
-            ],
-            "runtime": 271,
-            "tagline": "M\u00eame pays. M\u00eame Dieu. Mais des r\u00eaves diff\u00e9rents"
+            "tagline": "",
+            "runtime": 131
         },
         {
             "adult": false,
@@ -737,7 +671,7 @@
             "original_language": "en",
             "original_title": "A Perfect World",
             "overview": "Texas, 1963. La cavale d'un dangereux voleur r\u00e9cidiviste et de son otage, un jeune t\u00e9moin de Jehovah qui, le temps de cette folle equip\u00e9e, va devenir son ami.",
-            "popularity": 4.3421,
+            "popularity": 3.4244,
             "poster_path": "/w4nWADc0RPllaxe2s3mNH5b1GHW.jpg",
             "release_date": "1993-11-24",
             "title": "Un monde parfait",
@@ -749,8 +683,30 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 138,
-            "tagline": "Un condamn\u00e9, un policier et un otage qui fera de l'un d'eux un h\u00e9ros."
+            "tagline": "Un condamn\u00e9, un policier et un otage qui fera de l'un d'eux un h\u00e9ros.",
+            "runtime": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
+            "id": 23210,
+            "original_language": "en",
+            "original_title": "Six Degrees of Separation",
+            "overview": "\u00c0 travers l'histoire d'une famille qui se fait berner par un \u00e9l\u00e9gant jeune homme, satire sur les rapports de classes, la na\u00efvet\u00e9 de la bourgeoisie am\u00e9ricaine lib\u00e9rale et les effets d\u00e9vastateurs d'une imposture sur la vie d'une famille \"politiquement correcte\".",
+            "popularity": 1.2492,
+            "poster_path": "/iPb5mv0xp6Sb2RMoDBH7d9rWEY4.jpg",
+            "release_date": "1993-12-08",
+            "title": "Six Degr\u00e9s de S\u00e9paration",
+            "video": false,
+            "vote_average": 6.429,
+            "vote_count": 352,
+            "genres": [
+                "Myst\u00e8re",
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "tagline": "Pour Paul, chaque \u00eatre humain est une porte ouverte sur un monde nouveau.",
+            "runtime": 111
         },
         {
             "adult": false,
@@ -759,7 +715,7 @@
             "original_language": "zh",
             "original_title": "\u79cb\u83ca\u6253\u5b98\u53f8",
             "overview": "Wan Qinglai, un paysan, est pass\u00e9 \u00e0 tabac pour avoir os\u00e9 demander au chef du village Wang Shantang un endroit pour entreposer ses piments. Sa femme, Qiu Ju, alors enceinte, d\u00e9cide d\u2019aller demander des explications. Wang Shantang lui offre de l\u2019argent mais elle refuse. Elle ne d\u00e9sire qu\u2019une chose : r\u00e9parer l\u2019honneur de son mari. Pour cela, Qiu Ju va entamer un long voyage \u00e0 travers le pays et se rendre dans tous les tribunaux possibles afin que justice soit faite.",
-            "popularity": 1.1908,
+            "popularity": 1.0984,
             "poster_path": "/l3q8en3DHdtwlC6Y9Q0grw4IrZg.jpg",
             "release_date": "1992-08-31",
             "title": "Qiu Ju, une femme chinoise",
@@ -770,8 +726,73 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ycII7Hmh0NizxZd4flyfkDwG6Jq.jpg",
+            "id": 10655,
+            "original_language": "en",
+            "original_title": "Gettysburg",
+            "overview": "En 1863, les forces sudistes et nordistes vont s'affronter \u00e0 Gettysburg lors d'une bataille d\u00e9cisive de la Guerre de Secession.",
+            "popularity": 5.1791,
+            "poster_path": "/tgq1d67GGNVFsNi0apgfX1cKaPD.jpg",
+            "release_date": "1993-10-08",
+            "title": "Gettysburg",
+            "video": false,
+            "vote_average": 6.94,
+            "vote_count": 316,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Guerre"
+            ],
+            "tagline": "M\u00eame pays. M\u00eame Dieu. Mais des r\u00eaves diff\u00e9rents",
+            "runtime": 271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow5u27LapD6xMe24o2ITnZDoz7z.jpg",
+            "id": 15765,
+            "original_language": "en",
+            "original_title": "What's Love Got to Do with It",
+            "overview": "L'histoire d'Anna Mae Bullock, promise \u00e0 l'humble carri\u00e8re d'infirmi\u00e8re, qui, apr\u00e8s sa rencontre avec Ike Turner et leur vie orageuse, va devenir la grande chanteuse de rock que l'on connait.",
+            "popularity": 1.2083,
+            "poster_path": "/lbuihohECSqGGMet3ZaduuFVaTP.jpg",
+            "release_date": "1993-06-09",
+            "title": "Tina",
+            "video": false,
+            "vote_average": 7.049,
+            "vote_count": 347,
+            "genres": [
+                "Drame",
+                "Musique",
+                "Histoire"
+            ],
+            "tagline": "Qui a besoin d'un c\u0153ur quand un c\u0153ur peut se briser ?",
+            "runtime": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcPBI0vCuYkG9ml8E3loZPtI7Ye.jpg",
+            "id": 47889,
+            "original_language": "en",
+            "original_title": "Ruby in Paradise",
+            "overview": "",
+            "popularity": 0.7977,
+            "poster_path": "/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg",
+            "release_date": "1993-10-08",
+            "title": "Ruby in Paradise",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 36,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -780,7 +801,7 @@
             "original_language": "zh",
             "original_title": "\u559c\u5bb4",
             "overview": "Ta\u00efwanais naturalis\u00e9 am\u00e9ricain, Wai-Tung vit aux Etats-Unis avec son petit ami Simon. Pour faire plaisir \u00e0 ses parents qui ne comprennent pas son c\u00e9libat, il organise un mariage de convenance, choisissant pour \u00e9pouse Wei-Wei, une jeune peintre en qu\u00eate d'une carte verte.",
-            "popularity": 1.8334,
+            "popularity": 2.2702,
             "poster_path": "/bjcCqrY5JLIkiOJOuIsmr7vcqG1.jpg",
             "release_date": "1993-03-01",
             "title": "Gar\u00e7on d'honneur",
@@ -792,8 +813,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 106,
-            "tagline": "5000 ans de r\u00e9pression sexuelle"
+            "tagline": "5000 ans de r\u00e9pression sexuelle",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -802,7 +823,7 @@
             "original_language": "en",
             "original_title": "The Snapper",
             "overview": "L'annonce de la grossesse de Sharon, vingt ans, va semer le trouble dans une famille irlandaise tr\u00e8s unie. D'autant plus qu'elle refuse de donner le nom du p\u00e8re et pr\u00e9tend que c'est un marin espagnol...",
-            "popularity": 3.8175,
+            "popularity": 3.6001,
             "poster_path": "/t5sgHOd9NmfyGPWDbv6MoT0f9qM.jpg",
             "release_date": "1993-08-06",
             "title": "The Snapper",
@@ -813,29 +834,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zcPBI0vCuYkG9ml8E3loZPtI7Ye.jpg",
-            "id": 47889,
-            "original_language": "en",
-            "original_title": "Ruby in Paradise",
-            "overview": "",
-            "popularity": 0.5775,
-            "poster_path": "/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg",
-            "release_date": "1993-10-08",
-            "title": "Ruby in Paradise",
-            "video": false,
-            "vote_average": 5.9,
-            "vote_count": 36,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 114,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -844,7 +844,7 @@
             "original_language": "en",
             "original_title": "The Long Day Closes",
             "overview": "Bud, onze ans, s\u2019\u00e9chappe de la grisaille britannique des ann\u00e9es 50 gr\u00e2ce \u00e0 des sorties au cin\u00e9ma et sa famille chaleureuse. Mais en vieillissant, les tourmentes du monde adulte, la cruaut\u00e9 d\u00e9sinvolte de l\u2019intimidation, la tyrannie de l\u2019\u00e9cole et la peur de la religion commencent \u00e0 prendre le dessus.",
-            "popularity": 0.4588,
+            "popularity": 0.5686,
             "poster_path": "/kzIlVAJc8p8HltODNZ5rpxEZ6xd.jpg",
             "release_date": "1992-05-22",
             "title": "Une longue journ\u00e9e qui s'ach\u00e8ve",
@@ -854,8 +854,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 85,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 85
         },
         {
             "adult": false,
@@ -864,7 +864,7 @@
             "original_language": "en",
             "original_title": "Map of the Human Heart",
             "overview": "1965, dans un camp isol\u00e9 de l'Arctique. un vieil Inuit raconte son histoire aux soldats pr\u00e9sents : en 1930, il a 11 ans et vit avec sa grand-m\u00e8re dans un village isol\u00e9 du monde. Il devient l'ami de Walter, lieutenant de la Royal Air Force...",
-            "popularity": 0.7959,
+            "popularity": 0.6722,
             "poster_path": "/DC1m6OQH6W2U3Z0sAVWU0t1leP.jpg",
             "release_date": "1993-04-22",
             "title": "C\u0153ur de m\u00e9tisse",
@@ -877,8 +877,8 @@
                 "Romance",
                 "Guerre"
             ],
-            "runtime": 109,
-            "tagline": "Un Indien Inuit se lance \u00e0 la recherche de son amour d'enfance..."
+            "tagline": "Un Indien Inuit se lance \u00e0 la recherche de son amour d'enfance...",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -887,62 +887,20 @@
             "original_language": "en",
             "original_title": "Carlito's Way",
             "overview": "En 1975, \u00e0 New York, Carlito Brigante, un ancien trafiquant de drogue, est lib\u00e9r\u00e9 de prison gr\u00e2ce \u00e0 David Kleinfeld, son avocat, qui a d\u00e9couvert plusieurs vices de forme dans la mani\u00e8re dont le procureur Bill Norwalk avait instruit le proc\u00e8s. Carlito est bien d\u00e9cid\u00e9 \u00e0 rentrer dans le droit chemin et, d\u00e8s qu'il aura \u00e9conomis\u00e9 assez d'argent, il compte se retirer aux Bahamas pour s'assurer une retraite paisible avec Gail, sa compagne danseuse dans une bo\u00eete de strip-tease. Mais le destin en d\u00e9cidera autrement.",
-            "popularity": 4.7878,
+            "popularity": 4.3041,
             "poster_path": "/njR0D7etFCIwloL2d4XJEob4bW4.jpg",
             "release_date": "1993-11-10",
             "title": "L'Impasse",
             "video": false,
-            "vote_average": 7.8,
+            "vote_average": 7.826,
             "vote_count": 3362,
             "genres": [
                 "Crime",
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 143,
-            "tagline": "On n'\u00e9chappe pas \u00e0 son pass\u00e9."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pm2rPN1yfmVDMVFDFNmn7DEFMqM.jpg",
-            "id": 9300,
-            "original_language": "en",
-            "original_title": "Orlando",
-            "overview": "En 1600, un jeune noble anglais, Orlando, devient le favori d'Elisabeth 1er. Sur son lit de mort, elle l'implore de rester toujours jeune. Orlando traverse les \u00e9poques, changeant de sexe, sans jamais vieillir.",
-            "popularity": 3.6693,
-            "poster_path": "/otSCGdKzEeVgbfNl0YslOpRZHgk.jpg",
-            "release_date": "1992-12-11",
-            "title": "Orlando",
-            "video": false,
-            "vote_average": 6.891,
-            "vote_count": 364,
-            "genres": [
-                "Drame",
-                "Fantastique"
-            ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8Jns5hMUpTtYcNLrwTSvVuVOHFg.jpg",
-            "id": 41778,
-            "original_language": "en",
-            "original_title": "Visions of Light",
-            "overview": "",
-            "popularity": 0.5683,
-            "poster_path": "/62ry0lNv4gQRuusC1EkUkOmTuUY.jpg",
-            "release_date": "1992-09-17",
-            "title": "Visions of Light",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 49,
-            "genres": [
-                "Documentaire",
-                "Histoire"
-            ],
-            "runtime": 92,
-            "tagline": ""
+            "tagline": "On n'\u00e9chappe pas \u00e0 son pass\u00e9.",
+            "runtime": 143
         },
         {
             "adult": false,
@@ -951,7 +909,7 @@
             "original_language": "en",
             "original_title": "Heaven & Earth",
             "overview": "L'\u00e9pop\u00e9e de Ly et de sa famille, avant, pendant et apr\u00e8s la guerre du Vietnam. Sa lutte contre les troupes gouvernementales qui investissent son village, sa fuite \u00e0 Saigon, son mariage avec un soldat am\u00e9ricain, son depart pour l'Am\u00e9rique et puis son retour avec ses deux fils.",
-            "popularity": 2.6164,
+            "popularity": 2.3265,
             "poster_path": "/blKGc0veeugnoLcGWavoPsWqnLQ.jpg",
             "release_date": "1993-12-25",
             "title": "Entre Ciel et Terre",
@@ -963,8 +921,71 @@
                 "Guerre",
                 "Drame"
             ],
-            "runtime": 140,
-            "tagline": "Une incroyable histoire vraie de survie."
+            "tagline": "Une incroyable histoire vraie de survie.",
+            "runtime": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pm2rPN1yfmVDMVFDFNmn7DEFMqM.jpg",
+            "id": 9300,
+            "original_language": "en",
+            "original_title": "Orlando",
+            "overview": "En 1600, un jeune noble anglais, Orlando, devient le favori d'Elisabeth 1er. Sur son lit de mort, elle l'implore de rester toujours jeune. Orlando traverse les \u00e9poques, changeant de sexe, sans jamais vieillir.",
+            "popularity": 3.9448,
+            "poster_path": "/otSCGdKzEeVgbfNl0YslOpRZHgk.jpg",
+            "release_date": "1992-12-11",
+            "title": "Orlando",
+            "video": false,
+            "vote_average": 6.891,
+            "vote_count": 364,
+            "genres": [
+                "Drame",
+                "Fantastique"
+            ],
+            "tagline": "",
+            "runtime": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Jns5hMUpTtYcNLrwTSvVuVOHFg.jpg",
+            "id": 41778,
+            "original_language": "en",
+            "original_title": "Visions of Light",
+            "overview": "",
+            "popularity": 0.4699,
+            "poster_path": "/62ry0lNv4gQRuusC1EkUkOmTuUY.jpg",
+            "release_date": "1992-09-17",
+            "title": "Visions of Light",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 49,
+            "genres": [
+                "Documentaire",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rWkuu1S6oAE6OPA1KtwdXP61NFL.jpg",
+            "id": 48150,
+            "original_language": "fr",
+            "original_title": "Un c\u0153ur en hiver",
+            "overview": "St\u00e9phane est un restaurateur de violons distant sur le plan \u00e9motionnel mais d\u00e9vou\u00e9 sur le plan professionnel. Son c\u0153ur froid est mis \u00e0 l'\u00e9preuve lorsque la nouvelle petite amie de son employeur, une belle violoniste, tombe amoureuse de lui.",
+            "popularity": 1.0936,
+            "poster_path": "/7rBsSLBmDmYjWOHaX99JLZEIRys.jpg",
+            "release_date": "1992-09-02",
+            "title": "Un c\u0153ur en hiver",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 215,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -973,7 +994,7 @@
             "original_language": "it",
             "original_title": "Il ladro di bambini",
             "overview": "Apr\u00e8s l'arrestation de leur m\u00e8re, accus\u00e9e de prostituer sa fille, un carabinier est charge d'escorter la toute jeune Rosetta et son fr\u00e8re, Luciano, dans un institut sp\u00e9cialis\u00e9 en Sicile. Grand Prix du jury et Prix \u0153cum\u00e9nique, Cannes 1992.",
-            "popularity": 0.3314,
+            "popularity": 0.3177,
             "poster_path": "/mAC1AqY1zEGysiZuYCZEBj6Q8wz.jpg",
             "release_date": "1992-04-10",
             "title": "Les Enfants vol\u00e9s",
@@ -983,30 +1004,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 114,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ppS6Ve3zRGnmFQAKKazdDpU76AT.jpg",
-            "id": 18551,
-            "original_language": "en",
-            "original_title": "Flesh and Bone",
-            "overview": "Un livreur texan, Arlis, croise sur sa route une jeune femme paum\u00e9e. Cette rencontre va d\u00e9terrer une histoire terrifiante enfouie depuis tr\u00e8s longtemps, \u00e0 l'\u00e9poque o\u00f9 le p\u00e8re d'Arlis m\u00ealait son jeune gar\u00e7on aux cambriolages qu'il effectuait dans les fermes isol\u00e9es du Texas.",
-            "popularity": 1.2216,
-            "poster_path": "/gNaZSODlVRiQltGWjS8vQZEYJTq.jpg",
-            "release_date": "1993-11-05",
-            "title": "Flesh and Bone",
-            "video": false,
-            "vote_average": 6.0,
-            "vote_count": 99,
-            "genres": [
-                "Drame",
-                "Romance",
-                "Thriller"
-            ],
-            "runtime": 121,
-            "tagline": "Le mal est patient"
+            "tagline": "",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -1015,7 +1014,7 @@
             "original_language": "en",
             "original_title": "Falling Down",
             "overview": "Il a suffit d\u2019un rien : une chaleur oppressante, l\u2019\u00e9ternel embouteillage aux abords de Los Angeles et un sentiment d\u2019oppression insupportable, pour qu\u2019un homme ordinaire abandonne sa voiture en plein trafic et sombre dans la folie. Devenu incontr\u00f4lable, sera-t-il arr\u00eat\u00e9 avant qu\u2019il ne commette l\u2019irr\u00e9parable ?",
-            "popularity": 3.7934,
+            "popularity": 4.1297,
             "poster_path": "/11Ar6C286Uw7iYaSuMXb73iPCLB.jpg",
             "release_date": "1993-02-26",
             "title": "Chute libre",
@@ -1027,8 +1026,30 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 113,
-            "tagline": "L'histoire d'un homme ordinaire en guerre contre la soci\u00e9t\u00e9."
+            "tagline": "L'histoire d'un homme ordinaire en guerre contre la soci\u00e9t\u00e9.",
+            "runtime": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ppS6Ve3zRGnmFQAKKazdDpU76AT.jpg",
+            "id": 18551,
+            "original_language": "en",
+            "original_title": "Flesh and Bone",
+            "overview": "Un livreur texan, Arlis, croise sur sa route une jeune femme paum\u00e9e. Cette rencontre va d\u00e9terrer une histoire terrifiante enfouie depuis tr\u00e8s longtemps, \u00e0 l'\u00e9poque o\u00f9 le p\u00e8re d'Arlis m\u00ealait son jeune gar\u00e7on aux cambriolages qu'il effectuait dans les fermes isol\u00e9es du Texas.",
+            "popularity": 1.0096,
+            "poster_path": "/gNaZSODlVRiQltGWjS8vQZEYJTq.jpg",
+            "release_date": "1993-11-05",
+            "title": "Flesh and Bone",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 99,
+            "genres": [
+                "Drame",
+                "Romance",
+                "Thriller"
+            ],
+            "tagline": "Le mal est patient",
+            "runtime": 121
         },
         {
             "adult": false,
@@ -1037,7 +1058,7 @@
             "original_language": "en",
             "original_title": "What's Eating Gilbert Grape",
             "overview": "Depuis la mort de son p\u00e8re, Gilbert Grape assume les responsabilit\u00e9s du chef de famille dans la petite ville d'Endora au fin fond de l'Iowa. L'univers morose de Gilbert va tout \u00e0 coup changer quand un jour, une fille du Michigan, Becky, s'installe pour quelque temps \u00e0 Endora.",
-            "popularity": 5.0993,
+            "popularity": 5.0602,
             "poster_path": "/lu6u1IJsX1tItOIeKBAKCKpfqZc.jpg",
             "release_date": "1993-12-17",
             "title": "Gilbert Grape",
@@ -1048,29 +1069,8 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 112,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rWkuu1S6oAE6OPA1KtwdXP61NFL.jpg",
-            "id": 48150,
-            "original_language": "fr",
-            "original_title": "Un c\u0153ur en hiver",
-            "overview": "St\u00e9phane est un restaurateur de violons distant sur le plan \u00e9motionnel mais d\u00e9vou\u00e9 sur le plan professionnel. Son c\u0153ur froid est mis \u00e0 l'\u00e9preuve lorsque la nouvelle petite amie de son employeur, une belle violoniste, tombe amoureuse de lui.",
-            "popularity": 1.0125,
-            "poster_path": "/7rBsSLBmDmYjWOHaX99JLZEIRys.jpg",
-            "release_date": "1992-09-02",
-            "title": "Un c\u0153ur en hiver",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 215,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 112
         }
     ]
 }

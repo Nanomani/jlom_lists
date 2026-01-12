@@ -4,7 +4,7 @@
     "source": "https://criticstop10.com/best-movies-of-1940/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,20 +14,20 @@
             "original_language": "en",
             "original_title": "Rebecca",
             "overview": "Mrs. Edythe Van Hopper, respectable veuve d\u00e9j\u00e0 \u00e2g\u00e9e, accompagn\u00e9e de sa jeune demoiselle de compagnie, est en vill\u00e9giature \u00e0 Monte-Carlo dans l'h\u00f4tel C\u00f4te-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal \u00e0 s\u00e9duire la jeune fille et, dans la foul\u00e9e, \u00e0 l'\u00e9pouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la c\u00f4te sud-est de l'Angleterre. Les premiers contacts avec le personnel du ch\u00e2teau, r\u00e9gent\u00e9 par la peu am\u00e8ne gouvernante Mrs. Danvers, sont glaciaux. Cette derni\u00e8re, en effet, attach\u00e9e depuis toujours au service de la pr\u00e9c\u00e9dente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, m\u00eame \u00e0 titre posthume, n'accepte pas l'intrusion de l'\u00ab\u00a0usurpatrice \u00bb. Le souvenir de l'\u00e9pouse disparue et v\u00e9n\u00e9r\u00e9e continue de hanter le ch\u00e2teau sombre.",
-            "popularity": 3.1157,
+            "popularity": 2.9187,
             "poster_path": "/6bHIZsfMDhuRUOCeJwOsp0RZRke.jpg",
             "release_date": "1940-03-23",
             "title": "Rebecca",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 1912,
+            "vote_average": 7.895,
+            "vote_count": 1913,
             "genres": [
                 "Myst\u00e8re",
                 "Romance",
                 "Thriller"
             ],
-            "runtime": 130,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -36,7 +36,7 @@
             "original_language": "en",
             "original_title": "The Grapes of Wrath",
             "overview": "Un jeune homme rentre \u00e0 la ferme familiale en Oklahoma, apr\u00e8s avoir purg\u00e9 une peine de quatre ans de prison pour homicide involontaire. La Grande D\u00e9pression s\u00e9vit alors et comme beaucoup d\u2019autres fermiers, sa famille est chass\u00e9e de son exploitation. Ensemble, ils partent \u00e0 travers le pays dans l\u2019espoir de trouver, un jour, du travail en Californie. C\u2019est le d\u00e9but d\u2019un p\u00e9riple \u00e9prouvant, de camps de r\u00e9fugi\u00e9s en bidonvilles de fortunes, dans une Am\u00e9rique en proie \u00e0 la mis\u00e8re et \u00e0 l\u2019oppression\u2026",
-            "popularity": 1.9006,
+            "popularity": 2.0671,
             "poster_path": "/3Eg7DADbVD28JB3pHByLID4R3pU.jpg",
             "release_date": "1940-03-15",
             "title": "Les Raisins de la col\u00e8re",
@@ -46,50 +46,29 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 129,
-            "tagline": "Les Joad sortent tout droit des pages du roman qui a choqu\u00e9 des millions de personnes\u00a0!"
+            "tagline": "Les Joad sortent tout droit des pages du roman qui a choqu\u00e9 des millions de personnes\u00a0!",
+            "runtime": 129
         },
         {
             "adult": false,
-            "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
-            "id": 23283,
+            "backdrop_path": "/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
+            "id": 981,
             "original_language": "en",
-            "original_title": "Our Town",
-            "overview": "Le changement vient lentement \u00e0 une petite ville du New Hampshire au d\u00e9but du 20\u00e8me si\u00e8cle. Nous voyons la naissance, la vie et la mort dans cette petite communaut\u00e9.",
-            "popularity": 1.5221,
-            "poster_path": "/tXYWSUIUfiG06XzgSSkd4sQFOru.jpg",
-            "release_date": "1940-05-24",
-            "title": "Notre ville",
+            "original_title": "The Philadelphia Story",
+            "overview": "Une s\u00e9paration, des fian\u00e7ailles, une rupture et trois pr\u00e9tendants. Une com\u00e9die alerte et enjou\u00e9e parodiant la haute soci\u00e9t\u00e9 am\u00e9ricaine et ses parfums de scandale.",
+            "popularity": 1.5721,
+            "poster_path": "/35qRcFOhsCEWCq3MAMzrGtKkebK.jpg",
+            "release_date": "1940-12-05",
+            "title": "Indiscr\u00e9tions",
             "video": false,
-            "vote_average": 5.7,
-            "vote_count": 34,
+            "vote_average": 7.6,
+            "vote_count": 942,
             "genres": [
-                "Drame",
+                "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/j5vU5sthNCZnCxdCG7ERklonwoJ.jpg",
-            "id": 43807,
-            "original_language": "en",
-            "original_title": "All This, and Heaven Too",
-            "overview": "La Duchesse de Praslin est jalouse de sa domestique Henriette Deluzy, un peu trop proche de son mari \u00e0 son go\u00fbt.",
-            "popularity": 0.3838,
-            "poster_path": "/j4KbLsCLnJVALXuV3djKOI8sUfc.jpg",
-            "release_date": "1940-07-05",
-            "title": "L'\u00c9trang\u00e8re",
-            "video": false,
-            "vote_average": 7.278,
-            "vote_count": 54,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 141,
-            "tagline": ""
+            "tagline": "La com\u00e9die \u00e0 succ\u00e8s de Broadway, qui a dur\u00e9e toute l'ann\u00e9e, raconte l'histoire d'une beaut\u00e9 snob de la soci\u00e9t\u00e9 qui a gliss\u00e9 et est tomb\u00e9e - EN AMOUR !",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -98,7 +77,7 @@
             "original_language": "en",
             "original_title": "Foreign Correspondent",
             "overview": "Johnny Jones, journaliste am\u00e9ricain au New York Globe, est envoy\u00e9 en Europe en 1939 pour \u00e9valuer l'\u00e9ventualit\u00e9 d'une Seconde Guerre mondiale. \u00c0 Londres, il fait la rencontre de Van Meer, un vieil homme politique hollandais, seul \u00e0 conna\u00eetre la clause secr\u00e8te d'un trait\u00e9 d'alliance. Apr\u00e8s un attentat simul\u00e9, Van Meer est enlev\u00e9 par des espions nazis, et Jones se lance \u00e0 sa recherche en Hollande, aid\u00e9 en cela par Carol, une jeune fille dont le p\u00e8re pr\u00e9side une soci\u00e9t\u00e9 pacifiste...",
-            "popularity": 0.898,
+            "popularity": 1.0291,
             "poster_path": "/5dEIw7JfnYzHdY8KlgjnOdaSovz.jpg",
             "release_date": "1940-08-16",
             "title": "Correspondant 17",
@@ -110,29 +89,8 @@
                 "Myst\u00e8re",
                 "Action"
             ],
-            "runtime": 103,
-            "tagline": "Le spectacle \u00e0 sensation de l'ann\u00e9e !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
-            "id": 981,
-            "original_language": "en",
-            "original_title": "The Philadelphia Story",
-            "overview": "Une s\u00e9paration, des fian\u00e7ailles, une rupture et trois pr\u00e9tendants. Une com\u00e9die alerte et enjou\u00e9e parodiant la haute soci\u00e9t\u00e9 am\u00e9ricaine et ses parfums de scandale.",
-            "popularity": 1.7758,
-            "poster_path": "/35qRcFOhsCEWCq3MAMzrGtKkebK.jpg",
-            "release_date": "1940-12-05",
-            "title": "Indiscr\u00e9tions",
-            "video": false,
-            "vote_average": 7.6,
-            "vote_count": 942,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 113,
-            "tagline": "La com\u00e9die \u00e0 succ\u00e8s de Broadway, qui a dur\u00e9e toute l'ann\u00e9e, raconte l'histoire d'une beaut\u00e9 snob de la soci\u00e9t\u00e9 qui a gliss\u00e9 et est tomb\u00e9e - EN AMOUR !"
+            "tagline": "Le spectacle \u00e0 sensation de l'ann\u00e9e !",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -141,7 +99,7 @@
             "original_language": "en",
             "original_title": "Kitty Foyle",
             "overview": "Kitty Foyle, une jeune secr\u00e9taire travailleuse de Philadelphie, tombe amoureuse de son patron, un homme aux id\u00e9es de gauche avanc\u00e9es. Mais son p\u00e8re ne va pas voir cette liaison d\u2019un bon \u0153il. \u00c0 la mort de ce dernier, elle d\u00e9cide de s\u2019installer \u00e0 New York\u2026",
-            "popularity": 1.8864,
+            "popularity": 1.5778,
             "poster_path": "/3c5yyi6ULsz5V0Ayv0o90BbmgJj.jpg",
             "release_date": "1940-12-27",
             "title": "Kitty Foyle",
@@ -152,8 +110,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j5vU5sthNCZnCxdCG7ERklonwoJ.jpg",
+            "id": 43807,
+            "original_language": "en",
+            "original_title": "All This, and Heaven Too",
+            "overview": "La Duchesse de Praslin est jalouse de sa domestique Henriette Deluzy, un peu trop proche de son mari \u00e0 son go\u00fbt.",
+            "popularity": 0.4027,
+            "poster_path": "/j4KbLsCLnJVALXuV3djKOI8sUfc.jpg",
+            "release_date": "1940-07-05",
+            "title": "L'\u00c9trang\u00e8re",
+            "video": false,
+            "vote_average": 7.278,
+            "vote_count": 54,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -162,7 +141,7 @@
             "original_language": "en",
             "original_title": "The Great Dictator",
             "overview": "Dans le ghetto juif vit un petit barbier qui ressemble \u00e9norm\u00e9ment \u00e0 Adenoid Hynkel, le dictateur de Tomania qui a d\u00e9cid\u00e9 l'extermination du peuple juif. Au cours d'une rafle, le barbier est arr\u00eat\u00e9 en compagnie de Schultz, un farouche adversaire d'Hynkel\u2026",
-            "popularity": 2.5771,
+            "popularity": 2.7222,
             "poster_path": "/rt9S0Xq7tWtTgZF8P4LDJbOUIkC.jpg",
             "release_date": "1940-10-15",
             "title": "Le Dictateur",
@@ -173,8 +152,8 @@
                 "Com\u00e9die",
                 "Guerre"
             ],
-            "runtime": 126,
-            "tagline": "Pour une mondialisation heureuse et \u00e9galitaire\u2026"
+            "tagline": "Pour une mondialisation heureuse et \u00e9galitaire\u2026",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -183,7 +162,7 @@
             "original_language": "en",
             "original_title": "Abe Lincoln in Illinois",
             "overview": "L\u2019irr\u00e9sistible ascension d\u2019Abraham Lincoln, modeste menuisier du Kentucky devenu pr\u00e9sident des Etats-Unis. Outre l\u2019\u00e9tonnante ressemblance de l\u2019acteur Raymond Massey avec Abraham Lincoln, cette \u0153uvre dresse l\u2019un des portraits les plus r\u00e9alistes du grand homme sans faire l\u2019impasse sur ses faiblesses, ce qui lui vaut souvent d\u2019\u00eatre consid\u00e9r\u00e9 comme le film de r\u00e9f\u00e9rence sur le sujet.",
-            "popularity": 0.3863,
+            "popularity": 0.2892,
             "poster_path": "/xKI8TOiOL5Emt2GAOIOckmlisF1.jpg",
             "release_date": "1940-02-22",
             "title": "Abraham Lincoln",
@@ -194,8 +173,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 110,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -204,7 +183,7 @@
             "original_language": "en",
             "original_title": "Boom Town",
             "overview": "Deux prospecteurs, Mc Masters et Sand se rencontrent dans une ville \u00e9conomiquement florissante et s'associent dans la recherche de p\u00e9trole. Mc Masters se marie plus tard avec la fianc\u00e9e de Sand, mais ce dernier est bon perdant. Un jour les deux amis jouent leur exploitation aux d\u00e9s.",
-            "popularity": 0.621,
+            "popularity": 0.6637,
             "poster_path": "/upPOcyAhnL0tDPL8MsTRrOJquiJ.jpg",
             "release_date": "1940-08-30",
             "title": "La Fi\u00e8vre du p\u00e9trole",
@@ -217,8 +196,29 @@
                 "Romance",
                 "Western"
             ],
-            "runtime": 119,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+            "id": 23283,
+            "original_language": "en",
+            "original_title": "Our Town",
+            "overview": "Le changement vient lentement \u00e0 une petite ville du New Hampshire au d\u00e9but du 20\u00e8me si\u00e8cle. Nous voyons la naissance, la vie et la mort dans cette petite communaut\u00e9.",
+            "popularity": 1.1916,
+            "poster_path": "/tXYWSUIUfiG06XzgSSkd4sQFOru.jpg",
+            "release_date": "1940-05-24",
+            "title": "Notre ville",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 34,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -227,7 +227,7 @@
             "original_language": "en",
             "original_title": "Northwest Passage",
             "overview": "New Hampshire, 1759. Par id\u00e9alisme, deux jeunes gar\u00e7ons, Langdon Towne (Robert Young) et Hunk Marriner (Walter Brennan), s'engagent dans une exp\u00e9dition command\u00e9e par le Major Rogers (Spencer Tracy), dont le but est d'an\u00e9antir une tribu indienne r\u00e9sidant \u00e0 la fronti\u00e8re canadienne. Les deux individus ont cependant tr\u00e8s mal mesur\u00e9 les cons\u00e9quences de leur acte...",
-            "popularity": 0.5654,
+            "popularity": 0.4616,
             "poster_path": "/9ZTriNJNxm2IsW7CaCWFKXDNzMP.jpg",
             "release_date": "1940-02-23",
             "title": "Le Grand Passage",
@@ -240,8 +240,50 @@
                 "Guerre",
                 "Drame"
             ],
-            "runtime": 121,
-            "tagline": "Moiti\u00e9 hommes, moiti\u00e9 d\u00e9mons\u2026 Des guerriers comme le monde n'en a jamais connus\u2026 Ils ont v\u00e9cu avec la mort et le danger pour les femmes qui avaient soif de leur amour !"
+            "tagline": "Moiti\u00e9 hommes, moiti\u00e9 d\u00e9mons\u2026 Des guerriers comme le monde n'en a jamais connus\u2026 Ils ont v\u00e9cu avec la mort et le danger pour les femmes qui avaient soif de leur amour !",
+            "runtime": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zqgzF9zkDlLqVARJGgoMSugb1at.jpg",
+            "id": 989,
+            "original_language": "en",
+            "original_title": "The Mortal Storm",
+            "overview": "Une famille allemande, unie et heureuse, se trouve divis\u00e9e \u00e0 l'av\u00e9nement du national-socialisme. Le p\u00e8re, professeur de facult\u00e9 et savant renomm\u00e9, la m\u00e8re, et Martin, un jeune paysan ami de la famille, sont pour la paix. Les deux fils et Fritz, le fianc\u00e9 de Freyda, sont tent\u00e9s par l'aventure hitl\u00e9rienne.",
+            "popularity": 1.6318,
+            "poster_path": "/aW1n9pZVR3XHmrPlR0K3XIkmHbh.jpg",
+            "release_date": "1940-06-20",
+            "title": "La Temp\u00eate qui tue",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 91,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nGpDPovLyfKJlpJZj0Mx1eG4Ygx.jpg",
+            "id": 10895,
+            "original_language": "en",
+            "original_title": "Pinocchio",
+            "overview": "L\u2019histoire intemporelle de Pinocchio inspire une nouvelle g\u00e9n\u00e9ration avec sa musique et ses personnages inoubliables. Quand Gepetto cr\u00e9e une marionnette et qu\u2019elle devient un petit gar\u00e7on en bois, son v\u0153u devient r\u00e9alit\u00e9. Avec sa conscience, Jiminy Cricket, Pinocchio embarque dans une aventure qui mettra son courage, sa loyaut\u00e9 et son honn\u00eatet\u00e9 \u00e0 l\u2019\u00e9preuve, afin de devenir un vrai petit gar\u00e7on.",
+            "popularity": 6.9751,
+            "poster_path": "/3GF5eUWvTEB90KzBlQnab4po7Wt.jpg",
+            "release_date": "1940-02-23",
+            "title": "Pinocchio",
+            "video": false,
+            "vote_average": 7.101,
+            "vote_count": 6139,
+            "genres": [
+                "Animation",
+                "Familial",
+                "Fantastique"
+            ],
+            "tagline": "Un h\u00e9ros de l\u00e9gende\u2026 Un chef\u2010d\u2019\u0153uvre du dessin anim\u00e9\u202f!",
+            "runtime": 88
         },
         {
             "adult": false,
@@ -250,7 +292,7 @@
             "original_language": "en",
             "original_title": "Fantasia",
             "overview": "Ce chef-d\u2019\u0153uvre intemporel de Walt Disney est une c\u00e9l\u00e9bration de sons et lumi\u00e8res de huit s\u00e9quences, alliant musique classique et animations innovantes de l'\u00e9poque. Admirez \u00ab\u2009La Suite Casse-Noisette\u2009\u00bb, \u00ab\u2009L\u2019Apprenti Sorcier\u2009\u00bb, \u00ab\u2009La Danse des Heures\u2009\u00bb et \u00ab\u2009Une Nuit sur le Mont Chauve\u2009\u00bb. \u00c9coutez la musique prendre vie, regardez les images exploser en chanson et vivez l\u2019exaltation de Fantasia.",
-            "popularity": 4.4261,
+            "popularity": 5.0075,
             "poster_path": "/hg5QpPLIvaFEon60Vyo2CK3LB1C.jpg",
             "release_date": "1940-11-13",
             "title": "Fantasia",
@@ -262,28 +304,8 @@
                 "Familial",
                 "Fantastique"
             ],
-            "runtime": 125,
-            "tagline": "Le son le plus sensationnel que vous n'aurez jamais vu !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zqgzF9zkDlLqVARJGgoMSugb1at.jpg",
-            "id": 989,
-            "original_language": "en",
-            "original_title": "The Mortal Storm",
-            "overview": "Une famille allemande, unie et heureuse, se trouve divis\u00e9e \u00e0 l'av\u00e9nement du national-socialisme. Le p\u00e8re, professeur de facult\u00e9 et savant renomm\u00e9, la m\u00e8re, et Martin, un jeune paysan ami de la famille, sont pour la paix. Les deux fils et Fritz, le fianc\u00e9 de Freyda, sont tent\u00e9s par l'aventure hitl\u00e9rienne.",
-            "popularity": 1.4608,
-            "poster_path": "/aW1n9pZVR3XHmrPlR0K3XIkmHbh.jpg",
-            "release_date": "1940-06-20",
-            "title": "La Temp\u00eate qui tue",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 91,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "Le son le plus sensationnel que vous n'aurez jamais vu !",
+            "runtime": 125
         },
         {
             "adult": false,
@@ -292,7 +314,7 @@
             "original_language": "en",
             "original_title": "The Long Voyage Home",
             "overview": "En 1941, le Glencairn, un cargo irlandais, appareille dans un port des Antilles. Parti des Etats-Unis, le navire doit transporter des explosifs \u00e0 Londres. A bord, le quotidien des marins n'\u00e9volue gu\u00e8re : f\u00eates et bagarres ponctuent leur vie de boh\u00e9miens des mers. Apr\u00e8s une travers\u00e9e difficile, les membres de l'\u00e9quipage d\u00e9cident de f\u00eater comme il se doit leur arriv\u00e9e dans la capitale britannique. Tous entreprennent de se saouler, \u00e0 l'exception de l'un d'eux, Olsen. Celui-ci ne pense qu'\u00e0 une chose, regagner son pays natal, la Su\u00e8de, pour y retrouver sa m\u00e8re. Des intrus profitent de la confusion pour le kidnapper\u2026",
-            "popularity": 1.8002,
+            "popularity": 2.0593,
             "poster_path": "/wtqcL1LQBsxIH1RAQbrtDG3kvk5.jpg",
             "release_date": "1940-11-16",
             "title": "Les Hommes de la mer",
@@ -303,8 +325,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -313,7 +335,7 @@
             "original_language": "en",
             "original_title": "Edison, the Man",
             "overview": "En flash-back, cinquante ans apr\u00e8s avoir invent\u00e9 l'ampoule, un Edison \u00e2g\u00e9 de 82 ans raconte son histoire \u00e0 partir de vingt-deux ans avec son arriv\u00e9e \u00e0 New York. Il est sur son chemin avec invention d'une forme pr\u00e9coce de ticker sur le march\u00e9 boursier.",
-            "popularity": 3.4579,
+            "popularity": 4.4044,
             "poster_path": "/r8dOkZbguGKcPxrYAIFe2xkxIyc.jpg",
             "release_date": "1940-05-10",
             "title": "La Vie de Thomas Edison",
@@ -324,50 +346,8 @@
                 "Histoire",
                 "Drame"
             ],
-            "runtime": 117,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1KhMREOLVTemliXbhbyR6IPAJwi.jpg",
-            "id": 88192,
-            "original_language": "en",
-            "original_title": "Dr. Ehrlich's Magic Bullet",
-            "overview": "L'histoire vraie du m\u00e9decin qui a consid\u00e9r\u00e9 qu'il \u00e9tait immoral de ne pas chercher un m\u00e9dicament qui gu\u00e9rirait syphillis.",
-            "popularity": 0.2957,
-            "poster_path": "/nLQGolem6LY02jmRu9dpkInKrW3.jpg",
-            "release_date": "1940-02-23",
-            "title": "La Balle magique du Docteur Ehrlich",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 32,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 103,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/nGpDPovLyfKJlpJZj0Mx1eG4Ygx.jpg",
-            "id": 10895,
-            "original_language": "en",
-            "original_title": "Pinocchio",
-            "overview": "L\u2019histoire intemporelle de Pinocchio inspire une nouvelle g\u00e9n\u00e9ration avec sa musique et ses personnages inoubliables. Quand Gepetto cr\u00e9e une marionnette et qu\u2019elle devient un petit gar\u00e7on en bois, son v\u0153u devient r\u00e9alit\u00e9. Avec sa conscience, Jiminy Cricket, Pinocchio embarque dans une aventure qui mettra son courage, sa loyaut\u00e9 et son honn\u00eatet\u00e9 \u00e0 l\u2019\u00e9preuve, afin de devenir un vrai petit gar\u00e7on.",
-            "popularity": 7.1594,
-            "poster_path": "/3GF5eUWvTEB90KzBlQnab4po7Wt.jpg",
-            "release_date": "1940-02-23",
-            "title": "Pinocchio",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 6138,
-            "genres": [
-                "Animation",
-                "Familial",
-                "Fantastique"
-            ],
-            "runtime": 88,
-            "tagline": "Un h\u00e9ros de l\u00e9gende\u2026 Un chef\u2010d\u2019\u0153uvre du dessin anim\u00e9\u202f!"
+            "tagline": "",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -376,7 +356,7 @@
             "original_language": "en",
             "original_title": "Knute Rockne All American",
             "overview": "L'histoire du l\u00e9gendaire joueur de football Notre Dame et l'entra\u00eeneur Knute Rockne.",
-            "popularity": 0.3393,
+            "popularity": 0.3258,
             "poster_path": "/b4WaxrxDa2AK4ydo7BaHidwHjMq.jpg",
             "release_date": "1940-10-05",
             "title": "Knute Rockne, Tous American",
@@ -386,8 +366,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -396,7 +376,7 @@
             "original_language": "en",
             "original_title": "Pride and Prejudice",
             "overview": "M. et Mme Bennet ont cinq filles c\u00e9libataires, et Mme Bennet est particuli\u00e8rement d\u00e9sireux de trouver des maris qui leur conviennent. Quand les riches messieurs seul M. Bingley et M. Darcy viennent vivre \u00e0 proximit\u00e9, les Bennets ont de grands espoirs. Mais l'orgueil, les pr\u00e9jug\u00e9s et les malentendus se conjuguent pour compliquer leurs relations et de faire le bonheur difficile.",
-            "popularity": 1.1162,
+            "popularity": 1.1641,
             "poster_path": "/yoWwsLkuY5tMxUqkKMOHAJlImTs.jpg",
             "release_date": "1940-07-26",
             "title": "Orgueil et pr\u00e9jug\u00e9s",
@@ -407,8 +387,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 118,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1KhMREOLVTemliXbhbyR6IPAJwi.jpg",
+            "id": 88192,
+            "original_language": "en",
+            "original_title": "Dr. Ehrlich's Magic Bullet",
+            "overview": "L'histoire vraie du m\u00e9decin qui a consid\u00e9r\u00e9 qu'il \u00e9tait immoral de ne pas chercher un m\u00e9dicament qui gu\u00e9rirait syphillis.",
+            "popularity": 0.2821,
+            "poster_path": "/nLQGolem6LY02jmRu9dpkInKrW3.jpg",
+            "release_date": "1940-02-23",
+            "title": "La Balle magique du Docteur Ehrlich",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 32,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -417,7 +417,7 @@
             "original_language": "en",
             "original_title": "The Great McGinty",
             "overview": "Un patron corrompu r\u00e9ussit, par des moyens frauduleux,a faire d'un vagabond demeur\u00e9 un gouverneur d'Etat.",
-            "popularity": 0.2778,
+            "popularity": 0.3087,
             "poster_path": "/muDzsFplW3Ojm51WKOkgPqLi06e.jpg",
             "release_date": "1940-08-01",
             "title": "Gouverneur malgr\u00e9 lui",
@@ -427,8 +427,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 82
         },
         {
             "adult": false,
@@ -437,7 +437,7 @@
             "original_language": "en",
             "original_title": "Waterloo Bridge",
             "overview": "Durant la Premi\u00e8re Guerre mondiale, un officier aristocrate et une jeune fille de condition modeste se rencontrent et s'aiment.",
-            "popularity": 5.0308,
+            "popularity": 4.7698,
             "poster_path": "/9SqwC6RKNeaTFjJdRZw2OFTvsEu.jpg",
             "release_date": "1940-05-17",
             "title": "La Valse dans l'ombre",
@@ -448,8 +448,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 108,
-            "tagline": "\u00ab La temp\u00e9tueuse Scarlett O'Hara d'\u00ab Autant en emporte le vent \u00bb ! Le romantique Robert Taylor ! Ensemble passionnant ! \u00bb"
+            "tagline": "\u00ab La temp\u00e9tueuse Scarlett O'Hara d'\u00ab Autant en emporte le vent \u00bb ! Le romantique Robert Taylor ! Ensemble passionnant ! \u00bb",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+            "id": 17801,
+            "original_language": "en",
+            "original_title": "The Letter",
+            "overview": "Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille, de plusieurs balles de revolver. Elle pr\u00e9tend que l'homme voulait abuser d'elle. Son mari la croit sur parole, mais leur avocat a des doutes. Leslie est mise en prison...",
+            "popularity": 0.792,
+            "poster_path": "/7FQzGGlKK1RTgKgzYrdl8FVsqiu.jpg",
+            "release_date": "1940-11-21",
+            "title": "La Lettre",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 234,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -458,7 +479,7 @@
             "original_language": "en",
             "original_title": "The Shop Around the Corner",
             "overview": "\u00c0 Budapest, dans la boutique de maroquinerie \u00ab Matuschek et Cie \u00bb de monsieur Matuschek, Alfred Kralik tient rang de Premier vendeur et dirige une petite \u00e9quipe de vendeurs, caissi\u00e8re et livreur. Klara Novak, fra\u00eechement embauch\u00e9e en qualit\u00e9 de vendeuse ne s'entend gu\u00e8re avec son sup\u00e9rieur, M. Kralik. Ce dernier entretien une correspondance culturelle avec une femme qu'il n'a jamais vue, par l'entremise des petites annonces. Klara Novak s'adonne \u00e0 une correspondance \u00e9pistolaire avec un homme dont elle s'est \u00e9prise mais qu'elle n'a jamais rencontr\u00e9 non plus. Deux personnes qui entretiennent une relation amoureuse par correspondance ignorent qu\u2019elles se c\u00f4toient tous les jours sur leur lieu de travail... et se chamaillent sans cesse. Alfred d\u00e9couvre bient\u00f4t que cette myst\u00e9rieuse inconnue des lettres n'est autre que Klara, l'employ\u00e9e du magasin dont il ne peut souffrir. Sans r\u00e9v\u00e9ler \u00e0 celle-ci la v\u00e9rit\u00e9, il cherche \u00e0 se rapprocher d'elle et \u00e0 s'en faire aimer.",
-            "popularity": 1.1815,
+            "popularity": 1.1573,
             "poster_path": "/iT6afW4wKqZYeCqi7jHV2u6iq3W.jpg",
             "release_date": "1940-01-12",
             "title": "Rendez-vous",
@@ -470,50 +491,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 99,
-            "tagline": "Deux personnes qui entretiennent une relation amoureuse \u00e9pistolaire ignorent qu\u2019elles se c\u00f4toient tous les jours sur leur lieu de travail... et se chamaillent sans cesse."
+            "tagline": "Deux personnes qui entretiennent une relation amoureuse \u00e9pistolaire ignorent qu\u2019elles se c\u00f4toient tous les jours sur leur lieu de travail... et se chamaillent sans cesse.",
+            "runtime": 99
         },
         {
             "adult": false,
-            "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
-            "id": 17801,
+            "backdrop_path": "/mTbdsq8Z2ETmBI9rvskK19gCQpf.jpg",
+            "id": 56154,
             "original_language": "en",
-            "original_title": "The Letter",
-            "overview": "Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille, de plusieurs balles de revolver. Elle pr\u00e9tend que l'homme voulait abuser d'elle. Son mari la croit sur parole, mais leur avocat a des doutes. Leslie est mise en prison...",
-            "popularity": 0.7872,
-            "poster_path": "/7FQzGGlKK1RTgKgzYrdl8FVsqiu.jpg",
-            "release_date": "1940-11-21",
-            "title": "La Lettre",
+            "original_title": "Young Tom Edison",
+            "overview": "L'inventeur Thomas Edison enfance de est chronique et lui montre un jeune homme dont les premi\u00e8res inventions et exp\u00e9riences scientifiques finissent g\u00e9n\u00e9ralement causer des r\u00e9sultats d\u00e9sastreux. En cons\u00e9quence, les gens pensent tous les villes Tom est fou, et la cr\u00e9ation d'une relation tendue entre Tom et son p\u00e8re. Toms seule consolation est sa m\u00e8re qui croit comprendre qu'il est dirig\u00e9 \u00e0 faire de grandes choses.",
+            "popularity": 0.4844,
+            "poster_path": "/b5SpgdQkz5QpoiGVUHSc5eoa7hG.jpg",
+            "release_date": "1940-03-15",
+            "title": "Jeune Tom Edison",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 234,
+            "vote_average": 5.778,
+            "vote_count": 9,
             "genres": [
-                "Crime",
                 "Drame"
             ],
-            "runtime": 95,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tak5aFvZ9c8DPFJ2dQlWKawQAU7.jpg",
-            "id": 41463,
-            "original_language": "en",
-            "original_title": "My Favorite Wife",
-            "overview": "Ellen Arden revient chez elle sept ans apr\u00e8s avoir disparu au cours de l'une de ses explorations. Mais apr\u00e8s l'avoir longtemps attendue, son mari Nick s'est finalement remari\u00e9. Qu'importe, Ellen est bien d\u00e9cid\u00e9e \u00e0 le r\u00e9cup\u00e9rer...",
-            "popularity": 1.6327,
-            "poster_path": "/hSsP7Gi7Gnq5ApB7gweqoSSkHyN.jpg",
-            "release_date": "1940-05-17",
-            "title": "Mon \u00e9pouse favorite",
-            "video": false,
-            "vote_average": 6.997,
-            "vote_count": 166,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 88,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -522,7 +521,7 @@
             "original_language": "en",
             "original_title": "Escape",
             "overview": "",
-            "popularity": 1.7619,
+            "popularity": 1.5656,
             "poster_path": "/fKmRF5EmJZBQ4eH4nsD8NbvWZgl.jpg",
             "release_date": "1940-11-01",
             "title": "Escape",
@@ -533,49 +532,29 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
-            "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
-            "id": 3085,
+            "backdrop_path": "/tak5aFvZ9c8DPFJ2dQlWKawQAU7.jpg",
+            "id": 41463,
             "original_language": "en",
-            "original_title": "His Girl Friday",
-            "overview": "Hildy Johnson quitte son \u00e9poux Walter Burns, le sarcastique r\u00e9dacteur en chef du journal dans lequel elle officie en tant que reporter. Fatigu\u00e9e par l\u2019atmosph\u00e8re \u00e9lectrique de la r\u00e9daction, elle songe \u00e0 se remarier avec Bruce Baldwin, un banal assureur et \u00e0 mener une vie plus paisible. Walter, qui conna\u00eet la passion de sa femme pour son m\u00e9tier de journaliste, a l\u2019id\u00e9e farfelue de la reconqu\u00e9rir en l\u2019envoyant interviewer et couvrir les derni\u00e8res heures d\u2019un condamn\u00e9 \u00e0 mort.",
-            "popularity": 1.494,
-            "poster_path": "/rF7zYsS6dnoRRONU4FhvtMeYC2a.jpg",
-            "release_date": "1940-01-18",
-            "title": "La Dame du vendredi",
+            "original_title": "My Favorite Wife",
+            "overview": "Ellen Arden revient chez elle sept ans apr\u00e8s avoir disparu au cours de l'une de ses explorations. Mais apr\u00e8s l'avoir longtemps attendue, son mari Nick s'est finalement remari\u00e9. Qu'importe, Ellen est bien d\u00e9cid\u00e9e \u00e0 le r\u00e9cup\u00e9rer...",
+            "popularity": 1.4037,
+            "poster_path": "/hSsP7Gi7Gnq5ApB7gweqoSSkHyN.jpg",
+            "release_date": "1940-05-17",
+            "title": "Mon \u00e9pouse favorite",
             "video": false,
-            "vote_average": 7.41,
-            "vote_count": 898,
+            "vote_average": 6.997,
+            "vote_count": 166,
             "genres": [
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 92,
-            "tagline": "Elle a appris l'existence des hommes gr\u00e2ce \u00e0 lui !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mTbdsq8Z2ETmBI9rvskK19gCQpf.jpg",
-            "id": 56154,
-            "original_language": "en",
-            "original_title": "Young Tom Edison",
-            "overview": "L'inventeur Thomas Edison enfance de est chronique et lui montre un jeune homme dont les premi\u00e8res inventions et exp\u00e9riences scientifiques finissent g\u00e9n\u00e9ralement causer des r\u00e9sultats d\u00e9sastreux. En cons\u00e9quence, les gens pensent tous les villes Tom est fou, et la cr\u00e9ation d'une relation tendue entre Tom et son p\u00e8re. Toms seule consolation est sa m\u00e8re qui croit comprendre qu'il est dirig\u00e9 \u00e0 faire de grandes choses.",
-            "popularity": 0.5074,
-            "poster_path": "/b5SpgdQkz5QpoiGVUHSc5eoa7hG.jpg",
-            "release_date": "1940-03-15",
-            "title": "Jeune Tom Edison",
-            "video": false,
-            "vote_average": 5.778,
-            "vote_count": 9,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 86,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 88
         },
         {
             "adult": false,
@@ -584,7 +563,7 @@
             "original_language": "en",
             "original_title": "The Howards of Virginia",
             "overview": "Au milieu du XVIIIeme si\u00e8cle, Matt Howard, un jeune campagnard, rencontre Thomas Jefferson. Des ann\u00e9es plus tard, ce dernier le fait engager dans une famille d'aristocrates. Il est vite renvoy\u00e9 mais gagne le coeur de la fille de la maison, Jane. Ils se marient et partent pour la Virginie o\u00f9 Matt, suivant les conseils de Jefferson, se lance dans la politique .....",
-            "popularity": 0.3693,
+            "popularity": 0.2635,
             "poster_path": "/yngj5fihIRXufFqzH0MVhC1HdPd.jpg",
             "release_date": "1940-09-19",
             "title": "Howard le r\u00e9volt\u00e9",
@@ -596,8 +575,29 @@
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 120,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
+            "id": 3085,
+            "original_language": "en",
+            "original_title": "His Girl Friday",
+            "overview": "Hildy Johnson quitte son \u00e9poux Walter Burns, le sarcastique r\u00e9dacteur en chef du journal dans lequel elle officie en tant que reporter. Fatigu\u00e9e par l\u2019atmosph\u00e8re \u00e9lectrique de la r\u00e9daction, elle songe \u00e0 se remarier avec Bruce Baldwin, un banal assureur et \u00e0 mener une vie plus paisible. Walter, qui conna\u00eet la passion de sa femme pour son m\u00e9tier de journaliste, a l\u2019id\u00e9e farfelue de la reconqu\u00e9rir en l\u2019envoyant interviewer et couvrir les derni\u00e8res heures d\u2019un condamn\u00e9 \u00e0 mort.",
+            "popularity": 1.3699,
+            "poster_path": "/rF7zYsS6dnoRRONU4FhvtMeYC2a.jpg",
+            "release_date": "1940-01-18",
+            "title": "La Dame du vendredi",
+            "video": false,
+            "vote_average": 7.41,
+            "vote_count": 898,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "Elle a appris l'existence des hommes gr\u00e2ce \u00e0 lui !",
+            "runtime": 92
         },
         {
             "adult": false,
@@ -606,7 +606,7 @@
             "original_language": "en",
             "original_title": "My Son, My Son!",
             "overview": "Mon fils, mon fils! est un film dramatique am\u00e9ricain 1940 bas\u00e9 sur un roman du m\u00eame nom \u00e9crit par Howard Spring et r\u00e9alis\u00e9 par Charles Vidor. Il a \u00e9t\u00e9 nomin\u00e9 pour un Academy Award pour la meilleure direction artistique de John DuCasse Schulze.",
-            "popularity": 0.9939,
+            "popularity": 1.1785,
             "poster_path": "/lODlaffftQ2XFLBOYdPsG7QEeUD.jpg",
             "release_date": "1940-03-21",
             "title": "Mon fils, mon fils !",
@@ -617,8 +617,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 116,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 116
         },
         {
             "adult": false,
@@ -627,7 +627,7 @@
             "original_language": "en",
             "original_title": "North West Mounted Police",
             "overview": "Au Canada, en 1885. Dan Duroc et Jacques Corbeau, deux m\u00e9tis, tentent de pousser leur peuple \u00e0 une nouvelle r\u00e9bellion, plusieurs ann\u00e9es apr\u00e8s l'\u00e9crasement d'une premi\u00e8re r\u00e9volte conduite par Louis Riel. La police mont\u00e9e canadienne, dont les hommes sont surnomm\u00e9s 'Les tuniques rouges' \u00e0 cause de leur uniforme, tente de maintenir l'ordre. Dusty Rivers arrive du Texas dans le but d'arr\u00eater Jacques Corbeau pour meurtre, et s'associe alors aux tuniques rouges.",
-            "popularity": 0.3603,
+            "popularity": 0.4784,
             "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
             "release_date": "1940-10-22",
             "title": "Les Tuniques \u00e9carlates",
@@ -640,8 +640,8 @@
                 "Aventure",
                 "Romance"
             ],
-            "runtime": 126,
-            "tagline": "Le premier film de DeMille en Technicolor ! 10 grandes \u00e9toiles\u00a0! 2 belles histoires d'amour ! 1 000 sensations fortes inoubliables !"
+            "tagline": "Le premier film de DeMille en Technicolor ! 10 grandes \u00e9toiles\u00a0! 2 belles histoires d'amour ! 1 000 sensations fortes inoubliables !",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -650,7 +650,7 @@
             "original_language": "en",
             "original_title": "The Westerner",
             "overview": "Condamn\u00e9 \u00e0 mort par le juge Bean, un cow-boy est sauv\u00e9 parce qu'il feint conna\u00eetre Lily Langtry dont le juge est amoureux. Parvenu \u00e0 se faire nommer sh\u00e9rif d'une ville voisine, il affronte Bean.",
-            "popularity": 0.7222,
+            "popularity": 0.9167,
             "poster_path": "/p2R45UXC6hpeNACH9CdLNnLw878.jpg",
             "release_date": "1940-09-18",
             "title": "Le Cavalier du d\u00e9sert",
@@ -660,28 +660,8 @@
             "genres": [
                 "Western"
             ],
-            "runtime": 100,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": null,
-            "id": 423915,
-            "original_language": "en",
-            "original_title": "The Ramparts We Watch",
-            "overview": "",
-            "popularity": 0.3102,
-            "poster_path": "/uA1bbigZ9zU2sNjYwdhHjw0OgwU.jpg",
-            "release_date": "1940-09-19",
-            "title": "The Ramparts We Watch",
-            "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 87,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -690,7 +670,7 @@
             "original_language": "en",
             "original_title": "The Fighting 69th",
             "overview": "Jerry Plunkett, un Irlandais de Brooklyn, d\u00e9cide de rejoindre le 69\u00e8me r\u00e9giment durant la Premi\u00e8re Guerre Mondiale. Mais celui-ci va rapidement se montrer m\u00e9prisant et va m\u00eame d\u00e9fier son colonel. Sa troupe est alors envoy\u00e9e outre-mer pour combattre mais \u00e0 la vue du carnage Jerry va perdre la t\u00eate...",
-            "popularity": 0.3452,
+            "popularity": 0.3737,
             "poster_path": "/x7W9Lknb6mhaPRGefqWzLjHsozI.jpg",
             "release_date": "1940-01-27",
             "title": "Le R\u00e9giment des bagarreurs",
@@ -702,136 +682,28 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
-            "backdrop_path": "/wudRKHhBiUyNY56v60lgHSdQscT.jpg",
-            "id": 56152,
+            "backdrop_path": null,
+            "id": 423915,
             "original_language": "en",
-            "original_title": "Brigham Young",
-            "overview": "En 1844, dans l'Illinois, les Mormons sont victimes de pers\u00e9cutions en raison de leurs croyances religieuses. Le fondateur de leur \u00c9glise, Joseph Smith, est lynch\u00e9 \u00e0 la suite d'un proc\u00e8s truqu\u00e9. Son successeur, Brigham Young, emm\u00e8ne alors la Communaut\u00e9 dans un long voyage sem\u00e9 d'emb\u00fbches, vers une Terre Promise.",
-            "popularity": 1.7369,
-            "poster_path": "/oEw9oe3e0rWcLxc1L0kp56Big8n.jpg",
-            "release_date": "1940-09-27",
-            "title": "L'Odyss\u00e9e des Mormons",
-            "video": false,
-            "vote_average": 4.4,
-            "vote_count": 15,
-            "genres": [
-                "Histoire",
-                "Romance",
-                "Western"
-            ],
-            "runtime": 114,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zvyIX4i10c5Njkqmf0ADRKfWJCN.jpg",
-            "id": 121001,
-            "original_language": "en",
-            "original_title": "The Biscuit Eater",
+            "original_title": "The Ramparts We Watch",
             "overview": "",
-            "popularity": 0.3794,
-            "poster_path": "/u6uJ8y6R6wWURt9bIU1fP24qwEt.jpg",
-            "release_date": "1940-05-24",
-            "title": "The Biscuit Eater",
+            "popularity": 0.3159,
+            "poster_path": "/uA1bbigZ9zU2sNjYwdhHjw0OgwU.jpg",
+            "release_date": "1940-09-19",
+            "title": "The Ramparts We Watch",
             "video": false,
-            "vote_average": 6.3,
-            "vote_count": 3,
+            "vote_average": 0.0,
+            "vote_count": 0,
             "genres": [
-                "Familial",
                 "Drame"
             ],
-            "runtime": 81,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/b9chZQwkHPjFnWBmw6Bw4JMzacP.jpg",
-            "id": 131770,
-            "original_language": "en",
-            "original_title": "Arise, My Love",
-            "overview": "Entre les fascistes espagnols et les nazis allemands une incroyable com\u00e9die hollywoodienne ,dans cette temp\u00eate un couple qui d'un pays \u00e0 l'autre marivaude entre les bombes et le champagne.",
-            "popularity": 0.5934,
-            "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
-            "release_date": "1940-11-08",
-            "title": "\u00c9veille-toi mon amour",
-            "video": false,
-            "vote_average": 6.341,
-            "vote_count": 22,
-            "genres": [
-                "Com\u00e9die",
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 110,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/g4AuPfmRnl8MWsZ6L8RtzDxkVCi.jpg",
-            "id": 95046,
-            "original_language": "en",
-            "original_title": "They Knew What They Wanted",
-            "overview": "",
-            "popularity": 0.3417,
-            "poster_path": "/vwjPDeGNUUregEgqT6Y4lqZBPJw.jpg",
-            "release_date": "1940-10-19",
-            "title": "They Knew What They Wanted",
-            "video": false,
-            "vote_average": 5.8,
-            "vote_count": 11,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 96,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/n2GD2vrcq9RSqMMqYmH60r5XZXl.jpg",
-            "id": 204604,
-            "original_language": "en",
-            "original_title": "Lillian Russell",
-            "overview": "Histoire de vie de la star musicale de sa d\u00e9couverte en 1890 par le chef de groupe Tony Pastor jusqu'\u00e0 sa retraite en 1912 quand elle a \u00e9pous\u00e9 le journaliste Alexander Moore.",
-            "popularity": 0.1718,
-            "poster_path": "/3zHQRm8vig16p6KjKPQRAQGG7t0.jpg",
-            "release_date": "1940-05-24",
-            "title": "Lillian Russell",
-            "video": false,
-            "vote_average": 6.1,
-            "vote_count": 10,
-            "genres": [
-                "Drame",
-                "Musique"
-            ],
-            "runtime": 127,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6iqcaM3HLeOi6AdIpLeaZ2KHU8O.jpg",
-            "id": 20643,
-            "original_language": "en",
-            "original_title": "I Love You Again",
-            "overview": "Alors qu'il effectue en solitaire une croisi\u00e8re, Larry Wilson, un homme r\u00e9put\u00e9 pour son avarice, tombe \u00e0 l'eau et re\u00e7oit un coup sur la t\u00eate qui le rend amn\u00e9sique. \u00c0 son r\u00e9veil, il se rend compte qu'il souffre d'amn\u00e9sie depuis 9 ans et qu'il est en r\u00e9alit\u00e9 George Carey, un escroc notoire. \u00c0 l'arriv\u00e9e du bateau, il se d\u00e9couvre dot\u00e9 d'une femme charmante, Kay, qui r\u00e9clame le divorce. Bien d\u00e9cid\u00e9 \u00e0 gagner un peu d'argent, il retourne \u00e0 Habersville, Pennsylvanie avec la ferme intention de vider son compte en banque.",
-            "popularity": 1.017,
-            "poster_path": "/vOqMLBf3AcTqjM1PFcYDDAgye23.jpg",
-            "release_date": "1940-08-09",
-            "title": "Monsieur Wilson perd la t\u00eate",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 54,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 99,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 87
         },
         {
             "adult": false,
@@ -840,7 +712,7 @@
             "original_language": "en",
             "original_title": "The Sea Hawk",
             "overview": "En 1585. Le roi Philippe II d'Espagne et son Invincible Armada pr\u00e9parent l'invasion de l'Angleterre, tandis qu'\u00e0 Londres, la reine Elizabeth est tra\u00eetreusement conseill\u00e9e par lord Wolfingham qui est, en r\u00e9alit\u00e9, vendu \u00e0 la cause espagnole. Geoffrey Thorpe, l'un des plus imp\u00e9tueux corsaires de la flotte britannique, arraisonne un navire espagnol \u00e0 bord duquel se trouvent don Jos\u00e9 de C\u00f3rdoba, l'ambassadeur d'Espagne, et sa ni\u00e8ce, do\u00f1a Maria. Thorpe propose \u00e0 Elizabeth d'intercepter une exp\u00e9dition espagnole charg\u00e9e d'or. L'\u00e9tat des finances de l'Angleterre pousse la reine \u00e0 accepter, \u00e0 la condition qu'elle ne soit jamais cit\u00e9e comme instigatrice de l'op\u00e9ration...",
-            "popularity": 0.8441,
+            "popularity": 0.8679,
             "poster_path": "/qKysLU8pDwrXrvsg633WxrgL6S7.jpg",
             "release_date": "1940-08-10",
             "title": "L'Aigle des mers",
@@ -852,8 +724,136 @@
                 "Histoire",
                 "Romance"
             ],
-            "runtime": 127,
-            "tagline": "Fringant... romantique... Errol Flynn \u00e0 son meilleur !"
+            "tagline": "Fringant... romantique... Errol Flynn \u00e0 son meilleur !",
+            "runtime": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zvyIX4i10c5Njkqmf0ADRKfWJCN.jpg",
+            "id": 121001,
+            "original_language": "en",
+            "original_title": "The Biscuit Eater",
+            "overview": "",
+            "popularity": 0.3415,
+            "poster_path": "/u6uJ8y6R6wWURt9bIU1fP24qwEt.jpg",
+            "release_date": "1940-05-24",
+            "title": "The Biscuit Eater",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 3,
+            "genres": [
+                "Familial",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4AuPfmRnl8MWsZ6L8RtzDxkVCi.jpg",
+            "id": 95046,
+            "original_language": "en",
+            "original_title": "They Knew What They Wanted",
+            "overview": "",
+            "popularity": 0.3374,
+            "poster_path": "/vwjPDeGNUUregEgqT6Y4lqZBPJw.jpg",
+            "release_date": "1940-10-19",
+            "title": "They Knew What They Wanted",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 11,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wudRKHhBiUyNY56v60lgHSdQscT.jpg",
+            "id": 56152,
+            "original_language": "en",
+            "original_title": "Brigham Young",
+            "overview": "En 1844, dans l'Illinois, les Mormons sont victimes de pers\u00e9cutions en raison de leurs croyances religieuses. Le fondateur de leur \u00c9glise, Joseph Smith, est lynch\u00e9 \u00e0 la suite d'un proc\u00e8s truqu\u00e9. Son successeur, Brigham Young, emm\u00e8ne alors la Communaut\u00e9 dans un long voyage sem\u00e9 d'emb\u00fbches, vers une Terre Promise.",
+            "popularity": 1.3604,
+            "poster_path": "/oEw9oe3e0rWcLxc1L0kp56Big8n.jpg",
+            "release_date": "1940-09-27",
+            "title": "L'Odyss\u00e9e des Mormons",
+            "video": false,
+            "vote_average": 4.4,
+            "vote_count": 15,
+            "genres": [
+                "Histoire",
+                "Romance",
+                "Western"
+            ],
+            "tagline": "",
+            "runtime": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6iqcaM3HLeOi6AdIpLeaZ2KHU8O.jpg",
+            "id": 20643,
+            "original_language": "en",
+            "original_title": "I Love You Again",
+            "overview": "Alors qu'il effectue en solitaire une croisi\u00e8re, Larry Wilson, un homme r\u00e9put\u00e9 pour son avarice, tombe \u00e0 l'eau et re\u00e7oit un coup sur la t\u00eate qui le rend amn\u00e9sique. \u00c0 son r\u00e9veil, il se rend compte qu'il souffre d'amn\u00e9sie depuis 9 ans et qu'il est en r\u00e9alit\u00e9 George Carey, un escroc notoire. \u00c0 l'arriv\u00e9e du bateau, il se d\u00e9couvre dot\u00e9 d'une femme charmante, Kay, qui r\u00e9clame le divorce. Bien d\u00e9cid\u00e9 \u00e0 gagner un peu d'argent, il retourne \u00e0 Habersville, Pennsylvanie avec la ferme intention de vider son compte en banque.",
+            "popularity": 0.9735,
+            "poster_path": "/vOqMLBf3AcTqjM1PFcYDDAgye23.jpg",
+            "release_date": "1940-08-09",
+            "title": "Monsieur Wilson perd la t\u00eate",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 54,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b9chZQwkHPjFnWBmw6Bw4JMzacP.jpg",
+            "id": 131770,
+            "original_language": "en",
+            "original_title": "Arise, My Love",
+            "overview": "Entre les fascistes espagnols et les nazis allemands une incroyable com\u00e9die hollywoodienne ,dans cette temp\u00eate un couple qui d'un pays \u00e0 l'autre marivaude entre les bombes et le champagne.",
+            "popularity": 0.6131,
+            "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
+            "release_date": "1940-11-08",
+            "title": "\u00c9veille-toi mon amour",
+            "video": false,
+            "vote_average": 6.341,
+            "vote_count": 22,
+            "genres": [
+                "Com\u00e9die",
+                "Romance",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n2GD2vrcq9RSqMMqYmH60r5XZXl.jpg",
+            "id": 204604,
+            "original_language": "en",
+            "original_title": "Lillian Russell",
+            "overview": "Histoire de vie de la star musicale de sa d\u00e9couverte en 1890 par le chef de groupe Tony Pastor jusqu'\u00e0 sa retraite en 1912 quand elle a \u00e9pous\u00e9 le journaliste Alexander Moore.",
+            "popularity": 0.2422,
+            "poster_path": "/3zHQRm8vig16p6KjKPQRAQGG7t0.jpg",
+            "release_date": "1940-05-24",
+            "title": "Lillian Russell",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 10,
+            "genres": [
+                "Drame",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 127
         },
         {
             "adult": false,
@@ -862,7 +862,7 @@
             "original_language": "en",
             "original_title": "Susan and God",
             "overview": "Une mondaine qui fait partie d'une secte est bien loin, dans sa vie priv\u00e9e, de mettre en pratique ce qu'elle pr\u00eache.",
-            "popularity": 0.3068,
+            "popularity": 0.3026,
             "poster_path": "/8CPkM6xKdEpL2niWIVDny0BSjdX.jpg",
             "release_date": "1940-06-07",
             "title": "Suzanne et ses id\u00e9es",
@@ -873,8 +873,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 117,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -883,7 +883,7 @@
             "original_language": "en",
             "original_title": "The Thief of Bagdad",
             "overview": "Ahmad, le calife de Bagdad, est d\u00e9poss\u00e9d\u00e9 de son tr\u00f4ne par son grand vizir, le magicien Jaffar. Dans les cachots de la prison, Ahmad fait la connaissance d'Abou, le petit voleur de Bagdad qui l'aide \u00e0 s'enfuir.",
-            "popularity": 1.4754,
+            "popularity": 1.1093,
             "poster_path": "/o8mIsjupHZGgpmK36iPHGdZxx5V.jpg",
             "release_date": "1940-02-19",
             "title": "Le Voleur de Bagdad",
@@ -895,8 +895,8 @@
                 "Fantastique",
                 "Romance"
             ],
-            "runtime": 106,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -905,7 +905,7 @@
             "original_language": "en",
             "original_title": "He Stayed for Breakfast",
             "overview": "",
-            "popularity": 0.1187,
+            "popularity": 0.1472,
             "poster_path": "/dtOvArttYfX5zHXPXcZxOQAGAC2.jpg",
             "release_date": "1940-08-31",
             "title": "He Stayed for Breakfast",
@@ -915,28 +915,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 89,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": null,
-            "id": 116007,
-            "original_language": "en",
-            "original_title": "The Earl of Chicago",
-            "overview": "Dans la seconde moiti\u00e9 des ann\u00e9es 1930, \u00e0 Chicago, le gangster 'Silky' Kilmount dirige une \"respectable\" distillerie d'alcool, apr\u00e8s avoir trafiqu\u00e9 durant la Prohibition ; son bras droit est 'Doc' Ramsey. Orphelin, il apprend un jour que son p\u00e8re, d\u00e9c\u00e9d\u00e9 depuis des ann\u00e9es, \u00e9tait un aristocrate anglais \u00e9tabli au Canada. Par suite, il h\u00e9rite d'un titre de noblesse et des valeurs mobili\u00e8res et immobili\u00e8res y attach\u00e9es. Mais il doit aller en Angleterre pour faire valoir ses droits. Il s'y rend donc, laissant 'Doc' g\u00e9rer ses affaires, et fait la connaissance de sa parent\u00e9, ainsi que de Munsey, son ma\u00eetre-d'h\u00f4tel, lequel s'emploie \u00e0 lui inculquer les rudiments de l'\u00e9ducation qui sied au nouveau \"Comte de Gorley\"...",
-            "popularity": 3.4357,
-            "poster_path": "/e1gHpQlqfGTRfCpn2qP2bzUHQt1.jpg",
-            "release_date": "1940-01-05",
-            "title": "Le Gangster de Chicago",
-            "video": false,
-            "vote_average": 6.167,
-            "vote_count": 6,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 87,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 89
         },
         {
             "adult": false,
@@ -945,7 +925,7 @@
             "original_language": "en",
             "original_title": "Primrose Path",
             "overview": "Ellie Mae vit \u00e0 Primrose Hill,  est une jeune femme d\u00e9termin\u00e9e \u00e0 ne pas suivre le m\u00e9tier de sa m\u00e8re et de sa grand-m\u00e8re, la prostitution.",
-            "popularity": 2.1879,
+            "popularity": 1.7273,
             "poster_path": "/2yrimUM6qpPlRTByQLB5YQLdSGH.jpg",
             "release_date": "1940-03-22",
             "title": "Le Lys du ruisseau",
@@ -956,8 +936,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 93,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 93
         },
         {
             "adult": false,
@@ -966,7 +946,7 @@
             "original_language": "en",
             "original_title": "Pastor Hall",
             "overview": "Ce film est bas\u00e9 sur l'histoire vraie du pasteur Martin Neimuller, qui a \u00e9t\u00e9 envoy\u00e9 au camp de concentration de Dachau pour avoir critiqu\u00e9 le parti nazi. Le petit village allemand d'Altdorf, dans les ann\u00e9es 1930 doit se r\u00e9concilier avec le chancelier Hitler et l'arriv\u00e9e d'un peloton de Stormtroopers (pr\u00e9c\u00e9d\u00e9 d'un troupeau de moutons). Le Stormtrooper aller sur l'enseignement et l'application \u00ab Le nouvel ordre \u00bb, mais le pasteur Hall est un homme gentil et doux qui ne sera pas intimid\u00e9e. Certains villageois rejoignent le parti nazi avidement, certains juste aller de pair avec les choses, dans l'espoir d'une vie tranquille, mais le pasteur prend ses convictions salle \u00e0 la chaire.",
-            "popularity": 0.3016,
+            "popularity": 0.3449,
             "poster_path": "/9R6Eb6Hjb7cKST2yM2D2zNxJJXZ.jpg",
             "release_date": "1940-05-28",
             "title": "Salle pasteur",
@@ -976,30 +956,28 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
-            "backdrop_path": "/4rd9SUlamdxZlLkCBl6A1z24L4e.jpg",
-            "id": 16933,
+            "backdrop_path": null,
+            "id": 116007,
             "original_language": "en",
-            "original_title": "They Drive by Night",
-            "overview": "Joe Fabrini et Paul Fabrini sont deux fr\u00e8res routiers qui travaillent dans la r\u00e9gion de San Francisco. Endett\u00e9s, ils ont du mal \u00e0 s'en sortir et finir de payer leur camion, et de nombreuses contrari\u00e9t\u00e9s ne les y aident pas. Un jour cependant, Joe trouve du travail dans l'entreprise d'Ed Carlsen . Tout semble aller mieux pour lui, le travail lui pla\u00eet, tout comme la jolie Cassie dont il devient vite tr\u00e8s \u00e9pris. Mais, Lana, la femme de son patron, tombe amoureuse de Joe.",
-            "popularity": 1.0645,
-            "poster_path": "/wzNDDFvxDkMoUCqHVoXHby4Uqjw.jpg",
-            "release_date": "1940-07-26",
-            "title": "Une femme dangereuse",
+            "original_title": "The Earl of Chicago",
+            "overview": "Dans la seconde moiti\u00e9 des ann\u00e9es 1930, \u00e0 Chicago, le gangster 'Silky' Kilmount dirige une \"respectable\" distillerie d'alcool, apr\u00e8s avoir trafiqu\u00e9 durant la Prohibition ; son bras droit est 'Doc' Ramsey. Orphelin, il apprend un jour que son p\u00e8re, d\u00e9c\u00e9d\u00e9 depuis des ann\u00e9es, \u00e9tait un aristocrate anglais \u00e9tabli au Canada. Par suite, il h\u00e9rite d'un titre de noblesse et des valeurs mobili\u00e8res et immobili\u00e8res y attach\u00e9es. Mais il doit aller en Angleterre pour faire valoir ses droits. Il s'y rend donc, laissant 'Doc' g\u00e9rer ses affaires, et fait la connaissance de sa parent\u00e9, ainsi que de Munsey, son ma\u00eetre-d'h\u00f4tel, lequel s'emploie \u00e0 lui inculquer les rudiments de l'\u00e9ducation qui sied au nouveau \"Comte de Gorley\"...",
+            "popularity": 4.2347,
+            "poster_path": "/e1gHpQlqfGTRfCpn2qP2bzUHQt1.jpg",
+            "release_date": "1940-01-05",
+            "title": "Le Gangster de Chicago",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 129,
+            "vote_average": 6.167,
+            "vote_count": 6,
             "genres": [
-                "Drame",
-                "Crime",
-                "Thriller"
+                "Drame"
             ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 87
         },
         {
             "adult": false,
@@ -1008,7 +986,7 @@
             "original_language": "en",
             "original_title": "The Ghost Breakers",
             "overview": "Mary Carter, jeune Am\u00e9ricaine, h\u00e9rite d'un ch\u00e2teau sur une \u00eele cubaine. D\u00e8s son arriv\u00e9e tout le monde essaie de la dissuader de s'installer sous pr\u00e9texte que l'endroit est hant\u00e9 ...",
-            "popularity": 0.6057,
+            "popularity": 0.512,
             "poster_path": "/iEwXi5XzEmdzxzCU0yxN9prYkF3.jpg",
             "release_date": "1940-06-21",
             "title": "Le Myst\u00e8re du ch\u00e2teau maudit",
@@ -1020,8 +998,30 @@
                 "Horreur",
                 "Myst\u00e8re"
             ],
-            "runtime": 85,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4rd9SUlamdxZlLkCBl6A1z24L4e.jpg",
+            "id": 16933,
+            "original_language": "en",
+            "original_title": "They Drive by Night",
+            "overview": "Joe Fabrini et Paul Fabrini sont deux fr\u00e8res routiers qui travaillent dans la r\u00e9gion de San Francisco. Endett\u00e9s, ils ont du mal \u00e0 s'en sortir et finir de payer leur camion, et de nombreuses contrari\u00e9t\u00e9s ne les y aident pas. Un jour cependant, Joe trouve du travail dans l'entreprise d'Ed Carlsen . Tout semble aller mieux pour lui, le travail lui pla\u00eet, tout comme la jolie Cassie dont il devient vite tr\u00e8s \u00e9pris. Mais, Lana, la femme de son patron, tombe amoureuse de Joe.",
+            "popularity": 0.8802,
+            "poster_path": "/wzNDDFvxDkMoUCqHVoXHby4Uqjw.jpg",
+            "release_date": "1940-07-26",
+            "title": "Une femme dangereuse",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 129,
+            "genres": [
+                "Drame",
+                "Crime",
+                "Thriller"
+            ],
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -1030,7 +1030,7 @@
             "original_language": "en",
             "original_title": "City for Conquest",
             "overview": "Pour obtenir les faveurs de Peggy, Danny devient boxeur. Elle, de son c\u00f4t\u00e9, souhaite \u00eatre danseuse et monte un num\u00e9ro avec un certain Burus...",
-            "popularity": 0.4236,
+            "popularity": 0.495,
             "poster_path": "/pwWBxZMFfgSEvi82PjR8099lcl9.jpg",
             "release_date": "1940-09-21",
             "title": "Ville conquise",
@@ -1042,8 +1042,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -1052,7 +1052,7 @@
             "original_language": "en",
             "original_title": "Third Finger, Left Hand",
             "overview": "",
-            "popularity": 0.1073,
+            "popularity": 0.1074,
             "poster_path": "/nj2sNIvSVEKvrcAlA61sYlNPHfe.jpg",
             "release_date": "1940-10-11",
             "title": "Third Finger, Left Hand",
@@ -1062,8 +1062,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -1072,7 +1072,7 @@
             "original_language": "en",
             "original_title": "Strange Cargo",
             "overview": "Au bagne de l'\u00eele du Diable, en Guyane, Verne, une forte t\u00eate, apprend que quelques prisonniers pr\u00e9parent le soir m\u00eame une \u00e9vasion \u00e0 travers les marais. Il se m\u00eale imm\u00e9diatement \u00e0 eux de m\u00eame que le myst\u00e9rieux Cambreau. \u00c0 l'heure de l'\u00e9vasion, Verne est assomm\u00e9 par un fugitif pendant que les autres disparaissent dans la nature. Mais il retrouve bien rapidement leur trace et part \u00e0 leur trousse en compagnie de Julie, une fille l\u00e9g\u00e8re rencontr\u00e9e quelques heures plus t\u00f4t en ville.",
-            "popularity": 0.3845,
+            "popularity": 0.5039,
             "poster_path": "/jjKSNxOQDc9bz7lv7kVcr3ccffQ.jpg",
             "release_date": "1940-03-01",
             "title": "Le cargo maudit",
@@ -1084,8 +1084,8 @@
                 "Romance",
                 "Aventure"
             ],
-            "runtime": 113,
-            "tagline": "Le myst\u00e9rieux guide"
+            "tagline": "Le myst\u00e9rieux guide",
+            "runtime": 113
         }
     ]
 }

@@ -4,9 +4,30 @@
     "source": "https://criticstop10.com/best-movies-of-2013/",
     "created_by": "lbnt",
     "added": "07/18/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+            "id": 76203,
+            "original_language": "en",
+            "original_title": "12 Years a Slave",
+            "overview": "Les \u00c9tats-Unis, quelques ann\u00e9es avant la guerre de S\u00e9cession.  Solomon Northup, jeune homme noir originaire de l\u2019\u00c9tat de New York, est enlev\u00e9 et vendu comme esclave.  Face \u00e0 la cruaut\u00e9 d\u2019un propri\u00e9taire de plantation de coton, Solomon se bat pour rester en vie et garder sa dignit\u00e9. Douze ans plus tard, il va croiser un abolitionniste canadien et, cette rencontre va changer sa vie\u2026",
+            "popularity": 6.6721,
+            "poster_path": "/AeoXonCArZda8vgBb7IbXiUJsdi.jpg",
+            "release_date": "2013-10-18",
+            "title": "12 Years a Slave",
+            "video": false,
+            "vote_average": 7.935,
+            "vote_count": 11744,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "L'incroyable histoire vraie de Solomon Northup.",
+            "runtime": 134
+        },
         {
             "adult": false,
             "backdrop_path": "/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
@@ -14,84 +35,20 @@
             "original_language": "en",
             "original_title": "Gravity",
             "overview": "Pour sa premi\u00e8re exp\u00e9dition \u00e0 bord d'une navette spatiale, le docteur Ryan Stone, brillante experte en ing\u00e9nierie m\u00e9dicale, accompagne l'astronaute chevronn\u00e9 Matt Kowalski qui effectue son dernier vol avant de prendre sa retraite. Mais alors qu'il s'agit apparemment d'une banale sortie dans l'espace, une catastrophe se produit. Lorsque la navette est pulv\u00e9ris\u00e9e, Stone et Kowalski se retrouvent totalement seuls, livr\u00e9s \u00e0 eux-m\u00eames dans l'univers...",
-            "popularity": 5.7721,
+            "popularity": 5.9392,
             "poster_path": "/cPrUo65h0CDXsAB9t3yL6wfv6j1.jpg",
             "release_date": "2013-10-03",
             "title": "Gravity",
             "video": false,
-            "vote_average": 7.165,
-            "vote_count": 16009,
+            "vote_average": 7.166,
+            "vote_count": 16010,
             "genres": [
                 "Science-Fiction",
                 "Thriller",
                 "Drame"
             ],
-            "runtime": 91,
-            "tagline": "Ne rien l\u00e2cher."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
-            "id": 152601,
-            "original_language": "en",
-            "original_title": "Her",
-            "overview": "Los Angeles, dans un futur proche. Theodore Twombly, un homme sensible au caract\u00e8re complexe, est inconsolable suite \u00e0 une rupture difficile. Il fait alors l'acquisition d'un programme informatique ultramoderne, capable de s'adapter \u00e0 la personnalit\u00e9 de chaque utilisateur. En lan\u00e7ant le syst\u00e8me, il fait la connaissance de 'Samantha', une voix f\u00e9minine intelligente, intuitive et \u00e9tonnamment dr\u00f4le. Les besoins et les d\u00e9sirs de Samantha grandissent et \u00e9voluent, tout comme ceux de Theodore, et peu \u00e0 peu, ils tombent amoureux\u2026",
-            "popularity": 11.6162,
-            "poster_path": "/nkWXW5blXGmOEoDejRgy83sSb6T.jpg",
-            "release_date": "2013-12-18",
-            "title": "Her",
-            "video": false,
-            "vote_average": 7.843,
-            "vote_count": 14959,
-            "genres": [
-                "Romance",
-                "Science-Fiction",
-                "Drame"
-            ],
-            "runtime": 126,
-            "tagline": "Une histoire d'amour avec une IA."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
-            "id": 152584,
-            "original_language": "fr",
-            "original_title": "La Vie d'Ad\u00e8le - Chapitres 1 et 2",
-            "overview": "\u00c0 15 ans, Ad\u00e8le ne se pose pas de questions\u00a0: une fille, \u00e7a sort avec des gar\u00e7ons. Sa vie bascule le jour o\u00f9 elle rencontre Emma, une jeune femme aux cheveux bleus, qui lui fait d\u00e9couvrir le d\u00e9sir et lui permettra de s\u2019affirmer en tant que femme et adulte. Face au regard des autres, Ad\u00e8le grandit, se cherche, se perd, se trouve\u2026",
-            "popularity": 3.3747,
-            "poster_path": "/2rcR4ep2XEreDyEG3TTJW6saNi5.jpg",
-            "release_date": "2013-10-09",
-            "title": "La Vie d'Ad\u00e8le - Chapitres 1 et 2",
-            "video": false,
-            "vote_average": 7.065,
-            "vote_count": 4776,
-            "genres": [
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 179,
-            "tagline": "L'amour est une r\u00e9volution."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bof71DUdBb5FwTylar4rnIVd8z.jpg",
-            "id": 168672,
-            "original_language": "en",
-            "original_title": "American Hustle",
-            "overview": "Ann\u00e9es 1980. Un escroc particuli\u00e8rement brillant, Irving Rosenfeld, et sa belle complice, Sydney Prosser, se retrouvent oblig\u00e9s par un agent du FBI, Richie DiMaso, de nager dans les eaux troubles de la mafia et du pouvoir pour pi\u00e9ger un homme politique corrompu, Carmine Polito. Le pi\u00e8ge est risqu\u00e9, d\u2019autant que l\u2019impr\u00e9visible \u00e9pouse d\u2019Irving, Rosalyn, pourrait bien tous les conduire \u00e0 leur perte.",
-            "popularity": 4.764,
-            "poster_path": "/jw5XxeZReM8kSvrkadV5XSmniyb.jpg",
-            "release_date": "2013-12-03",
-            "title": "American Bluff",
-            "video": false,
-            "vote_average": 6.855,
-            "vote_count": 7575,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 137,
-            "tagline": "Tout le monde se bouscule pour survivre."
+            "tagline": "Ne rien l\u00e2cher.",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -100,7 +57,7 @@
             "original_language": "en",
             "original_title": "Inside Llewyn Davis",
             "overview": "New York, Llewyn Davis lutte pour gagner sa vie comme musicien folk, ne survivant que gr\u00e2ce \u00e0 l'aide que lui apportent des amis ou des inconnus. Des caf\u00e9s du Village \u00e0 un club d\u00e9sert de Chicago, ses m\u00e9saventures le conduisent jusqu'\u00e0 une audition pour le g\u00e9ant de la musique Bud Grossman...",
-            "popularity": 1.9692,
+            "popularity": 2.0893,
             "poster_path": "/SHFBAQtrnBUqWDlrJWPgn7H4jY.jpg",
             "release_date": "2013-10-18",
             "title": "Inside Llewyn Davis",
@@ -111,29 +68,30 @@
                 "Drame",
                 "Musique"
             ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
-            "backdrop_path": "/tKRUCk2yARbAADLwwwrir6F5gpa.jpg",
-            "id": 121986,
+            "backdrop_path": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+            "id": 152601,
             "original_language": "en",
-            "original_title": "Frances Ha",
-            "overview": "\u00c0 27 ans, Frances m\u00e8ne une existence tranquille. Elle vit avec sa meilleure amie Sophie \u00e0 New York et r\u00eave d'\u00eatre une c\u00e9l\u00e8bre danseuse moderne. Alors que la jeune femme a d\u00e9j\u00e0 obtenu son dipl\u00f4me depuis un long moment, sa vie professionnelle stagne. Elle encha\u00eene les d\u00e9ceptions les unes apr\u00e8s les autres. Mais une nouvelle bouscule sa routine. Sophie d\u00e9cide d'emm\u00e9nager avec une autre amie \u00e0 Tribeca. Bient\u00f4t sans logement, Frances se retrouve aussi sans revenus, quand la directrice de sa compagnie de danse lui annonce qu'elle ne peut plus la garder. Imaginative, Frances s'installe chez Lev et Benji, des amis de Sophie. Pour No\u00ebl, elle rentre chez ses parents, \u00e0 Sacramento...",
-            "popularity": 1.9006,
-            "poster_path": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
-            "release_date": "2013-05-17",
-            "title": "Frances Ha",
+            "original_title": "Her",
+            "overview": "Los Angeles, dans un futur proche. Theodore Twombly, un homme sensible au caract\u00e8re complexe, est inconsolable suite \u00e0 une rupture difficile. Il fait alors l'acquisition d'un programme informatique ultramoderne, capable de s'adapter \u00e0 la personnalit\u00e9 de chaque utilisateur. En lan\u00e7ant le syst\u00e8me, il fait la connaissance de 'Samantha', une voix f\u00e9minine intelligente, intuitive et \u00e9tonnamment dr\u00f4le. Les besoins et les d\u00e9sirs de Samantha grandissent et \u00e9voluent, tout comme ceux de Theodore, et peu \u00e0 peu, ils tombent amoureux\u2026",
+            "popularity": 10.7604,
+            "poster_path": "/nkWXW5blXGmOEoDejRgy83sSb6T.jpg",
+            "release_date": "2013-12-18",
+            "title": "Her",
             "video": false,
-            "vote_average": 7.338,
-            "vote_count": 1771,
+            "vote_average": 7.843,
+            "vote_count": 14960,
             "genres": [
-                "Com\u00e9die",
+                "Romance",
+                "Science-Fiction",
                 "Drame"
             ],
-            "runtime": 86,
-            "tagline": ""
+            "tagline": "Une histoire d'amour avec une IA.",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -142,7 +100,7 @@
             "original_language": "en",
             "original_title": "Before Midnight",
             "overview": "Une \u00eele grecque, une villa magnifique, en plein mois d\u2019ao\u00fbt. C\u00e9line, son mari Jesse et leurs deux filles passent leurs vacances chez des amis. On se prom\u00e8ne, on partage des repas arros\u00e9s, on refait le monde. La veille du retour \u00e0 Paris, surprise : les amis offrent au couple une nuit dans un h\u00f4tel de charme, sans les enfants. Les conditions sont idylliques mais les vieilles ranc\u0153urs remontent \u00e0 la surface et la soir\u00e9e en amoureux tourne vite au r\u00e8glement de comptes. C\u00e9line et Jesse seront-ils encore ensemble le matin de leur d\u00e9part ?",
-            "popularity": 3.1718,
+            "popularity": 3.0795,
             "poster_path": "/phT0ekJ7l5zZ79alwquiqqtSI3r.jpg",
             "release_date": "2013-04-05",
             "title": "Before Midnight",
@@ -153,29 +111,72 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 108,
-            "tagline": "Tout est meilleur avec de la maturit\u00e9."
+            "tagline": "Tout est meilleur avec de la maturit\u00e9.",
+            "runtime": 108
         },
         {
             "adult": false,
-            "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
-            "id": 76203,
+            "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+            "id": 106646,
             "original_language": "en",
-            "original_title": "12 Years a Slave",
-            "overview": "Les \u00c9tats-Unis, quelques ann\u00e9es avant la guerre de S\u00e9cession.  Solomon Northup, jeune homme noir originaire de l\u2019\u00c9tat de New York, est enlev\u00e9 et vendu comme esclave.  Face \u00e0 la cruaut\u00e9 d\u2019un propri\u00e9taire de plantation de coton, Solomon se bat pour rester en vie et garder sa dignit\u00e9. Douze ans plus tard, il va croiser un abolitionniste canadien et, cette rencontre va changer sa vie\u2026",
-            "popularity": 6.31,
-            "poster_path": "/AeoXonCArZda8vgBb7IbXiUJsdi.jpg",
-            "release_date": "2013-10-18",
-            "title": "12 Years a Slave",
+            "original_title": "The Wolf of Wall Street",
+            "overview": "Sa licence de courtier en poche, et les narines d\u00e9j\u00e0 pleines de coca\u00efne, Jordan Belfort est pr\u00eat \u00e0 conqu\u00e9rir Wall Street. Ce jour d'octobre, un krach, le plus important depuis 1929, vient pi\u00e9tiner ses r\u00eaves de grandeur. C'est finalement \u00e0 Long Island qu'il \u00e9choue et qu'il monte sa propre affaire de courtage. Son cr\u00e9neau : le hors-cote. Sa m\u00e9thode : l'arnaque. Son \u00e9quipe : des vendeurs ou des petits trafiquants.",
+            "popularity": 16.9502,
+            "poster_path": "/dQIQZbJXn1pflQw3nwvXLJX0dHa.jpg",
+            "release_date": "2013-12-25",
+            "title": "Le Loup de Wall Street",
             "video": false,
-            "vote_average": 7.935,
-            "vote_count": 11743,
+            "vote_average": 8.026,
+            "vote_count": 25360,
+            "genres": [
+                "Crime",
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "tagline": "L'argent, le pouvoir, les femmes, la drogue\u2026 Trop n'est jamais assez.",
+            "runtime": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bof71DUdBb5FwTylar4rnIVd8z.jpg",
+            "id": 168672,
+            "original_language": "en",
+            "original_title": "American Hustle",
+            "overview": "Ann\u00e9es 1980. Un escroc particuli\u00e8rement brillant, Irving Rosenfeld, et sa belle complice, Sydney Prosser, se retrouvent oblig\u00e9s par un agent du FBI, Richie DiMaso, de nager dans les eaux troubles de la mafia et du pouvoir pour pi\u00e9ger un homme politique corrompu, Carmine Polito. Le pi\u00e8ge est risqu\u00e9, d\u2019autant que l\u2019impr\u00e9visible \u00e9pouse d\u2019Irving, Rosalyn, pourrait bien tous les conduire \u00e0 leur perte.",
+            "popularity": 4.1407,
+            "poster_path": "/jw5XxeZReM8kSvrkadV5XSmniyb.jpg",
+            "release_date": "2013-12-03",
+            "title": "American Bluff",
+            "video": false,
+            "vote_average": 6.855,
+            "vote_count": 7576,
             "genres": [
                 "Drame",
-                "Histoire"
+                "Crime"
             ],
-            "runtime": 134,
-            "tagline": "L'incroyable histoire vraie de Solomon Northup."
+            "tagline": "Tout le monde se bouscule pour survivre.",
+            "runtime": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tKRUCk2yARbAADLwwwrir6F5gpa.jpg",
+            "id": 121986,
+            "original_language": "en",
+            "original_title": "Frances Ha",
+            "overview": "\u00c0 27 ans, Frances m\u00e8ne une existence tranquille. Elle vit avec sa meilleure amie Sophie \u00e0 New York et r\u00eave d'\u00eatre une c\u00e9l\u00e8bre danseuse moderne. Alors que la jeune femme a d\u00e9j\u00e0 obtenu son dipl\u00f4me depuis un long moment, sa vie professionnelle stagne. Elle encha\u00eene les d\u00e9ceptions les unes apr\u00e8s les autres. Mais une nouvelle bouscule sa routine. Sophie d\u00e9cide d'emm\u00e9nager avec une autre amie \u00e0 Tribeca. Bient\u00f4t sans logement, Frances se retrouve aussi sans revenus, quand la directrice de sa compagnie de danse lui annonce qu'elle ne peut plus la garder. Imaginative, Frances s'installe chez Lev et Benji, des amis de Sophie. Pour No\u00ebl, elle rentre chez ses parents, \u00e0 Sacramento...",
+            "popularity": 2.3215,
+            "poster_path": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+            "release_date": "2013-05-17",
+            "title": "Frances Ha",
+            "video": false,
+            "vote_average": 7.338,
+            "vote_count": 1771,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -184,7 +185,7 @@
             "original_language": "id",
             "original_title": "Jagal",
             "overview": "Lorsque Joshua Oppenheimer se rend en Indon\u00e9sie pour r\u00e9aliser un documentaire sur le massacre de plus d\u2019un million d\u2019opposants politiques en 1965, il n\u2019imagine pas que, 45 ans apr\u00e8s les faits, les survivants terroris\u00e9s h\u00e9siteraient \u00e0 s\u2019exprimer. Les bourreaux, eux, prot\u00e9g\u00e9s par un pouvoir corrompu, s\u2019\u00e9panchent librement et proposent m\u00eame de rejouer les sc\u00e8nes d\u2019exactions qu\u2019ils ont commises. Joshua Oppenheimer s\u2019empare de cette proposition dans un exercice de cin\u00e9ma v\u00e9rit\u00e9 in\u00e9dit o\u00f9 les bourreaux revivent fi\u00e8rement leurs crimes devant la cam\u00e9ra, en c\u00e9l\u00e9brant avec entrain leur r\u00f4le dans cette tuerie de masse. \"Comme si Hitler et ses complices avaient surv\u00e9cu, puis se seraient r\u00e9unis pour reconstituer leurs sc\u00e8nes favorites de l\u2019Holocauste devant une cam\u00e9ra\", affirme le journaliste Brian D. Johnson.  Une plong\u00e9e vertigineuse dans les abysses de l\u2019inhumanit\u00e9, une r\u00e9flexion saisissante sur l\u2019acte de tuer.",
-            "popularity": 3.08,
+            "popularity": 2.2284,
             "poster_path": "/krhDHzoqTC5DYDkE2kQA8504nOM.jpg",
             "release_date": "2012-11-01",
             "title": "The Act of Killing - L'Acte de Tuer",
@@ -195,30 +196,29 @@
                 "Documentaire",
                 "Histoire"
             ],
-            "runtime": 159,
-            "tagline": "Quand les tueurs gagnent,... Quand les tueurs deviennent des h\u00e9ros,..."
+            "tagline": "Quand les tueurs gagnent,... Quand les tueurs deviennent des h\u00e9ros,...",
+            "runtime": 159
         },
         {
             "adult": false,
-            "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-            "id": 106646,
-            "original_language": "en",
-            "original_title": "The Wolf of Wall Street",
-            "overview": "Sa licence de courtier en poche, et les narines d\u00e9j\u00e0 pleines de coca\u00efne, Jordan Belfort est pr\u00eat \u00e0 conqu\u00e9rir Wall Street. Ce jour d'octobre, un krach, le plus important depuis 1929, vient pi\u00e9tiner ses r\u00eaves de grandeur. C'est finalement \u00e0 Long Island qu'il \u00e9choue et qu'il monte sa propre affaire de courtage. Son cr\u00e9neau : le hors-cote. Sa m\u00e9thode : l'arnaque. Son \u00e9quipe : des vendeurs ou des petits trafiquants.",
-            "popularity": 16.8803,
-            "poster_path": "/dQIQZbJXn1pflQw3nwvXLJX0dHa.jpg",
-            "release_date": "2013-12-25",
-            "title": "Le Loup de Wall Street",
+            "backdrop_path": "/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
+            "id": 152584,
+            "original_language": "fr",
+            "original_title": "La Vie d'Ad\u00e8le - Chapitres 1 et 2",
+            "overview": "\u00c0 15 ans, Ad\u00e8le ne se pose pas de questions\u00a0: une fille, \u00e7a sort avec des gar\u00e7ons. Sa vie bascule le jour o\u00f9 elle rencontre Emma, une jeune femme aux cheveux bleus, qui lui fait d\u00e9couvrir le d\u00e9sir et lui permettra de s\u2019affirmer en tant que femme et adulte. Face au regard des autres, Ad\u00e8le grandit, se cherche, se perd, se trouve\u2026",
+            "popularity": 3.2462,
+            "poster_path": "/2rcR4ep2XEreDyEG3TTJW6saNi5.jpg",
+            "release_date": "2013-10-09",
+            "title": "La Vie d'Ad\u00e8le - Chapitres 1 et 2",
             "video": false,
-            "vote_average": 8.026,
-            "vote_count": 25359,
+            "vote_average": 7.065,
+            "vote_count": 4776,
             "genres": [
-                "Crime",
-                "Drame",
-                "Com\u00e9die"
+                "Romance",
+                "Drame"
             ],
-            "runtime": 179,
-            "tagline": "L'argent, le pouvoir, les femmes, la drogue\u2026 Trop n'est jamais assez."
+            "tagline": "L'amour est une r\u00e9volution.",
+            "runtime": 179
         },
         {
             "adult": false,
@@ -227,7 +227,7 @@
             "original_language": "en",
             "original_title": "Spring Breakers",
             "overview": "Pour financer leur Spring Break, quatre filles aussi fauch\u00e9es que sexy d\u00e9cident de braquer un fast-food. Et ce n\u2019est que le d\u00e9but\u2026 Lors d\u2019une f\u00eate dans une chambre de motel, la soir\u00e9e d\u00e9rape et les filles sont embarqu\u00e9es par la police. En bikini et avec une gueule de bois d\u2019enfer, elles se retrouvent devant le juge, mais contre toute attente leur caution est pay\u00e9e par Alien, un malfrat local qui les prend sous son aile\u2026",
-            "popularity": 2.0666,
+            "popularity": 1.817,
             "poster_path": "/phaTpivsnY1LbXjy0DVwOJPkzHc.jpg",
             "release_date": "2013-03-06",
             "title": "Spring Breakers",
@@ -238,8 +238,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -248,7 +248,7 @@
             "original_language": "en",
             "original_title": "Nebraska",
             "overview": "Un vieil homme, persuad\u00e9 qu\u2019il a gagn\u00e9 le gros lot \u00e0 un improbable tirage au sort par correspondance, cherche \u00e0 rejoindre le Nebraska pour y recevoir son gain... Sa famille, inqui\u00e8te de ce qu\u2019elle per\u00e7oit comme le d\u00e9but d\u2019une d\u00e9mence s\u00e9nile, envisage de le placer en maison de retraite, mais un de ses deux fils se d\u00e9cide finalement \u00e0 emmener son p\u00e8re en voiture chercher ce ch\u00e8que auquel personne ne croit. Pendant le voyage, le vieillard se blesse et l\u2019\u00e9quip\u00e9e fait une \u00e9tape forc\u00e9e dans une petite ville en d\u00e9clin du Nebraska. C\u2019est l\u00e0 que le p\u00e8re est n\u00e9. \u00c9paul\u00e9 par son fils, le vieil homme retrace les souvenirs de son enfance.",
-            "popularity": 2.7799,
+            "popularity": 2.8548,
             "poster_path": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
             "release_date": "2013-09-21",
             "title": "Nebraska",
@@ -259,8 +259,29 @@
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 115,
-            "tagline": "La vie ne consiste pas \u00e0 gagner ou \u00e0 perdremais \u00e0 savoir comment vous la finirez"
+            "tagline": "La vie ne consiste pas \u00e0 gagner ou \u00e0 perdremais \u00e0 savoir comment vous la finirez",
+            "runtime": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s1DqTGJ96V0Q8YxL9GZVkJi48jZ.jpg",
+            "id": 145197,
+            "original_language": "en",
+            "original_title": "Upstream Color",
+            "overview": "Un homme et une femme sont inexorablement attir\u00e9s l\u2019un vers l\u2019autre et se retrouvent ainsi m\u00eal\u00e9s au cycle \u00e9ternel de vie. Ou comment l\u2019identit\u00e9 de chacun devient illusion au fur et \u00e0 mesure que tous deux luttent pour tenter de rassembler des fragments de vies \u00e9parses.",
+            "popularity": 0.6144,
+            "poster_path": "/zeV2KXaluXjXAq9wBg6Q0LHJjNm.jpg",
+            "release_date": "2013-04-05",
+            "title": "Upstream Color",
+            "video": false,
+            "vote_average": 6.328,
+            "vote_count": 784,
+            "genres": [
+                "Drame",
+                "Science-Fiction"
+            ],
+            "tagline": "",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -269,7 +290,7 @@
             "original_language": "en",
             "original_title": "Stories We Tell",
             "overview": "Sarah Polley a une famille (presque) normale\u2026 Et presque comme toutes les familles, la sienne cache un secret. Quand Sarah le d\u00e9couvre, alors qu'elle est d\u00e9j\u00e0 une actrice nomin\u00e9e aux Oscars et une r\u00e9alisatrice reconnue, elle d\u00e9cide de se lancer \u00e0 la recherche de la v\u00e9rit\u00e9.",
-            "popularity": 0.3991,
+            "popularity": 0.3173,
             "poster_path": "/aVDtDW3qP0je1Cy87GDfijG9W4c.jpg",
             "release_date": "2012-10-12",
             "title": "Stories We Tell",
@@ -279,112 +300,8 @@
             "genres": [
                 "Documentaire"
             ],
-            "runtime": 109,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
-            "id": 109424,
-            "original_language": "en",
-            "original_title": "Captain Phillips",
-            "overview": "Capitaine Phillips retrace l\u2019histoire vraie de la prise d\u2019otages du navire de marine marchande am\u00e9ricain Maersk Alabama, men\u00e9e en 2009 par des pirates somaliens. La relation qui s\u2019instaure entre le capitaine Richard Phillips, commandant du bateau, et Muse, le chef des pirates somaliens qui le prend en otage, est au c\u0153ur du r\u00e9cit. Les deux hommes sont in\u00e9vitablement amen\u00e9s \u00e0 s\u2019affronter lorsque Muse et son \u00e9quipe s\u2019attaquent au navire d\u00e9sarm\u00e9 de Phillips. \u00c0 plus de 230 kilom\u00e8tres des c\u00f4tes somaliennes, les deux camps vont se retrouver \u00e0 la merci de forces qui les d\u00e9passent\u2026",
-            "popularity": 4.0976,
-            "poster_path": "/yitWrzHgQfeFMwvjTJwqX7zQG3z.jpg",
-            "release_date": "2013-10-10",
-            "title": "Capitaine Phillips",
-            "video": false,
-            "vote_average": 7.538,
-            "vote_count": 7292,
-            "genres": [
-                "Action",
-                "Drame",
-                "Thriller"
-            ],
-            "runtime": 134,
-            "tagline": "Tout faire pour survivre."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
-            "id": 107985,
-            "original_language": "en",
-            "original_title": "The World's End",
-            "overview": "Il y a vingt ans, Gary, Andrew, Oliver, Steven et Peter \u00e9taient jeunes et fous et aimaient faire la tourn\u00e9e des bars. Les cinq amis d'enfance se souviennent avec nostalgie, enfin surtout Gary, d'une soir\u00e9e \u00e9pique, o\u00f9 ils avaient \u00e9cum\u00e9 les douze pubs de la ville. Ce temps l\u00e0 est loin derri\u00e8re sauf pour Gary, qui refuse obstin\u00e9ment de mener une vie rang\u00e9e. Celui-ci d\u00e9cide de r\u00e9unir ses amis pour un nouveau marathon de la boisson. D'abords r\u00e9ticents, ces derniers finissent par c\u00e9der et ensemble, ils se rendent donc dans leur ville natale, pour aller dans le seul pub o\u00f9 ils n'ont jamais mis les pieds, le myst\u00e9rieux \u00ab LA FIN DU MONDE \u00bb, d\u00e9sormais peupl\u00e9 de robots extraterrestres\u2026",
-            "popularity": 3.904,
-            "poster_path": "/udgMaHco4W8pfUMmIxmX3hjPR4R.jpg",
-            "release_date": "2013-07-18",
-            "title": "Le Dernier Pub avant la fin du monde",
-            "video": false,
-            "vote_average": 6.807,
-            "vote_count": 5727,
-            "genres": [
-                "Com\u00e9die",
-                "Action",
-                "Science-Fiction"
-            ],
-            "runtime": 109,
-            "tagline": "Pr\u00e9parez-vous pour une tourn\u00e9e fatale."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/jcMwL3hE5mXl9o2nMJrTzyw7iXl.jpg",
-            "id": 169813,
-            "original_language": "en",
-            "original_title": "Short Term 12",
-            "overview": "Sensible et d\u00e9termin\u00e9e, Grace est \u00e0 la t\u00eate d'un foyer pour adolescents en difficult\u00e9, nomm\u00e9 Short Term 12. Parmi les jeunes membres de son \u00e9quipe, diversement exp\u00e9riment\u00e9s, la solidarit\u00e9 et le bon esprit sont de mise. Jusqu\u2019\u00e0 l\u2019arriv\u00e9e soudaine d\u2019une fille tourment\u00e9e qui ignore les r\u00e8gles du centre et renvoie Grace \u00e0 sa propre adolescence\u2026 pas si lointaine.",
-            "popularity": 1.1742,
-            "poster_path": "/3jxGlUcDOIBc0gt8KI7ILwokZk6.jpg",
-            "release_date": "2013-08-23",
-            "title": "States of Grace",
-            "video": false,
-            "vote_average": 7.8,
-            "vote_count": 1373,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 96,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/jDJCWtxwHRhFhhlm2vIV8ktOtJM.jpg",
-            "id": 160588,
-            "original_language": "en",
-            "original_title": "Blue Jasmine",
-            "overview": "Munie de ses luxueux bagages, Jasmine d\u00e9barque de l'avion de New York, \u00e0 San Francisco, et se retrouve d\u00e9sempar\u00e9e, seule, \u00e0 la porte de sa soeur Ginger. Lorsque celle-ci, accompagn\u00e9e de ses deux fils, lui ouvre, Jasmine bl\u00eamit devant le mauvais go\u00fbt de l'am\u00e9nagement int\u00e9rieur. Depuis que son mari, un financier de haut vol, s'est pendu dans sa cellule apr\u00e8s avoir \u00e9t\u00e9 arr\u00eat\u00e9 par le FBI pour fraudes massives et abus de confiance, Jasmine a d\u00e9gringol\u00e9 du haut de son magnifique appartement de Park Avenue. Sans le sou, parlant seule \u00e0 des inconnus ou dans le vide, elle n'a plus d'autre refuge que sa soeur, dont le nouveau petit ami, Chili, lui para\u00eet d'une repoussante vulgarit\u00e9\u2026",
-            "popularity": 1.3392,
-            "poster_path": "/dp5VR1Dz6NX4icUZqkgqvDaZMu.jpg",
-            "release_date": "2013-08-01",
-            "title": "Blue Jasmine",
-            "video": false,
-            "vote_average": 6.98,
-            "vote_count": 3575,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 99,
-            "tagline": "Elle va d\u00e9m\u00e9nager, d\u00e9termin\u00e9e \u00e0 rester la m\u00eame."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/t7tTQoBZu66f2NkYr6ViwYn0Cz8.jpg",
-            "id": 127962,
-            "original_language": "en",
-            "original_title": "Leviathan",
-            "overview": "En embarquant sur un chalutier pour dresser le portrait d'une des plus vieilles entreprises humaines, V\u00e9r\u00e9na Paravel et Lucien Castaing-Taylor t\u00e9moignent, dans un flot d'images sid\u00e9rant, de l'affrontement qui engage l'homme, la nature et la machine. Tourn\u00e9 \u00e0 l'aide d'une dizaine de cam\u00e9ras num\u00e9riques ballott\u00e9es au gr\u00e9 du vent et des vagues, sangl\u00e9es aux corps des p\u00eacheurs, aux cordages du bateau, gommant tous rep\u00e8res, et o\u00f9 la mer et le ciel finissent par se confondre, ce documentaire nous avertit des menaces de la p\u00eache intensive autant qu'il r\u00e9v\u00e8le la beaut\u00e9 foudroyante des entrailles de l'oc\u00e9an.",
-            "popularity": 0.953,
-            "poster_path": "/a0Pwu2d76EnC6Wko2a9Ma6sgvKu.jpg",
-            "release_date": "2012-08-09",
-            "title": "Leviathan",
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 100,
-            "genres": [
-                "Documentaire"
-            ],
-            "runtime": 87,
-            "tagline": "Autrefois capitale mondiale de la p\u00eache \u00e0 la baleine, New Bedford est aujourd'hui le plus grand port de p\u00eache des Etats-unis."
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -393,7 +310,7 @@
             "original_language": "en",
             "original_title": "All Is Lost",
             "overview": "Au cours d'un voyage en solitaire \u00e0 travers l'Oc\u00e9an Indien, un homme d\u00e9couvre \u00e0 son r\u00e9veil que la coque de son voilier de 12 m\u00e8tres a \u00e9t\u00e9 perc\u00e9e lors d'une collision avec un container flottant \u00e0 la d\u00e9rive. Priv\u00e9 de sa radio et de son mat\u00e9riel de navigation, l'homme se laisse prendre dans une violente temp\u00eate. Malgr\u00e9 ses r\u00e9parations, son g\u00e9nie marin et une force physique d\u00e9fiant les ann\u00e9es, il y survit de justesse. Avec un simple sextant et quelques cartes marines pour \u00e9tablir sa position, il doit s'en remettre aux courants pour esp\u00e9rer se rapprocher d'une voie de navigation et h\u00e9ler un navire de passage. Mais le soleil implacable, la menace des requins et l'\u00e9puisement de ses maigres r\u00e9serves forcent ce marin forcen\u00e9 \u00e0 regarder la mort en face.",
-            "popularity": 1.203,
+            "popularity": 1.6744,
             "poster_path": "/7yPNj5Xdj1Vl3Edyl3mzWYZMzgE.jpg",
             "release_date": "2013-08-23",
             "title": "All Is Lost",
@@ -405,29 +322,112 @@
                 "Aventure",
                 "Drame"
             ],
-            "runtime": 105,
-            "tagline": "Ne jamais renoncer."
+            "tagline": "Ne jamais renoncer.",
+            "runtime": 105
         },
         {
             "adult": false,
-            "backdrop_path": "/s1DqTGJ96V0Q8YxL9GZVkJi48jZ.jpg",
-            "id": 145197,
+            "backdrop_path": "/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+            "id": 109424,
             "original_language": "en",
-            "original_title": "Upstream Color",
-            "overview": "Un homme et une femme sont inexorablement attir\u00e9s l\u2019un vers l\u2019autre et se retrouvent ainsi m\u00eal\u00e9s au cycle \u00e9ternel de vie. Ou comment l\u2019identit\u00e9 de chacun devient illusion au fur et \u00e0 mesure que tous deux luttent pour tenter de rassembler des fragments de vies \u00e9parses.",
-            "popularity": 0.6693,
-            "poster_path": "/zeV2KXaluXjXAq9wBg6Q0LHJjNm.jpg",
-            "release_date": "2013-04-05",
-            "title": "Upstream Color",
+            "original_title": "Captain Phillips",
+            "overview": "Capitaine Phillips retrace l\u2019histoire vraie de la prise d\u2019otages du navire de marine marchande am\u00e9ricain Maersk Alabama, men\u00e9e en 2009 par des pirates somaliens. La relation qui s\u2019instaure entre le capitaine Richard Phillips, commandant du bateau, et Muse, le chef des pirates somaliens qui le prend en otage, est au c\u0153ur du r\u00e9cit. Les deux hommes sont in\u00e9vitablement amen\u00e9s \u00e0 s\u2019affronter lorsque Muse et son \u00e9quipe s\u2019attaquent au navire d\u00e9sarm\u00e9 de Phillips. \u00c0 plus de 230 kilom\u00e8tres des c\u00f4tes somaliennes, les deux camps vont se retrouver \u00e0 la merci de forces qui les d\u00e9passent\u2026",
+            "popularity": 4.8417,
+            "poster_path": "/yitWrzHgQfeFMwvjTJwqX7zQG3z.jpg",
+            "release_date": "2013-10-10",
+            "title": "Capitaine Phillips",
             "video": false,
-            "vote_average": 6.328,
-            "vote_count": 784,
+            "vote_average": 7.538,
+            "vote_count": 7292,
             "genres": [
+                "Action",
                 "Drame",
+                "Thriller"
+            ],
+            "tagline": "Tout faire pour survivre.",
+            "runtime": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jDJCWtxwHRhFhhlm2vIV8ktOtJM.jpg",
+            "id": 160588,
+            "original_language": "en",
+            "original_title": "Blue Jasmine",
+            "overview": "Munie de ses luxueux bagages, Jasmine d\u00e9barque de l'avion de New York, \u00e0 San Francisco, et se retrouve d\u00e9sempar\u00e9e, seule, \u00e0 la porte de sa soeur Ginger. Lorsque celle-ci, accompagn\u00e9e de ses deux fils, lui ouvre, Jasmine bl\u00eamit devant le mauvais go\u00fbt de l'am\u00e9nagement int\u00e9rieur. Depuis que son mari, un financier de haut vol, s'est pendu dans sa cellule apr\u00e8s avoir \u00e9t\u00e9 arr\u00eat\u00e9 par le FBI pour fraudes massives et abus de confiance, Jasmine a d\u00e9gringol\u00e9 du haut de son magnifique appartement de Park Avenue. Sans le sou, parlant seule \u00e0 des inconnus ou dans le vide, elle n'a plus d'autre refuge que sa soeur, dont le nouveau petit ami, Chili, lui para\u00eet d'une repoussante vulgarit\u00e9\u2026",
+            "popularity": 1.5209,
+            "poster_path": "/dp5VR1Dz6NX4icUZqkgqvDaZMu.jpg",
+            "release_date": "2013-08-01",
+            "title": "Blue Jasmine",
+            "video": false,
+            "vote_average": 6.98,
+            "vote_count": 3575,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Elle va d\u00e9m\u00e9nager, d\u00e9termin\u00e9e \u00e0 rester la m\u00eame.",
+            "runtime": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jcMwL3hE5mXl9o2nMJrTzyw7iXl.jpg",
+            "id": 169813,
+            "original_language": "en",
+            "original_title": "Short Term 12",
+            "overview": "Sensible et d\u00e9termin\u00e9e, Grace est \u00e0 la t\u00eate d'un foyer pour adolescents en difficult\u00e9, nomm\u00e9 Short Term 12. Parmi les jeunes membres de son \u00e9quipe, diversement exp\u00e9riment\u00e9s, la solidarit\u00e9 et le bon esprit sont de mise. Jusqu\u2019\u00e0 l\u2019arriv\u00e9e soudaine d\u2019une fille tourment\u00e9e qui ignore les r\u00e8gles du centre et renvoie Grace \u00e0 sa propre adolescence\u2026 pas si lointaine.",
+            "popularity": 1.04,
+            "poster_path": "/3jxGlUcDOIBc0gt8KI7ILwokZk6.jpg",
+            "release_date": "2013-08-23",
+            "title": "States of Grace",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1373,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t7tTQoBZu66f2NkYr6ViwYn0Cz8.jpg",
+            "id": 127962,
+            "original_language": "en",
+            "original_title": "Leviathan",
+            "overview": "En embarquant sur un chalutier pour dresser le portrait d'une des plus vieilles entreprises humaines, V\u00e9r\u00e9na Paravel et Lucien Castaing-Taylor t\u00e9moignent, dans un flot d'images sid\u00e9rant, de l'affrontement qui engage l'homme, la nature et la machine. Tourn\u00e9 \u00e0 l'aide d'une dizaine de cam\u00e9ras num\u00e9riques ballott\u00e9es au gr\u00e9 du vent et des vagues, sangl\u00e9es aux corps des p\u00eacheurs, aux cordages du bateau, gommant tous rep\u00e8res, et o\u00f9 la mer et le ciel finissent par se confondre, ce documentaire nous avertit des menaces de la p\u00eache intensive autant qu'il r\u00e9v\u00e8le la beaut\u00e9 foudroyante des entrailles de l'oc\u00e9an.",
+            "popularity": 0.835,
+            "poster_path": "/a0Pwu2d76EnC6Wko2a9Ma6sgvKu.jpg",
+            "release_date": "2012-08-09",
+            "title": "Leviathan",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 100,
+            "genres": [
+                "Documentaire"
+            ],
+            "tagline": "Autrefois capitale mondiale de la p\u00eache \u00e0 la baleine, New Bedford est aujourd'hui le plus grand port de p\u00eache des Etats-unis.",
+            "runtime": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
+            "id": 107985,
+            "original_language": "en",
+            "original_title": "The World's End",
+            "overview": "Il y a vingt ans, Gary, Andrew, Oliver, Steven et Peter \u00e9taient jeunes et fous et aimaient faire la tourn\u00e9e des bars. Les cinq amis d'enfance se souviennent avec nostalgie, enfin surtout Gary, d'une soir\u00e9e \u00e9pique, o\u00f9 ils avaient \u00e9cum\u00e9 les douze pubs de la ville. Ce temps l\u00e0 est loin derri\u00e8re sauf pour Gary, qui refuse obstin\u00e9ment de mener une vie rang\u00e9e. Celui-ci d\u00e9cide de r\u00e9unir ses amis pour un nouveau marathon de la boisson. D'abords r\u00e9ticents, ces derniers finissent par c\u00e9der et ensemble, ils se rendent donc dans leur ville natale, pour aller dans le seul pub o\u00f9 ils n'ont jamais mis les pieds, le myst\u00e9rieux \u00ab LA FIN DU MONDE \u00bb, d\u00e9sormais peupl\u00e9 de robots extraterrestres\u2026",
+            "popularity": 4.6147,
+            "poster_path": "/udgMaHco4W8pfUMmIxmX3hjPR4R.jpg",
+            "release_date": "2013-07-18",
+            "title": "Le Dernier Pub avant la fin du monde",
+            "video": false,
+            "vote_average": 6.807,
+            "vote_count": 5727,
+            "genres": [
+                "Com\u00e9die",
+                "Action",
                 "Science-Fiction"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "Pr\u00e9parez-vous pour une tourn\u00e9e fatale.",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -436,7 +436,7 @@
             "original_language": "en",
             "original_title": "Mud",
             "overview": "Ellis et Neckbone, 14 ans, d\u00e9couvrent lors d\u2019une de leurs escapades quotidiennes, un homme r\u00e9fugi\u00e9 sur une \u00eele au milieu du Mississipi. C\u2019est Mud : un serpent tatou\u00e9 sur le bras, un flingue et une chemise porte-bonheur. Mud, c\u2019est aussi un homme qui croit en l\u2019amour, une croyance \u00e0 laquelle Ellis a d\u00e9sesp\u00e9r\u00e9ment besoin de se raccrocher pour tenter d\u2019oublier les tensions quotidiennes entre ses parents. Tr\u00e8s vite, Mud met les deux adolescents \u00e0 contribution pour r\u00e9parer un bateau qui lui permettra de quitter l\u2019\u00eele. Difficile cependant pour les gar\u00e7ons de d\u00e9celer le vrai du faux dans les paroles de Mud. A-t-il vraiment tu\u00e9 un homme, est-il poursuivi par la justice, par des chasseurs de primes ? Et qui est donc cette fille myst\u00e9rieuse qui vient de d\u00e9barquer dans leur petite ville de l\u2019Arkansas ?",
-            "popularity": 3.9523,
+            "popularity": 3.6201,
             "poster_path": "/ro6p2fgfzZ6afowotF6LNbP6drl.jpg",
             "release_date": "2013-04-26",
             "title": "Mud - Sur les rives du Mississippi",
@@ -446,8 +446,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 130,
-            "tagline": "L'histoire myst\u00e9rieuse d'un homme tatou\u00e9 traqu\u00e9 par son pass\u00e9."
+            "tagline": "L'histoire myst\u00e9rieuse d'un homme tatou\u00e9 traqu\u00e9 par son pass\u00e9.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -456,7 +456,7 @@
             "original_language": "zh",
             "original_title": "\u5929\u6ce8\u5b9a",
             "overview": "Dahai, mineur exasp\u00e9r\u00e9 par la corruption des dirigeants de son village, d\u00e9cide de passer \u00e0 l'action. San'er, un travailleur migrant, d\u00e9couvre les infinies possibilit\u00e9s offertes par son arme \u00e0 feu. Xiaoyu, h\u00f4tesse d'accueil dans un sauna, est pouss\u00e9e \u00e0 bout par le harc\u00e8lement d'un riche client. Xiaohui passe d'un travail \u00e0 un autre dans des conditions de plus en plus d\u00e9gradantes. Quatre personnages, quatre provinces, un seul et m\u00eame reflet de la Chine contemporaine : celui d'une soci\u00e9t\u00e9 au d\u00e9veloppement \u00e9conomique brutal peu \u00e0 peu gangren\u00e9e par la violence.",
-            "popularity": 2.8744,
+            "popularity": 2.5413,
             "poster_path": "/sFmXFOjlvQ24OPcs6rZ8amc8RBL.jpg",
             "release_date": "2013-10-04",
             "title": "A Touch of Sin",
@@ -467,8 +467,48 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 130,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u0nAnvRdzAGgDYLyfIbAUBDOcpb.jpg",
+            "id": 157354,
+            "original_language": "en",
+            "original_title": "Fruitvale Station",
+            "overview": "Le 1er janvier 2009 au matin, Oscar Grant, 22 ans, croise des agents de police dans la station de m\u00e9tro Fruitvale, San Francisco. Le film raconte les vingt quatre heures qui ont pr\u00e9c\u00e9d\u00e9 cette rencontre.",
+            "popularity": 2.8896,
+            "poster_path": "/zbpSPNXPccOVlKD3W8Abeqkeo5d.jpg",
+            "release_date": "2013-07-26",
+            "title": "Fruitvale Station",
+            "video": false,
+            "vote_average": 7.355,
+            "vote_count": 1382,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4T5d7KGrpx3BTDq9IKm6KpMeeNp.jpg",
+            "id": 179144,
+            "original_language": "it",
+            "original_title": "La grande bellezza",
+            "overview": "Rome dans la splendeur de l\u2019\u00e9t\u00e9. Jep Gambardella jouit des mondanit\u00e9s de la ville. Journaliste \u00e0 succ\u00e8s, s\u00e9ducteur imp\u00e9nitent, il a \u00e9crit dans sa jeunesse un roman qui lui a valu un prix litt\u00e9raire et une r\u00e9putation d\u2019\u00e9crivain frustr\u00e9 : il cache son d\u00e9sarroi derri\u00e8re une attitude cynique et d\u00e9sabus\u00e9e qui l\u2019am\u00e8ne \u00e0 poser sur le monde un regard d\u2019une am\u00e8re lucidit\u00e9. Revenu de tout, Jep r\u00eave parfois de se remettre \u00e0 \u00e9crire, travers\u00e9 par les souvenirs d\u2019un amour de jeunesse auquel il se raccroche, mais y parviendra-t-il ? Surmontera-t-il son profond d\u00e9go\u00fbt de lui-m\u00eame et des autres dans une ville dont l\u2019aveuglante beaut\u00e9 a quelque chose de paralysant\u2026",
+            "popularity": 2.7196,
+            "poster_path": "/uniTurXiWxgxf4TcOHqdjgY7yqD.jpg",
+            "release_date": "2013-05-21",
+            "title": "La grande bellezza",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3250,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 142
         },
         {
             "adult": false,
@@ -477,7 +517,7 @@
             "original_language": "en",
             "original_title": "Dallas Buyers Club",
             "overview": "1986, Dallas, Texas. Ron Woodroof, cow\u2010boy de 35 ans, des bottes, un Stetson. Sa vie: sexe, drogue et rod\u00e9o. Tout bascule quand le sida (VIH) est diagnostiqu\u00e9 avec une esp\u00e9rance de vie de trente jours. Soulev\u00e9 par l\u2019impuissance du corps m\u00e9dical qui n'a le droit qu'\u00e0 l'inefficace AZT, il recourt \u00e0 des traitements alternatifs de l'\u00c9tranger non officiels. Au fil du temps, il rassemble d\u2019autres malades en qu\u00eate de gu\u00e9rison : le \u00ab Dallas Buyers Club \u00bb est n\u00e9. Mais son succ\u00e8s g\u00eane les lobbies, Ron doit s\u2019engager dans une bataille contre les laboratoires et les autorit\u00e9s f\u00e9d\u00e9rales. C\u2019est son combat pour une nouvelle cause et pour sa propre vie.  Film librement inspir\u00e9 de la vie de Ron Woodroof (1950 - 1992).",
-            "popularity": 10.95,
+            "popularity": 8.2455,
             "poster_path": "/euuPpXZhVBZzD0JLghTX7foFY70.jpg",
             "release_date": "2013-11-01",
             "title": "Dallas Buyers Club",
@@ -488,48 +528,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 116,
-            "tagline": "Oser vivre!"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4T5d7KGrpx3BTDq9IKm6KpMeeNp.jpg",
-            "id": 179144,
-            "original_language": "it",
-            "original_title": "La grande bellezza",
-            "overview": "Rome dans la splendeur de l\u2019\u00e9t\u00e9. Jep Gambardella jouit des mondanit\u00e9s de la ville. Journaliste \u00e0 succ\u00e8s, s\u00e9ducteur imp\u00e9nitent, il a \u00e9crit dans sa jeunesse un roman qui lui a valu un prix litt\u00e9raire et une r\u00e9putation d\u2019\u00e9crivain frustr\u00e9 : il cache son d\u00e9sarroi derri\u00e8re une attitude cynique et d\u00e9sabus\u00e9e qui l\u2019am\u00e8ne \u00e0 poser sur le monde un regard d\u2019une am\u00e8re lucidit\u00e9. Revenu de tout, Jep r\u00eave parfois de se remettre \u00e0 \u00e9crire, travers\u00e9 par les souvenirs d\u2019un amour de jeunesse auquel il se raccroche, mais y parviendra-t-il ? Surmontera-t-il son profond d\u00e9go\u00fbt de lui-m\u00eame et des autres dans une ville dont l\u2019aveuglante beaut\u00e9 a quelque chose de paralysant\u2026",
-            "popularity": 2.0167,
-            "poster_path": "/uniTurXiWxgxf4TcOHqdjgY7yqD.jpg",
-            "release_date": "2013-05-21",
-            "title": "La grande bellezza",
-            "video": false,
-            "vote_average": 7.506,
-            "vote_count": 3250,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 142,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/u0nAnvRdzAGgDYLyfIbAUBDOcpb.jpg",
-            "id": 157354,
-            "original_language": "en",
-            "original_title": "Fruitvale Station",
-            "overview": "Le 1er janvier 2009 au matin, Oscar Grant, 22 ans, croise des agents de police dans la station de m\u00e9tro Fruitvale, San Francisco. Le film raconte les vingt quatre heures qui ont pr\u00e9c\u00e9d\u00e9 cette rencontre.",
-            "popularity": 2.998,
-            "poster_path": "/zbpSPNXPccOVlKD3W8Abeqkeo5d.jpg",
-            "release_date": "2013-07-26",
-            "title": "Fruitvale Station",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 1381,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "Oser vivre!",
+            "runtime": 116
         },
         {
             "adult": false,
@@ -538,7 +538,7 @@
             "original_language": "en",
             "original_title": "Computer Chess",
             "overview": "",
-            "popularity": 0.9388,
+            "popularity": 0.7749,
             "poster_path": "/13lK8Ytp218J0mPullUzpvHjNrX.jpg",
             "release_date": "2013-07-17",
             "title": "Computer Chess",
@@ -548,30 +548,8 @@
             "genres": [
                 "Com\u00e9die"
             ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
-            "id": 146233,
-            "original_language": "en",
-            "original_title": "Prisoners",
-            "overview": "Dans la banlieue de Boston, deux fillettes de 6 ans, Anna et Joy, ont disparu. Le d\u00e9tective Loki privil\u00e9gie la th\u00e8se du kidnapping suite au t\u00e9moignage de Keller, le p\u00e8re d\u2019Anna. Le suspect num\u00e9ro 1 est rapidement arr\u00eat\u00e9 mais est rel\u00e2ch\u00e9 quelques jours plus tard faute de preuve, entrainant la fureur de Keller. Aveugl\u00e9 par sa douleur, le p\u00e8re d\u00e9vast\u00e9 se lance alors dans une course contre la montre pour retrouver les enfants disparus. De son c\u00f4t\u00e9, Loki essaie de trouver des indices pour arr\u00eater le coupable avant que Keller ne commette l\u2019irr\u00e9parable\u2026 Les jours passent et les chances de retrouver les fillettes s\u2019amenuisent\u2026",
-            "popularity": 10.0372,
-            "poster_path": "/fUk1f0iOAezl5PZ7gQW6nrguOXk.jpg",
-            "release_date": "2013-09-19",
-            "title": "Prisoners",
-            "video": false,
-            "vote_average": 8.102,
-            "vote_count": 12663,
-            "genres": [
-                "Drame",
-                "Thriller",
-                "Crime"
-            ],
-            "runtime": 153,
-            "tagline": "Une recherche d\u00e9sesp\u00e9r\u00e9e."
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -580,7 +558,7 @@
             "original_language": "en",
             "original_title": "Museum Hours",
             "overview": "",
-            "popularity": 3.3411,
+            "popularity": 3.6416,
             "poster_path": "/6iiBrKR7FeBY7HuRNkkPNDs01yC.jpg",
             "release_date": "2012-08-08",
             "title": "Museum Hours",
@@ -590,8 +568,30 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n1ItmvzsDV5yLgDodSCLZpFlsP6.jpg",
+            "id": 146233,
+            "original_language": "en",
+            "original_title": "Prisoners",
+            "overview": "Dans la banlieue de Boston, deux fillettes de 6 ans, Anna et Joy, ont disparu. Le d\u00e9tective Loki privil\u00e9gie la th\u00e8se du kidnapping suite au t\u00e9moignage de Keller, le p\u00e8re d\u2019Anna. Le suspect num\u00e9ro 1 est rapidement arr\u00eat\u00e9 mais est rel\u00e2ch\u00e9 quelques jours plus tard faute de preuve, entrainant la fureur de Keller. Aveugl\u00e9 par sa douleur, le p\u00e8re d\u00e9vast\u00e9 se lance alors dans une course contre la montre pour retrouver les enfants disparus. De son c\u00f4t\u00e9, Loki essaie de trouver des indices pour arr\u00eater le coupable avant que Keller ne commette l\u2019irr\u00e9parable\u2026 Les jours passent et les chances de retrouver les fillettes s\u2019amenuisent\u2026",
+            "popularity": 9.7875,
+            "poster_path": "/fUk1f0iOAezl5PZ7gQW6nrguOXk.jpg",
+            "release_date": "2013-09-19",
+            "title": "Prisoners",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 12665,
+            "genres": [
+                "Drame",
+                "Thriller",
+                "Crime"
+            ],
+            "tagline": "Une recherche d\u00e9sesp\u00e9r\u00e9e.",
+            "runtime": 153
         },
         {
             "adult": false,
@@ -600,7 +600,7 @@
             "original_language": "en",
             "original_title": "Enough Said",
             "overview": "M\u00e8re divorc\u00e9e, Eva se passionne pour son m\u00e9tier de masseuse. Tr\u00e8s attach\u00e9e \u00e0 sa fille, elle redoute le jour \u2013 d\u00e9sormais imminent \u2013 o\u00f9 celle-ci va quitter la maison pour aller \u00e0 l\u2019universit\u00e9. A l\u2019occasion d\u2019une soir\u00e9e, elle rencontre Albert, un homme doux, dr\u00f4le et attachant qui partage les m\u00eames appr\u00e9hensions qu\u2019elle. Tandis qu\u2019ils s\u2019\u00e9prennent l\u2019un de l\u2019autre, Eva devient l\u2019amie et confidente de Marianne, une nouvelle cliente, ravissante po\u00e8te qui semblerait parfaite si seulement elle n\u2019avait pas un \u00e9norme d\u00e9faut : d\u00e9nigrer sans cesse son ex-mari. Soudain Eva en vient \u00e0 douter de sa propre relation avec Albert qu\u2019elle fr\u00e9quente depuis peu.",
-            "popularity": 2.5629,
+            "popularity": 2.6711,
             "poster_path": "/g9PanmOx5X8tPKqGCA5xByv1KAM.jpg",
             "release_date": "2013-09-18",
             "title": "All About Albert",
@@ -612,8 +612,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -622,7 +622,7 @@
             "original_language": "en",
             "original_title": "The Spectacular Now",
             "overview": "Sutter est un adolescent brillant, dr\u00f4le, charmant... et tr\u00e8s port\u00e9 sur la boisson. Son quotidien est chamboul\u00e9 par sa rencontre avec la timide Aimee, une jeune femme totalement diff\u00e9rente de lui.",
-            "popularity": 2.7343,
+            "popularity": 2.5882,
             "poster_path": "/tYDbDuZ3K4Xwp3cwtmZM6k53bwq.jpg",
             "release_date": "2013-08-02",
             "title": "The Spectacular Now",
@@ -634,8 +634,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -644,7 +644,7 @@
             "original_language": "en",
             "original_title": "The Hunt",
             "overview": "",
-            "popularity": 0.9043,
+            "popularity": 0.776,
             "poster_path": null,
             "release_date": "2013-02-22",
             "title": "The Hunt",
@@ -654,8 +654,8 @@
             "genres": [
                 "Horreur"
             ],
-            "runtime": 8,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 8
         },
         {
             "adult": false,
@@ -664,7 +664,7 @@
             "original_language": "en",
             "original_title": "To the Wonder",
             "overview": "Neil et Marina sont deux amants fous amoureux. Cependant, avec leur arriv\u00e9e en Am\u00e9rique, le couple se fragilise, tous deux tiraill\u00e9s. \u00c0 travers plusieurs personnages, le film pose la question de la nature de l'Amour, et de son \u00e9volution.",
-            "popularity": 1.2075,
+            "popularity": 1.2342,
             "poster_path": "/nMVCdUIcdyVHyjwUEaBAO6d5WOU.jpg",
             "release_date": "2013-02-22",
             "title": "\u00c0 la merveille",
@@ -675,8 +675,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9CIG8zW5iyxjSjNDF7hK74rsky8.jpg",
+            "id": 102001,
+            "original_language": "ja",
+            "original_title": "Like Someone in Love",
+            "overview": "Un vieil homme et une jeune femme se rencontrent \u00e0 Tokyo. Elle ne sait rien de lui, lui croit la conna\u00eetre. Il lui ouvre sa maison, elle lui propose son corps. Mais rien de ce qui se tisse entre eux en l\u2019espace de vingt-quatre heures ne tient aux circonstances de leur rencontre.",
+            "popularity": 1.3406,
+            "poster_path": "/tv0TsKtr9hOTCHDDYwGfBoHs7AW.jpg",
+            "release_date": "2012-09-15",
+            "title": "Like Someone in Love",
+            "video": false,
+            "vote_average": 6.887,
+            "vote_count": 265,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
@@ -685,7 +705,7 @@
             "original_language": "en",
             "original_title": "Frozen",
             "overview": "Anna, une jeune fille aussi audacieuse qu\u2019optimiste, se lance dans un incroyable voyage en compagnie de Kristoff, un montagnard exp\u00e9riment\u00e9, et de son fid\u00e8le renne, Sven \u00e0 la recherche de sa s\u0153ur, Elsa, la Reine des Neiges qui a plong\u00e9 le royaume d\u2019Arendelle dans un hiver \u00e9ternel\u2026  En chemin, ils vont rencontrer de myst\u00e9rieux trolls et un dr\u00f4le de bonhomme de neige nomm\u00e9 Olaf, braver les conditions extr\u00eames des sommets escarp\u00e9s et glac\u00e9s, et affronter la magie qui les guette \u00e0 chaque pas.",
-            "popularity": 18.3296,
+            "popularity": 18.5463,
             "poster_path": "/fikeGulMBxdBmyCK8cvRbqaUcDR.jpg",
             "release_date": "2013-11-20",
             "title": "La Reine des neiges",
@@ -698,8 +718,8 @@
                 "Aventure",
                 "Fantastique"
             ],
-            "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -708,13 +728,13 @@
             "original_language": "ja",
             "original_title": "\u98a8\u7acb\u3061\u306c",
             "overview": "Inspir\u00e9 par le fameux concepteur d'avions Giovanni Caproni, Jiro r\u00eave de voler et de dessiner de magnifiques avions. Mais sa mauvaise vue l'emp\u00eache de devenir pilote, et il se fait engager dans le d\u00e9partement a\u00e9ronautique d'une importante entreprise d'ing\u00e9nierie en 1927. Son g\u00e9nie l'impose rapidement comme l'un des plus grands ing\u00e9nieurs du monde. Le Vent se l\u00e8ve raconte une grande partie de sa vie et d\u00e9peint les \u00e9v\u00e9nements historiques cl\u00e9s qui ont profond\u00e9ment influenc\u00e9 le cours de son existence, dont le s\u00e9isme de Kanto en 1923, la Grande D\u00e9pression, l'\u00e9pid\u00e9mie de tuberculose et l'entr\u00e9e en guerre du Japon. Jiro conna\u00eetra l'amour avec Nahoko et l'amiti\u00e9 avec son coll\u00e8gue Honjo. Inventeur extraordinaire, il fera entrer l'aviation dans une \u00e8re nouvelle.",
-            "popularity": 5.3314,
+            "popularity": 5.2308,
             "poster_path": "/bQcNJ8inwZuxAZ965jRCjjCti0D.jpg",
             "release_date": "2013-07-20",
             "title": "Le Vent se l\u00e8ve",
             "video": false,
             "vote_average": 7.793,
-            "vote_count": 3250,
+            "vote_count": 3251,
             "genres": [
                 "Drame",
                 "Animation",
@@ -722,28 +742,8 @@
                 "Guerre",
                 "Histoire"
             ],
-            "runtime": 126,
-            "tagline": "Les avions sont des r\u00eaves merveilleux"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9CIG8zW5iyxjSjNDF7hK74rsky8.jpg",
-            "id": 102001,
-            "original_language": "ja",
-            "original_title": "Like Someone in Love",
-            "overview": "Un vieil homme et une jeune femme se rencontrent \u00e0 Tokyo. Elle ne sait rien de lui, lui croit la conna\u00eetre. Il lui ouvre sa maison, elle lui propose son corps. Mais rien de ce qui se tisse entre eux en l\u2019espace de vingt-quatre heures ne tient aux circonstances de leur rencontre.",
-            "popularity": 1.5839,
-            "poster_path": "/tv0TsKtr9hOTCHDDYwGfBoHs7AW.jpg",
-            "release_date": "2012-09-15",
-            "title": "Like Someone in Love",
-            "video": false,
-            "vote_average": 6.887,
-            "vote_count": 265,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "Les avions sont des r\u00eaves merveilleux",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -752,7 +752,7 @@
             "original_language": "en",
             "original_title": "Stoker",
             "overview": "Apr\u00e8s la mort de son p\u00e8re dans un \u00e9trange accident de voiture, India, une adolescente, voit un oncle dont elle ignorait l\u2019existence venir s\u2019installer avec elle et sa m\u00e8re. Rapidement, la jeune fille se met \u00e0 soup\u00e7onner l\u2019homme d\u2019avoir d\u2019autres motivations que celle de les aider. La m\u00e9fiance s\u2019installe, mais l\u2019attirance aussi...",
-            "popularity": 2.6109,
+            "popularity": 2.1076,
             "poster_path": "/aK0PTgwDiLm2YCNpOrhD8JR3mqL.jpg",
             "release_date": "2013-02-28",
             "title": "Stoker",
@@ -764,8 +764,8 @@
                 "Horreur",
                 "Thriller"
             ],
-            "runtime": 99,
-            "tagline": "Enfance \u2022 Innocence \u2022 Vengeance"
+            "tagline": "Enfance \u2022 Innocence \u2022 Vengeance",
+            "runtime": 99
         },
         {
             "adult": false,
@@ -774,7 +774,7 @@
             "original_language": "zh",
             "original_title": "\u4e00\u4ee3\u5b97\u5e2b",
             "overview": "Chine, 1936. Ip Man, ma\u00eetre l\u00e9gendaire de Wing Chun (un des divers styles de Kung\u2010Fu) et futur mentor de Bruce Lee, m\u00e8ne une vie prosp\u00e8re \u00e0 Foshan o\u00f9 il partage son temps entre sa famille et les arts\u2010martiaux. C\u2019est \u00e0 ce moment que le Grand ma\u00eetre Baosen, \u00e0 la t\u00eate de l\u2019Ordre des Arts Martiaux Chinois, cherche son successeur. Pour sa c\u00e9r\u00e9monie d\u2019adieux, il se rend \u00e0 Foshan, avec sa fille Gong Er, elle\u2010m\u00eame ma\u00eetre du style Ba Gua et la seule \u00e0 conna\u00eetre la figure mortelle des 64 mains. Lors de cette c\u00e9r\u00e9monie, Ip Man affronte les grand ma\u00eetres du Sud et fait alors la connaissance de Gong Er en qui il trouve son \u00e9gal. Tr\u00e8s vite l\u2019admiration laisse place au d\u00e9sir et d\u00e9voile une histoire d\u2019amour impossible. Peu de temps apr\u00e8s, le Grand ma\u00eetre Baosen est assassin\u00e9 par l\u2019un de ses disciples, puis, entre 1937 et 1945, l\u2019occupation japonaise plonge le pays dans le chaos.",
-            "popularity": 3.5351,
+            "popularity": 3.6269,
             "poster_path": "/r0OTFVXvwrXnVeKLcgmrbs0NQJN.jpg",
             "release_date": "2013-01-10",
             "title": "The Grandmaster",
@@ -786,8 +786,8 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 122,
-            "tagline": "D\u00e9couvrez la l\u00e9gende d\u2019Ip Man"
+            "tagline": "D\u00e9couvrez la l\u00e9gende d\u2019Ip Man",
+            "runtime": 122
         },
         {
             "adult": false,
@@ -796,7 +796,7 @@
             "original_language": "en",
             "original_title": "The Pastor and Mrs. Jones",
             "overview": "",
-            "popularity": 0.1561,
+            "popularity": 0.1747,
             "poster_path": "/5IeGW6sVhF2xIvgQ4ajlJrkpE7W.jpg",
             "release_date": "2013-02-12",
             "title": "The Pastor and Mrs. Jones",
@@ -807,8 +807,8 @@
                 "Drame",
                 "Com\u00e9die"
             ],
-            "runtime": 0,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 0
         },
         {
             "adult": false,
@@ -817,7 +817,7 @@
             "original_language": "cn",
             "original_title": "\u6bd2\u6230",
             "overview": "L'inspecteur chinois Zhang Lei sent bien que quelque chose ne tourne pas rond lorsqu'il fait la connaissance \u00e0 l'h\u00f4pital de Timmy Choi, un homme originaire de Hong Kong et qui vient d'\u00eatre admis \u00e0 l'h\u00f4pital \u00e0 la suite d'un accident de voiture. En effet, Timmy Choi travaille bien pour Li, le trafiquant de drogue notoirement connu. Afin de sauver sa peau, Timmy Choi accepte alors d'aider Zhang Lei \u00e0 pi\u00e9ger Li en se faisant passer pour un acheteur potentiel int\u00e9ress\u00e9...",
-            "popularity": 1.9597,
+            "popularity": 1.8984,
             "poster_path": "/upLRpBuBtJW1s8pvrFpl1OasAyQ.jpg",
             "release_date": "2012-11-15",
             "title": "Drug War",
@@ -829,8 +829,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -839,7 +839,7 @@
             "original_language": "en",
             "original_title": "The Place Beyond the Pines",
             "overview": "Cascadeur \u00e0 moto, Luke est r\u00e9put\u00e9 pour son spectaculaire num\u00e9ro du \u00abglobe de la mort\u00bb. Quand son spectacle itin\u00e9rant revient \u00e0 Schenectady, dans l\u2019\u00c9tat de New York, il d\u00e9couvre que Romina, avec qui il avait eu une aventure, vient de donner naissance \u00e0 son fils\u2026 Pour subvenir aux besoins de ceux qui sont d\u00e9sormais sa famille, Luke quitte le spectacle et commet une s\u00e9rie de braquages. Chaque fois, ses talents de pilote hors pair lui permettent de s\u2019\u00e9chapper. Mais Luke va bient\u00f4t croiser la route d\u2019un policier ambitieux, Avery Cross, d\u00e9cid\u00e9 \u00e0 s\u2019\u00e9lever rapidement dans sa hi\u00e9rarchie gangren\u00e9e par la corruption. Quinze ans plus tard, le fils de Luke et celui d\u2019Avery se retrouvent face \u00e0 face, hant\u00e9s par un pass\u00e9 myst\u00e9rieux dont ils sont loin de tout savoir\u2026",
-            "popularity": 3.2971,
+            "popularity": 3.2004,
             "poster_path": "/coIfrLBnLBC88QkHk703vIoyJXl.jpg",
             "release_date": "2013-03-20",
             "title": "The Place Beyond the Pines",
@@ -850,8 +850,8 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 140,
-            "tagline": "La vie d'un cascadeur"
+            "tagline": "La vie d'un cascadeur",
+            "runtime": 140
         },
         {
             "adult": false,
@@ -860,7 +860,7 @@
             "original_language": "en",
             "original_title": "This Is the End",
             "overview": "Des acteurs am\u00e9ricains r\u00e9unis dans la villa de James Franco doivent faire face \u00e0 la fin du monde\u2026",
-            "popularity": 4.9137,
+            "popularity": 4.1084,
             "poster_path": "/jCFGb4OeDqcVfZCF5mp0Y7l2mIO.jpg",
             "release_date": "2013-06-12",
             "title": "C'est la fin",
@@ -871,8 +871,8 @@
                 "Action",
                 "Com\u00e9die"
             ],
-            "runtime": 107,
-            "tagline": "Rien ne g\u00e2che une f\u00eate comme la fin du monde."
+            "tagline": "Rien ne g\u00e2che une f\u00eate comme la fin du monde.",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -881,7 +881,7 @@
             "original_language": "ro",
             "original_title": "Dup\u0103 dealuri",
             "overview": "Alina revient d'Allemagne pour y emmener Voichita, la seule personne qu'elle ait jamais aim\u00e9e et qui l'ait jamais aim\u00e9e. Mais Voichita a rencontr\u00e9 Dieu et en amour, il est bien difficile d'avoir Dieu comme rival.",
-            "popularity": 2.9852,
+            "popularity": 2.8691,
             "poster_path": "/qNZfZInwmTsa4jXd0jD7jOzEaup.jpg",
             "release_date": "2012-10-25",
             "title": "Au-del\u00e0 des collines",
@@ -892,8 +892,28 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 150,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eyn0vuN4IZjImE5Dws0iPhZrCMc.jpg",
+            "id": 205220,
+            "original_language": "en",
+            "original_title": "Philomena",
+            "overview": "Irlande, 1952. Philomena Lee, encore adolescente, tombe enceinte. Rejet\u00e9e par sa famille, elle est envoy\u00e9e au couvent de Roscrea. En compensation des soins prodigu\u00e9s par les religieuses avant et pendant la naissance, elle travaille \u00e0 la blanchisserie, et n\u2019est autoris\u00e9e \u00e0 voir son fils, Anthony, qu\u2019une heure par jour. \u00c0 l\u2019\u00e2ge de trois ans, il lui est arrach\u00e9 pour \u00eatre adopt\u00e9 par des am\u00e9ricains. Pendant des ann\u00e9es, Philomena essaiera de le retrouver.  Quand, cinquante ans plus tard, elle rencontre Martin Sixmith, journaliste d\u00e9sabus\u00e9, elle lui raconte son histoire, et ce dernier la persuade de l\u2019accompagner aux \u00c9tats-Unis \u00e0 la recherche d\u2019Anthony.",
+            "popularity": 0.9416,
+            "poster_path": "/yJCqn0zgcMeZ9TMqiSliXFO6LBE.jpg",
+            "release_date": "2013-11-01",
+            "title": "Philomena",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1679,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Ces deux compagnons improbables sont en voyage pour retrouver son fils perdu depuis longtemps.",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -902,7 +922,7 @@
             "original_language": "fr",
             "original_title": "Les Salauds",
             "overview": "Commandant, \u00e0 bord d\u2019un supertanker, Marco Silvestri doit rentrer d\u2019urgence \u00e0 Paris, abandonner le navire. Sa s\u0153ur Sandra est aux abois\u2026 son mari suicid\u00e9, une entreprise en faillite et sa fille unique \u00e0 la d\u00e9rive. Sandra d\u00e9signe le coupable\u00a0: l\u2019homme d\u2019affaires \u00c9douard Laporte. Marco loue un appartement dans l\u2019immeuble o\u00f9 Laporte a install\u00e9 sa maitresse et leur fils. Mais Marco n\u2019avait pas pr\u00e9vu les secrets de Sandra, qui brouillent la donne\u2026",
-            "popularity": 1.1836,
+            "popularity": 1.0345,
             "poster_path": "/hVXJGr6lztzH4ibWKUq3qHspmyf.jpg",
             "release_date": "2013-08-07",
             "title": "Les Salauds",
@@ -914,8 +934,52 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 100,
-            "tagline": "Un cauchemar n\u00e9o-noir."
+            "tagline": "Un cauchemar n\u00e9o-noir.",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8T0qNf0Kccen93L6GgvtGylheo3.jpg",
+            "id": 140823,
+            "original_language": "en",
+            "original_title": "Saving Mr. Banks",
+            "overview": "En 1961, P.L. Travers, c\u00e9l\u00e8bre romanci\u00e8re britannique, arrive \u00e0 Los Angeles, convi\u00e9e \u00e0 Hollywood par Walt Disney qui souhaite depuis de nombreuses ann\u00e9es porter \u00e0 l'\u00e9cran son personnage le plus fameux, Mary Poppins, d\u00e9clin\u00e9 dans plusieurs romans pour la jeunesse. Mais si Disney fait preuve d'\u00e9nergie et d'obstination, Travers est une personne tr\u00e8s difficile \u00e0 convaincre. La romanci\u00e8re, qui a un droit de regard absolu sur l'adaptation, critique point par point le travail pr\u00e9paratoire fourni par l'\u00e9quipe qui travaille sur le projet de film. Au fil du temps, Walt Disney d\u00e9couvre le pass\u00e9 de l'auteure ainsi que les secrets de son enfance...",
+            "popularity": 2.4283,
+            "poster_path": "/1DRIkydX12w3zDUDw5wZhSKi8bI.jpg",
+            "release_date": "2013-11-29",
+            "title": "Dans l'ombre de Mary : La promesse de Walt Disney",
+            "video": false,
+            "vote_average": 7.346,
+            "vote_count": 3413,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "Lorsque son livre a pris fin, leur histoire a commenc\u00e9.",
+            "runtime": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+            "id": 101299,
+            "original_language": "en",
+            "original_title": "The Hunger Games: Catching Fire",
+            "overview": "Apr\u00e8s les premiers Hunger Games, Katniss est devenue le symbole de la r\u00e9bellion. Le peuple de Panem est impatient de la retrouver pour la grande Tourn\u00e9e de la victoire. Mais Katniss va devoir prouver au Capitole et au Pr\u00e9sident Snow que ses sentiments envers Peeta \u00e9taient sinc\u00e8res afin de sauver ceux qu\u2019elle aime\u2026",
+            "popularity": 10.8415,
+            "poster_path": "/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
+            "release_date": "2013-11-15",
+            "title": "Hunger Games\u00a0: L'Embrasement",
+            "video": false,
+            "vote_average": 7.43,
+            "vote_count": 18104,
+            "genres": [
+                "Aventure",
+                "Action",
+                "Science-Fiction"
+            ],
+            "tagline": "N\u2019oublie pas qui est l\u2019ennemi.",
+            "runtime": 146
         },
         {
             "adult": false,
@@ -924,7 +988,7 @@
             "original_language": "en",
             "original_title": "Rush",
             "overview": "Le combat entre deux des plus grands rivaux que l\u2019histoire du sport ait jamais connus, celui de James Hunt et Niki Lauda concourant pour les illustres \u00e9curies McLaren et Ferrari. Issu de la classe des privil\u00e9gi\u00e9s, charismatique et beau gar\u00e7on, tout oppose le play-boy anglais James Hunt \u00e0 Niki Lauda, son adversaire autrichien, r\u00e9serv\u00e9 et m\u00e9thodique. RUSH suit la vie instable de ces deux pilotes, sur les circuits et en dehors, et retrace leur rivalit\u00e9 depuis leurs tout d\u00e9buts.",
-            "popularity": 6.8315,
+            "popularity": 6.4847,
             "poster_path": "/zQT3B6t7DDbW9sDUxZw9Vf8MTvF.jpg",
             "release_date": "2013-09-02",
             "title": "Rush",
@@ -935,30 +999,8 @@
                 "Drame",
                 "Action"
             ],
-            "runtime": 123,
-            "tagline": "Le plus grand duel de l'histoire de la F1."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
-            "id": 101299,
-            "original_language": "en",
-            "original_title": "The Hunger Games: Catching Fire",
-            "overview": "Apr\u00e8s les premiers Hunger Games, Katniss est devenue le symbole de la r\u00e9bellion. Le peuple de Panem est impatient de la retrouver pour la grande Tourn\u00e9e de la victoire. Mais Katniss va devoir prouver au Capitole et au Pr\u00e9sident Snow que ses sentiments envers Peeta \u00e9taient sinc\u00e8res afin de sauver ceux qu\u2019elle aime\u2026",
-            "popularity": 11.7983,
-            "poster_path": "/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg",
-            "release_date": "2013-11-15",
-            "title": "Hunger Games\u00a0: L'Embrasement",
-            "video": false,
-            "vote_average": 7.43,
-            "vote_count": 18103,
-            "genres": [
-                "Aventure",
-                "Action",
-                "Science-Fiction"
-            ],
-            "runtime": 146,
-            "tagline": "N\u2019oublie pas qui est l\u2019ennemi."
+            "tagline": "Le plus grand duel de l'histoire de la F1.",
+            "runtime": 123
         },
         {
             "adult": false,
@@ -967,20 +1009,20 @@
             "original_language": "en",
             "original_title": "Pacific Rim",
             "overview": "Surgies des flots, des hordes de cr\u00e9atures monstrueuses, les \"Kaiju\", ont d\u00e9clench\u00e9 une guerre qui a fait des millions de victimes et \u00e9puis\u00e9 les ressources naturelles de l'humanit\u00e9 pendant des ann\u00e9es. Pour les combattre, une arme d'un genre nouveau a \u00e9t\u00e9 mise au point : de gigantesques robots, les \"Jaegers\", contr\u00f4l\u00e9s simultan\u00e9ment par deux pilotes qui communiquent par t\u00e9l\u00e9pathie. Mais m\u00eame les Jaegers semblent impuissants face aux redoutables Kaiju. Alors que la d\u00e9faite para\u00eet in\u00e9luctable, les forces arm\u00e9es qui prot\u00e8gent l'humanit\u00e9 n'ont d'autre choix que d'avoir recours \u00e0 deux h\u00e9ros hors normes : un ancien pilote au bout du rouleau et une jeune femme en cours d'entra\u00eenement qui font \u00e9quipe pour man\u0153uvrer un Jaeger l\u00e9gendaire, quoique d'apparence obsol\u00e8te. Ensemble, ils incarnent d\u00e9sormais le dernier rempart de l'humanit\u00e9 contre une apocalypse de plus en plus imminente\u2026",
-            "popularity": 9.1586,
+            "popularity": 9.5453,
             "poster_path": "/g1vCUUxa9MJw2kEEgaTAW5b23xh.jpg",
             "release_date": "2013-07-11",
             "title": "Pacific Rim",
             "video": false,
-            "vote_average": 6.9,
+            "vote_average": 6.917,
             "vote_count": 13063,
             "genres": [
                 "Action",
                 "Science-Fiction",
                 "Aventure"
             ],
-            "runtime": 130,
-            "tagline": "La r\u00e9sistance est en marche."
+            "tagline": "La r\u00e9sistance est en marche.",
+            "runtime": 130
         },
         {
             "adult": false,
@@ -989,7 +1031,7 @@
             "original_language": "en",
             "original_title": "Room 237",
             "overview": "En 1980, Stanley Kubrick signe SHINING, qui deviendra un classique du cin\u00e9ma d\u2019horreur. A la fois admir\u00e9 et vilipend\u00e9, le film est consid\u00e9r\u00e9 comme une \u0153uvre marquante du genre par de nombreux experts, tandis que d\u2019autres estiment que Kubrick s\u2019est d\u00e9voy\u00e9 en la r\u00e9alisant. Mais il y a aussi des fans acharn\u00e9s qui ont vou\u00e9 leur vie au d\u00e9cryptage des messages cach\u00e9s de ce film culte\u2026 Th\u00e9ories du complot ? Ont ils d\u00e9crypt\u00e9 les messages secrets de Shining ?",
-            "popularity": 1.8295,
+            "popularity": 1.4204,
             "poster_path": "/wPXxJSz36VjAkxa4MZ0C28uOdwA.jpg",
             "release_date": "2012-10-26",
             "title": "Room 237",
@@ -999,50 +1041,8 @@
             "genres": [
                 "Documentaire"
             ],
-            "runtime": 102,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/eyn0vuN4IZjImE5Dws0iPhZrCMc.jpg",
-            "id": 205220,
-            "original_language": "en",
-            "original_title": "Philomena",
-            "overview": "Irlande, 1952. Philomena Lee, encore adolescente, tombe enceinte. Rejet\u00e9e par sa famille, elle est envoy\u00e9e au couvent de Roscrea. En compensation des soins prodigu\u00e9s par les religieuses avant et pendant la naissance, elle travaille \u00e0 la blanchisserie, et n\u2019est autoris\u00e9e \u00e0 voir son fils, Anthony, qu\u2019une heure par jour. \u00c0 l\u2019\u00e2ge de trois ans, il lui est arrach\u00e9 pour \u00eatre adopt\u00e9 par des am\u00e9ricains. Pendant des ann\u00e9es, Philomena essaiera de le retrouver.  Quand, cinquante ans plus tard, elle rencontre Martin Sixmith, journaliste d\u00e9sabus\u00e9, elle lui raconte son histoire, et ce dernier la persuade de l\u2019accompagner aux \u00c9tats-Unis \u00e0 la recherche d\u2019Anthony.",
-            "popularity": 1.3168,
-            "poster_path": "/yJCqn0zgcMeZ9TMqiSliXFO6LBE.jpg",
-            "release_date": "2013-11-01",
-            "title": "Philomena",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 1679,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 98,
-            "tagline": "Ces deux compagnons improbables sont en voyage pour retrouver son fils perdu depuis longtemps."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8T0qNf0Kccen93L6GgvtGylheo3.jpg",
-            "id": 140823,
-            "original_language": "en",
-            "original_title": "Saving Mr. Banks",
-            "overview": "En 1961, P.L. Travers, c\u00e9l\u00e8bre romanci\u00e8re britannique, arrive \u00e0 Los Angeles, convi\u00e9e \u00e0 Hollywood par Walt Disney qui souhaite depuis de nombreuses ann\u00e9es porter \u00e0 l'\u00e9cran son personnage le plus fameux, Mary Poppins, d\u00e9clin\u00e9 dans plusieurs romans pour la jeunesse. Mais si Disney fait preuve d'\u00e9nergie et d'obstination, Travers est une personne tr\u00e8s difficile \u00e0 convaincre. La romanci\u00e8re, qui a un droit de regard absolu sur l'adaptation, critique point par point le travail pr\u00e9paratoire fourni par l'\u00e9quipe qui travaille sur le projet de film. Au fil du temps, Walt Disney d\u00e9couvre le pass\u00e9 de l'auteure ainsi que les secrets de son enfance...",
-            "popularity": 2.0627,
-            "poster_path": "/1DRIkydX12w3zDUDw5wZhSKi8bI.jpg",
-            "release_date": "2013-11-29",
-            "title": "Dans l'ombre de Mary : La promesse de Walt Disney",
-            "video": false,
-            "vote_average": 7.346,
-            "vote_count": 3412,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 125,
-            "tagline": "Lorsque son livre a pris fin, leur histoire a commenc\u00e9."
+            "tagline": "",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -1051,7 +1051,7 @@
             "original_language": "en",
             "original_title": "The Way Way Back",
             "overview": "Rien ne va pour Duncan, renferm\u00e9 et mal dans sa peau. Il doit supporter Trent, le compagnon de sa m\u00e8re Pam, qui passe son temps \u00e0 l'\u00e9valuer et prend un malin plaisir \u00e0 le rabaisser. Avec cet homme autoritaire et pr\u00e9tentieux dans les parages, l'\u00e9t\u00e9 s'annonce catastrophique. Seuls moments de joie en perspective, ses apr\u00e8s-midis au parc de loisirs Water Wizz. C'est l\u00e0 qu'il rencontre Owen, le directeur, qui le prend sous son aile. Expert en s\u00e9duction, il l'aide \u00e0 aborder une jeune fille qui lui pla\u00eet. Aux c\u00f4t\u00e9s de cet homme chaleureux et exub\u00e9rant, l'adolescent sort de sa r\u00e9serve, allant jusqu'\u00e0 se rebeller contre Trent...",
-            "popularity": 1.7003,
+            "popularity": 1.362,
             "poster_path": "/mJg2tekeeKpvIPANVwYW33HMMxh.jpg",
             "release_date": "2013-06-06",
             "title": "Cet \u00e9t\u00e9-l\u00e0",
@@ -1062,8 +1062,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 103,
-            "tagline": "On est tous pass\u00e9 par l\u00e0."
+            "tagline": "On est tous pass\u00e9 par l\u00e0.",
+            "runtime": 103
         }
     ]
 }

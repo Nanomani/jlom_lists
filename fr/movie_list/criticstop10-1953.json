@@ -4,93 +4,9 @@
     "source": "https://criticstop10.com/best-movies-of-1953/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
-        {
-            "adult": false,
-            "backdrop_path": "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
-            "id": 804,
-            "original_language": "en",
-            "original_title": "Roman Holiday",
-            "overview": "Les tendres amours, le temps d'une journ\u00e9e, d'une princesse fugueuse et d'un s\u00e9duisant journaliste am\u00e9ricain, dans la Ville \u00e9ternelle, Rome.",
-            "popularity": 5.0347,
-            "poster_path": "/hXgUFgIcRh1PrMAzkZOULff3j2l.jpg",
-            "release_date": "1953-08-26",
-            "title": "Vacances romaines",
-            "video": false,
-            "vote_average": 7.9,
-            "vote_count": 2198,
-            "genres": [
-                "Romance",
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 119,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/geiE3b1TtaMrB2ZLy8Pc6ELQxRB.jpg",
-            "id": 46011,
-            "original_language": "en",
-            "original_title": "Call Me Madam",
-            "overview": "L'h\u00f4tesse de Washington Sally Adams devient ambassadrice am\u00e9ricaine de l'\u00e8re Truman dans un grand-duch\u00e9 europ\u00e9en.",
-            "popularity": 0.367,
-            "poster_path": "/zNemnYu57J8oesfYmjeSD6CVdQQ.jpg",
-            "release_date": "1953-03-25",
-            "title": "Appelez-moi madame",
-            "video": false,
-            "vote_average": 6.2,
-            "vote_count": 24,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 116,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/vOtezZglbUYfCxOfb6khEybMU2O.jpg",
-            "id": 85840,
-            "original_language": "en",
-            "original_title": "Little Boy Lost",
-            "overview": "",
-            "popularity": 0.5432,
-            "poster_path": "/gmWtG6ouYIyoFtMYI2ZFLvKCITB.jpg",
-            "release_date": "1953-09-21",
-            "title": "Le petit gar\u00e7on perdu",
-            "video": false,
-            "vote_average": 7.7,
-            "vote_count": 3,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 95,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6o6hr98v8Dv0rWOkGTPX8WgqIKJ.jpg",
-            "id": 71839,
-            "original_language": "en",
-            "original_title": "The Moon Is Blue",
-            "overview": "Sur la terrasse de l'Empire State Building, Don Gresham, un architecte talentueux, fait la connaissance d'une jeune actrice delur\u00e9e, Patty O'Neill. Seduit, il l'invite \u00e0 d\u00eener chez lui, ce qu'elle accepte. Ils se rendent chez lui et Patty propose de cuisiner elle-m\u00eame. L'arriv\u00e9e de l'ex-fianc\u00e9e de Don, Cynthia, accompagn\u00e9e de son p\u00e8re David, ainsi que du propre p\u00e8re de Patty, ne trouble en rien la folle ing\u00e9nue. Ils acceptent son invitation \u00e0 d\u00eener. Un l\u00e9ger incident pendant le repas oblige Patty \u00e0 changer de robe. Pendant ce temps, David demande Patty en mariage.",
-            "popularity": 0.3791,
-            "poster_path": "/wKwmMM7gBFloF13EapN6XXpQlFE.jpg",
-            "release_date": "1953-07-08",
-            "title": "La Lune \u00e9tait bleue",
-            "video": false,
-            "vote_average": 6.167,
-            "vote_count": 48,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 99,
-            "tagline": ""
-        },
         {
             "adult": false,
             "backdrop_path": "/kpTTUyVxWMTebmBkaxB2YAX8yyU.jpg",
@@ -98,7 +14,7 @@
             "original_language": "en",
             "original_title": "From Here to Eternity",
             "overview": "En 1941, l'ancien boxeur Robert Prewitt est affect\u00e9 \u00e0 une caserne bas\u00e9e \u00e0 Honolulu o\u00f9 il est sollicit\u00e9 par le capitaine Holmes pour remonter sur le ring afin de d\u00e9fendre l'honneur de la garnison. Mais Prewitt refuse, hant\u00e9 d'avoir rendu aveugle un homme lors de son ultime combat. Il subit alors d'incessantes humiliations destin\u00e9es \u00e0 le forcer \u00e0 accepter le d\u00e9fi. Dans le m\u00eame temps, le sergent Warden s'\u00e9prend de Karen Holmes, la fille de son sup\u00e9rieur.",
-            "popularity": 1.6418,
+            "popularity": 1.7352,
             "poster_path": "/4isaTDz6W49UTdhorUFxi8ZVLSy.jpg",
             "release_date": "1953-08-28",
             "title": "Tant qu'il y aura des hommes",
@@ -110,30 +26,72 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 118,
-            "tagline": "Des passions... explosant sur grand \u00e9cran !"
+            "tagline": "Des passions... explosant sur grand \u00e9cran !",
+            "runtime": 118
         },
         {
             "adult": false,
-            "backdrop_path": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
-            "id": 632,
+            "backdrop_path": "/mPzUzA0iK50gBdMuux4Dojb7VQL.jpg",
+            "id": 3110,
             "original_language": "en",
-            "original_title": "Stalag 17",
-            "overview": "Dans le Stalag 17, un camp de prisonniers pr\u00e8s du Danube, plus de 600 pilotes am\u00e9ricains sont incarc\u00e9r\u00e9s. Toutefois, l'ambiance est bonne. Les plaisanteries contre les officiers allemands vont bon train, les jeux et paris ne manquent pas. Mais un jour, la tentative d'\u00e9vasion de Manfredi et de Johnson \u00e9choue lamentablement. La trahison ne fait aucun doute. Les Allemands devaient forc\u00e9ment avoir eu connaissance de l'existence du tunnel par lequel les malheureux comptaient prendre la poudre d'escampette. Soudain, l'ambiance se d\u00e9grade, tout le monde se surveille et chacun cherche le tra\u00eetre. Les soup\u00e7ons se portent sur un sergent au caract\u00e8re cynique, JJ Sefton. \u00c0 tort ou \u00e0 raison\u2026?",
-            "popularity": 2.3694,
-            "poster_path": "/p4kgeAR05jyxcWTCWajkHx7oPgE.jpg",
-            "release_date": "1953-05-29",
-            "title": "Stalag 17",
+            "original_title": "Shane",
+            "overview": "Un cavalier solitaire aux allures myst\u00e9rieuses, venant de nulle part, avance tranquillement dans une vall\u00e9e encaiss\u00e9e. Un jeune gar\u00e7on du nom de Joey observe avec inqui\u00e9tude sa lente progression et s'en va pr\u00e9venir ses parents, des fermiers dont la maison est toute proche. Marion et Joe Starrett vivent tant bien que mal du fruit de leur labeur, qu'ils arrachent avec difficult\u00e9 d'un sol aride. L'homme, qui se fait appeler Shane, leur demande l'hospitalit\u00e9. Assez vite, il se voit contraint de d\u00e9fendre de son mieux cette paisible famille de paysans contre les attaques d'une bande de hors-la-loi. Son courage provoque l'admiration de Joey et l'affection silencieuse et troubl\u00e9e de Marion...",
+            "popularity": 3.3343,
+            "poster_path": "/sEtq07VhB4UHNGzYTAHrjx4Pctr.jpg",
+            "release_date": "1953-04-23",
+            "title": "L'Homme des vall\u00e9es perdues",
             "video": false,
-            "vote_average": 7.697,
-            "vote_count": 643,
+            "vote_average": 7.4,
+            "vote_count": 660,
             "genres": [
-                "Com\u00e9die",
                 "Drame",
-                "Guerre"
+                "Western"
             ],
-            "runtime": 120,
-            "tagline": "La bonne humeur, m\u00eame aux pires moments, n'y perdait jamais ses droits !"
+            "tagline": "La plus grande histoire de l'Ouest jamais film\u00e9e !",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sW414ljsyNH2g4BWb1Zg1Sbkflp.jpg",
+            "id": 29912,
+            "original_language": "en",
+            "original_title": "The Robe",
+            "overview": "B\u00e9n\u00e9ficiant des faveurs de l'empereur Tib\u00e8re, dont il aime la pupille Diana, le tribun Marcellus est en revanche vu d'un mauvais oeil par le prince r\u00e9gent Caligula. Estimant avoir \u00e9t\u00e9 offens\u00e9 lors d'une vente d'esclaves, ce dernier l'envoie en Jud\u00e9e. Marcellus y assiste \u00e0 la crucifixion du Christ et, en jouant aux d\u00e9s, gagne sa tunique. Revenu \u00e0 Capri, il s'initie au christianisme gr\u00e2ce \u00e0 Justus et Miriam. Or entre-temps, Tib\u00e8re est mort et Caligula, devenu empereur, se met \u00e0 pers\u00e9cuter les chr\u00e9tiens...",
+            "popularity": 3.5392,
+            "poster_path": "/eiqg63LqLrgx92nQrB7Mze1z8mU.jpg",
+            "release_date": "1953-09-16",
+            "title": "La Tunique",
+            "video": false,
+            "vote_average": 6.807,
+            "vote_count": 270,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "Le premier film en CinemaScope - le miracle moderne que vous voyez sans lunettes\u00a0!",
+            "runtime": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
+            "id": 804,
+            "original_language": "en",
+            "original_title": "Roman Holiday",
+            "overview": "Les tendres amours, le temps d'une journ\u00e9e, d'une princesse fugueuse et d'un s\u00e9duisant journaliste am\u00e9ricain, dans la Ville \u00e9ternelle, Rome.",
+            "popularity": 5.5431,
+            "poster_path": "/hXgUFgIcRh1PrMAzkZOULff3j2l.jpg",
+            "release_date": "1953-08-26",
+            "title": "Vacances romaines",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 2198,
+            "genres": [
+                "Romance",
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -142,7 +100,7 @@
             "original_language": "en",
             "original_title": "Lili",
             "overview": "Les membres d'une troupe de cirque \"adoptent\" Lili Daurier quand elle se retrouve coinc\u00e9e dans une ville \u00e9trange. Le magicien qui vient \u00e0 sa rescousse a d\u00e9j\u00e0 des enchev\u00eatrements sentimentaux et pense \u00e0 elle comme une petite fille. \u00c0 qui peut-elle se tourner mais les marionnettes, leur chantant ses ennuis, oubliant qu'il y a des marionnettistes. Une foule se rassemble autour de Lili alors qu'elle chante. Le cirque a un nouvel acte. Elle a maintenant un travail. Est-ce qu'elle obtiendra le d\u00e9sir de son coeur?",
-            "popularity": 0.8166,
+            "popularity": 0.8608,
             "poster_path": "/1EhDKTAN2oL1L96pGOeaupm5XUt.jpg",
             "release_date": "1953-03-10",
             "title": "Lili",
@@ -154,50 +112,71 @@
                 "Drame",
                 "Musique"
             ],
-            "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 82
         },
         {
             "adult": false,
-            "backdrop_path": "/sW414ljsyNH2g4BWb1Zg1Sbkflp.jpg",
-            "id": 29912,
+            "backdrop_path": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
+            "id": 632,
             "original_language": "en",
-            "original_title": "The Robe",
-            "overview": "B\u00e9n\u00e9ficiant des faveurs de l'empereur Tib\u00e8re, dont il aime la pupille Diana, le tribun Marcellus est en revanche vu d'un mauvais oeil par le prince r\u00e9gent Caligula. Estimant avoir \u00e9t\u00e9 offens\u00e9 lors d'une vente d'esclaves, ce dernier l'envoie en Jud\u00e9e. Marcellus y assiste \u00e0 la crucifixion du Christ et, en jouant aux d\u00e9s, gagne sa tunique. Revenu \u00e0 Capri, il s'initie au christianisme gr\u00e2ce \u00e0 Justus et Miriam. Or entre-temps, Tib\u00e8re est mort et Caligula, devenu empereur, se met \u00e0 pers\u00e9cuter les chr\u00e9tiens...",
-            "popularity": 3.6269,
-            "poster_path": "/eiqg63LqLrgx92nQrB7Mze1z8mU.jpg",
-            "release_date": "1953-09-16",
-            "title": "La Tunique",
+            "original_title": "Stalag 17",
+            "overview": "Dans le Stalag 17, un camp de prisonniers pr\u00e8s du Danube, plus de 600 pilotes am\u00e9ricains sont incarc\u00e9r\u00e9s. Toutefois, l'ambiance est bonne. Les plaisanteries contre les officiers allemands vont bon train, les jeux et paris ne manquent pas. Mais un jour, la tentative d'\u00e9vasion de Manfredi et de Johnson \u00e9choue lamentablement. La trahison ne fait aucun doute. Les Allemands devaient forc\u00e9ment avoir eu connaissance de l'existence du tunnel par lequel les malheureux comptaient prendre la poudre d'escampette. Soudain, l'ambiance se d\u00e9grade, tout le monde se surveille et chacun cherche le tra\u00eetre. Les soup\u00e7ons se portent sur un sergent au caract\u00e8re cynique, JJ Sefton. \u00c0 tort ou \u00e0 raison\u2026?",
+            "popularity": 2.4095,
+            "poster_path": "/p4kgeAR05jyxcWTCWajkHx7oPgE.jpg",
+            "release_date": "1953-05-29",
+            "title": "Stalag 17",
             "video": false,
-            "vote_average": 6.807,
-            "vote_count": 270,
+            "vote_average": 7.694,
+            "vote_count": 644,
             "genres": [
+                "Com\u00e9die",
                 "Drame",
-                "Histoire"
+                "Guerre"
             ],
-            "runtime": 135,
-            "tagline": "Le premier film en CinemaScope - le miracle moderne que vous voyez sans lunettes\u00a0!"
+            "tagline": "La bonne humeur, m\u00eame aux pires moments, n'y perdait jamais ses droits !",
+            "runtime": 120
         },
         {
             "adult": false,
-            "backdrop_path": "/mPzUzA0iK50gBdMuux4Dojb7VQL.jpg",
-            "id": 3110,
+            "backdrop_path": "/6o6hr98v8Dv0rWOkGTPX8WgqIKJ.jpg",
+            "id": 71839,
             "original_language": "en",
-            "original_title": "Shane",
-            "overview": "Un cavalier solitaire aux allures myst\u00e9rieuses, venant de nulle part, avance tranquillement dans une vall\u00e9e encaiss\u00e9e. Un jeune gar\u00e7on du nom de Joey observe avec inqui\u00e9tude sa lente progression et s'en va pr\u00e9venir ses parents, des fermiers dont la maison est toute proche. Marion et Joe Starrett vivent tant bien que mal du fruit de leur labeur, qu'ils arrachent avec difficult\u00e9 d'un sol aride. L'homme, qui se fait appeler Shane, leur demande l'hospitalit\u00e9. Assez vite, il se voit contraint de d\u00e9fendre de son mieux cette paisible famille de paysans contre les attaques d'une bande de hors-la-loi. Son courage provoque l'admiration de Joey et l'affection silencieuse et troubl\u00e9e de Marion...",
-            "popularity": 2.978,
-            "poster_path": "/sEtq07VhB4UHNGzYTAHrjx4Pctr.jpg",
-            "release_date": "1953-04-23",
-            "title": "L'Homme des vall\u00e9es perdues",
+            "original_title": "The Moon Is Blue",
+            "overview": "Sur la terrasse de l'Empire State Building, Don Gresham, un architecte talentueux, fait la connaissance d'une jeune actrice delur\u00e9e, Patty O'Neill. Seduit, il l'invite \u00e0 d\u00eener chez lui, ce qu'elle accepte. Ils se rendent chez lui et Patty propose de cuisiner elle-m\u00eame. L'arriv\u00e9e de l'ex-fianc\u00e9e de Don, Cynthia, accompagn\u00e9e de son p\u00e8re David, ainsi que du propre p\u00e8re de Patty, ne trouble en rien la folle ing\u00e9nue. Ils acceptent son invitation \u00e0 d\u00eener. Un l\u00e9ger incident pendant le repas oblige Patty \u00e0 changer de robe. Pendant ce temps, David demande Patty en mariage.",
+            "popularity": 0.4146,
+            "poster_path": "/wKwmMM7gBFloF13EapN6XXpQlFE.jpg",
+            "release_date": "1953-07-08",
+            "title": "La Lune \u00e9tait bleue",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 660,
+            "vote_average": 6.167,
+            "vote_count": 48,
             "genres": [
-                "Drame",
-                "Western"
+                "Com\u00e9die",
+                "Romance"
             ],
-            "runtime": 118,
-            "tagline": "La plus grande histoire de l'Ouest jamais film\u00e9e !"
+            "tagline": "",
+            "runtime": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vOtezZglbUYfCxOfb6khEybMU2O.jpg",
+            "id": 85840,
+            "original_language": "en",
+            "original_title": "Little Boy Lost",
+            "overview": "",
+            "popularity": 1.0276,
+            "poster_path": "/gmWtG6ouYIyoFtMYI2ZFLvKCITB.jpg",
+            "release_date": "1953-09-21",
+            "title": "Le petit gar\u00e7on perdu",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -206,7 +185,7 @@
             "original_language": "en",
             "original_title": "The Cruel Sea",
             "overview": "Au d\u00e9but de la Seconde Guerre mondiale, le capitaine de fr\u00e9gate. Ericson est affect\u00e9 \u00e0 l'escorte de convoi HMS Compass Rose avec des officiers inexp\u00e9riment\u00e9s et les hommes \u00e0 la sortie de la formation. Les mers d'hiver rendent la vie assez mis\u00e9rable, mais les hommes doivent aussi se durcir au sauvetage des survivants des attaques de U-Boot, alors que rarement en mesure de riposter. Les \u00e9v\u00e9nements traumatisants \u00e0 flot et \u00e0 terre cr\u00e9ent un lien entre le chaud skipper et son premier officier",
-            "popularity": 4.3327,
+            "popularity": 4.5902,
             "poster_path": "/oprGRVSJjI7qCqu8m0KIK2nE4oa.jpg",
             "release_date": "1953-02-24",
             "title": "La Mer cruelle",
@@ -218,8 +197,49 @@
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 126,
-            "tagline": "La bataille de l'Atlantique a compt\u00e9 des centaines de h\u00e9ros sans nom."
+            "tagline": "La bataille de l'Atlantique a compt\u00e9 des centaines de h\u00e9ros sans nom.",
+            "runtime": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/geiE3b1TtaMrB2ZLy8Pc6ELQxRB.jpg",
+            "id": 46011,
+            "original_language": "en",
+            "original_title": "Call Me Madam",
+            "overview": "L'h\u00f4tesse de Washington Sally Adams devient ambassadrice am\u00e9ricaine de l'\u00e8re Truman dans un grand-duch\u00e9 europ\u00e9en.",
+            "popularity": 0.4077,
+            "poster_path": "/zNemnYu57J8oesfYmjeSD6CVdQQ.jpg",
+            "release_date": "1953-03-25",
+            "title": "Appelez-moi madame",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 24,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zZWFQH8Sh5g3FsljHEZJVa9Lgwg.jpg",
+            "id": 6529,
+            "original_language": "en",
+            "original_title": "Hondo",
+            "overview": "\u00c9claireur pour l'arm\u00e9e, Hondo Lane sillonne l'Ouest pour pr\u00e9venir les conflits entre le gouvernement am\u00e9ricain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse m\u00e8re de famille \u00e9levant seule son fils Johnny. Entre la femme et Hondo na\u00eet une passion amoureuse. Le valeureux cavalier fera l'impossible pour prot\u00e9ger sa bien-aim\u00e9e des Indiens.",
+            "popularity": 1.8786,
+            "poster_path": "/jurfgkMywol7t5TBwEQx3WRM1DI.jpg",
+            "release_date": "1953-11-26",
+            "title": "Hondo, l'homme du d\u00e9sert",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 226,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "D'abord, elle avait peur qu'il reste\u2026 Puis elle a eu peur qu'il ne le fasse pas.",
+            "runtime": 93
         },
         {
             "adult": false,
@@ -228,7 +248,7 @@
             "original_language": "en",
             "original_title": "The Captain's Paradise",
             "overview": "Henry St James, le capitaine du ferry-boat m\u00e9diterran\u00e9en, a des choses bien organis\u00e9es: Maud, une femme aimante et tr\u00e8s anglaise \u00e0 Gibraltar, et Nita \u00e0 Tanger, la Ma\u00eetresse amoureuse et plut\u00f4t plus chaude. Une vie parfaite. Tant qu'aucune femme ne d\u00e9cide de le suivre dans l'autre port.",
-            "popularity": 0.273,
+            "popularity": 0.2778,
             "poster_path": "/A0mqZ0iS5QhjFNE99BgATuAJWl9.jpg",
             "release_date": "1953-06-09",
             "title": "Capitaine Paradis",
@@ -240,8 +260,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -250,7 +270,7 @@
             "original_language": "en",
             "original_title": "Man on a Tightrope",
             "overview": "En Allemagne de l'Est, Karel Cernik, directeur sous surveillance de la police secr\u00e8te d'un petit cirque ambulant, se voit contraint de servir la propagande du nouveau r\u00e9gime. Lors d'une tourn\u00e9e en Bavi\u00e8re, Cernik veut tenter de traverser le rideau de fer avec sa troupe...",
-            "popularity": 0.8132,
+            "popularity": 0.7999,
             "poster_path": "/ywG2UFpEeAm059zcUwFELHOduwx.jpg",
             "release_date": "1953-05-21",
             "title": "Cirque en r\u00e9volte",
@@ -261,8 +281,8 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -271,7 +291,7 @@
             "original_language": "en",
             "original_title": "How to Marry a Millionaire",
             "overview": "Trois mannequins new-yorkais prennent la d\u00e9cision de tout mettre en \u0153uvre afin d'\u00e9pouser chacune un millionnaire.",
-            "popularity": 1.2502,
+            "popularity": 1.2046,
             "poster_path": "/f69jva3wegaNqH2dxN7hYZv93LL.jpg",
             "release_date": "1953-10-29",
             "title": "Comment \u00e9pouser un millionnaire",
@@ -282,8 +302,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 92,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 92
         },
         {
             "adult": false,
@@ -292,7 +312,7 @@
             "original_language": "en",
             "original_title": "Kiss Me Kate",
             "overview": "Un couple d\u2019acteurs r\u00e9cemment divorc\u00e9 d\u00e9cide de monter la pi\u00e8ce musicale de Kiss Me Kate entre conflits, chantage et quiproquos.",
-            "popularity": 0.958,
+            "popularity": 0.7809,
             "poster_path": "/jZvoCIkaC7KFVwp1peO09jxww3X.jpg",
             "release_date": "1953-11-26",
             "title": "Embrasse-moi, ch\u00e9rie",
@@ -304,30 +324,29 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
-            "backdrop_path": "/ZqNYX58JHEpCfc4PBh7FuwGnAT.jpg",
-            "id": 68977,
+            "backdrop_path": "/ahbx803wrITvlSjxLyp0Sfkzy3s.jpg",
+            "id": 16535,
             "original_language": "en",
-            "original_title": "So Big",
-            "overview": "",
-            "popularity": 1.4388,
-            "poster_path": "/3pfburUMlUBavlab2hnr4N7hDdz.jpg",
-            "release_date": "1953-10-31",
-            "title": "So Big",
+            "original_title": "Titanic",
+            "overview": "Pour soustraire ses enfants Annette et Norman \u00e0 l'influence de son mari dont elle est s\u00e9par\u00e9e, Julia Sturges d\u00e9cide de les emmener \u00e0 bord du paquebot Titanic. Son mari Richard parvient \u00e0 embarquer au dernier moment pour r\u00e9cup\u00e9rer ses enfants. Ils rencontrent d'autres passagers comme Maud Young, une jeune femme fortement inspir\u00e9e de Margaret Brown, Gifford Rogers, un jeune joueur de tennis qui tombe rapidement amoureux de la jeune Annette et George S. Headley, un pr\u00eatre suspendu pour alcoolisme.",
+            "popularity": 2.4454,
+            "poster_path": "/tyUIFX3AtnUJK5EaBJ5fR8EnuvO.jpg",
+            "release_date": "1953-04-11",
+            "title": "Titanic",
             "video": false,
-            "vote_average": 5.25,
-            "vote_count": 12,
+            "vote_average": 6.632,
+            "vote_count": 151,
             "genres": [
                 "Drame",
-                "Romance",
-                "Western"
+                "Romance"
             ],
-            "runtime": 101,
-            "tagline": ""
+            "tagline": "TITANIC en \u00e9motion... en spectacle... en climax... en distribution\u00a0!",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -336,7 +355,7 @@
             "original_language": "en",
             "original_title": "A Queen Is Crowned",
             "overview": "6 f\u00e9vrier 1952. L'Angleterre est en deuil : Georges VI s'est \u00e9teint, mais le Royaume acclame d\u00e9j\u00e0 sa nouvelle reine : Elisabeth II. La petite princesse occupe une place centrale dans le coeur des sujets britanniques, alors que les pr\u00e9paratifs s'organisent pour son couronnement. Toutes les figures importantes du Royaume se pressent dans l'Abbaye de Westminster pour c\u00e9l\u00e9brer avec faste l'\u00e9v\u00e9nement le plus attendu d'Angleterre. Le 2 juin 1953, des milliers d'Anglais assistent enfin au moment historique du couronnement de leur reine.",
-            "popularity": 0.1848,
+            "popularity": 0.1547,
             "poster_path": "/275eAAsEYJj5GUD7X2ToBFa0AdM.jpg",
             "release_date": "1953-06-02",
             "title": "Le Couronnement d'\u00c9lisabeth II",
@@ -346,30 +365,8 @@
             "genres": [
                 "Documentaire"
             ],
-            "runtime": 79,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/v8KYuQKNMjbtf2CDrTgQqJVvAOn.jpg",
-            "id": 44711,
-            "original_language": "en",
-            "original_title": "Young Bess",
-            "overview": "Selon l'humeur de son p\u00e8re, exil\u00e9e ou rappel\u00e9e \u00e0 la cour, Elisabeth passe sa jeunesse entre le ch\u00e2teau d'Hatfield et le palais o\u00f9 Henri VIII lui pr\u00e9sente chaque fois la nouvelle reine, la pr\u00e9c\u00e9dente ayant \u00e9t\u00e9 ex\u00e9cut\u00e9e. C'est ainsi que exils et recours en gr\u00e2ce se succ\u00e8dent au m\u00eame rythme que les mariages et les ex\u00e9cutions...",
-            "popularity": 1.5141,
-            "poster_path": "/yI8vCadGjFtMnJdkRWDGnXrB8rv.jpg",
-            "release_date": "1953-05-29",
-            "title": "La Reine vierge",
-            "video": false,
-            "vote_average": 5.675,
-            "vote_count": 20,
-            "genres": [
-                "Drame",
-                "Histoire",
-                "Romance"
-            ],
-            "runtime": 112,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 79
         },
         {
             "adult": false,
@@ -378,7 +375,7 @@
             "original_language": "en",
             "original_title": "Mogambo",
             "overview": "En Afrique, deux femmes de caract\u00e8res oppos\u00e9s se disputent le c\u0153ur d'un chasseur de fauves.",
-            "popularity": 0.9344,
+            "popularity": 0.8678,
             "poster_path": "/sKc2pZhmTz3xfItLAci44vCTrYx.jpg",
             "release_date": "1953-09-23",
             "title": "Mogambo",
@@ -390,70 +387,52 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 116,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 116
         },
         {
             "adult": false,
-            "backdrop_path": "/ahbx803wrITvlSjxLyp0Sfkzy3s.jpg",
-            "id": 16535,
+            "backdrop_path": "/v8KYuQKNMjbtf2CDrTgQqJVvAOn.jpg",
+            "id": 44711,
             "original_language": "en",
-            "original_title": "Titanic",
-            "overview": "Pour soustraire ses enfants Annette et Norman \u00e0 l'influence de son mari dont elle est s\u00e9par\u00e9e, Julia Sturges d\u00e9cide de les emmener \u00e0 bord du paquebot Titanic. Son mari Richard parvient \u00e0 embarquer au dernier moment pour r\u00e9cup\u00e9rer ses enfants. Ils rencontrent d'autres passagers comme Maud Young, une jeune femme fortement inspir\u00e9e de Margaret Brown, Gifford Rogers, un jeune joueur de tennis qui tombe rapidement amoureux de la jeune Annette et George S. Headley, un pr\u00eatre suspendu pour alcoolisme.",
-            "popularity": 2.6814,
-            "poster_path": "/tyUIFX3AtnUJK5EaBJ5fR8EnuvO.jpg",
-            "release_date": "1953-04-11",
-            "title": "Titanic",
+            "original_title": "Young Bess",
+            "overview": "Selon l'humeur de son p\u00e8re, exil\u00e9e ou rappel\u00e9e \u00e0 la cour, Elisabeth passe sa jeunesse entre le ch\u00e2teau d'Hatfield et le palais o\u00f9 Henri VIII lui pr\u00e9sente chaque fois la nouvelle reine, la pr\u00e9c\u00e9dente ayant \u00e9t\u00e9 ex\u00e9cut\u00e9e. C'est ainsi que exils et recours en gr\u00e2ce se succ\u00e8dent au m\u00eame rythme que les mariages et les ex\u00e9cutions...",
+            "popularity": 1.128,
+            "poster_path": "/yI8vCadGjFtMnJdkRWDGnXrB8rv.jpg",
+            "release_date": "1953-05-29",
+            "title": "La Reine vierge",
             "video": false,
-            "vote_average": 6.632,
-            "vote_count": 151,
+            "vote_average": 5.675,
+            "vote_count": 20,
             "genres": [
                 "Drame",
+                "Histoire",
                 "Romance"
             ],
-            "runtime": 98,
-            "tagline": "TITANIC en \u00e9motion... en spectacle... en climax... en distribution\u00a0!"
+            "tagline": "",
+            "runtime": 112
         },
         {
             "adult": false,
-            "backdrop_path": "/zZWFQH8Sh5g3FsljHEZJVa9Lgwg.jpg",
-            "id": 6529,
+            "backdrop_path": "/ZqNYX58JHEpCfc4PBh7FuwGnAT.jpg",
+            "id": 68977,
             "original_language": "en",
-            "original_title": "Hondo",
-            "overview": "\u00c9claireur pour l'arm\u00e9e, Hondo Lane sillonne l'Ouest pour pr\u00e9venir les conflits entre le gouvernement am\u00e9ricain et les Apaches. Il croise sur sa route Angie Lowe, une courageuse m\u00e8re de famille \u00e9levant seule son fils Johnny. Entre la femme et Hondo na\u00eet une passion amoureuse. Le valeureux cavalier fera l'impossible pour prot\u00e9ger sa bien-aim\u00e9e des Indiens.",
-            "popularity": 1.6747,
-            "poster_path": "/jurfgkMywol7t5TBwEQx3WRM1DI.jpg",
-            "release_date": "1953-11-26",
-            "title": "Hondo, l'homme du d\u00e9sert",
+            "original_title": "So Big",
+            "overview": "",
+            "popularity": 1.1004,
+            "poster_path": "/3pfburUMlUBavlab2hnr4N7hDdz.jpg",
+            "release_date": "1953-10-31",
+            "title": "So Big",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 226,
+            "vote_average": 5.25,
+            "vote_count": 12,
             "genres": [
+                "Drame",
+                "Romance",
                 "Western"
             ],
-            "runtime": 93,
-            "tagline": "D'abord, elle avait peur qu'il reste\u2026 Puis elle a eu peur qu'il ne le fasse pas."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/2clBxxclZJ4OK1xzhmCCXHEfy3r.jpg",
-            "id": 759,
-            "original_language": "en",
-            "original_title": "Gentlemen Prefer Blondes",
-            "overview": "Deux ravissantes chanteuses de cabaret : Dorothy, l\u2019amoureuse, une grande brune cynique qui s\u2019\u00e9prend du premier venu... pourvu qu\u2019il soit beau gar\u00e7on ! Lorelei, elle, est tout le contraire. Cette blonde incendiaire, qui s\u00e9duit les hommes d\u2019un seul clignement de l\u2019oeil, pr\u00e9tend \u00eatre une idiote pour mieux sonder la fortune de ses soupirants. D\u2019ailleurs, elle a fait son choix. Sa prochaine \u201cvictime\u201d sera Gus Edmond, fils de milliardaire\u2026",
-            "popularity": 2.5984,
-            "poster_path": "/jOE2FYuzu7x2tGDVZeIq9dK0ea5.jpg",
-            "release_date": "1953-07-14",
-            "title": "Les Hommes pr\u00e9f\u00e8rent les blondes",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 1032,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
         },
         {
             "adult": false,
@@ -462,7 +441,7 @@
             "original_language": "en",
             "original_title": "Above and Beyond",
             "overview": "L'histoire (peu d\u00e9taill\u00e9e) de la confection de la bombe atomique et de son largage sur Hiroshima par le colonel Paul Tibbets, le tout confin\u00e9 dans un secret bien gard\u00e9 qui mit en p\u00e9ril sa vie familiale.",
-            "popularity": 0.3378,
+            "popularity": 0.3336,
             "poster_path": "/gCPfp4GCKhQtGwBtTITRIFdJcQr.jpg",
             "release_date": "1953-01-02",
             "title": "Le Grand Secret",
@@ -474,8 +453,50 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 122,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2clBxxclZJ4OK1xzhmCCXHEfy3r.jpg",
+            "id": 759,
+            "original_language": "en",
+            "original_title": "Gentlemen Prefer Blondes",
+            "overview": "Deux ravissantes chanteuses de cabaret : Dorothy, l\u2019amoureuse, une grande brune cynique qui s\u2019\u00e9prend du premier venu... pourvu qu\u2019il soit beau gar\u00e7on ! Lorelei, elle, est tout le contraire. Cette blonde incendiaire, qui s\u00e9duit les hommes d\u2019un seul clignement de l\u2019oeil, pr\u00e9tend \u00eatre une idiote pour mieux sonder la fortune de ses soupirants. D\u2019ailleurs, elle a fait son choix. Sa prochaine \u201cvictime\u201d sera Gus Edmond, fils de milliardaire\u2026",
+            "popularity": 2.9409,
+            "poster_path": "/jOE2FYuzu7x2tGDVZeIq9dK0ea5.jpg",
+            "release_date": "1953-07-14",
+            "title": "Les Hommes pr\u00e9f\u00e8rent les blondes",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1032,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gKfu0rXXRUmuvBJSoRw0AmA5QIh.jpg",
+            "id": 98364,
+            "original_language": "en",
+            "original_title": "The Actress",
+            "overview": "Clinton Jones, retrait\u00e9 de la marine, n\u2019a trouv\u00e9 qu\u2019un petit boulot et craint des lendemains difficiles pour sa famille. C\u2019est ce qui le rend r\u00e9ticent \u00e0 la demande de sa fille, la jeune Ruth, qui voudrait devenir actrice, un m\u00e9tier qu\u2019il consid\u00e8re comme \u00e0 haut risque. C\u2019est sans compter la d\u00e9termination de Ruth, qui, pour r\u00e9aliser ses ambitions, ira jusqu\u2019\u00e0 rejeter la demande en mariage de Fred, son amoureux.",
+            "popularity": 0.8669,
+            "poster_path": "/ms7Ni0s6vH9ZCEUyuNIEaQOMxtI.jpg",
+            "release_date": "1953-09-25",
+            "title": "The Actress",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 16,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -484,21 +505,21 @@
             "original_language": "en",
             "original_title": "Peter Pan",
             "overview": "De fantastiques aventures attendent Wendy et ses fr\u00e8res quand Peter Pan, le h\u00e9ros de leurs histoires, les emm\u00e8ne au Pays imaginaire. Apr\u00e8s avoir suivi Peter et la f\u00e9e Clochette au-del\u00e0 de la \u00ab\u2009deuxi\u00e8me \u00e9toile \u00e0 droite et tout droit jusqu'au matin\u2009\u00bb, ils explorent l\u2019\u00eele et la cachette secr\u00e8te de Peter avec les Gar\u00e7ons perdus et se retrouvent \u00e0 combattre les inf\u00e2mes pirates du Capitaine Crochet.",
-            "popularity": 6.6614,
+            "popularity": 6.4447,
             "poster_path": "/lsNXA11gQZbRfpYf6AXZzj3nEsY.jpg",
             "release_date": "1953-02-05",
             "title": "Peter Pan",
             "video": false,
-            "vote_average": 7.195,
-            "vote_count": 5629,
+            "vote_average": 7.194,
+            "vote_count": 5630,
             "genres": [
                 "Animation",
                 "Familial",
                 "Aventure",
                 "Fantastique"
             ],
-            "runtime": 76,
-            "tagline": "Envolez\u2010vous pour le Pays imaginaire."
+            "tagline": "Envolez\u2010vous pour le Pays imaginaire.",
+            "runtime": 76
         },
         {
             "adult": false,
@@ -507,7 +528,7 @@
             "original_language": "en",
             "original_title": "The Band Wagon",
             "overview": "Dans le train qui l'emm\u00e8ne \u00e0 New York, Tony Hunter, star \u00e0 la d\u00e9rive de la com\u00e9die musicale, surprend une conversation entre deux voyageurs, qui l'estiment fini. Abattu, Tony retrouve cependant son optimisme lorsqu'il aper\u00e7oit, sur le quai de la gare, une foule de journalistes et de photographes. H\u00e9las, ceux-ci sont venus accueillir Ava Gardner, qui voyageait dans le m\u00eame train. Le moral de Tony est au plus bas. Il retrouve enfin ses amis, Lester et Lily Marton, qui lui racontent le sc\u00e9nario d'une prochaine com\u00e9die musicale, dont la mise en sc\u00e8ne sera sign\u00e9e par Cordova, la nouvelle coqueluche de Broadway. L'artiste monte des spectacles r\u00e9solument dramatiques et pompeux...",
-            "popularity": 1.2245,
+            "popularity": 1.148,
             "poster_path": "/vQbU9JCaQdttvQVdnoqTGLbDk88.jpg",
             "release_date": "1953-08-07",
             "title": "Tous en sc\u00e8ne !",
@@ -519,8 +540,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 112,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 112
         },
         {
             "adult": false,
@@ -529,7 +550,7 @@
             "original_language": "en",
             "original_title": "The Story of Three Loves",
             "overview": "Histoire de trois amours impossibles. Premi\u00e8re histoire : Paula est une talentueuse danseuse qui ne peut vivre sans exercer son art; mais elle est atteinte d'un probl\u00e8me au coeur, ce qui signifie que danser lui fait risquer la mort. Seconde histoire : Tommy d\u00e9teste \u00eatre un enfant, et d\u00e9teste encore plus la jeune fille qui lui donne des cours de Fran\u00e7ais. Il r\u00eave de devenir adulte pour faire ce qu'il a envie. Son d\u00e9sir devient r\u00e9alit\u00e9 le temps d'un apr\u00e8s-midi : chang\u00e9 en adulte, il en apprend plus sur la condition d'homme et s'entiche de sa prof particuli\u00e8re. Troisi\u00e8me histoire : Pierre Narval a abandonn\u00e9 le trap\u00e8ze lorsque son partenaire est mort lors d'une dangereuse cascade. Il croise le chemin de Nina, qu'il sauve de la noyade dans la Seine, et la convainc de devenir son nouveau partenaire.",
-            "popularity": 0.58,
+            "popularity": 0.6391,
             "poster_path": "/1thkz6FCdMY3vypkaOiuTHmb4uL.jpg",
             "release_date": "1953-03-26",
             "title": "Histoire de trois amours",
@@ -542,91 +563,8 @@
                 "Fantastique",
                 "Musique"
             ],
-            "runtime": 122,
-            "tagline": "Amour dangereux. Amour jaloux. Amour interdit."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fROOz7d5ODd84xCWbvlHpZ0fqYs.jpg",
-            "id": 104989,
-            "original_language": "en",
-            "original_title": "The Sea Around Us",
-            "overview": "",
-            "popularity": 0.3097,
-            "poster_path": "/q4zZIQUcJAAaXBMaOftr1hIOXCa.jpg",
-            "release_date": "1953-06-30",
-            "title": "Cette mer qui nous entoure",
-            "video": false,
-            "vote_average": 5.909,
-            "vote_count": 11,
-            "genres": [
-                "Documentaire"
-            ],
-            "runtime": 62,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/74Q8M90Tg2TsV3iKjoDpJ77WPMJ.jpg",
-            "id": 8974,
-            "original_language": "en",
-            "original_title": "The War of the Worlds",
-            "overview": "Apr\u00e8s avoir enqu\u00eat\u00e9 sur le crash de plusieurs m\u00e9t\u00e9orites, le docteur Forrester est persuad\u00e9 que le ph\u00e9nom\u00e8ne n'est pas naturel. Sa th\u00e9orie se confirme lorsque des extraterrestres envahissent la Terre et plongent la population dans le chaos. Pour emp\u00eacher l'invasion, le gouvernement pr\u00e9pare une attaque nucl\u00e9aire\u2026",
-            "popularity": 2.0273,
-            "poster_path": "/eqXzeARWaOJug38Qlv59yVlC0B4.jpg",
-            "release_date": "1953-04-03",
-            "title": "La Guerre des mondes",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 678,
-            "genres": [
-                "Science-Fiction",
-                "Action"
-            ],
-            "runtime": 85,
-            "tagline": "Les martiens ont envahi la Terre\u2026"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/gKfu0rXXRUmuvBJSoRw0AmA5QIh.jpg",
-            "id": 98364,
-            "original_language": "en",
-            "original_title": "The Actress",
-            "overview": "Clinton Jones, retrait\u00e9 de la marine, n\u2019a trouv\u00e9 qu\u2019un petit boulot et craint des lendemains difficiles pour sa famille. C\u2019est ce qui le rend r\u00e9ticent \u00e0 la demande de sa fille, la jeune Ruth, qui voudrait devenir actrice, un m\u00e9tier qu\u2019il consid\u00e8re comme \u00e0 haut risque. C\u2019est sans compter la d\u00e9termination de Ruth, qui, pour r\u00e9aliser ses ambitions, ira jusqu\u2019\u00e0 rejeter la demande en mariage de Fred, son amoureux.",
-            "popularity": 0.9224,
-            "poster_path": "/ms7Ni0s6vH9ZCEUyuNIEaQOMxtI.jpg",
-            "release_date": "1953-09-25",
-            "title": "The Actress",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 16,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 90,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7gCIJ4D2T9vmgN7dVdhdmZVwSPk.jpg",
-            "id": 18019,
-            "original_language": "en",
-            "original_title": "Julius Caesar",
-            "overview": "La guerre fratricide qui s'engagea apr\u00e8s l'assassinat de C\u00e9sar entre les partisans de Marc-Antoine et de Brutus.",
-            "popularity": 1.9236,
-            "poster_path": "/gaQPCGEfyqRRmoNzkfsLLq8kQap.jpg",
-            "release_date": "1953-06-04",
-            "title": "Jules C\u00e9sar",
-            "video": false,
-            "vote_average": 7.1,
-            "vote_count": 229,
-            "genres": [
-                "Drame",
-                "Histoire"
-            ],
-            "runtime": 121,
-            "tagline": ""
+            "tagline": "Amour dangereux. Amour jaloux. Amour interdit.",
+            "runtime": 122
         },
         {
             "adult": false,
@@ -635,7 +573,7 @@
             "original_language": "en",
             "original_title": "I Confess",
             "overview": "Au Qu\u00e9bec, un homme rev\u00eatu d'une soutane abat un avocat pour lui d\u00e9rober son argent. Le soir du drame, il se confesse aupr\u00e8s du p\u00e8re Michael Logan, sur lequel se portent imm\u00e9diatement les soup\u00e7ons. Arr\u00eat\u00e9, mais li\u00e9 par le secret de la confession, le p\u00e8re Logan se tait...",
-            "popularity": 1.8412,
+            "popularity": 1.9866,
             "poster_path": "/6EeaTW4vTAoWsa9MCHY7uwyKHJM.jpg",
             "release_date": "1953-02-12",
             "title": "La Loi du silence",
@@ -647,8 +585,70 @@
                 "Thriller",
                 "Crime"
             ],
-            "runtime": 94,
-            "tagline": "Si vous saviez ce qu'il savait, que feriez-vous ?"
+            "tagline": "Si vous saviez ce qu'il savait, que feriez-vous ?",
+            "runtime": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7gCIJ4D2T9vmgN7dVdhdmZVwSPk.jpg",
+            "id": 18019,
+            "original_language": "en",
+            "original_title": "Julius Caesar",
+            "overview": "La guerre fratricide qui s'engagea apr\u00e8s l'assassinat de C\u00e9sar entre les partisans de Marc-Antoine et de Brutus.",
+            "popularity": 1.5388,
+            "poster_path": "/gaQPCGEfyqRRmoNzkfsLLq8kQap.jpg",
+            "release_date": "1953-06-04",
+            "title": "Jules C\u00e9sar",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 229,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/74Q8M90Tg2TsV3iKjoDpJ77WPMJ.jpg",
+            "id": 8974,
+            "original_language": "en",
+            "original_title": "The War of the Worlds",
+            "overview": "Apr\u00e8s avoir enqu\u00eat\u00e9 sur le crash de plusieurs m\u00e9t\u00e9orites, le docteur Forrester est persuad\u00e9 que le ph\u00e9nom\u00e8ne n'est pas naturel. Sa th\u00e9orie se confirme lorsque des extraterrestres envahissent la Terre et plongent la population dans le chaos. Pour emp\u00eacher l'invasion, le gouvernement pr\u00e9pare une attaque nucl\u00e9aire\u2026",
+            "popularity": 2.1975,
+            "poster_path": "/eqXzeARWaOJug38Qlv59yVlC0B4.jpg",
+            "release_date": "1953-04-03",
+            "title": "La Guerre des mondes",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 678,
+            "genres": [
+                "Science-Fiction",
+                "Action"
+            ],
+            "tagline": "Les martiens ont envahi la Terre\u2026",
+            "runtime": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fROOz7d5ODd84xCWbvlHpZ0fqYs.jpg",
+            "id": 104989,
+            "original_language": "en",
+            "original_title": "The Sea Around Us",
+            "overview": "",
+            "popularity": 0.3612,
+            "poster_path": "/q4zZIQUcJAAaXBMaOftr1hIOXCa.jpg",
+            "release_date": "1953-06-30",
+            "title": "Cette mer qui nous entoure",
+            "video": false,
+            "vote_average": 5.909,
+            "vote_count": 11,
+            "genres": [
+                "Documentaire"
+            ],
+            "tagline": "",
+            "runtime": 62
         },
         {
             "adult": false,
@@ -657,7 +657,7 @@
             "original_language": "en",
             "original_title": "Knights of the Round Table",
             "overview": "Arthur, fils b\u00e2tard d'Uther Pendragon, se dispute la couronne du royaume de Logres (les \u00eeles britanniques) avec sa demi-s\u0153ur Morgane la F\u00e9e et son chevalier servant et \u00e9poux Mordred. Merlin, qui a \u00e9lev\u00e9 Arthur, tranche la question par l'\u00e9preuve de l'\u00e9p\u00e9e : \"celui qui pourra m'arracher de cette enclume sera le roy l\u00e9gitime de toute l'Angleterre\" sont les mots inscrits sur le socle de l'\u00e9p\u00e9e. Seul Arthur peut la retirer. Mordred et Morgane font tout pour contrer Arthur. Lancelot du Lac, fils du roy Ban de B\u00e9noic, qui est un seigneur de Bretagne (Armorique), tombe dans un guet-apens destin\u00e9 \u00e0 Arthur. Lancelot, puis Arthur, d\u00e9font les chevaliers de Mordred, puis signent leur amiti\u00e9 dans un duel d'honneur.",
-            "popularity": 0.6123,
+            "popularity": 0.5731,
             "poster_path": "/byMpAKcrUZCIz4xaSQJN9Xngbfx.jpg",
             "release_date": "1953-12-22",
             "title": "Les Chevaliers de la table ronde",
@@ -671,8 +671,8 @@
                 "Fantastique",
                 "Drame"
             ],
-            "runtime": 111,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 111
         },
         {
             "adult": false,
@@ -681,7 +681,7 @@
             "original_language": "en",
             "original_title": "Calamity Jane",
             "overview": "La vie et l'histoire de Calamity Jane, de son saloon \u00e0 son histoire d'amour avec Wild Bill Hickok.",
-            "popularity": 2.6236,
+            "popularity": 2.4576,
             "poster_path": "/7yGFEc3IM665eK57g6112BP8RlX.jpg",
             "release_date": "1953-11-04",
             "title": "La Blonde du Far-West",
@@ -694,8 +694,28 @@
                 "Romance",
                 "Western"
             ],
-            "runtime": 101,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 1356491,
+            "original_language": "en",
+            "original_title": "Apache",
+            "overview": "",
+            "popularity": 0.3894,
+            "poster_path": null,
+            "release_date": "1953-01-01",
+            "title": "Apache",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "genres": [
+                "Documentaire"
+            ],
+            "tagline": "",
+            "runtime": 12
         },
         {
             "adult": false,
@@ -704,7 +724,7 @@
             "original_language": "en",
             "original_title": "House of Wax",
             "overview": "Londres 1921 : Le mus\u00e9e de cire classique d'un g\u00e9nial sculpteur est incendi\u00e9 par son associ\u00e9 v\u00e9reux. Une dizaine d'ann\u00e9es plus tard aux U.S.A. : le m\u00eame sculpteur (atrocement br\u00fbl\u00e9 et mutil\u00e9) rouvre un nouveau mus\u00e9e de cire consacr\u00e9 d\u00e9sormais au crime et aux supplices. Une jeune fille \u2013 sosie du chef-\u0153uvre d\u00e9truit de l'artiste \u2013 d\u00e9couvrira au p\u00e9ril de sa vie l'effroyable secret de \u00ab l'homme au masque de cire \u00bb.",
-            "popularity": 1.5817,
+            "popularity": 1.3351,
             "poster_path": "/rZq3o6NYWF6K2KrmpaZ1bcMU1yf.jpg",
             "release_date": "1953-04-16",
             "title": "L'Homme au masque de cire",
@@ -715,28 +735,8 @@
                 "Horreur",
                 "Crime"
             ],
-            "runtime": 88,
-            "tagline": "Comme vous ne l'avez vu auparavant."
-        },
-        {
-            "adult": false,
-            "backdrop_path": null,
-            "id": 1356491,
-            "original_language": "en",
-            "original_title": "Apache",
-            "overview": "",
-            "popularity": 0.4004,
-            "poster_path": null,
-            "release_date": "1953-01-01",
-            "title": "Apache",
-            "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0,
-            "genres": [
-                "Documentaire"
-            ],
-            "runtime": 12,
-            "tagline": ""
+            "tagline": "Comme vous ne l'avez vu auparavant.",
+            "runtime": 88
         },
         {
             "adult": false,
@@ -745,7 +745,7 @@
             "original_language": "en",
             "original_title": "The Story of Gilbert and Sullivan",
             "overview": "",
-            "popularity": 0.1744,
+            "popularity": 0.1907,
             "poster_path": "/p4OFki8EFXQF3LuwhIZVkKu1V2O.jpg",
             "release_date": "1953-02-14",
             "title": "The Story of Gilbert and Sullivan",
@@ -756,8 +756,8 @@
                 "Drame",
                 "Musique"
             ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         }
     ]
 }

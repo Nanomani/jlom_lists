@@ -4,7 +4,7 @@
     "source": "https://criticstop10.com/best-movies-of-1960/",
     "created_by": "lbnt",
     "added": "07/30/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,7 +14,7 @@
             "original_language": "en",
             "original_title": "The Apartment",
             "overview": "C.C. Baxter est employ\u00e9 \u00e0 la Sauvegarde, grande compagnie d'assurance. Dans l'espoir d'un avancement il pr\u00eate souvent son appartement \u00e0 ses sup\u00e9rieurs qui y emm\u00e8nent leurs petites amies. Un jour le chef du personnel le convoque et lui apprend qu'il sait tout et lui demande aussi sa cl\u00e9. Baxter est enfin promu. Mais ce qu'il ignorait c'est que le chef du personnel emmenait dans son appartement la femme dont il \u00e9tait amoureux.",
-            "popularity": 4.8784,
+            "popularity": 5.0033,
             "poster_path": "/jLnfigRYCOtWctAKEbAjPFnUiBg.jpg",
             "release_date": "1960-06-21",
             "title": "La Gar\u00e7onni\u00e8re",
@@ -26,8 +26,48 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 125,
-            "tagline": "Il a pr\u00eat\u00e9 son appartement \u00e0 l'amour."
+            "tagline": "Il a pr\u00eat\u00e9 son appartement \u00e0 l'amour.",
+            "runtime": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tPMHXHKGl9bFCcByKO6M5mClKnE.jpg",
+            "id": 22013,
+            "original_language": "en",
+            "original_title": "Elmer Gantry",
+            "overview": "Elmer Gantry est un voyageur de commerce beau parleur qui vit de petites combines et s\u00e9journe dans des h\u00f4tels miteux. Son chemin croise celui de Sharon Falconer, la pr\u00e9dicatrice de la troupe itin\u00e9rante \u00ab\u00a0Le Renouveau ang\u00e9lique\u00a0\u00bb. Subjugu\u00e9 par cette derni\u00e8re, mais flairant \u00e9galement la bonne affaire, Gantry lui propose ses services. Brillant par sa verve et son charisme, il rencontre un grand succ\u00e8s. Mais son tumultueux pass\u00e9 pourrait bien le rattraper\u2026",
+            "popularity": 2.9727,
+            "poster_path": "/yMohzDlv1w8MQpG9Y3igsFUOf1b.jpg",
+            "release_date": "1960-07-07",
+            "title": "Elmer Gantry, le charlatan",
+            "video": false,
+            "vote_average": 7.246,
+            "vote_count": 191,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+            "id": 1908,
+            "original_language": "en",
+            "original_title": "Inherit the Wind",
+            "overview": "Aux \u00c9tats-Unis, le professeur Bertram Cates est attaqu\u00e9 par le procureur fondamentaliste Matthiew Brady pour avoir enfreint la loi en enseignant les th\u00e9ories de Darwin tandis qu\u2019il est d\u00e9fendu par le c\u00e9l\u00e8bre avocat Henry Drummond.",
+            "popularity": 1.317,
+            "poster_path": "/x5xVFuc6fznFHS4JVXDpBZ6asUf.jpg",
+            "release_date": "1960-07-07",
+            "title": "Proc\u00e8s de singe",
+            "video": false,
+            "vote_average": 7.667,
+            "vote_count": 448,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -36,7 +76,7 @@
             "original_language": "en",
             "original_title": "Sunrise at Campobello",
             "overview": "",
-            "popularity": 0.2289,
+            "popularity": 0.2445,
             "poster_path": "/y9cJA6rz0cEcPmehvc1Rr1GvvCO.jpg",
             "release_date": "1960-09-28",
             "title": "Sunrise at Campobello",
@@ -47,89 +87,28 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 144,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 144
         },
         {
             "adult": false,
-            "backdrop_path": "/tPMHXHKGl9bFCcByKO6M5mClKnE.jpg",
-            "id": 22013,
+            "backdrop_path": "/fCAKpGbCaVSNyFtip97zlKTVgSa.jpg",
+            "id": 114875,
             "original_language": "en",
-            "original_title": "Elmer Gantry",
-            "overview": "Elmer Gantry est un voyageur de commerce beau parleur qui vit de petites combines et s\u00e9journe dans des h\u00f4tels miteux. Son chemin croise celui de Sharon Falconer, la pr\u00e9dicatrice de la troupe itin\u00e9rante \u00ab\u00a0Le Renouveau ang\u00e9lique\u00a0\u00bb. Subjugu\u00e9 par cette derni\u00e8re, mais flairant \u00e9galement la bonne affaire, Gantry lui propose ses services. Brillant par sa verve et son charisme, il rencontre un grand succ\u00e8s. Mais son tumultueux pass\u00e9 pourrait bien le rattraper\u2026",
-            "popularity": 3.2301,
-            "poster_path": "/yMohzDlv1w8MQpG9Y3igsFUOf1b.jpg",
-            "release_date": "1960-07-07",
-            "title": "Elmer Gantry, le charlatan",
+            "original_title": "The Dark at the Top of the Stairs",
+            "overview": "",
+            "popularity": 0.1429,
+            "poster_path": "/8dGQvC8qsIjZNli8tSJmeIo7YqA.jpg",
+            "release_date": "1960-09-28",
+            "title": "The Dark at the Top of the Stairs",
             "video": false,
-            "vote_average": 7.246,
-            "vote_count": 191,
+            "vote_average": 6.429,
+            "vote_count": 14,
             "genres": [
                 "Drame"
             ],
-            "runtime": 146,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tF3P0scrDeYV8wC8Vs1ZBPQuiEJ.jpg",
-            "id": 53939,
-            "original_language": "en",
-            "original_title": "Sons and Lovers",
-            "overview": "A Nottingham, la mine rythme le quotidien des habitants. La famille Morel n'a pas \u00e9chapp\u00e9 \u00e0 cette industrie qui exige, pour extraire le pr\u00e9cieux minerai, le sacrifice des individus. Madame Morel en a h\u00e9rit\u00e9 une certaine amertume, elle qui pensait \u00e9pouser le prince charmant. Son mari, mineur, se vautre dans l'alcoolisme. Pour ce couple explosif, leurs trois gar\u00e7ons constituent un enjeu essentiel, d'autant que chacun poss\u00e8de un caract\u00e8re bien singulier. L'a\u00een\u00e9 refuse cat\u00e9goriquement de reprendre le flambeau paternel. Le cadet, plus docile, a accept\u00e9 de devenir une \u00abgueule noire\u00bb, mais y perd bient\u00f4t la vie. Le benjamin, Paul, aimerait se consacrer \u00e0 l'art...",
-            "popularity": 0.4417,
-            "poster_path": "/7BDlr8XivWmNcDsb5ygnhs8CWiR.jpg",
-            "release_date": "1960-06-23",
-            "title": "Amants et Fils",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 38,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 98,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/cSPEJCJ2OwSXGp9GfLvl9rK31U.jpg",
-            "id": 12617,
-            "original_language": "en",
-            "original_title": "Midnight Lace",
-            "overview": "Kit, une jeune et riche h\u00e9riti\u00e8re am\u00e9ricaine, est l'\u00e9pouse d'un puissant banquier britannique. Bien que combl\u00e9e, elle d\u00e9plore quelque peu les absences r\u00e9p\u00e9t\u00e9es de son \u00e9poux, souvent retenu par ses obligations. Un soir, alors qu'elle rentre chez elle, Kit entend une voix dans le brouillard qui prof\u00e8re \u00e0 son \u00e9gard des menaces de mort. Aux yeux de Tony, son mari, il ne s'agit que d'une plaisanterie de mauvais go\u00fbt. Le lendemain, Kit \u00e9chappe de peu \u00e0 un attentat. Peu apr\u00e8s, un inconnu lui t\u00e9l\u00e9phone. Il est clair que la menace est s\u00e9rieuse. Tony et Kit font appel \u00e0 Scotland Yard. Malgr\u00e9 l'intervention de la police, la jeune femme c\u00e8de \u00e0 la panique...",
-            "popularity": 1.8815,
-            "poster_path": "/5DtNCjRinTT8aQSM2VLf0seugQg.jpg",
-            "release_date": "1960-10-13",
-            "title": "Pi\u00e8ge \u00e0 minuit",
-            "video": false,
-            "vote_average": 6.559,
-            "vote_count": 127,
-            "genres": [
-                "Myst\u00e8re",
-                "Thriller"
-            ],
-            "runtime": 108,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/AoQqDYm9Nli8idc1JBEDnuO07oH.jpg",
-            "id": 23724,
-            "original_language": "en",
-            "original_title": "BUtterfield 8",
-            "overview": "Gloria est la call-girl la plus \u00e9l\u00e9gante et la mieux pay\u00e9e de tout New York. Elle passe la nuit avec Weston Liggett pour qui elle \u00e9prouve un sentiment qu'elle ignorait jusque-l\u00e0. Aussi est-elle choqu\u00e9e de l'argent qu'il lui propose. Pour se venger, elle d\u00e9cide de lui faire une farce et emm\u00e8ne le vison de l'\u00e9pouse de Weston, la tr\u00e8s riche Emily.",
-            "popularity": 2.9419,
-            "poster_path": "/zwMaEBrNWFv9I9NiJVNTQ8znAM4.jpg",
-            "release_date": "1960-11-04",
-            "title": "La V\u00e9nus au vison",
-            "video": false,
-            "vote_average": 6.237,
-            "vote_count": 93,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 109,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -138,7 +117,7 @@
             "original_language": "en",
             "original_title": "Spartacus",
             "overview": "Italie, 73 av. J.C. Esclave devenu gladiateur, Spartacus est \u00e9pargn\u00e9 par un de ses compagnons d'infortune dans un combat \u00e0 mort. Ce r\u00e9pit soul\u00e8ve en lui plus que jamais le souffle de la r\u00e9volte, et apr\u00e8s avoir bris\u00e9 ses cha\u00eenes, il enjoint les autres esclaves \u00e0 faire de m\u00eame. Rapidement \u00e0 la t\u00eate d'une colossale arm\u00e9e, Spartacus entend rejoindre le port de Brides au sud du pays pour prendre la mer \u00e0 bord des navires ciliciens. Mais l'Empire romain ne l'entend pas de cette oreille et lance ses l\u00e9gions \u00e0 la poursuite des esclaves r\u00e9volt\u00e9s\u2026",
-            "popularity": 6.7508,
+            "popularity": 6.3472,
             "poster_path": "/7jIkNQenhZdiGRcwMk8w9KhwFi6.jpg",
             "release_date": "1960-10-13",
             "title": "Spartacus",
@@ -151,8 +130,49 @@
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 181,
-            "tagline": "Ils l'ont entra\u00een\u00e9 \u00e0 tuer pour leur plaisir\u2026 mais ils l'ont un peu trop bien entra\u00een\u00e9"
+            "tagline": "Ils l'ont entra\u00een\u00e9 \u00e0 tuer pour leur plaisir\u2026 mais ils l'ont un peu trop bien entra\u00een\u00e9",
+            "runtime": 181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tF3P0scrDeYV8wC8Vs1ZBPQuiEJ.jpg",
+            "id": 53939,
+            "original_language": "en",
+            "original_title": "Sons and Lovers",
+            "overview": "A Nottingham, la mine rythme le quotidien des habitants. La famille Morel n'a pas \u00e9chapp\u00e9 \u00e0 cette industrie qui exige, pour extraire le pr\u00e9cieux minerai, le sacrifice des individus. Madame Morel en a h\u00e9rit\u00e9 une certaine amertume, elle qui pensait \u00e9pouser le prince charmant. Son mari, mineur, se vautre dans l'alcoolisme. Pour ce couple explosif, leurs trois gar\u00e7ons constituent un enjeu essentiel, d'autant que chacun poss\u00e8de un caract\u00e8re bien singulier. L'a\u00een\u00e9 refuse cat\u00e9goriquement de reprendre le flambeau paternel. Le cadet, plus docile, a accept\u00e9 de devenir une \u00abgueule noire\u00bb, mais y perd bient\u00f4t la vie. Le benjamin, Paul, aimerait se consacrer \u00e0 l'art...",
+            "popularity": 0.4142,
+            "poster_path": "/7BDlr8XivWmNcDsb5ygnhs8CWiR.jpg",
+            "release_date": "1960-06-23",
+            "title": "Amants et Fils",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 38,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cSPEJCJ2OwSXGp9GfLvl9rK31U.jpg",
+            "id": 12617,
+            "original_language": "en",
+            "original_title": "Midnight Lace",
+            "overview": "Kit, une jeune et riche h\u00e9riti\u00e8re am\u00e9ricaine, est l'\u00e9pouse d'un puissant banquier britannique. Bien que combl\u00e9e, elle d\u00e9plore quelque peu les absences r\u00e9p\u00e9t\u00e9es de son \u00e9poux, souvent retenu par ses obligations. Un soir, alors qu'elle rentre chez elle, Kit entend une voix dans le brouillard qui prof\u00e8re \u00e0 son \u00e9gard des menaces de mort. Aux yeux de Tony, son mari, il ne s'agit que d'une plaisanterie de mauvais go\u00fbt. Le lendemain, Kit \u00e9chappe de peu \u00e0 un attentat. Peu apr\u00e8s, un inconnu lui t\u00e9l\u00e9phone. Il est clair que la menace est s\u00e9rieuse. Tony et Kit font appel \u00e0 Scotland Yard. Malgr\u00e9 l'intervention de la police, la jeune femme c\u00e8de \u00e0 la panique...",
+            "popularity": 1.5792,
+            "poster_path": "/5DtNCjRinTT8aQSM2VLf0seugQg.jpg",
+            "release_date": "1960-10-13",
+            "title": "Pi\u00e8ge \u00e0 minuit",
+            "video": false,
+            "vote_average": 6.559,
+            "vote_count": 127,
+            "genres": [
+                "Myst\u00e8re",
+                "Thriller"
+            ],
+            "tagline": "",
+            "runtime": 108
         },
         {
             "adult": false,
@@ -161,123 +181,61 @@
             "original_language": "en",
             "original_title": "Psycho",
             "overview": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'\u00e9pouser car il doit verser une \u00e9norme pension alimentaire le laissant sans le sou\u2026 Mais un beau jour, son patron lui demande de d\u00e9poser 40 000 dollars \u00e0 la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Tr\u00e8s vite la panique commence \u00e0 se faire sentir. Partag\u00e9e entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arr\u00eate pr\u00e8s d'un motel, tenu par un sympathique g\u00e9rant nomm\u00e9 Norman Bates, mais qui doit supporter le caract\u00e8re possessif de sa m\u00e8re. Apr\u00e8s un copieux repas avec Norman, Marion prend toutes ses pr\u00e9cautions afin de dissimuler l'argent. Pour se d\u00e9lasser de cette journ\u00e9e, elle prend une douche\u2026",
-            "popularity": 9.58,
+            "popularity": 9.8758,
             "poster_path": "/lzF8b44dAvXFagQnB1UZa2AF87q.jpg",
             "release_date": "1960-06-22",
             "title": "Psychose",
             "video": false,
-            "vote_average": 8.4,
-            "vote_count": 10710,
+            "vote_average": 8.419,
+            "vote_count": 10712,
             "genres": [
                 "Horreur",
                 "Thriller",
                 "Myst\u00e8re"
             ],
-            "runtime": 109,
-            "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !"
+            "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !",
+            "runtime": 109
         },
         {
             "adult": false,
-            "backdrop_path": "/fCAKpGbCaVSNyFtip97zlKTVgSa.jpg",
-            "id": 114875,
+            "backdrop_path": "/AoQqDYm9Nli8idc1JBEDnuO07oH.jpg",
+            "id": 23724,
             "original_language": "en",
-            "original_title": "The Dark at the Top of the Stairs",
-            "overview": "",
-            "popularity": 0.2108,
-            "poster_path": "/8dGQvC8qsIjZNli8tSJmeIo7YqA.jpg",
-            "release_date": "1960-09-28",
-            "title": "The Dark at the Top of the Stairs",
+            "original_title": "BUtterfield 8",
+            "overview": "Gloria est la call-girl la plus \u00e9l\u00e9gante et la mieux pay\u00e9e de tout New York. Elle passe la nuit avec Weston Liggett pour qui elle \u00e9prouve un sentiment qu'elle ignorait jusque-l\u00e0. Aussi est-elle choqu\u00e9e de l'argent qu'il lui propose. Pour se venger, elle d\u00e9cide de lui faire une farce et emm\u00e8ne le vison de l'\u00e9pouse de Weston, la tr\u00e8s riche Emily.",
+            "popularity": 2.5516,
+            "poster_path": "/zwMaEBrNWFv9I9NiJVNTQ8znAM4.jpg",
+            "release_date": "1960-11-04",
+            "title": "La V\u00e9nus au vison",
             "video": false,
-            "vote_average": 6.429,
-            "vote_count": 14,
+            "vote_average": 6.237,
+            "vote_count": 93,
             "genres": [
                 "Drame"
             ],
-            "runtime": 124,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 109
         },
         {
             "adult": false,
-            "backdrop_path": "/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
-            "id": 1908,
+            "backdrop_path": "/5Mj7KHV2w9sp7LK8W5FPLeT9DQE.jpg",
+            "id": 42541,
             "original_language": "en",
-            "original_title": "Inherit the Wind",
-            "overview": "Aux \u00c9tats-Unis, le professeur Bertram Cates est attaqu\u00e9 par le procureur fondamentaliste Matthiew Brady pour avoir enfreint la loi en enseignant les th\u00e9ories de Darwin tandis qu\u2019il est d\u00e9fendu par le c\u00e9l\u00e8bre avocat Henry Drummond.",
-            "popularity": 1.1828,
-            "poster_path": "/x5xVFuc6fznFHS4JVXDpBZ6asUf.jpg",
-            "release_date": "1960-07-07",
-            "title": "Proc\u00e8s de singe",
+            "original_title": "From the Terrace",
+            "overview": "Rejet\u00e9 par un p\u00e8re autoritaire, David Eaton, arriv\u00e9 \u00e0 l'\u00e2ge adulte, se rebelle. Refusant de reprendre l'usine familiale, le jeune homme ambitieux pr\u00e9f\u00e8re se lancer dans une carri\u00e8re de businessman \u00e0 Wall Street. Mais David, qui a a du mal \u00e0 exprimer ses sentiments, doit affronter une s\u00e9rie de probl\u00e8mes personnels. Il se brouille avec son \u00e9pouse infid\u00e8le, Mary, et tombe lui-m\u00eame amoureux d'une jeune fille, Natalie. Pendant ce temps, sa m\u00e8re Martha sombre dans l'alcoolisme",
+            "popularity": 11.2819,
+            "poster_path": "/nG0CavLX9OXhtUVX0a3Nj9pLsA6.jpg",
+            "release_date": "1960-07-15",
+            "title": "Du haut de la terrasse",
             "video": false,
-            "vote_average": 7.667,
-            "vote_count": 448,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 128,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aMnmFAzwM9OD1f2PevCfn9Ht3wn.jpg",
-            "id": 89484,
-            "original_language": "en",
-            "original_title": "Home from the Hill",
-            "overview": "Texas, ann\u00e9es 1950, Wade Hunnicutt est bless\u00e9 au cours d\u2019une partie de chasse par un mari jaloux. Personne ne s'en \u00e9tonne de par la r\u00e9putation d'un incorrigible coureur de jupons qu'a ce riche propri\u00e9taire terrien. Son \u00e9pouse Hannah se refuse \u00e0 lui depuis qu\u2019une de ses innombrables ma\u00eetresses lui a donn\u00e9 un fils naturel, Rafe. Leur fils Th\u00e9ron souffre de l\u2019ambiance d\u00e9l\u00e9t\u00e8re qui r\u00e8gne entre ses parents. Cet adolescent na\u00eff se retrouve tiraill\u00e9 entre l\u2019influence tr\u00e8s protectrice de sa m\u00e8re et celle dominatrice de son p\u00e8re, bien d\u00e9cid\u00e9 \u00e0 en faire un homme. Pour cela, Wade demande l\u2019aide de Rafe qu\u2019il n\u2019a pourtant jamais reconnu ni trait\u00e9 comme tel. Boulevers\u00e9 par la d\u00e9couverte de ce secret et l\u2019existence de ce demi-fr\u00e8re, Th\u00e9ron voudrait que son p\u00e8re r\u00e9pare les torts pu faits \u00e0 Rafe pour qui il s\u2019est pris d\u2019amiti\u00e9. Devant le refus cat\u00e9gorique de son p\u00e8re, Th\u00e9ron quitte la maison familiale\u2026",
-            "popularity": 0.8944,
-            "poster_path": "/rFLIZGtT2vRTGJSXZ8S60vyq1JM.jpg",
-            "release_date": "1960-03-03",
-            "title": "Celui par qui le scandale arrive",
-            "video": false,
-            "vote_average": 6.734,
-            "vote_count": 62,
+            "vote_average": 6.583,
+            "vote_count": 54,
             "genres": [
                 "Drame",
                 "Romance"
             ],
-            "runtime": 150,
-            "tagline": "Film\u00e9 en ext\u00e9rieurs, en for\u00eats et mar\u00e9cages"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/daAGNEXy8VC0VXWG1QZCrZhUqKJ.jpg",
-            "id": 31102,
-            "original_language": "en",
-            "original_title": "Pollyanna",
-            "overview": "Pollyanna est la fille orpheline de missionnaires qui arrivent dans la petite ville de Harrington pour vivre avec sa riche tante, Polly Harrington. Pollyanna est jeune et gaie, se concentre sur la bont\u00e9 de vie et, ainsi se fait de nombreux amis dans la communaut\u00e9 dont l'hypocondriaque Mme. Snow et l'acide hermite M. Pendergast.",
-            "popularity": 2.376,
-            "poster_path": "/tqML1qrMPakCjW3b1oGKIaVvJjO.jpg",
-            "release_date": "1960-05-19",
-            "title": "Pollyanna",
-            "video": false,
-            "vote_average": 6.946,
-            "vote_count": 204,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Familial"
-            ],
-            "runtime": 134,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pO5HrkwArFKtdofntDD2UiGBPB6.jpg",
-            "id": 34783,
-            "original_language": "en",
-            "original_title": "I'm All Right Jack",
-            "overview": "Le na\u00eff Stanley Windrush revient de la guerre avec une seule ambition : r\u00e9ussir dans les affaires. Cependant, \u00e0 sa grande consternation, il s'aper\u00e7oit bien vite qu'il lui faut d\u00e9marrer au bas de l'\u00e9chelle et gravir les \u00e9chelons un par un pour arriver \u00e0 ses fins, et qu'aussi bien la direction que les syndicats se servent de lui dans leur lutte pour le pouvoir.",
-            "popularity": 1.0458,
-            "poster_path": "/4HD25hdMIcFAd0MbGCFM8t7G0sO.jpg",
-            "release_date": "1959-08-18",
-            "title": "Apr\u00e8s moi le d\u00e9luge",
-            "video": false,
-            "vote_average": 6.6,
-            "vote_count": 81,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "On n'ach\u00e8te pas la respectabilit\u00e9 en mettant une alliance !",
+            "runtime": 149
         },
         {
             "adult": false,
@@ -286,7 +244,7 @@
             "original_language": "en",
             "original_title": "Can-Can",
             "overview": "\u00c0 Paris en 1896, Simone Pistache, directrice et meneuse de revues du cabaret Bal du Paradis \u00e0 Montmartre, brave la censure en pr\u00e9sentant le cancan, une danse qu\u2019une ligue de dames vertueuses a d\u00e9clar\u00e9e \u00ab obsc\u00e8ne et lascive \u00bb (sic), bien que ces dames ne l\u2019aient jamais vue. Fran\u00e7ois Durnais, avocat et amant de Simone, est cens\u00e9 avoir n\u00e9goci\u00e9 un accord avec la police, mais celle-ci fait irruption \u00e0 chaque tentative de repr\u00e9sentation. Lors du proc\u00e8s, le pr\u00e9sident du tribunal, Paul Barri\u00e8re (un ami de Fran\u00e7ois), apprend que c\u2019est l\u2019un des juges de sa cour qui a valid\u00e9 la plainte : le jeune Philippe Forrestier. Un soir, lorsque ce dernier se rend incognito au Bal du Paradis pour constater le d\u00e9lit, il fait la connaissance de Simone et en tombe amoureux\u2026",
-            "popularity": 0.4626,
+            "popularity": 0.5082,
             "poster_path": "/9wldCQtWlTkYEOQp4D6ejOENc40.jpg",
             "release_date": "1960-03-09",
             "title": "Can-Can",
@@ -298,8 +256,71 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 115,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pO5HrkwArFKtdofntDD2UiGBPB6.jpg",
+            "id": 34783,
+            "original_language": "en",
+            "original_title": "I'm All Right Jack",
+            "overview": "Le na\u00eff Stanley Windrush revient de la guerre avec une seule ambition : r\u00e9ussir dans les affaires. Cependant, \u00e0 sa grande consternation, il s'aper\u00e7oit bien vite qu'il lui faut d\u00e9marrer au bas de l'\u00e9chelle et gravir les \u00e9chelons un par un pour arriver \u00e0 ses fins, et qu'aussi bien la direction que les syndicats se servent de lui dans leur lutte pour le pouvoir.",
+            "popularity": 0.8775,
+            "poster_path": "/4HD25hdMIcFAd0MbGCFM8t7G0sO.jpg",
+            "release_date": "1959-08-18",
+            "title": "Apr\u00e8s moi le d\u00e9luge",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 81,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/daAGNEXy8VC0VXWG1QZCrZhUqKJ.jpg",
+            "id": 31102,
+            "original_language": "en",
+            "original_title": "Pollyanna",
+            "overview": "Pollyanna est la fille orpheline de missionnaires qui arrivent dans la petite ville de Harrington pour vivre avec sa riche tante, Polly Harrington. Pollyanna est jeune et gaie, se concentre sur la bont\u00e9 de vie et, ainsi se fait de nombreux amis dans la communaut\u00e9 dont l'hypocondriaque Mme. Snow et l'acide hermite M. Pendergast.",
+            "popularity": 2.1988,
+            "poster_path": "/tqML1qrMPakCjW3b1oGKIaVvJjO.jpg",
+            "release_date": "1960-05-19",
+            "title": "Pollyanna",
+            "video": false,
+            "vote_average": 6.946,
+            "vote_count": 204,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Familial"
+            ],
+            "tagline": "",
+            "runtime": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aMnmFAzwM9OD1f2PevCfn9Ht3wn.jpg",
+            "id": 89484,
+            "original_language": "en",
+            "original_title": "Home from the Hill",
+            "overview": "Texas, ann\u00e9es 1950, Wade Hunnicutt est bless\u00e9 au cours d\u2019une partie de chasse par un mari jaloux. Personne ne s'en \u00e9tonne de par la r\u00e9putation d'un incorrigible coureur de jupons qu'a ce riche propri\u00e9taire terrien. Son \u00e9pouse Hannah se refuse \u00e0 lui depuis qu\u2019une de ses innombrables ma\u00eetresses lui a donn\u00e9 un fils naturel, Rafe. Leur fils Th\u00e9ron souffre de l\u2019ambiance d\u00e9l\u00e9t\u00e8re qui r\u00e8gne entre ses parents. Cet adolescent na\u00eff se retrouve tiraill\u00e9 entre l\u2019influence tr\u00e8s protectrice de sa m\u00e8re et celle dominatrice de son p\u00e8re, bien d\u00e9cid\u00e9 \u00e0 en faire un homme. Pour cela, Wade demande l\u2019aide de Rafe qu\u2019il n\u2019a pourtant jamais reconnu ni trait\u00e9 comme tel. Boulevers\u00e9 par la d\u00e9couverte de ce secret et l\u2019existence de ce demi-fr\u00e8re, Th\u00e9ron voudrait que son p\u00e8re r\u00e9pare les torts pu faits \u00e0 Rafe pour qui il s\u2019est pris d\u2019amiti\u00e9. Devant le refus cat\u00e9gorique de son p\u00e8re, Th\u00e9ron quitte la maison familiale\u2026",
+            "popularity": 1.3177,
+            "poster_path": "/rFLIZGtT2vRTGJSXZ8S60vyq1JM.jpg",
+            "release_date": "1960-03-03",
+            "title": "Celui par qui le scandale arrive",
+            "video": false,
+            "vote_average": 6.734,
+            "vote_count": 62,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "Film\u00e9 en ext\u00e9rieurs, en for\u00eats et mar\u00e9cages",
+            "runtime": 150
         },
         {
             "adult": false,
@@ -308,7 +329,7 @@
             "original_language": "en",
             "original_title": "Conspiracy of Hearts",
             "overview": "1943, dans le nord de l'Italie. Les nazis installent un camp d'enfants juifs \u00e0 proximit\u00e9 d'un couvent dirig\u00e9 par la M\u00e8re Catherine. L'officier charg\u00e9 de la surveillance du camp, l'italien Spoletti, est \u00e9coeur\u00e9 du role qu'on lui attribue et ferme les yeux devant les \u00e9vasions organis\u00e9es par les religieuses. Le colonel nazi Horsten ordonne alors aux soldats italiens de perquisitionner le couvent et d'abattre Soeur Catherine. Mais Spoletti tue Horsten et rejoint le maquis avec ses hommes...",
-            "popularity": 0.1868,
+            "popularity": 0.2963,
             "poster_path": "/c5ykMEdhiSX6CeVYPUZ23PBkhci.jpg",
             "release_date": "1960-04-07",
             "title": "Les Conspiratrices",
@@ -319,8 +340,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 113,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -329,7 +350,7 @@
             "original_language": "en",
             "original_title": "Please Don't Eat the Daisies",
             "overview": "Par un beau soleil, Kate Mackay se d\u00e9m\u00e8ne sans compter entre sa maison, son mari et ses enfants ch\u00e9ris, 4 gar\u00e7ons, qui lui en font voir de toutes les couleurs. L'horrible maison \u00e0 la campagne a besoin d'\u00eatre retap\u00e9e de fond en comble et le mari, critique dramatique \u00e0 la plume venimeuse, voit les pi\u00e8ces dans les pires conditions, au milieu des spectateurs.  Mais sa r\u00e9putation de critique avis\u00e9 va en prendre un coup le jour o\u00f9, assistant \u00e0 une pi\u00e8ce qu'il a lui-m\u00eame \u00e9crite il y a plusieurs dizaines d'ann\u00e9es, il re\u00e7oit la monnaie... de sa pi\u00e8ce.",
-            "popularity": 0.4118,
+            "popularity": 0.4458,
             "poster_path": "/4VKZ7qgnmQg0O15Z4SRLIhq4Iu5.jpg",
             "release_date": "1960-03-31",
             "title": "Ne mangez pas les marguerites",
@@ -341,8 +362,8 @@
                 "Familial",
                 "Romance"
             ],
-            "runtime": 106,
-            "tagline": "Le film tumultueux du grand best-seller\u00a0!"
+            "tagline": "Le film tumultueux du grand best-seller\u00a0!",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -351,7 +372,7 @@
             "original_language": "en",
             "original_title": "Our Man in Havana",
             "overview": "Jim Wormald est un modeste marchand d'aspirateurs. Pour subvenir aux besoins de sa fille, il accepte de devenir un espion \u00e0 La Havane.",
-            "popularity": 0.552,
+            "popularity": 0.5334,
             "poster_path": "/6R6zIKywC8rNo6fT1YBDeEAUmEb.jpg",
             "release_date": "1960-01-27",
             "title": "Notre agent \u00e0 La Havane",
@@ -362,8 +383,8 @@
                 "Com\u00e9die",
                 "Thriller"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -372,7 +393,7 @@
             "original_language": "en",
             "original_title": "Bells Are Ringing",
             "overview": "Ella Peterson est op\u00e9ratrice t\u00e9l\u00e9phonique \u00e0 New York. Au lieu de simplement transf\u00e9rer les appels, elle s'immisce dans les affaires des abonn\u00e9s, dont elle devient une confidente, ce qui n'est pas du go\u00fbt de sa patronne, Sue. Ainsi, Ella apprend que le dramaturge Jeffrey Moss, dont elle est tomb\u00e9e amoureuse avant de finalement le rencontrer, n'arrive pas \u00e0 \u00e9crire une nouvelle pi\u00e8ce, que l'acteur de second plan Blake Barton recherche un premier r\u00f4le, ou encore que le dentiste Joe Kitchell voudrait devenir auteur-compositeur...",
-            "popularity": 0.514,
+            "popularity": 0.4128,
             "poster_path": "/1XigaSX2wbUYWttuZjHiFD8sSpU.jpg",
             "release_date": "1960-06-23",
             "title": "Un num\u00e9ro du tonnerre",
@@ -383,8 +404,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 123,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 123
         },
         {
             "adult": false,
@@ -393,7 +414,7 @@
             "original_language": "en",
             "original_title": "Ocean's Eleven",
             "overview": "Onze amis de longue date (ils ont combattu ensemble pendant la Seconde Guerre Mondiale) d\u00e9cident de braquer ensemble cinq des plus grands casinos de Las Vegas au cours de la m\u00eame nuit. Leur plan est parfait, mais l'ex\u00e9cution en est mouvement\u00e9e.",
-            "popularity": 4.1194,
+            "popularity": 3.6852,
             "poster_path": "/eZFfvAp6fsQaA849FTb78CGxuoY.jpg",
             "release_date": "1960-08-10",
             "title": "L'Inconnu de Las Vegas",
@@ -404,29 +425,28 @@
                 "Crime",
                 "Com\u00e9die"
             ],
-            "runtime": 127,
-            "tagline": "L' Inconnu de Las Vegas de Lewis Milestone marque l'av\u00e8nement de la bande \u00e0 Sinatra, le Rat Pack, sur les \u00e9crans."
+            "tagline": "L' Inconnu de Las Vegas de Lewis Milestone marque l'av\u00e8nement de la bande \u00e0 Sinatra, le Rat Pack, sur les \u00e9crans.",
+            "runtime": 127
         },
         {
             "adult": false,
-            "backdrop_path": "/5Mj7KHV2w9sp7LK8W5FPLeT9DQE.jpg",
-            "id": 42541,
+            "backdrop_path": "/seQEaWg0xDiNFMiTLnrTfVywVC6.jpg",
+            "id": 18929,
             "original_language": "en",
-            "original_title": "From the Terrace",
-            "overview": "Rejet\u00e9 par un p\u00e8re autoritaire, David Eaton, arriv\u00e9 \u00e0 l'\u00e2ge adulte, se rebelle. Refusant de reprendre l'usine familiale, le jeune homme ambitieux pr\u00e9f\u00e8re se lancer dans une carri\u00e8re de businessman \u00e0 Wall Street. Mais David, qui a a du mal \u00e0 exprimer ses sentiments, doit affronter une s\u00e9rie de probl\u00e8mes personnels. Il se brouille avec son \u00e9pouse infid\u00e8le, Mary, et tombe lui-m\u00eame amoureux d'une jeune fille, Natalie. Pendant ce temps, sa m\u00e8re Martha sombre dans l'alcoolisme",
-            "popularity": 7.3648,
-            "poster_path": "/nG0CavLX9OXhtUVX0a3Nj9pLsA6.jpg",
-            "release_date": "1960-07-15",
-            "title": "Du haut de la terrasse",
+            "original_title": "The Entertainer",
+            "overview": "Un acteur d\u00e9chu s'acharne \u00e0 poursuivre un public qui se moque de lui. Il s'adonne \u00e0 la boisson, d\u00e9laisse sa famille et entraine dans sa chute une jeune fille qu'il \u00e0 s\u00e9duite. Il parvient \u00e0 attirer sur sc\u00e8ne son p\u00e8re, un ancien acteur qui ne supporte pas le choc \u00e9motionnel...",
+            "popularity": 0.2704,
+            "poster_path": "/s549IYn0XDUlFHJpOLIrWE1uYXv.jpg",
+            "release_date": "1960-07-25",
+            "title": "The Entertainer",
             "video": false,
-            "vote_average": 6.583,
+            "vote_average": 6.231,
             "vote_count": 54,
             "genres": [
-                "Drame",
-                "Romance"
+                "Drame"
             ],
-            "runtime": 149,
-            "tagline": "On n'ach\u00e8te pas la respectabilit\u00e9 en mettant une alliance !"
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -435,7 +455,7 @@
             "original_language": "en",
             "original_title": "The Fugitive Kind",
             "overview": "Dans ce chef d'\u0153uvre de Tennessee Williams, Marlon Brando est superbe dans le r\u00f4le d'un r\u00e9volt\u00e9 vagabond propuls\u00e9 dans la vie de femmes passionn\u00e9es, Maureen Stapleton et Joanne Woodward, dans cette petite ville du Mississippi.",
-            "popularity": 0.6321,
+            "popularity": 0.5681,
             "poster_path": "/cDH6S3qnusEqKyQrGwKdBhj7EoD.jpg",
             "release_date": "1960-04-14",
             "title": "L'Homme \u00e0 la peau de serpent",
@@ -446,49 +466,8 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 119,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/seQEaWg0xDiNFMiTLnrTfVywVC6.jpg",
-            "id": 18929,
-            "original_language": "en",
-            "original_title": "The Entertainer",
-            "overview": "Un acteur d\u00e9chu s'acharne \u00e0 poursuivre un public qui se moque de lui. Il s'adonne \u00e0 la boisson, d\u00e9laisse sa famille et entraine dans sa chute une jeune fille qu'il \u00e0 s\u00e9duite. Il parvient \u00e0 attirer sur sc\u00e8ne son p\u00e8re, un ancien acteur qui ne supporte pas le choc \u00e9motionnel...",
-            "popularity": 0.2857,
-            "poster_path": "/s549IYn0XDUlFHJpOLIrWE1uYXv.jpg",
-            "release_date": "1960-07-25",
-            "title": "The Entertainer",
-            "video": false,
-            "vote_average": 6.231,
-            "vote_count": 54,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 104,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4YQErZbV1SKgfc7Z2cLOwWcTgO4.jpg",
-            "id": 24014,
-            "original_language": "en",
-            "original_title": "Let's Make Love",
-            "overview": "Un riche industriel veut faire interdire une pi\u00e8ce satirique dans lequel il est caricatur\u00e9. \u00c9bloui par Amanda, la vedette f\u00e9minine du spectacle, il ne fait rien pour r\u00e9tablir l'heureux quiproquo qui a fait de lui un membre de la troupe de th\u00e9\u00e2tre. Le milliardaire devenu figurant saura-t-il conqu\u00e9rir le c\u0153ur de l'actrice ?",
-            "popularity": 1.252,
-            "poster_path": "/71cWDEmZMGyfmnPiJ22Yae920YT.jpg",
-            "release_date": "1960-09-08",
-            "title": "Le Milliardaire",
-            "video": false,
-            "vote_average": 6.363,
-            "vote_count": 175,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 119,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -497,7 +476,7 @@
             "original_language": "en",
             "original_title": "The Sundowners",
             "overview": "Saison apres saison, un tondeur de moutons loue ses services. Sa vie de nomade le rend heureux mais sa femme et son fils r\u00eavent d'autre chose.",
-            "popularity": 2.8839,
+            "popularity": 2.3972,
             "poster_path": "/2b2DpDdMzeiBvyOLcjxMRR89G5O.jpg",
             "release_date": "1960-12-08",
             "title": "Les horizons sans fronti\u00e8res",
@@ -508,8 +487,29 @@
                 "Drame",
                 "Aventure"
             ],
-            "runtime": 133,
-            "tagline": "\u00c0 travers six mille kilom\u00e8tres d'excitation... \u00c0 travers tout un monde d'aventures vient l'histoire entra\u00eenante de vraies personnes appel\u00e9es 'The Sundowners'\u00a0!"
+            "tagline": "\u00c0 travers six mille kilom\u00e8tres d'excitation... \u00c0 travers tout un monde d'aventures vient l'histoire entra\u00eenante de vraies personnes appel\u00e9es 'The Sundowners'\u00a0!",
+            "runtime": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4YQErZbV1SKgfc7Z2cLOwWcTgO4.jpg",
+            "id": 24014,
+            "original_language": "en",
+            "original_title": "Let's Make Love",
+            "overview": "Un riche industriel veut faire interdire une pi\u00e8ce satirique dans lequel il est caricatur\u00e9. \u00c9bloui par Amanda, la vedette f\u00e9minine du spectacle, il ne fait rien pour r\u00e9tablir l'heureux quiproquo qui a fait de lui un membre de la troupe de th\u00e9\u00e2tre. Le milliardaire devenu figurant saura-t-il conqu\u00e9rir le c\u0153ur de l'actrice ?",
+            "popularity": 1.1438,
+            "poster_path": "/71cWDEmZMGyfmnPiJ22Yae920YT.jpg",
+            "release_date": "1960-09-08",
+            "title": "Le Milliardaire",
+            "video": false,
+            "vote_average": 6.363,
+            "vote_count": 175,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -518,7 +518,7 @@
             "original_language": "en",
             "original_title": "Song Without End",
             "overview": "Jeune pianiste de talent et salu\u00e9 par la critique, Franz Lizst n'en reste pas moins un personnage tortur\u00e9 par la solitude. \u00c0 l'occasion d'une tourn\u00e9e europ\u00e9enne, le jeune artiste fait la rencontre de la princesse Caroline Sayn-Wittengenstei. Tous deux entament une idylle \u00e0 double tranchant puisque cette nouvelle relation a une cons\u00e9quence n\u00e9gative sur les performances de Franz.",
-            "popularity": 0.4196,
+            "popularity": 0.3992,
             "poster_path": "/zyjEdzCXWZhHnV2tTePuD7oIAQF.jpg",
             "release_date": "1960-08-11",
             "title": "Le Bal des adieux",
@@ -529,8 +529,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 141,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -539,7 +539,7 @@
             "original_language": "en",
             "original_title": "Jungle Cat",
             "overview": "Le film d\u00e9bute par une pr\u00e9sentation en animation des f\u00e9lins dont le chat domestique avant de se recentrer sur le jaguar, le plus grand des f\u00e9lins chasseurs. Il s'agit d'un film documentaire am\u00e9ricain sur la nature de la s\u00e9rie True-Life Adventures produit par Disney.",
-            "popularity": 0.5683,
+            "popularity": 0.439,
             "poster_path": "/tMW1RFGp0TV65sQlfjXjar0VkDb.jpg",
             "release_date": "1960-08-10",
             "title": "Le Jaguar, seigneur de l'Amazone",
@@ -550,8 +550,8 @@
                 "Documentaire",
                 "Familial"
             ],
-            "runtime": 69,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 69
         },
         {
             "adult": false,
@@ -560,7 +560,7 @@
             "original_language": "en",
             "original_title": "Jungle Cat",
             "overview": "Le film d\u00e9bute par une pr\u00e9sentation en animation des f\u00e9lins dont le chat domestique avant de se recentrer sur le jaguar, le plus grand des f\u00e9lins chasseurs. Il s'agit d'un film documentaire am\u00e9ricain sur la nature de la s\u00e9rie True-Life Adventures produit par Disney.",
-            "popularity": 0.5683,
+            "popularity": 0.439,
             "poster_path": "/tMW1RFGp0TV65sQlfjXjar0VkDb.jpg",
             "release_date": "1960-08-10",
             "title": "Le Jaguar, seigneur de l'Amazone",
@@ -571,49 +571,8 @@
                 "Documentaire",
                 "Familial"
             ],
-            "runtime": 69,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/thng0EumVDKOuOfDg3ZdH0dbKza.jpg",
-            "id": 136967,
-            "original_language": "en",
-            "original_title": "The Bramble Bush",
-            "overview": "",
-            "popularity": 1.9568,
-            "poster_path": "/fudz1IBJ5J1smuMTBSPQwwQsCp3.jpg",
-            "release_date": "1960-02-24",
-            "title": "The Bramble Bush",
-            "video": false,
-            "vote_average": 4.6,
-            "vote_count": 5,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 93,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/vJ86uR9NmrueBdGgnUbkzxpdlYb.jpg",
-            "id": 43034,
-            "original_language": "en",
-            "original_title": "Hell to Eternity",
-            "overview": "L'histoire authentique de l'am\u00e9ricain Guy Gabaldon, un enfant orphelin \u00e9lev\u00e9 dans les ann\u00e9es 1930 par la famille nippo-am\u00e9ricaine Une. Au moment de la Seconde Guerre mondiale, apr\u00e8s l'attaque de Pearl Harbor, il int\u00e8gre le corps des Marines et s'illustre en 1944 durant la bataille de Saipan.",
-            "popularity": 0.3703,
-            "poster_path": "/iBZ4etannpLgRK9MhAqHyt5CZMW.jpg",
-            "release_date": "1960-08-01",
-            "title": "Hell to Eternity",
-            "video": false,
-            "vote_average": 6.3,
-            "vote_count": 18,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 131,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 69
         },
         {
             "adult": false,
@@ -622,7 +581,7 @@
             "original_language": "en",
             "original_title": "It Started in Naples",
             "overview": "Michael Hamilton (Clark Gable), un avocat de Philadelphie, arrive \u00e0 Naples quelques jours avant son mariage pour r\u00e9gler la succession de son fr\u00e8re Joseph avec un juriste italien Vitalli (Vittorio De Sica). A Naples, Michael d\u00e9couvre que son fr\u00e8re a un fils de 9 ans, Nando, qui est \u00e9lev\u00e9 par sa tante maternelle Lucia (Sophia Loren), une chanteuse de cabaret. Joseph n\u2019a pas \u00e9pous\u00e9 la m\u00e8re de Nando mais ils se sont tous les deux noy\u00e9s lors d\u2019un accident de bateau. La femme l\u00e9gitime de Joseph qu\u2019il a quitt\u00e9e en 1950 vit \u00e0 Philadelphie. Apr\u00e8s avoir vu Nando distribuer des photos l\u00e9g\u00e8res de Lucia, Michael veut inscrire son neveu \u00e0 l\u2019\u00e9cole am\u00e9ricaine de Rome mais Lucia gagne la garde de l\u2019enfant. Malgr\u00e9 une diff\u00e9rence d\u2019\u00e2ge, une romance \u00e9clot entre Michael et Lucia et il d\u00e9cide de rester en Italie.",
-            "popularity": 5.7104,
+            "popularity": 6.8856,
             "poster_path": "/cqgViygbWqqGJs1AOPKRcKEj4rg.jpg",
             "release_date": "1960-08-06",
             "title": "C'est arriv\u00e9 \u00e0 Naples",
@@ -633,29 +592,49 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 79,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 79
         },
         {
             "adult": false,
-            "backdrop_path": "/k5IM83Gb053ODBSccVFl1oZGrJ9.jpg",
-            "id": 39779,
+            "backdrop_path": "/thng0EumVDKOuOfDg3ZdH0dbKza.jpg",
+            "id": 136967,
             "original_language": "en",
-            "original_title": "Portrait in Black",
-            "overview": "Sheila est la femme d\u2019un homme riche et malade, qui s\u2019est constitu\u00e9 une fortune consid\u00e9rable. Fatigu\u00e9e de partager sa vie avec cet homme cruel, elle propose \u00e0 David, son amant mais aussi le m\u00e9decin de son mari, un plan machiav\u00e9lique : tuer son \u00e9poux et profiter ensemble de sa richesse. .. Le plan marche \u00e0 merveille jusqu\u2019au jour o\u00f9 Sheila re\u00e7oit la lettre d\u2019un inconnu la f\u00e9licitant de la perfection de son crime. Un terrible chantage d\u00e9bute alors\u2026",
-            "popularity": 0.2473,
-            "poster_path": "/8377tKQKZQWYMk96X34ORXyfZDT.jpg",
-            "release_date": "1960-07-27",
-            "title": "Meurtre sans faire-part",
+            "original_title": "The Bramble Bush",
+            "overview": "",
+            "popularity": 1.9517,
+            "poster_path": "/fudz1IBJ5J1smuMTBSPQwwQsCp3.jpg",
+            "release_date": "1960-02-24",
+            "title": "The Bramble Bush",
             "video": false,
-            "vote_average": 5.5,
-            "vote_count": 25,
+            "vote_average": 4.6,
+            "vote_count": 5,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vJ86uR9NmrueBdGgnUbkzxpdlYb.jpg",
+            "id": 43034,
+            "original_language": "en",
+            "original_title": "Hell to Eternity",
+            "overview": "L'histoire authentique de l'am\u00e9ricain Guy Gabaldon, un enfant orphelin \u00e9lev\u00e9 dans les ann\u00e9es 1930 par la famille nippo-am\u00e9ricaine Une. Au moment de la Seconde Guerre mondiale, apr\u00e8s l'attaque de Pearl Harbor, il int\u00e8gre le corps des Marines et s'illustre en 1944 durant la bataille de Saipan.",
+            "popularity": 0.4122,
+            "poster_path": "/iBZ4etannpLgRK9MhAqHyt5CZMW.jpg",
+            "release_date": "1960-08-01",
+            "title": "Hell to Eternity",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 18,
             "genres": [
                 "Drame",
-                "Thriller"
+                "Guerre"
             ],
-            "runtime": 113,
-            "tagline": "Elle doit se battre pour avoir le droit d'aimer..."
+            "tagline": "",
+            "runtime": 131
         },
         {
             "adult": false,
@@ -664,7 +643,7 @@
             "original_language": "en",
             "original_title": "Crack in the Mirror",
             "overview": "",
-            "popularity": 0.0927,
+            "popularity": 0.1518,
             "poster_path": "/7968Vn6y6nTz707p8M4CoJmycuX.jpg",
             "release_date": "1960-05-19",
             "title": "Crack in the Mirror",
@@ -675,49 +654,29 @@
                 "Crime",
                 "Drame"
             ],
-            "runtime": 97,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 97
         },
         {
             "adult": false,
-            "backdrop_path": "/viAHZfqdjphm53fNKxpIn5GHrRf.jpg",
-            "id": 49966,
+            "backdrop_path": "/k5IM83Gb053ODBSccVFl1oZGrJ9.jpg",
+            "id": 39779,
             "original_language": "en",
-            "original_title": "The Savage Eye",
-            "overview": "La cam\u00e9ra suit Judith dans les rues de Los Angeles. R\u00e9cemment divorc\u00e9e, elle tente de refaire sa vie. Au cours de ses p\u00e9r\u00e9grinations, elle va faire d'\u00e9tranges rencontres dans le milieu des fanatiques religieux, des laiss\u00e9s-pour-compte du monde urbain, de toutes sortes de gens qui, bien qu'\u00e0 l'image de son propre \u00e9chec personnel, lui donneront la volont\u00e9 de refaire sa vie.",
-            "popularity": 0.2432,
-            "poster_path": "/uHfPUH0iHJWNLG9HWgliJhGuJPi.jpg",
-            "release_date": "1960-06-06",
-            "title": "L'Oeil sauvage",
+            "original_title": "Portrait in Black",
+            "overview": "Sheila est la femme d\u2019un homme riche et malade, qui s\u2019est constitu\u00e9 une fortune consid\u00e9rable. Fatigu\u00e9e de partager sa vie avec cet homme cruel, elle propose \u00e0 David, son amant mais aussi le m\u00e9decin de son mari, un plan machiav\u00e9lique : tuer son \u00e9poux et profiter ensemble de sa richesse. .. Le plan marche \u00e0 merveille jusqu\u2019au jour o\u00f9 Sheila re\u00e7oit la lettre d\u2019un inconnu la f\u00e9licitant de la perfection de son crime. Un terrible chantage d\u00e9bute alors\u2026",
+            "popularity": 0.3353,
+            "poster_path": "/8377tKQKZQWYMk96X34ORXyfZDT.jpg",
+            "release_date": "1960-07-27",
+            "title": "Meurtre sans faire-part",
             "video": false,
             "vote_average": 5.5,
-            "vote_count": 13,
+            "vote_count": 25,
             "genres": [
-                "Drame"
+                "Drame",
+                "Thriller"
             ],
-            "runtime": 67,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8ESjeOjqVpT9TKwczmWnCaG36uu.jpg",
-            "id": 127688,
-            "original_language": "en",
-            "original_title": "Expresso Bongo",
-            "overview": "",
-            "popularity": 0.2658,
-            "poster_path": "/94yVW8m4YSNwvFM2BnHjC65h6HM.jpg",
-            "release_date": "1959-12-01",
-            "title": "Expresso Bongo",
-            "video": false,
-            "vote_average": 5.125,
-            "vote_count": 16,
-            "genres": [
-                "Com\u00e9die",
-                "Musique"
-            ],
-            "runtime": 111,
-            "tagline": ""
+            "tagline": "Elle doit se battre pour avoir le droit d'aimer...",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -726,7 +685,7 @@
             "original_language": "en",
             "original_title": "Toby Tyler or Ten Weeks with a Circus",
             "overview": "Toby Tyler, un petit orphelin de 11 ans, vit chez son oncle et sa tante dans une grande pauvret\u00e9. Convaincu qu'il n'est pas le bienvenu, il parvient \u00e0 se faire engager dans un cirque, de passage en ville. Tr\u00e8s vite, il s'est fait engager comme vendeur d'arachide, de ma\u00efs souffl\u00e9s, de pommes d'amour et de limonade o\u00f9 il d\u00e9couvre le monde des saltimbanques et se lie d'amiti\u00e9 ami avec Ben, l'homme \u00e0 tout faire, Sam, le clown et son singe Mr Stubbs. Apr\u00e8s la chute d'un gar\u00e7on pratiquant la voltige, Toby doit le remplacer. Avec l'aide de ses amis Ben, Sam, Mr Stubb. et Jeanette, il devient vite un tr\u00e8s bon cavalier et saura \u00e9blouir la foule.",
-            "popularity": 0.3452,
+            "popularity": 0.459,
             "poster_path": "/tB6n62uwcHa0C7bqbRtc26SeCak.jpg",
             "release_date": "1960-01-21",
             "title": "Le Clown et l'Enfant",
@@ -737,29 +696,8 @@
                 "Drame",
                 "Familial"
             ],
-            "runtime": 95,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bNFtjsp9v95DL9iL20Gue4gMddZ.jpg",
-            "id": 23439,
-            "original_language": "en",
-            "original_title": "House of Usher",
-            "overview": "Philip Withrop se rend a la maison Usher pour rencontrer sa fianc\u00e9e Madeline. Roderick, le fr\u00e8re de Madeline, s'oppose a leur mariage. Madeline est victime d'une crise de catalepsie, et Roderick s'empresse de l'enterrer. Philip d\u00e9couvre la v\u00e9rit\u00e9, mais Madeline sort de son tombeau et veut tuer son fr\u00e8re. La maison s'\u00e9croule alors sur eux.",
-            "popularity": 0.8216,
-            "poster_path": "/uZPPnNHwPufb8tZA05X95jl6Dnl.jpg",
-            "release_date": "1960-06-18",
-            "title": "La Chute de la maison Usher",
-            "video": false,
-            "vote_average": 6.696,
-            "vote_count": 350,
-            "genres": [
-                "Horreur",
-                "Drame"
-            ],
-            "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -768,7 +706,7 @@
             "original_language": "en",
             "original_title": "The Rat Race",
             "overview": "Lorsque Pete Hammond arrive \u00e0 New York pour y faire carri\u00e8re dans la musique, sa premi\u00e8re pr\u00e9occupation est de louer un appartement. Les circonstances, qui ne sont pas en sa faveur, l'obligent \u00e0 le partager avec Peggy Brown, une jeune artiste d\u00e9sabus\u00e9e. Le combat pour la reconnaissance de leurs talents respectifs se poursuit pour chacun d'eux, mais sans grand r\u00e9sultat. Peggy est l'objet d'un chantage de la part du patron d'une salle de danse plut\u00f4t malhonn\u00eate. Pete, lui, voit tous ses instruments dispara\u00eetre, vol\u00e9s par une bande d'escrocs sans scrupules. Les deux jeunes artistes n'abandonnent pourtant pas le combat et attendent que le vent tourne...",
-            "popularity": 0.5243,
+            "popularity": 0.5139,
             "poster_path": "/wLcmbfVMuYwTQQkqEw005k1v6Vs.jpg",
             "release_date": "1960-07-10",
             "title": "Les pi\u00e8ges de Broadway",
@@ -780,8 +718,70 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 109,
-            "tagline": "Deux jeunes espoirs pr\u00eats \u00e0 griffer, voler ou faire n\u2019importe quoi pour atteindre le sommet"
+            "tagline": "Deux jeunes espoirs pr\u00eats \u00e0 griffer, voler ou faire n\u2019importe quoi pour atteindre le sommet",
+            "runtime": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/viAHZfqdjphm53fNKxpIn5GHrRf.jpg",
+            "id": 49966,
+            "original_language": "en",
+            "original_title": "The Savage Eye",
+            "overview": "La cam\u00e9ra suit Judith dans les rues de Los Angeles. R\u00e9cemment divorc\u00e9e, elle tente de refaire sa vie. Au cours de ses p\u00e9r\u00e9grinations, elle va faire d'\u00e9tranges rencontres dans le milieu des fanatiques religieux, des laiss\u00e9s-pour-compte du monde urbain, de toutes sortes de gens qui, bien qu'\u00e0 l'image de son propre \u00e9chec personnel, lui donneront la volont\u00e9 de refaire sa vie.",
+            "popularity": 0.3648,
+            "poster_path": "/uHfPUH0iHJWNLG9HWgliJhGuJPi.jpg",
+            "release_date": "1960-06-06",
+            "title": "L'Oeil sauvage",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 13,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ESjeOjqVpT9TKwczmWnCaG36uu.jpg",
+            "id": 127688,
+            "original_language": "en",
+            "original_title": "Expresso Bongo",
+            "overview": "",
+            "popularity": 0.3174,
+            "poster_path": "/94yVW8m4YSNwvFM2BnHjC65h6HM.jpg",
+            "release_date": "1959-12-01",
+            "title": "Expresso Bongo",
+            "video": false,
+            "vote_average": 5.125,
+            "vote_count": 16,
+            "genres": [
+                "Com\u00e9die",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bNFtjsp9v95DL9iL20Gue4gMddZ.jpg",
+            "id": 23439,
+            "original_language": "en",
+            "original_title": "House of Usher",
+            "overview": "Philip Withrop se rend a la maison Usher pour rencontrer sa fianc\u00e9e Madeline. Roderick, le fr\u00e8re de Madeline, s'oppose a leur mariage. Madeline est victime d'une crise de catalepsie, et Roderick s'empresse de l'enterrer. Philip d\u00e9couvre la v\u00e9rit\u00e9, mais Madeline sort de son tombeau et veut tuer son fr\u00e8re. La maison s'\u00e9croule alors sur eux.",
+            "popularity": 0.7908,
+            "poster_path": "/uZPPnNHwPufb8tZA05X95jl6Dnl.jpg",
+            "release_date": "1960-06-18",
+            "title": "La Chute de la maison Usher",
+            "video": false,
+            "vote_average": 6.696,
+            "vote_count": 350,
+            "genres": [
+                "Horreur",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 80
         }
     ]
 }

@@ -4,29 +4,29 @@
     "source": "https://criticstop10.com/best-movies-of-1954/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
-            "id": 567,
+            "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+            "id": 10178,
             "original_language": "en",
-            "original_title": "Rear Window",
-            "overview": "\u00c0 cause d'une jambe cass\u00e9e, le reporter-photographe L. B. Jefferies est contraint de rester chez lui dans un fauteuil roulant. Homme d'action et amateur d'aventures, il s'aper\u00e7oit qu'il peut tirer parti de son immobilit\u00e9 forc\u00e9e en \u00e9tudiant le comportement des habitants de l'immeuble qu'il occupe dans Greenwich Village. Et ses observations l'am\u00e8nent \u00e0 la conviction que Lars Thorwald, son voisin d'en face, a assassin\u00e9 sa femme. Sa fianc\u00e9e, Lisa Fremont, ne le prend tout d'abord pas au s\u00e9rieux, ironisant sur l'excitation que lui procure sa surveillance, mais finit par se prendre au jeu.",
-            "popularity": 5.5707,
-            "poster_path": "/xiPX9jCpPXQIqIrbbuHfsL4qt9c.jpg",
-            "release_date": "1954-08-01",
-            "title": "Fen\u00eatre sur cour",
+            "original_title": "The Caine Mutiny",
+            "overview": "Le commandant Queeg est le capitaine du dragueur de mine \u00ab\u00a0Le Caine\u00a0\u00bb. Il est relev\u00e9 de son commandement contre son gr\u00e9 durant un violent typhon. Il d\u00e9cide alors de faire juger ses officiers pour mutinerie...",
+            "popularity": 1.7551,
+            "poster_path": "/1Chqn3tjXC9k6wRKALywS3ixNAz.jpg",
+            "release_date": "1954-06-24",
+            "title": "Ouragan sur le Caine",
             "video": false,
-            "vote_average": 8.3,
-            "vote_count": 6950,
+            "vote_average": 7.204,
+            "vote_count": 357,
             "genres": [
-                "Thriller",
-                "Myst\u00e8re"
+                "Drame",
+                "Guerre"
             ],
-            "runtime": 110,
-            "tagline": "Voir n'est pas toujours croire."
+            "tagline": "Un film aussi grand que l'oc\u00e9an !",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -35,7 +35,7 @@
             "original_language": "en",
             "original_title": "On the Waterfront",
             "overview": "Un jeune docker, Terry Malloy, ancien boxeur, est manipul\u00e9 par son fr\u00e8re, avocat du syndicat des dockers dirig\u00e9 par le crapuleux Johnny Friendly. Il assiste sans intervenir au meurtre d'un employ\u00e9 qui voulait d\u00e9noncer les m\u00e9thodes ill\u00e9gales de ce dernier. Malloy se retrouve devant un cas de conscience\u2026",
-            "popularity": 2.6553,
+            "popularity": 2.4937,
             "poster_path": "/opUWwg8V4CBohfUgRn63iv7s0Az.jpg",
             "release_date": "1954-06-22",
             "title": "Sur les quais",
@@ -47,8 +47,29 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 106,
-            "tagline": "L\u2019homme vivait selon la loi de la jungle des docks\u00a0!"
+            "tagline": "L\u2019homme vivait selon la loi de la jungle des docks\u00a0!",
+            "runtime": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+            "id": 567,
+            "original_language": "en",
+            "original_title": "Rear Window",
+            "overview": "\u00c0 cause d'une jambe cass\u00e9e, le reporter-photographe L. B. Jefferies est contraint de rester chez lui dans un fauteuil roulant. Homme d'action et amateur d'aventures, il s'aper\u00e7oit qu'il peut tirer parti de son immobilit\u00e9 forc\u00e9e en \u00e9tudiant le comportement des habitants de l'immeuble qu'il occupe dans Greenwich Village. Et ses observations l'am\u00e8nent \u00e0 la conviction que Lars Thorwald, son voisin d'en face, a assassin\u00e9 sa femme. Sa fianc\u00e9e, Lisa Fremont, ne le prend tout d'abord pas au s\u00e9rieux, ironisant sur l'excitation que lui procure sa surveillance, mais finit par se prendre au jeu.",
+            "popularity": 5.4695,
+            "poster_path": "/xiPX9jCpPXQIqIrbbuHfsL4qt9c.jpg",
+            "release_date": "1954-08-01",
+            "title": "Fen\u00eatre sur cour",
+            "video": false,
+            "vote_average": 8.347,
+            "vote_count": 6952,
+            "genres": [
+                "Thriller",
+                "Myst\u00e8re"
+            ],
+            "tagline": "Voir n'est pas toujours croire.",
+            "runtime": 110
         },
         {
             "adult": false,
@@ -57,7 +78,7 @@
             "original_language": "en",
             "original_title": "The Country Girl",
             "overview": "Metteur en scene, Bernie engage son camarade Frank, qui a perdu tout ressort depuis la mort de son fils. Bernie pense que la d\u00e9cheance de son ami est due \u00e0 l'emprise de sa femme Georgie. Il se trompe et revient sur son jugement en d\u00e9couvrant l'abn\u00e9gation de la jeune femme.",
-            "popularity": 0.6928,
+            "popularity": 0.5767,
             "poster_path": "/fr85mzYY6blYmT4jplVTczKlQ58.jpg",
             "release_date": "1954-12-15",
             "title": "Une fille de la province",
@@ -67,94 +88,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 104,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
-            "id": 10178,
-            "original_language": "en",
-            "original_title": "The Caine Mutiny",
-            "overview": "Le commandant Queeg est le capitaine du dragueur de mine \u00ab\u00a0Le Caine\u00a0\u00bb. Il est relev\u00e9 de son commandement contre son gr\u00e9 durant un violent typhon. Il d\u00e9cide alors de faire juger ses officiers pour mutinerie...",
-            "popularity": 1.3983,
-            "poster_path": "/1Chqn3tjXC9k6wRKALywS3ixNAz.jpg",
-            "release_date": "1954-06-24",
-            "title": "Ouragan sur le Caine",
-            "video": false,
-            "vote_average": 7.204,
-            "vote_count": 357,
-            "genres": [
-                "Drame",
-                "Guerre"
-            ],
-            "runtime": 120,
-            "tagline": "Un film aussi grand que l'oc\u00e9an !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/91jVA9ITFrX0Mr6xHhvI1EAz9gC.jpg",
-            "id": 41503,
-            "original_language": "en",
-            "original_title": "Three Coins in the Fountain",
-            "overview": "Trois jeunes secr\u00e9taires am\u00e9ricaines se rendent en Italie. Chacune d'entre elles r\u00eave de trouver le prince charmant. Elles d\u00e9cident alors de jetter trois pi\u00e8ces de monnaie dans la Fontaine de Tr\u00e9vise afin que leur souhait se r\u00e9alise.",
-            "popularity": 1.0083,
-            "poster_path": "/q4FuyT4tMbUZAOggjpY07v1NzhD.jpg",
-            "release_date": "1954-05-01",
-            "title": "La Fontaine des amours",
-            "video": false,
-            "vote_average": 5.866,
-            "vote_count": 56,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 102,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oXTzokKufEGDcX7q5Cwoxlhmqxx.jpg",
-            "id": 6620,
-            "original_language": "en",
-            "original_title": "Sabrina",
-            "overview": "Fille de chauffeur, Sabrina est amoureuse du fils du patron de son p\u00e8re, David, un riche oisif coureur de jupons. Mais il n'est pas fils unique, son fr\u00e8re Linus semble \u00eatre plus int\u00e9ress\u00e9 par les affaires...",
-            "popularity": 5.3978,
-            "poster_path": "/3K4PndUYxc7GqYUlc8HUkBcK0wu.jpg",
-            "release_date": "1954-09-01",
-            "title": "Sabrina",
-            "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1323,
-            "genres": [
-                "Com\u00e9die",
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 113,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/weRJkZn65fHWFVhF4BLadU2TXkB.jpg",
-            "id": 17729,
-            "original_language": "en",
-            "original_title": "The Glenn Miller Story",
-            "overview": "Biographie film\u00e9e du musicien de jazz Glenn Miller, depuis ses d\u00e9buts difficiles \u00e0 la fin des ann\u00e9es 1920 jusqu'\u00e0 sa disparition en d\u00e9cembre 1944, en passant par la formation, puis les \u00ab\u00a0tubes\u00a0\u00bb \u00e0 succ\u00e8s, de son Big Band, peu avant et pendant la Seconde Guerre Mondiale.",
-            "popularity": 0.8243,
-            "poster_path": "/uVkIjrj8X1IpPopOeBL5gaCKYs9.jpg",
-            "release_date": "1954-01-04",
-            "title": "Romance inachev\u00e9e",
-            "video": false,
-            "vote_average": 6.943,
-            "vote_count": 157,
-            "genres": [
-                "Drame",
-                "Musique",
-                "Romance"
-            ],
-            "runtime": 113,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -163,7 +98,7 @@
             "original_language": "en",
             "original_title": "The High and the Mighty",
             "overview": "Les drames personnels et les interactions allant crescendo entre les 17 passagers, tout comme les conflits entre les cinq membres de l'\u00e9quipage du vol de nuit Trans-Orient-Pacific n\u00b0 420 au d\u00e9part de Honolulu et en direction de San Francisco. Peu apr\u00e8s la moiti\u00e9 du parcours effectu\u00e9, les passagers du vol sont subitement plong\u00e9s dans une atmosph\u00e8re tendue, angoissante et la vie se transforme en r\u00e9elle \u00e9preuve pour chacun \u00e0 bord \u00e0 cause d'une d\u00e9faillance technique de l'appareil...",
-            "popularity": 0.7623,
+            "popularity": 0.7184,
             "poster_path": "/xmArgj2fJnDYBTJXXGqyyBWKvus.jpg",
             "release_date": "1954-07-03",
             "title": "\u00c9crit dans le ciel",
@@ -176,8 +111,52 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 127,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5i2rmZ2Vwuzq6CPOaTLW0jjhJmB.jpg",
+            "id": 16563,
+            "original_language": "en",
+            "original_title": "Seven Brides for Seven Brothers",
+            "overview": "Adam Pontipee (Howard Keel), visiblement habitu\u00e9 \u00e0 vivre dans les grands espaces, descend au village avec l\u2019id\u00e9e bien arr\u00eat\u00e9e de prendre femme. Il rencontre Milly (Jane Powell). Ils se plaisent mutuellement. Ils se marient et quittent imm\u00e9diatement le village pour rejoindre la maison d\u2019Adam perdue dans les montagnes. En chemin, Adam, incidemment, apprend \u00e0 Milly que ses six fr\u00e8res (c\u00e9libataires) partagent \u00e9galement la maison.\r Milly, une fois revenue de sa stupeur, se donne pour t\u00e2che d\u2019apprendre les bonnes mani\u00e8res aux fr\u00e8res d\u2019Adam. Apr\u00e8s la th\u00e9orie, la pratique : une f\u00eate villageoise va permettre \u00e0 la fratrie de se distinguer face aux jeunes hommes du village et aux jeunes filles \u00e0 marier. C\u2019est l\u2019occasion, pour chacun d\u2019entre eux, de tomber amoureux. Et comment convaincre ces demoiselles de vivre avec eux au fin fond des bois, sinon en les enlevant ?\r Le d\u00e9but de l\u2019hiver aidant, une coul\u00e9e de neige isole les ravisseurs et leurs proies, bient\u00f4t consentantes.",
+            "popularity": 2.0074,
+            "poster_path": "/8Z4W2oRQKkmt7lhqNPROcNru9yJ.jpg",
+            "release_date": "1954-07-22",
+            "title": "Les sept femmes de Barbe-Rousse",
+            "video": false,
+            "vote_average": 7.106,
+            "vote_count": 560,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Western"
+            ],
+            "tagline": "",
+            "runtime": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oXTzokKufEGDcX7q5Cwoxlhmqxx.jpg",
+            "id": 6620,
+            "original_language": "en",
+            "original_title": "Sabrina",
+            "overview": "Fille de chauffeur, Sabrina est amoureuse du fils du patron de son p\u00e8re, David, un riche oisif coureur de jupons. Mais il n'est pas fils unique, son fr\u00e8re Linus semble \u00eatre plus int\u00e9ress\u00e9 par les affaires...",
+            "popularity": 5.6001,
+            "poster_path": "/3K4PndUYxc7GqYUlc8HUkBcK0wu.jpg",
+            "release_date": "1954-09-01",
+            "title": "Sabrina",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1323,
+            "genres": [
+                "Com\u00e9die",
+                "Romance",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -186,7 +165,7 @@
             "original_language": "en",
             "original_title": "Executive Suite",
             "overview": "Avery Bullard, pr\u00e9sident de la fabrique de meubles Tredway, vient de mourir d\u2019une crise cardiaque. N\u2019ayant pas nomm\u00e9 de successeur, le conseil d\u2019administration doit voter pour son remplacement. Aussit\u00f4t une lutte sans merci pour la conqu\u00eate du poste va se d\u00e9rouler entre les sous-directeurs. Loren Phineas Shaw, le favori, est plus pr\u00e9occup\u00e9 par la rentabilit\u00e9 de l\u2019entreprise que par sa qualit\u00e9. Il veut le pouvoir, quitte \u00e0 employer le chantage. Julia Tredway, veuve du fondateur et actionnaire principale, trop affect\u00e9e par la mort de Bullard dont elle \u00e9tait amoureuse a tout de suite promis son soutien \u00e0 Shaw. Frederick Alderson, le vice-pr\u00e9sident, est un homme int\u00e8gre mais il se sent d\u00e9pass\u00e9 par la situation et ne compte pas briguer le poste. Il fonde ses espoirs sur McDonald Walling, jeune ing\u00e9nieur id\u00e9aliste, qui h\u00e9site encore \u00e0 se pr\u00e9senter...",
-            "popularity": 0.4904,
+            "popularity": 0.5321,
             "poster_path": "/dQ5LdPOkRwlTTl3ocObuNGKB1of.jpg",
             "release_date": "1954-04-30",
             "title": "La Tour des ambitieux",
@@ -196,50 +175,72 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
-            "backdrop_path": "/5i2rmZ2Vwuzq6CPOaTLW0jjhJmB.jpg",
-            "id": 16563,
+            "backdrop_path": "/weRJkZn65fHWFVhF4BLadU2TXkB.jpg",
+            "id": 17729,
             "original_language": "en",
-            "original_title": "Seven Brides for Seven Brothers",
-            "overview": "Adam Pontipee (Howard Keel), visiblement habitu\u00e9 \u00e0 vivre dans les grands espaces, descend au village avec l\u2019id\u00e9e bien arr\u00eat\u00e9e de prendre femme. Il rencontre Milly (Jane Powell). Ils se plaisent mutuellement. Ils se marient et quittent imm\u00e9diatement le village pour rejoindre la maison d\u2019Adam perdue dans les montagnes. En chemin, Adam, incidemment, apprend \u00e0 Milly que ses six fr\u00e8res (c\u00e9libataires) partagent \u00e9galement la maison.\r Milly, une fois revenue de sa stupeur, se donne pour t\u00e2che d\u2019apprendre les bonnes mani\u00e8res aux fr\u00e8res d\u2019Adam. Apr\u00e8s la th\u00e9orie, la pratique : une f\u00eate villageoise va permettre \u00e0 la fratrie de se distinguer face aux jeunes hommes du village et aux jeunes filles \u00e0 marier. C\u2019est l\u2019occasion, pour chacun d\u2019entre eux, de tomber amoureux. Et comment convaincre ces demoiselles de vivre avec eux au fin fond des bois, sinon en les enlevant ?\r Le d\u00e9but de l\u2019hiver aidant, une coul\u00e9e de neige isole les ravisseurs et leurs proies, bient\u00f4t consentantes.",
-            "popularity": 1.6902,
-            "poster_path": "/8Z4W2oRQKkmt7lhqNPROcNru9yJ.jpg",
-            "release_date": "1954-07-22",
-            "title": "Les sept femmes de Barbe-Rousse",
+            "original_title": "The Glenn Miller Story",
+            "overview": "Biographie film\u00e9e du musicien de jazz Glenn Miller, depuis ses d\u00e9buts difficiles \u00e0 la fin des ann\u00e9es 1920 jusqu'\u00e0 sa disparition en d\u00e9cembre 1944, en passant par la formation, puis les \u00ab\u00a0tubes\u00a0\u00bb \u00e0 succ\u00e8s, de son Big Band, peu avant et pendant la Seconde Guerre Mondiale.",
+            "popularity": 0.7877,
+            "poster_path": "/uVkIjrj8X1IpPopOeBL5gaCKYs9.jpg",
+            "release_date": "1954-01-04",
+            "title": "Romance inachev\u00e9e",
             "video": false,
-            "vote_average": 7.105,
-            "vote_count": 559,
+            "vote_average": 6.943,
+            "vote_count": 157,
             "genres": [
-                "Com\u00e9die",
                 "Drame",
-                "Western"
+                "Musique",
+                "Romance"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 113
         },
         {
             "adult": false,
-            "backdrop_path": "/glI6cTpBd2BdrXUQxlCOm3fQ5Lu.jpg",
-            "id": 34689,
+            "backdrop_path": "/91jVA9ITFrX0Mr6xHhvI1EAz9gC.jpg",
+            "id": 41503,
             "original_language": "en",
-            "original_title": "The Barefoot Contessa",
-            "overview": "\u00c0 l'enterrement de Maria Vargas, sous la pluie, Harry Dawes se souvient...Engag\u00e9 par le producteur Kirk Edwards pour r\u00e9aliser un film, ils d\u00e9couvrent leur vedette un soir dans un cabaret de Madrid: Maria Vargas. La danseuse devient alors Maria Vargas, une star hollywoodienne adul\u00e9e. Mais celle-ci se sent terriblement seule et r\u00eave de rencontrer son prince charmant. Elle finit par le trouver sous les traits du conte Vincenzo Torlano-Favrini, un s\u00e9duisant milliardaire. Ils se marient, mais Vincenzo cache un terrible secret...",
-            "popularity": 1.1387,
-            "poster_path": "/plT4xK9FF0mtM6fXY0ldO5TsRL5.jpg",
-            "release_date": "1954-09-29",
-            "title": "La Comtesse aux pieds nus",
+            "original_title": "Three Coins in the Fountain",
+            "overview": "Trois jeunes secr\u00e9taires am\u00e9ricaines se rendent en Italie. Chacune d'entre elles r\u00eave de trouver le prince charmant. Elles d\u00e9cident alors de jetter trois pi\u00e8ces de monnaie dans la Fontaine de Tr\u00e9vise afin que leur souhait se r\u00e9alise.",
+            "popularity": 0.9517,
+            "poster_path": "/q4FuyT4tMbUZAOggjpY07v1NzhD.jpg",
+            "release_date": "1954-05-01",
+            "title": "La Fontaine des amours",
+            "video": false,
+            "vote_average": 5.866,
+            "vote_count": 56,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rQk2Mn6g9CDZPk8OkJr8QY3Ye9n.jpg",
+            "id": 13457,
+            "original_language": "en",
+            "original_title": "Magnificent Obsession",
+            "overview": "Bob Merrick, riche play-boy, est victime d'un accident. Il voit sa vie sauv\u00e9e gr\u00e2ce \u00e0 un inhalateur emprunt\u00e9 au Docteur Wayne Philips, qui, victime d'une crise cardiaque au m\u00eame moment, d\u00e9c\u00e8de faute d'avoir eu acc\u00e8s \u00e0 son appareil respiratoire. D\u00e8s lors, rong\u00e9 par la culpabilit\u00e9, le riche h\u00e9ritier va tout faire pour se racheter\u2026",
+            "popularity": 2.0875,
+            "poster_path": "/zeOxb6pJlPth4m2t2TE15ljHKks.jpg",
+            "release_date": "1954-08-07",
+            "title": "Le Secret magnifique",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 260,
+            "vote_count": 127,
             "genres": [
-                "Drame"
+                "Drame",
+                "Romance"
             ],
-            "runtime": 128,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -248,7 +249,7 @@
             "original_language": "en",
             "original_title": "A Star Is Born",
             "overview": "Norman Maine, acteur vieillissant et alcoolique, d\u00e9c\u00e8le en Esther Blodgett, une jeune chanteuse, un talent qui ne demande qu'\u00e0 s'\u00e9panouir. Mais Norman, une fois mari\u00e9 \u00e0 Esther, \u00e9toile naissante de la com\u00e9die musicale, supporte mal le succ\u00e8s de sa femme et se remet \u00e0 boire...",
-            "popularity": 1.157,
+            "popularity": 1.1732,
             "poster_path": "/6tx3jQafF4cG4i3poGu48k2upbU.jpg",
             "release_date": "1954-10-01",
             "title": "Une \u00e9toile est n\u00e9e",
@@ -260,8 +261,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 182,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 182
         },
         {
             "adult": false,
@@ -270,7 +271,7 @@
             "original_language": "en",
             "original_title": "Carmen Jones",
             "overview": "Pendant la Seconde guerre mondiale, dans le Sud des Etats-Unis, au milieu d'un camp militaire, la jolie Carmen Jones (Dorothy Dandridge) aux moeurs l\u00e9g\u00e8res fait tourner les t\u00eates des soldats, provoquant des rivalit\u00e9s jalouses. Joe (Harry Belafonte) se laisse s\u00e9duire, abandonne sa gentille fianc\u00e9e pour la sulfureuse Carmen et devient d\u00e9serteur. Il est mis en prison mais Carmen accepte d'attendre sa sortie pour qu'ils continuent de filer leur parfait amour...",
-            "popularity": 1.9723,
+            "popularity": 1.6025,
             "poster_path": "/1RTJD5uIzbXvzh2aBxwm20M4I1f.jpg",
             "release_date": "1954-10-28",
             "title": "Carmen Jones",
@@ -281,29 +282,49 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
-            "backdrop_path": "/rQk2Mn6g9CDZPk8OkJr8QY3Ye9n.jpg",
-            "id": 13457,
+            "backdrop_path": "/glI6cTpBd2BdrXUQxlCOm3fQ5Lu.jpg",
+            "id": 34689,
             "original_language": "en",
-            "original_title": "Magnificent Obsession",
-            "overview": "Bob Merrick, riche play-boy, est victime d'un accident. Il voit sa vie sauv\u00e9e gr\u00e2ce \u00e0 un inhalateur emprunt\u00e9 au Docteur Wayne Philips, qui, victime d'une crise cardiaque au m\u00eame moment, d\u00e9c\u00e8de faute d'avoir eu acc\u00e8s \u00e0 son appareil respiratoire. D\u00e8s lors, rong\u00e9 par la culpabilit\u00e9, le riche h\u00e9ritier va tout faire pour se racheter\u2026",
-            "popularity": 2.2702,
-            "poster_path": "/zeOxb6pJlPth4m2t2TE15ljHKks.jpg",
-            "release_date": "1954-08-07",
-            "title": "Le Secret magnifique",
+            "original_title": "The Barefoot Contessa",
+            "overview": "\u00c0 l'enterrement de Maria Vargas, sous la pluie, Harry Dawes se souvient...Engag\u00e9 par le producteur Kirk Edwards pour r\u00e9aliser un film, ils d\u00e9couvrent leur vedette un soir dans un cabaret de Madrid: Maria Vargas. La danseuse devient alors Maria Vargas, une star hollywoodienne adul\u00e9e. Mais celle-ci se sent terriblement seule et r\u00eave de rencontrer son prince charmant. Elle finit par le trouver sous les traits du conte Vincenzo Torlano-Favrini, un s\u00e9duisant milliardaire. Ils se marient, mais Vincenzo cache un terrible secret...",
+            "popularity": 1.125,
+            "poster_path": "/plT4xK9FF0mtM6fXY0ldO5TsRL5.jpg",
+            "release_date": "1954-09-29",
+            "title": "La Comtesse aux pieds nus",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 127,
+            "vote_count": 260,
             "genres": [
-                "Drame",
-                "Romance"
+                "Drame"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gTsiagZaMjJxr6Q12KfOfC556d6.jpg",
+            "id": 521,
+            "original_language": "en",
+            "original_title": "Dial M for Murder",
+            "overview": "Tony Wendice, une ancienne gloire du tennis, s'est mari\u00e9 avec Margot pour sa richesse. Mais celle-ci le trompe depuis peu avec Mark Halliday, un jeune auteur de romans policiers. Craignant que sa femme le quitte et le laisse sans le sou, Tony fait appel au capitaine Lesgate et le charge d'assassiner Margot en \u00e9change d'une grosse somme d'argent.",
+            "popularity": 2.7623,
+            "poster_path": "/2ikfaqVUxyPq726S8TYihSczkFF.jpg",
+            "release_date": "1954-05-29",
+            "title": "Le crime \u00e9tait presque parfait",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 2774,
+            "genres": [
+                "Thriller",
+                "Crime"
+            ],
+            "tagline": "Si une femme r\u00e9pond... accrochez-vous pour la vie!",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -312,7 +333,7 @@
             "original_language": "en",
             "original_title": "White Christmas",
             "overview": "No\u00ebl 1944 : lors d'une soir\u00e9e donn\u00e9e pour le d\u00e9part du g\u00e9n\u00e9ral Waverly, Phil Davis rencontre le c\u00e9l\u00e8bre chanteur Bob Wallace. Par la suite, Phil est amen\u00e9 \u00e0 la vie de ce dernier. En signe de reconnaissance, celui-ci lui propose alors de former un duo \u00e0 la fin de la guerre : Phil \u00e9crira les chansons et Bob les chantera. Chose promise, chose due : les deux comp\u00e8res cr\u00e9ent un spectacle t\u00e9l\u00e9vis\u00e9 \u00e0 succ\u00e8s. Dans ce cadre, ils sont un jour amen\u00e9s \u00e0 auditionner Betty et Judy, deux s\u0153urs dont le talent n'a d'\u00e9gal que la beaut\u00e9\u2026",
-            "popularity": 1.7322,
+            "popularity": 1.7746,
             "poster_path": "/ameebvemjSbDCiVN2htGiv4LOfj.jpg",
             "release_date": "1954-10-14",
             "title": "No\u00ebl blanc",
@@ -324,28 +345,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 120,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/joKE4go2xu9zLnS1KMO9ahu1Ifj.jpg",
-            "id": 43346,
-            "original_language": "en",
-            "original_title": "Genevieve",
-            "overview": "C'est le moment du rallye de vieilles voitures entre Londres et Brighton, et ce n'est pas l'amiti\u00e9 d'Alan McKim et Ambrose Claverhouse qui va emp\u00eacher ces deux-l\u00e0 d'essayer de s'humilier mutuellement. Sur le parcours, de vieilles rancunes sont raviv\u00e9es au point que les deux hommes d\u00e9cident de faire un pari \u00ab amical \u00bb sur celui qui sera le premier \u00e0 regagner Londres\u2026",
-            "popularity": 2.156,
-            "poster_path": "/fO5PtTc7GGgxDfD6ndM009gGWhE.jpg",
-            "release_date": "1953-05-28",
-            "title": "Genevieve",
-            "video": false,
-            "vote_average": 6.63,
-            "vote_count": 50,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 86,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -354,7 +355,7 @@
             "original_language": "en",
             "original_title": "There's No Business Like Show Business",
             "overview": "Les \u00ab cinq Donahue \u00bb, form\u00e9 par Molly, Terence Donahue et leurs trois enfants, sont des vedettes de music-hall. L'arriv\u00e9e de Vicky, une chanteuse de cabaret dont Tim tombe amoureux, menace la coh\u00e9sion du groupe. Apr\u00e8s avoir tent\u00e9 de l'\u00e9vincer, les parents d\u00e9cident d'int\u00e9grer Vicky au nouveau spectacle qu'ils pr\u00e9parent.",
-            "popularity": 0.7894,
+            "popularity": 0.8575,
             "poster_path": "/4QbyGsgEYlrmxmW148CajGdrZnT.jpg",
             "release_date": "1954-12-16",
             "title": "La Joyeuse Parade",
@@ -365,29 +366,28 @@
                 "Musique",
                 "Com\u00e9die"
             ],
-            "runtime": 117,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 117
         },
         {
             "adult": false,
-            "backdrop_path": "/gTsiagZaMjJxr6Q12KfOfC556d6.jpg",
-            "id": 521,
+            "backdrop_path": "/joKE4go2xu9zLnS1KMO9ahu1Ifj.jpg",
+            "id": 43346,
             "original_language": "en",
-            "original_title": "Dial M for Murder",
-            "overview": "Tony Wendice, une ancienne gloire du tennis, s'est mari\u00e9 avec Margot pour sa richesse. Mais celle-ci le trompe depuis peu avec Mark Halliday, un jeune auteur de romans policiers. Craignant que sa femme le quitte et le laisse sans le sou, Tony fait appel au capitaine Lesgate et le charge d'assassiner Margot en \u00e9change d'une grosse somme d'argent.",
-            "popularity": 3.0364,
-            "poster_path": "/2ikfaqVUxyPq726S8TYihSczkFF.jpg",
-            "release_date": "1954-05-29",
-            "title": "Le crime \u00e9tait presque parfait",
+            "original_title": "Genevieve",
+            "overview": "C'est le moment du rallye de vieilles voitures entre Londres et Brighton, et ce n'est pas l'amiti\u00e9 d'Alan McKim et Ambrose Claverhouse qui va emp\u00eacher ces deux-l\u00e0 d'essayer de s'humilier mutuellement. Sur le parcours, de vieilles rancunes sont raviv\u00e9es au point que les deux hommes d\u00e9cident de faire un pari \u00ab amical \u00bb sur celui qui sera le premier \u00e0 regagner Londres\u2026",
+            "popularity": 1.6851,
+            "poster_path": "/fO5PtTc7GGgxDfD6ndM009gGWhE.jpg",
+            "release_date": "1953-05-28",
+            "title": "Genevieve",
             "video": false,
-            "vote_average": 8.0,
-            "vote_count": 2774,
+            "vote_average": 6.63,
+            "vote_count": 50,
             "genres": [
-                "Thriller",
-                "Crime"
+                "Com\u00e9die"
             ],
-            "runtime": 105,
-            "tagline": "Si une femme r\u00e9pond... accrochez-vous pour la vie!"
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -396,7 +396,7 @@
             "original_language": "ja",
             "original_title": "\u5730\u7344\u9580",
             "overview": "Au XIIe si\u00e8cle, alors que les guerres civiles font rage, le samoura\u00ef Morit\u014d est charg\u00e9 par l'empereur de traverser le territoire afin de distraire l'attention des rebelles. Il doit par la m\u00eame occasion escorter la jolie servante Kesa. Sa mission accomplie, Morit\u014d demande une r\u00e9compense impossible: la main d'une femme mari\u00e9e\u2026",
-            "popularity": 1.423,
+            "popularity": 1.5275,
             "poster_path": "/8BQFw5r095tzK8vfv8imkM60wHc.jpg",
             "release_date": "1953-10-30",
             "title": "La Porte de l'enfer",
@@ -408,8 +408,8 @@
                 "Histoire",
                 "Romance"
             ],
-            "runtime": 89,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 89
         },
         {
             "adult": false,
@@ -418,7 +418,7 @@
             "original_language": "en",
             "original_title": "Romeo and Juliet",
             "overview": "V\u00e9rone. Lors d\u2019un bal masqu\u00e9, les jeunes Rom\u00e9o et Juliette tombent \u00e9perdument amoureux l\u2019un de l\u2019autre, au m\u00e9pris de la haine que se vouent leurs familles, les Capulet et les Montaigu. Le p\u00e8re de Juliette, afin de s\u2019opposer \u00e0 cette idylle, organise l\u2019union de sa fille avec le Comte de Paris. Dans le m\u00eame temps, Rom\u00e9o tue un Capulet, Tyhald, pour venger Mercutio, son meilleur ami mort lors un duel. Alors que les noces de sa bien-aim\u00e9e sont arrang\u00e9es en toute h\u00e2te, il est pouss\u00e9 \u00e0 l\u2019exil loin de V\u00e9rone.",
-            "popularity": 0.71,
+            "popularity": 0.728,
             "poster_path": "/6HdS3emgQ7AQQkaW5fnO3OzRHGI.jpg",
             "release_date": "1954-09-01",
             "title": "Rom\u00e9o et Juliette",
@@ -429,92 +429,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 141,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/qTU1lVXsGfW4e0eZ7YM7WVySvnj.jpg",
-            "id": 24973,
-            "original_language": "en",
-            "original_title": "The Egyptian",
-            "overview": "Treize si\u00e8cles avant notre \u00e8re, en \u00c9gypte. Sinouh\u00e9, enfant abandonn\u00e9, est \u00e9lev\u00e9 par un m\u00e9decin qui lui transmet sa vocation et sa science. Devenu adulte, il s'installe \u00e0 Th\u00e8bes et met ses comp\u00e9tences m\u00e9dicales au service des plus pauvres. Un jour, dans le d\u00e9sert, Sinouh\u00e9 et son ami, l'ambitieux Horemheb, sauvent des griffes d'un lion un inconnu en pri\u00e8re. Cet homme n'est autre que le pharaon Akh\u00e9naton. En signe de gratitude, il nomme Horemheb officier de la garde et Sinouh\u00e9 m\u00e9decin du Palais. Pour f\u00eater cet heureux \u00e9v\u00e9nement, les deux hommes se rendent dans une maison de plaisir tenue par la belle et myst\u00e9rieuse N\u00e9fer. Sinouh\u00e9 succombe au charme de la courtisane. Mais derri\u00e8re la plastique parfaite de la jeune femme, se cache une \u00e2me cupide, d\u00e9nu\u00e9e de tout sentiment humain.",
-            "popularity": 1.1029,
-            "poster_path": "/hq1ETMDy2hxvCEhA2paH2VxBe3y.jpg",
-            "release_date": "1954-08-25",
-            "title": "L'\u00c9gyptien",
-            "video": false,
-            "vote_average": 6.4,
-            "vote_count": 103,
-            "genres": [
-                "Histoire",
-                "Drame"
-            ],
-            "runtime": 139,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zeIbItfG8cPFNawVc94yETafi9i.jpg",
-            "id": 55859,
-            "original_language": "en",
-            "original_title": "Knock on Wood",
-            "overview": "Pris par le temps, des espions doivent se d\u00e9barrasser d'un microfilm qui devient g\u00eanant. Ils ont beau chercher un endroit fiable, ils n'en trouvent pas. En d\u00e9sespoir de cause, ils se r\u00e9signent \u00e0 cacher le pr\u00e9cieux objet - d'importants plans d'avions class\u00e9s top secret - dans un pantin. La marionnette, qui appartient \u00e0 un ventriloque, garde le secret. Le marionnettiste - Jerry Morgan - \u00e9galement. Jerry, qui pour ses spectacles travaille avec \u00abClarence et Terrence\u00bb, ses deux poup\u00e9es, ignore absolument tout de ce qui l'attend. Et, sans rien comprendre, il se retrouve m\u00eal\u00e9 \u00e0 cette sombre histoire d'espions et de documents d\u00e9rob\u00e9s...",
-            "popularity": 0.2804,
-            "poster_path": "/mSoZzEcqJl0g3kLGPH4rvvHWiaM.jpg",
-            "release_date": "1954-04-06",
-            "title": "Un grain de folie",
-            "video": false,
-            "vote_average": 6.652,
-            "vote_count": 33,
-            "genres": [
-                "Action",
-                "Com\u00e9die"
-            ],
-            "runtime": 109,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5f5Qh9tpxIaQK9EkHzZ4oYZmy4.jpg",
-            "id": 57575,
-            "original_language": "en",
-            "original_title": "The Last Time I Saw Paris",
-            "overview": "Paris 1945, \u00e0 la lib\u00e9ration. Charles, jeune \u00e9crivain am\u00e9ricain fr\u00e9quente deux jeunes soeurs, Marion et Helen, et finit par \u00e9pouser la seconde. Tr\u00e8s vite le m\u00e9nage bat de l'aile, Helen court les soir\u00e9es et les bo\u00eetes de nuit en compagnie de son excentrique de p\u00e8re, James, tandis que Charles s'escrime \u00e0 \u00e9crire des romans qui n'ont aucun succ\u00e8s. Involontairement, il cause la mort de sa femme, et d\u00e9sesp\u00e9r\u00e9 s'en retourne aux Etats-Unis, laissant la garde de sa petite fille Vicky \u00e0 Marion...",
-            "popularity": 0.6728,
-            "poster_path": "/3JuwgqyLuxNI3S2Xyf73ykFKcOz.jpg",
-            "release_date": "1954-11-18",
-            "title": "La Derni\u00e8re Fois que j'ai vu Paris",
-            "video": false,
-            "vote_average": 6.2,
-            "vote_count": 59,
-            "genres": [
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 116,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/sHQHFhXxa7wMb5095GzlYnTLTe7.jpg",
-            "id": 43196,
-            "original_language": "en",
-            "original_title": "Deep in My Heart",
-            "overview": "La vie du compositeur de Broadway Sigmund Romberg, qui fut l'un des meilleurs de sa cat\u00e9gorie pendant pr\u00e8s de quarante ans.",
-            "popularity": 0.3013,
-            "poster_path": "/jODoNdEjT3Fcy6TmSU70EIRHxja.jpg",
-            "release_date": "1954-12-09",
-            "title": "Au fond de mon c\u0153ur",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 17,
-            "genres": [
-                "Musique",
-                "Com\u00e9die"
-            ],
-            "runtime": 132,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 141
         },
         {
             "adult": false,
@@ -523,7 +439,7 @@
             "original_language": "en",
             "original_title": "D\u00e9sir\u00e9e",
             "overview": "L'histoire d'amour v\u00e9cue entre Napol\u00e9on Bonaparte, futur Empereur, et de D\u00e9sir\u00e9e Clary, future Mme Bernadotte et reine de Su\u00e8de.",
-            "popularity": 0.7193,
+            "popularity": 0.7766,
             "poster_path": "/mvTDhI11hpiWJDRKAheoWtBknTf.jpg",
             "release_date": "1954-11-16",
             "title": "D\u00e9sir\u00e9e",
@@ -534,8 +450,112 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 110,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5f5Qh9tpxIaQK9EkHzZ4oYZmy4.jpg",
+            "id": 57575,
+            "original_language": "en",
+            "original_title": "The Last Time I Saw Paris",
+            "overview": "Paris 1945, \u00e0 la lib\u00e9ration. Charles, jeune \u00e9crivain am\u00e9ricain fr\u00e9quente deux jeunes soeurs, Marion et Helen, et finit par \u00e9pouser la seconde. Tr\u00e8s vite le m\u00e9nage bat de l'aile, Helen court les soir\u00e9es et les bo\u00eetes de nuit en compagnie de son excentrique de p\u00e8re, James, tandis que Charles s'escrime \u00e0 \u00e9crire des romans qui n'ont aucun succ\u00e8s. Involontairement, il cause la mort de sa femme, et d\u00e9sesp\u00e9r\u00e9 s'en retourne aux Etats-Unis, laissant la garde de sa petite fille Vicky \u00e0 Marion...",
+            "popularity": 0.7748,
+            "poster_path": "/3JuwgqyLuxNI3S2Xyf73ykFKcOz.jpg",
+            "release_date": "1954-11-18",
+            "title": "La Derni\u00e8re Fois que j'ai vu Paris",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 59,
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zeIbItfG8cPFNawVc94yETafi9i.jpg",
+            "id": 55859,
+            "original_language": "en",
+            "original_title": "Knock on Wood",
+            "overview": "Pris par le temps, des espions doivent se d\u00e9barrasser d'un microfilm qui devient g\u00eanant. Ils ont beau chercher un endroit fiable, ils n'en trouvent pas. En d\u00e9sespoir de cause, ils se r\u00e9signent \u00e0 cacher le pr\u00e9cieux objet - d'importants plans d'avions class\u00e9s top secret - dans un pantin. La marionnette, qui appartient \u00e0 un ventriloque, garde le secret. Le marionnettiste - Jerry Morgan - \u00e9galement. Jerry, qui pour ses spectacles travaille avec \u00abClarence et Terrence\u00bb, ses deux poup\u00e9es, ignore absolument tout de ce qui l'attend. Et, sans rien comprendre, il se retrouve m\u00eal\u00e9 \u00e0 cette sombre histoire d'espions et de documents d\u00e9rob\u00e9s...",
+            "popularity": 0.2547,
+            "poster_path": "/mSoZzEcqJl0g3kLGPH4rvvHWiaM.jpg",
+            "release_date": "1954-04-06",
+            "title": "Un grain de folie",
+            "video": false,
+            "vote_average": 6.652,
+            "vote_count": 33,
+            "genres": [
+                "Action",
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sHQHFhXxa7wMb5095GzlYnTLTe7.jpg",
+            "id": 43196,
+            "original_language": "en",
+            "original_title": "Deep in My Heart",
+            "overview": "La vie du compositeur de Broadway Sigmund Romberg, qui fut l'un des meilleurs de sa cat\u00e9gorie pendant pr\u00e8s de quarante ans.",
+            "popularity": 0.3205,
+            "poster_path": "/jODoNdEjT3Fcy6TmSU70EIRHxja.jpg",
+            "release_date": "1954-12-09",
+            "title": "Au fond de mon c\u0153ur",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 17,
+            "genres": [
+                "Musique",
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qTU1lVXsGfW4e0eZ7YM7WVySvnj.jpg",
+            "id": 24973,
+            "original_language": "en",
+            "original_title": "The Egyptian",
+            "overview": "Treize si\u00e8cles avant notre \u00e8re, en \u00c9gypte. Sinouh\u00e9, enfant abandonn\u00e9, est \u00e9lev\u00e9 par un m\u00e9decin qui lui transmet sa vocation et sa science. Devenu adulte, il s'installe \u00e0 Th\u00e8bes et met ses comp\u00e9tences m\u00e9dicales au service des plus pauvres. Un jour, dans le d\u00e9sert, Sinouh\u00e9 et son ami, l'ambitieux Horemheb, sauvent des griffes d'un lion un inconnu en pri\u00e8re. Cet homme n'est autre que le pharaon Akh\u00e9naton. En signe de gratitude, il nomme Horemheb officier de la garde et Sinouh\u00e9 m\u00e9decin du Palais. Pour f\u00eater cet heureux \u00e9v\u00e9nement, les deux hommes se rendent dans une maison de plaisir tenue par la belle et myst\u00e9rieuse N\u00e9fer. Sinouh\u00e9 succombe au charme de la courtisane. Mais derri\u00e8re la plastique parfaite de la jeune femme, se cache une \u00e2me cupide, d\u00e9nu\u00e9e de tout sentiment humain.",
+            "popularity": 1.2054,
+            "poster_path": "/hq1ETMDy2hxvCEhA2paH2VxBe3y.jpg",
+            "release_date": "1954-08-25",
+            "title": "L'\u00c9gyptien",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 103,
+            "genres": [
+                "Histoire",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Cri9Z5QobL0TOqMunRDD2UHWNB.jpg",
+            "id": 12766,
+            "original_language": "en",
+            "original_title": "Vera Cruz",
+            "overview": "Au Mexique, apr\u00e8s la guerre de S\u00e9cession, deux aventuriers s'associent pour louer leurs services \u00e0 Maximilien, plus offrant que Juares. D\u00e9couvrant que le carrosse qu'ils sont charg\u00e9s de convoyer jusqu\u2019\u00e0 Vera Cruz contient un tr\u00e9sor, ils d\u00e9cident de se l'approprier...",
+            "popularity": 1.2554,
+            "poster_path": "/hXEBcioJBf2mIHTAm6ljbCb7IO6.jpg",
+            "release_date": "1954-12-25",
+            "title": "Vera Cruz",
+            "video": false,
+            "vote_average": 6.649,
+            "vote_count": 262,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "",
+            "runtime": 94
         },
         {
             "adult": false,
@@ -544,7 +564,7 @@
             "original_language": "en",
             "original_title": "Susan Slept Here",
             "overview": "",
-            "popularity": 1.1602,
+            "popularity": 0.9816,
             "poster_path": "/gdS7eU6DPxeWwdcW1B5R1o7mtX0.jpg",
             "release_date": "1954-07-28",
             "title": "Susan Slept Here",
@@ -555,28 +575,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 98,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/Cri9Z5QobL0TOqMunRDD2UHWNB.jpg",
-            "id": 12766,
-            "original_language": "en",
-            "original_title": "Vera Cruz",
-            "overview": "Au Mexique, apr\u00e8s la guerre de S\u00e9cession, deux aventuriers s'associent pour louer leurs services \u00e0 Maximilien, plus offrant que Juares. D\u00e9couvrant que le carrosse qu'ils sont charg\u00e9s de convoyer jusqu\u2019\u00e0 Vera Cruz contient un tr\u00e9sor, ils d\u00e9cident de se l'approprier...",
-            "popularity": 1.2763,
-            "poster_path": "/hXEBcioJBf2mIHTAm6ljbCb7IO6.jpg",
-            "release_date": "1954-12-25",
-            "title": "Vera Cruz",
-            "video": false,
-            "vote_average": 6.649,
-            "vote_count": 262,
-            "genres": [
-                "Western"
-            ],
-            "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -585,7 +585,7 @@
             "original_language": "en",
             "original_title": "Suddenly",
             "overview": "\u00c0 la fin des ann\u00e9es 1940, dans la petite ville am\u00e9ricaine de Suddenly, le sh\u00e9rif Tod Shaw apprend qu'un train sp\u00e9cial doit s'y arr\u00eater dans quelques heures, avec \u00e0 son bord le pr\u00e9sident des \u00c9tats-Unis. Peu apr\u00e8s, arrive une \u00e9quipe des services secrets, men\u00e9e par Dan Carney, afin de s\u00e9curiser le secteur, en collaboration avec la police locale. Ainsi, Carney et Shaw vont jusqu'\u00e0 une maison surplombant la gare, habit\u00e9e par Peter 'Pop' Benson (retrait\u00e9 des services secrets et ancien chef de Carney), sa belle-fille Ellen (veuve du fils de Pop \u2014 tu\u00e9 \u00e0 la guerre \u2014, courtis\u00e9e par Shaw) et son petit-fils 'Pidge'. Ils sont alors confront\u00e9s \u00e0 John Baron et ses deux adjoints (Benny et Bart), qui s'\u00e9taient pr\u00e9sent\u00e9s l\u00e0 peu auparavant, comme des agents du F.B.I., mais qui abattent aussit\u00f4t Carney et blessent au bras Shaw. Leur but r\u00e9el \u00e9tant de tuer le pr\u00e9sident \u00e0 sa descente du train, ils s'installent minutieusement et prennent en otage la maisonn\u00e9e...",
-            "popularity": 2.6053,
+            "popularity": 2.0904,
             "poster_path": "/jeWnGtJbLrFLs7Tg1TUXdmJfSe6.jpg",
             "release_date": "1954-09-17",
             "title": "Je dois tuer",
@@ -596,28 +596,8 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 75,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rNIYMMam7UHuOWfAXs1yPGb6u22.jpg",
-            "id": 44526,
-            "original_language": "en",
-            "original_title": "Carnival Story",
-            "overview": "Un carnaval am\u00e9ricain en Allemagne pr\u00e9pare le terrain pour le p\u00e9ch\u00e9, le sexe et le m\u00e9lodrame.",
-            "popularity": 0.1787,
-            "poster_path": "/a3eSVUUFy7BWIsqS3R909vPYtMu.jpg",
-            "release_date": "1954-04-16",
-            "title": "Carnival Story",
-            "video": false,
-            "vote_average": 4.3,
-            "vote_count": 13,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 75
         },
         {
             "adult": false,
@@ -626,7 +606,7 @@
             "original_language": "en",
             "original_title": "Highway Dragnet",
             "overview": "",
-            "popularity": 0.2203,
+            "popularity": 0.185,
             "poster_path": "/SxO8BT1cqPDtqEyFIooiJ7SYsG.jpg",
             "release_date": "1954-01-20",
             "title": "Highway Dragnet",
@@ -638,8 +618,28 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 70,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rNIYMMam7UHuOWfAXs1yPGb6u22.jpg",
+            "id": 44526,
+            "original_language": "en",
+            "original_title": "Carnival Story",
+            "overview": "Un carnaval am\u00e9ricain en Allemagne pr\u00e9pare le terrain pour le p\u00e9ch\u00e9, le sexe et le m\u00e9lodrame.",
+            "popularity": 0.179,
+            "poster_path": "/a3eSVUUFy7BWIsqS3R909vPYtMu.jpg",
+            "release_date": "1954-04-16",
+            "title": "Carnival Story",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 13,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -648,7 +648,7 @@
             "original_language": "it",
             "original_title": "Aida",
             "overview": "Film musical italien qui adapte le c\u00e9l\u00e8bre op\u00e9ra Aida de Verdi. L'action est situ\u00e9e \u00e0 Memphis et \u00e0 Th\u00e8bes au temps des pharaons et met en sc\u00e8ne l'intrigue amoureuse entre A\u00efda, une esclave \u00e9thiopienne, et Radam\u00e8s, un officier \u00e9gyptien, contrari\u00e9e par le conflit arm\u00e9 opposant leurs deux peuples.",
-            "popularity": 1.2112,
+            "popularity": 1.0676,
             "poster_path": "/rVkrurXBVNG8phN72BNuBEYY7FB.jpg",
             "release_date": "1953-10-23",
             "title": "A\u00efda",
@@ -659,8 +659,8 @@
                 "Drame",
                 "Musique"
             ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -669,7 +669,7 @@
             "original_language": "en",
             "original_title": "Miss Sadie Thompson",
             "overview": "Un homme missionnaire pharisa\u00efque cherche \u00e0 sauver l'\u00e2me d'une ancienne prostitu\u00e9e.",
-            "popularity": 1.3647,
+            "popularity": 1.4636,
             "poster_path": "/bivpL0VSVuFTSDT7LAXQJ1xvQVx.jpg",
             "release_date": "1953-12-23",
             "title": "La Belle du Pacifique",
@@ -681,8 +681,29 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5tEI9qnusNGIrgrxuGtc8fH34hT.jpg",
+            "id": 20127,
+            "original_language": "en",
+            "original_title": "It Should Happen to You",
+            "overview": "Gladys Glover est une charmante actrice, mais nul ne se pr\u00e9cipite pour autant pour lui proposer un contrat. Elle d\u00e9cide donc d'acheter un emplacement publicitaire au coeur de New York, o\u00f9 son nom vient s'inscrire en lettres d'or. La m\u00e9thode s'av\u00e8re payante. Mais le roi de la savonnette, Evan Adams, utilisateur habituel dudit emplacement, veut \u00e0 tout prix le r\u00e9cup\u00e9rer \u00e0 son profit...",
+            "popularity": 0.4267,
+            "poster_path": "/z58gz0HczYbapF6QqkcAtD7GHUo.jpg",
+            "release_date": "1954-01-15",
+            "title": "Une femme qui s'affiche",
+            "video": false,
+            "vote_average": 7.008,
+            "vote_count": 65,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 86
         },
         {
             "adult": false,
@@ -691,7 +712,7 @@
             "original_language": "en",
             "original_title": "Rob Roy, The Highland Rogue",
             "overview": "Les aventures de guerre du chef de file des Highlands \u00e9cossais Rob Roy MacGregor pendant le r\u00e8gne du roi George I au 18\u00e8me si\u00e8cle.",
-            "popularity": 0.2106,
+            "popularity": 0.2163,
             "poster_path": "/ebNAkZDzKFj0cfpqcJdeY5R6hzS.jpg",
             "release_date": "1953-10-26",
             "title": "\u00c9chec au Roi",
@@ -703,51 +724,8 @@
                 "Aventure",
                 "Guerre"
             ],
-            "runtime": 81,
-            "tagline": "\u00c9chec au Roi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5tEI9qnusNGIrgrxuGtc8fH34hT.jpg",
-            "id": 20127,
-            "original_language": "en",
-            "original_title": "It Should Happen to You",
-            "overview": "Gladys Glover est une charmante actrice, mais nul ne se pr\u00e9cipite pour autant pour lui proposer un contrat. Elle d\u00e9cide donc d'acheter un emplacement publicitaire au coeur de New York, o\u00f9 son nom vient s'inscrire en lettres d'or. La m\u00e9thode s'av\u00e8re payante. Mais le roi de la savonnette, Evan Adams, utilisateur habituel dudit emplacement, veut \u00e0 tout prix le r\u00e9cup\u00e9rer \u00e0 son profit...",
-            "popularity": 0.4822,
-            "poster_path": "/z58gz0HczYbapF6QqkcAtD7GHUo.jpg",
-            "release_date": "1954-01-15",
-            "title": "Une femme qui s'affiche",
-            "video": false,
-            "vote_average": 7.008,
-            "vote_count": 65,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 86,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6kN5rkADuRtVw7kLD08JyQHZ5OB.jpg",
-            "id": 173,
-            "original_language": "en",
-            "original_title": "20,000 Leagues Under the Sea",
-            "overview": "En 1868, un monstre myst\u00e9rieux s'acharne sur les bateaux naviguant dans l'oc\u00e9an Pacifique. Alarm\u00e9 par ce ph\u00e9nom\u00e8ne, le gouvernement am\u00e9ricain arme une fr\u00e9gate. Ned, un fabuleux harponneur, Aronnax, un homme de science et son assistant partent \u00e0 la recherche du suppos\u00e9 monstre marin...",
-            "popularity": 2.4185,
-            "poster_path": "/h3H1uaEo831THipKE4H30shwFLS.jpg",
-            "release_date": "1954-12-23",
-            "title": "20 000 Lieues sous les mers",
-            "video": false,
-            "vote_average": 7.051,
-            "vote_count": 954,
-            "genres": [
-                "Aventure",
-                "Science-Fiction",
-                "Familial"
-            ],
-            "runtime": 127,
-            "tagline": "Le film le plus puissant de tous!"
+            "tagline": "\u00c9chec au Roi",
+            "runtime": 81
         },
         {
             "adult": false,
@@ -756,7 +734,7 @@
             "original_language": "en",
             "original_title": "Johnny Guitar",
             "overview": "Tenanci\u00e8re d'un saloon, Vienna embauche Johnny Logan comme musicien, un homme qu'elle a connu autrefois. Ils vont \u00eatre en proie \u00e0 la haine d'Emma Small, jalouse de Vienna et de sa relation avec le h\u00e9ros local, le \"dancing kid\", qu'elle croit \u00e0 l'origine de la mort de son fr\u00e8re lors d'une attaque de diligence.",
-            "popularity": 1.0867,
+            "popularity": 1.2744,
             "poster_path": "/pVCibgygVFOetgjzAIHNHApYKGn.jpg",
             "release_date": "1954-05-26",
             "title": "Johnny Guitare",
@@ -768,8 +746,30 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 107,
-            "tagline": "Pris sous les feux crois\u00e9s du danger et du d\u00e9sir"
+            "tagline": "Pris sous les feux crois\u00e9s du danger et du d\u00e9sir",
+            "runtime": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6kN5rkADuRtVw7kLD08JyQHZ5OB.jpg",
+            "id": 173,
+            "original_language": "en",
+            "original_title": "20,000 Leagues Under the Sea",
+            "overview": "En 1868, un monstre myst\u00e9rieux s'acharne sur les bateaux naviguant dans l'oc\u00e9an Pacifique. Alarm\u00e9 par ce ph\u00e9nom\u00e8ne, le gouvernement am\u00e9ricain arme une fr\u00e9gate. Ned, un fabuleux harponneur, Aronnax, un homme de science et son assistant partent \u00e0 la recherche du suppos\u00e9 monstre marin...",
+            "popularity": 2.2888,
+            "poster_path": "/h3H1uaEo831THipKE4H30shwFLS.jpg",
+            "release_date": "1954-12-23",
+            "title": "20 000 Lieues sous les mers",
+            "video": false,
+            "vote_average": 7.051,
+            "vote_count": 954,
+            "genres": [
+                "Aventure",
+                "Science-Fiction",
+                "Familial"
+            ],
+            "tagline": "Le film le plus puissant de tous!",
+            "runtime": 127
         }
     ]
 }

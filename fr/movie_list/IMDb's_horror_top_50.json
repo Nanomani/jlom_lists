@@ -4,9 +4,53 @@
     "source": "https://wwww.imdb.com",
     "created_by": "lbnt",
     "added": "11/21/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+            "id": 274,
+            "original_language": "en",
+            "original_title": "The Silence of the Lambs",
+            "overview": "Un psychopathe connu sous le nom de Buffalo Bill s\u00e8me la terreur dans le Middle West en kidnappant et en assassinant de jeunes femmes. Clarice Starling, une jeune stagiaire du FBI, est charg\u00e9e d\u2019interroger l\u2019ex\u2010psychiatre Hannibal Lecter. Psychopathe redoutablement intelligent et port\u00e9 sur le cannibalisme, Lecter est capable de lui fournir des informations concernant Buffalo Bill ainsi que son portrait psychologique. Mais il n\u2019accepte de l\u2019aider qu\u2019en \u00e9change d\u2019informations sur la vie priv\u00e9e de la jeune femme. Entre eux s\u2019\u00e9tablit un lien de fascination et de r\u00e9pulsion.",
+            "popularity": 3.6438,
+            "poster_path": "/sSQDxwm4r28YpJSQVyVOtpYVs0E.jpg",
+            "release_date": "1991-02-14",
+            "title": "Le Silence des agneaux",
+            "video": false,
+            "vote_average": 8.346,
+            "vote_count": 17437,
+            "genres": [
+                "Crime",
+                "Thriller",
+                "Drame"
+            ],
+            "tagline": "Elle doit deviner les pens\u00e9es d'un criminel en p\u00e9n\u00e9trant dans le monde d'un psychopathe.",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzXQEAmXIEWAtPCgB81bAS6EJCy.jpg",
+            "id": 539,
+            "original_language": "en",
+            "original_title": "Psycho",
+            "overview": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'\u00e9pouser car il doit verser une \u00e9norme pension alimentaire le laissant sans le sou\u2026 Mais un beau jour, son patron lui demande de d\u00e9poser 40 000 dollars \u00e0 la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Tr\u00e8s vite la panique commence \u00e0 se faire sentir. Partag\u00e9e entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arr\u00eate pr\u00e8s d'un motel, tenu par un sympathique g\u00e9rant nomm\u00e9 Norman Bates, mais qui doit supporter le caract\u00e8re possessif de sa m\u00e8re. Apr\u00e8s un copieux repas avec Norman, Marion prend toutes ses pr\u00e9cautions afin de dissimuler l'argent. Pour se d\u00e9lasser de cette journ\u00e9e, elle prend une douche\u2026",
+            "popularity": 9.8758,
+            "poster_path": "/lzF8b44dAvXFagQnB1UZa2AF87q.jpg",
+            "release_date": "1960-06-22",
+            "title": "Psychose",
+            "video": false,
+            "vote_average": 8.419,
+            "vote_count": 10712,
+            "genres": [
+                "Horreur",
+                "Thriller",
+                "Myst\u00e8re"
+            ],
+            "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !",
+            "runtime": 109
+        },
         {
             "adult": false,
             "backdrop_path": "/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
@@ -14,7 +58,7 @@
             "original_language": "en",
             "original_title": "Alien",
             "overview": "En 2122, le Nostromo, vaisseau de commerce, fait route vers la Terre avec \u00e0 son bord un \u00e9quipage de sept personnes en hibernation et une cargaison de minerais. Il interrompt soudain sa course suite \u00e0 la r\u00e9ception d\u2019un myst\u00e9rieux message provenant d\u2019une plan\u00e8te inexplor\u00e9e. R\u00e9veill\u00e9 par l\u2019ordinateur de bord, l\u2019\u00e9quipage se rend sur place et d\u00e9couvre les restes d\u2019un gigantesque vaisseau extraterrestre dont le seul passager semble \u00eatre mort dans d\u2019\u00e9tranges circonstances\u2026",
-            "popularity": 15.9954,
+            "popularity": 16.4219,
             "poster_path": "/l8CES84JndFlNfBNMxdLRYaLvI6.jpg",
             "release_date": "1979-05-25",
             "title": "Alien, le huiti\u00e8me passager",
@@ -25,30 +69,29 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 117,
-            "tagline": "Dans l\u2019espace, personne ne vous entend crier."
+            "tagline": "Dans l\u2019espace, personne ne vous entend crier.",
+            "runtime": 117
         },
         {
             "adult": false,
-            "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
-            "id": 274,
+            "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+            "id": 694,
             "original_language": "en",
-            "original_title": "The Silence of the Lambs",
-            "overview": "Un psychopathe connu sous le nom de Buffalo Bill s\u00e8me la terreur dans le Middle West en kidnappant et en assassinant de jeunes femmes. Clarice Starling, une jeune stagiaire du FBI, est charg\u00e9e d\u2019interroger l\u2019ex\u2010psychiatre Hannibal Lecter. Psychopathe redoutablement intelligent et port\u00e9 sur le cannibalisme, Lecter est capable de lui fournir des informations concernant Buffalo Bill ainsi que son portrait psychologique. Mais il n\u2019accepte de l\u2019aider qu\u2019en \u00e9change d\u2019informations sur la vie priv\u00e9e de la jeune femme. Entre eux s\u2019\u00e9tablit un lien de fascination et de r\u00e9pulsion.",
-            "popularity": 3.5588,
-            "poster_path": "/sSQDxwm4r28YpJSQVyVOtpYVs0E.jpg",
-            "release_date": "1991-02-14",
-            "title": "Le Silence des agneaux",
+            "original_title": "The Shining",
+            "overview": "Jack Torrance, gardien d\u2019un h\u00f4tel ferm\u00e9 l\u2019hiver, sa femme et son fils Danny s\u2019appr\u00eatent \u00e0 vivre de longs mois de solitude. Danny, qui poss\u00e8de un don de m\u00e9dium, le \u00abShining\u00bb, est effray\u00e9 \u00e0 l\u2019id\u00e9e d\u2019habiter ce lieu, th\u00e9\u00e2tre marqu\u00e9 par de terribles \u00e9v\u00e9nements pass\u00e9s\u2026",
+            "popularity": 13.4944,
+            "poster_path": "/cnniZQGtjK8kh2tsjih4GtkX6bl.jpg",
+            "release_date": "1980-05-23",
+            "title": "Shining",
             "video": false,
-            "vote_average": 8.346,
-            "vote_count": 17436,
+            "vote_average": 8.206,
+            "vote_count": 18475,
             "genres": [
-                "Crime",
-                "Thriller",
-                "Drame"
+                "Horreur",
+                "Thriller"
             ],
-            "runtime": 118,
-            "tagline": "Elle doit deviner les pens\u00e9es d'un criminel en p\u00e9n\u00e9trant dans le monde d'un psychopathe."
+            "tagline": "Un tiens vaut mieux que deux tu l\u2019auras.",
+            "runtime": 119
         },
         {
             "adult": false,
@@ -57,20 +100,62 @@
             "original_language": "en",
             "original_title": "Aliens",
             "overview": "Apr\u00e8s 57 ans de d\u00e9rive dans l\u2019espace, Ellen Ripley est secourue par la corporation Weyland\u2010Yutani. Malgr\u00e9 son rapport concernant l\u2019incident survenu sur le Nostromo, elle n\u2019est pas prise au s\u00e9rieux par les militaires quant \u00e0 la pr\u00e9sence de x\u00e9nomorphes sur la plan\u00e8te LV\u2010426 o\u00f9 se posa son \u00e9quipage\u2026 plan\u00e8te o\u00f9 plusieurs familles de colons ont \u00e9t\u00e9 envoy\u00e9es en mission de \u00ab\u202fterraformage\u202f\u00bb. Apr\u00e8s la disparition de ces derniers, Ripley d\u00e9cide d\u2019accompagner une escouade de marines dans leur mission de sauvetage\u2026 et d\u2019affronter \u00e0 nouveau la B\u00eate.",
-            "popularity": 12.9308,
+            "popularity": 13.273,
             "poster_path": "/uafMg29wVV4XvxPS59s8nBBbP4i.jpg",
             "release_date": "1986-07-18",
             "title": "Aliens, le retour",
             "video": false,
-            "vote_average": 7.956,
+            "vote_average": 8.0,
             "vote_count": 10520,
             "genres": [
                 "Action",
                 "Thriller",
                 "Science-Fiction"
             ],
-            "runtime": 137,
-            "tagline": "Cette fois c'est la guerre."
+            "tagline": "Cette fois c'est la guerre.",
+            "runtime": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+            "id": 1091,
+            "original_language": "en",
+            "original_title": "The Thing",
+            "overview": "Hiver 1982 au c\u0153ur de l\u2019Antarctique. Une \u00e9quipe de recherche compos\u00e9e de 12 hommes, d\u00e9couvre un corps enfoui sous la neige depuis plus de 100 000 ans. D\u00e9congel\u00e9e, la cr\u00e9ature retourne \u00e0 la vie et t\u00e9moigne tr\u00e8s vite de sa capacit\u00e9 \u00e0 parasiter puis assimiler toute forme de vie. Isol\u00e9s du monde, ne sachant plus qui est contamin\u00e9 et qui ne l'est pas, les hommes de l'\u00e9quipe vont sombrer dans la peur et la parano\u00efa. Un v\u00e9ritable combat s\u2019engage.",
+            "popularity": 10.5583,
+            "poster_path": "/gajOIkrWq10MDjpHwCmIt4Yip2z.jpg",
+            "release_date": "1982-06-25",
+            "title": "The Thing",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 7636,
+            "genres": [
+                "Horreur",
+                "Myst\u00e8re",
+                "Science-Fiction"
+            ],
+            "tagline": "L'homme est la meilleure cachette qui soit.",
+            "runtime": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+            "id": 9552,
+            "original_language": "en",
+            "original_title": "The Exorcist",
+            "overview": "Regan, une adolescente, pr\u00e9sente depuis quelque temps d\u2019\u00e9tranges sympt\u00f4mes. Apr\u00e8s avoir \u00e9puis\u00e9 les solutions m\u00e9dicales, la m\u00e8re de Regan consulte un pr\u00eatre-psychiatre qui est rapidement convaincu que Regan est poss\u00e9d\u00e9e et que seul un exorcisme pourra la \"gu\u00e9rir\".",
+            "popularity": 9.6721,
+            "poster_path": "/rJU6uv4ADDV0aYdiy7wyIf2nCjS.jpg",
+            "release_date": "1973-12-26",
+            "title": "L'Exorciste",
+            "video": false,
+            "vote_average": 7.74,
+            "vote_count": 8407,
+            "genres": [
+                "Horreur"
+            ],
+            "tagline": "Quelque chose au-del\u00e0 de la compr\u00e9hension arrive \u00e0 une petite fille dans cette rue.",
+            "runtime": 133
         },
         {
             "adult": false,
@@ -79,20 +164,41 @@
             "original_language": "en",
             "original_title": "Jaws",
             "overview": "\u00c0 quelques jours du d\u00e9but de la saison estivale, les habitants de la petite station baln\u00e9aire d'Amity sont mis en \u00e9moi par la d\u00e9couverte sur le littoral du corps atrocement mutil\u00e9 d'une jeune vacanci\u00e8re. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a \u00e9t\u00e9 victime d'un requin. Il d\u00e9cide alors d'interdire l'acc\u00e8s aux plages mais se heurte \u00e0 l'hostilit\u00e9 du maire uniquement int\u00e9ress\u00e9 par l'afflux des touristes. Pendant ce temps, le requin continue \u00e0 semer la terreur le long des c\u00f4tes et \u00e0 d\u00e9vorer les baigneurs\u2026",
-            "popularity": 15.2228,
+            "popularity": 13.7659,
             "poster_path": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
             "release_date": "1975-06-20",
             "title": "Les Dents de la mer",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 11239,
+            "vote_average": 7.68,
+            "vote_count": 11240,
             "genres": [
                 "Horreur",
                 "Thriller",
                 "Aventure"
             ],
-            "runtime": 124,
-            "tagline": "Elle fut la premi\u00e8re\u2026"
+            "tagline": "Elle fut la premi\u00e8re\u2026",
+            "runtime": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rcEUuRtr0dFL078bNeXL8pQqrMK.jpg",
+            "id": 827,
+            "original_language": "fr",
+            "original_title": "Les Diaboliques",
+            "overview": "Dans une institution destin\u00e9e \u00e0 l\u2019\u00e9ducation des jeunes gar\u00e7ons, Christina et Nicole, respectivement \u00e9pouse et ma\u00eetresse du directeur Michel Delasalle, s\u2019associent afin d\u2019assassiner l\u2019homme qu\u2019elles ont fini par ha\u00efr. Mais quelques jours apr\u00e8s leur m\u00e9fait, le corps de Michel dispara\u00eet\u2026",
+            "popularity": 1.3035,
+            "poster_path": "/6wmNcHjXnBEhlAvsUUR6ytdLKHO.jpg",
+            "release_date": "1955-01-29",
+            "title": "Les Diaboliques",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1059,
+            "genres": [
+                "Thriller",
+                "Myst\u00e8re"
+            ],
+            "tagline": "Ce n'est pas histoire de fou mais une histoire diabolique !",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -101,7 +207,7 @@
             "original_language": "de",
             "original_title": "Faust - Eine deutsche Volkssage",
             "overview": "Tourmenteur de l'humanit\u00e9 avec la guerre, la peste ou la famine, M\u00e9phisto consid\u00e8re que la terre lui appartient. L'Archange Gabriel lui \u00e9voque le nom de Faust, un vieux savant, un juste dont la vie enti\u00e8re est la preuve que la terre n'est pas totalement soumise au Mal. M\u00e9phisto promet de d\u00e9tourner de Dieu l'\u00e2me de Faust. Alors la terre sera tienne, promet l'Archange... Dans son village d\u00e9cim\u00e9 par la peste, Faust, d\u00e9sesp\u00e9r\u00e9, trouve un grimoire lui permettant d'invoquer le Diable, et signe avec lui un pacte de 24 heures pour sauver les malades. Mais les villageois s'en aper\u00e7oivent et veulent le lapider. En proie au suicide, Faust accepte une nouvelle proposition de M\u00e9phisto : retrouver sa jeunesse en \u00e9change de son \u00e2me\u2026",
-            "popularity": 0.9406,
+            "popularity": 0.7607,
             "poster_path": "/2boJJQhfHGnaqPCStOgjCJTiVLh.jpg",
             "release_date": "1926-10-13",
             "title": "Faust, une l\u00e9gende allemande",
@@ -113,159 +219,8 @@
                 "Drame",
                 "Horreur"
             ],
-            "runtime": 107,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
-            "id": 1091,
-            "original_language": "en",
-            "original_title": "The Thing",
-            "overview": "Hiver 1982 au c\u0153ur de l\u2019Antarctique. Une \u00e9quipe de recherche compos\u00e9e de 12 hommes, d\u00e9couvre un corps enfoui sous la neige depuis plus de 100 000 ans. D\u00e9congel\u00e9e, la cr\u00e9ature retourne \u00e0 la vie et t\u00e9moigne tr\u00e8s vite de sa capacit\u00e9 \u00e0 parasiter puis assimiler toute forme de vie. Isol\u00e9s du monde, ne sachant plus qui est contamin\u00e9 et qui ne l'est pas, les hommes de l'\u00e9quipe vont sombrer dans la peur et la parano\u00efa. Un v\u00e9ritable combat s\u2019engage.",
-            "popularity": 9.7306,
-            "poster_path": "/gajOIkrWq10MDjpHwCmIt4Yip2z.jpg",
-            "release_date": "1982-06-25",
-            "title": "The Thing",
-            "video": false,
-            "vote_average": 8.069,
-            "vote_count": 7629,
-            "genres": [
-                "Horreur",
-                "Myst\u00e8re",
-                "Science-Fiction"
-            ],
-            "runtime": 109,
-            "tagline": "L'homme est la meilleure cachette qui soit."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-            "id": 9552,
-            "original_language": "en",
-            "original_title": "The Exorcist",
-            "overview": "Regan, une adolescente, pr\u00e9sente depuis quelque temps d\u2019\u00e9tranges sympt\u00f4mes. Apr\u00e8s avoir \u00e9puis\u00e9 les solutions m\u00e9dicales, la m\u00e8re de Regan consulte un pr\u00eatre-psychiatre qui est rapidement convaincu que Regan est poss\u00e9d\u00e9e et que seul un exorcisme pourra la \"gu\u00e9rir\".",
-            "popularity": 10.8135,
-            "poster_path": "/rJU6uv4ADDV0aYdiy7wyIf2nCjS.jpg",
-            "release_date": "1973-12-26",
-            "title": "L'Exorciste",
-            "video": false,
-            "vote_average": 7.74,
-            "vote_count": 8407,
-            "genres": [
-                "Horreur"
-            ],
-            "runtime": 133,
-            "tagline": "Quelque chose au-del\u00e0 de la compr\u00e9hension arrive \u00e0 une petite fille dans cette rue."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/vzXQEAmXIEWAtPCgB81bAS6EJCy.jpg",
-            "id": 539,
-            "original_language": "en",
-            "original_title": "Psycho",
-            "overview": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'\u00e9pouser car il doit verser une \u00e9norme pension alimentaire le laissant sans le sou\u2026 Mais un beau jour, son patron lui demande de d\u00e9poser 40 000 dollars \u00e0 la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Tr\u00e8s vite la panique commence \u00e0 se faire sentir. Partag\u00e9e entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arr\u00eate pr\u00e8s d'un motel, tenu par un sympathique g\u00e9rant nomm\u00e9 Norman Bates, mais qui doit supporter le caract\u00e8re possessif de sa m\u00e8re. Apr\u00e8s un copieux repas avec Norman, Marion prend toutes ses pr\u00e9cautions afin de dissimuler l'argent. Pour se d\u00e9lasser de cette journ\u00e9e, elle prend une douche\u2026",
-            "popularity": 9.58,
-            "poster_path": "/lzF8b44dAvXFagQnB1UZa2AF87q.jpg",
-            "release_date": "1960-06-22",
-            "title": "Psychose",
-            "video": false,
-            "vote_average": 8.4,
-            "vote_count": 10710,
-            "genres": [
-                "Horreur",
-                "Thriller",
-                "Myst\u00e8re"
-            ],
-            "runtime": 109,
-            "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-            "id": 694,
-            "original_language": "en",
-            "original_title": "The Shining",
-            "overview": "Jack Torrance, gardien d\u2019un h\u00f4tel ferm\u00e9 l\u2019hiver, sa femme et son fils Danny s\u2019appr\u00eatent \u00e0 vivre de longs mois de solitude. Danny, qui poss\u00e8de un don de m\u00e9dium, le \u00abShining\u00bb, est effray\u00e9 \u00e0 l\u2019id\u00e9e d\u2019habiter ce lieu, th\u00e9\u00e2tre marqu\u00e9 par de terribles \u00e9v\u00e9nements pass\u00e9s\u2026",
-            "popularity": 12.964,
-            "poster_path": "/cnniZQGtjK8kh2tsjih4GtkX6bl.jpg",
-            "release_date": "1980-05-23",
-            "title": "Shining",
-            "video": false,
-            "vote_average": 8.2,
-            "vote_count": 18473,
-            "genres": [
-                "Horreur",
-                "Thriller"
-            ],
-            "runtime": 119,
-            "tagline": "Un tiens vaut mieux que deux tu l\u2019auras."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rcEUuRtr0dFL078bNeXL8pQqrMK.jpg",
-            "id": 827,
-            "original_language": "fr",
-            "original_title": "Les Diaboliques",
-            "overview": "Dans une institution destin\u00e9e \u00e0 l\u2019\u00e9ducation des jeunes gar\u00e7ons, Christina et Nicole, respectivement \u00e9pouse et ma\u00eetresse du directeur Michel Delasalle, s\u2019associent afin d\u2019assassiner l\u2019homme qu\u2019elles ont fini par ha\u00efr. Mais quelques jours apr\u00e8s leur m\u00e9fait, le corps de Michel dispara\u00eet\u2026",
-            "popularity": 1.4473,
-            "poster_path": "/6wmNcHjXnBEhlAvsUUR6ytdLKHO.jpg",
-            "release_date": "1955-01-29",
-            "title": "Les Diaboliques",
-            "video": false,
-            "vote_average": 7.9,
-            "vote_count": 1059,
-            "genres": [
-                "Thriller",
-                "Myst\u00e8re"
-            ],
-            "runtime": 114,
-            "tagline": "Ce n'est pas histoire de fou mais une histoire diabolique !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
-            "id": 234,
-            "original_language": "de",
-            "original_title": "Das Cabinet des Dr. Caligari",
-            "overview": "Dans une f\u00eate foraine, un myst\u00e9rieux docteur pr\u00e9dit un avenir tragique \u00e0 un jeune \u00e9tudiant...",
-            "popularity": 2.7349,
-            "poster_path": "/wFx5owClXBBLIVt4nMAoUQ4yy3t.jpg",
-            "release_date": "1920-02-26",
-            "title": "Le Cabinet du docteur Caligari",
-            "video": false,
-            "vote_average": 7.927,
-            "vote_count": 1722,
-            "genres": [
-                "Drame",
-                "Horreur",
-                "Thriller",
-                "Crime"
-            ],
-            "runtime": 77,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
-            "id": 244,
-            "original_language": "en",
-            "original_title": "King Kong",
-            "overview": "Figurante sans travail, la blonde Ann Darrow est engag\u00e9e par le r\u00e9alisateur Carl Denham pour \u00eatre la vedette de son prochain film. Le Venture, le navire command\u00e9 par le capitaine Englehorn et qui comprend toute l'\u00e9quipe, atteint Skull Island, une \u00eele myst\u00e9rieuse o\u00f9 vivrait une cr\u00e9ature l\u00e9gendaire v\u00e9n\u00e9r\u00e9e par les indig\u00e8nes et appel\u00e9e King Kong.Durant le voyage, Ann tombe amoureuse de John Driscoll, le second du bateau. Une fois d\u00e9barqu\u00e9s, les explorateurs sont aussit\u00f4t rep\u00e9r\u00e9s par les indig\u00e8nes et font marche arri\u00e8re. Mais ces derniers enl\u00e8vent Ann, la \"femme aux cheveux d'or\", et l'attachent pour l'offrir en sacrifice \u00e0 King Kong.Au moment o\u00f9 ses compagnons arrivent pour la d\u00e9livrer, un singe gigantesque saisit la jeune fille et dispara\u00eet dans la for\u00eat. Denham et ses hommes se lancent alors \u00e0 la poursuite de King Kong.",
-            "popularity": 2.8899,
-            "poster_path": "/aqrekugQXjHB8xBjQFv3lAHDmGj.jpg",
-            "release_date": "1933-03-15",
-            "title": "King Kong",
-            "video": false,
-            "vote_average": 7.6,
-            "vote_count": 1569,
-            "genres": [
-                "Aventure",
-                "Fantastique",
-                "Horreur"
-            ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -274,7 +229,7 @@
             "original_language": "en",
             "original_title": "Rosemary's Baby",
             "overview": "Malgr\u00e9 les conseils de leur vieil ami Hutch, Guy Woodhouse et sa jeune femme, enceinte, s\u2019installent dans un immeuble new-yorkais v\u00e9tuste, consid\u00e9r\u00e9 par leur ami comme une demeure mal\u00e9fique. Aussit\u00f4t, leurs voisins, Minnie et Roman Castevet, vieux couple d\u2019Europe centrale, imposent leur amiti\u00e9 et leurs services. Si Guy accepte facilement ce voisinage, Rosemary s\u2019en inqui\u00e8te\u2026",
-            "popularity": 4.0705,
+            "popularity": 3.8136,
             "poster_path": "/yKtdS5oaHEtBUD1Gq4rdOezzWp6.jpg",
             "release_date": "1968-06-12",
             "title": "Rosemary's Baby",
@@ -286,118 +241,8 @@
                 "Horreur",
                 "Thriller"
             ],
-            "runtime": 138,
-            "tagline": "Ce n'est pas ce que vous croyez\u2026"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xgiGMef3A2aFAFktYyFu1juDvcI.jpg",
-            "id": 58129,
-            "original_language": "sv",
-            "original_title": "K\u00f6rkarlen",
-            "overview": "La nuit de la Saint-Sylvestre, une jeune femme gravement malade tente de ramener un ivrogne dans le droit chemin.",
-            "popularity": 0.999,
-            "poster_path": "/a8wExy2e1H34YnU1MJ5alGopYkD.jpg",
-            "release_date": "1921-01-01",
-            "title": "La Charrette fant\u00f4me",
-            "video": false,
-            "vote_average": 7.8,
-            "vote_count": 345,
-            "genres": [
-                "Drame",
-                "Fantastique",
-                "Horreur"
-            ],
-            "runtime": 93,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
-            "id": 106,
-            "original_language": "en",
-            "original_title": "Predator",
-            "overview": "Le Major Dutch Schaefer et son \u00e9quipe sont envoy\u00e9s dans la jungle sud-am\u00e9ricaine avec pour mission de d\u00e9livrer des alli\u00e9s pris en otage par une bande de gu\u00e9rilleros. Mais pendant l'op\u00e9ration, Dutsch et ses hommes s'aper\u00e7oivent que les preneurs d'otages ont \u00e9t\u00e9... d\u00e9pec\u00e9s et suspendus \u00e0 la plus haute cime des arbres. Tr\u00e8s vite, le commando comprend qu'il a en face de lui un ennemi hors du commun. Un monstre invisible et indestructible venu d'une autre plan\u00e8te. Un extraterrestre rompu \u00e0 toutes les formes d'attaques et qui ne poursuit qu'un seul but : la chasse \u00e0 l'\u00eatre humain. Schaefer et sa troupe sont pour lui du gibier de premier choix.",
-            "popularity": 22.0829,
-            "poster_path": "/lXoATMtTK3ZsICCvTtXygASHZd9.jpg",
-            "release_date": "1987-06-12",
-            "title": "Predator",
-            "video": false,
-            "vote_average": 7.544,
-            "vote_count": 8754,
-            "genres": [
-                "Science-Fiction",
-                "Action",
-                "Aventure",
-                "Thriller"
-            ],
-            "runtime": 107,
-            "tagline": "Il est le chasseur, Schwarzenegger est sa proie !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
-            "id": 30959,
-            "original_language": "ja",
-            "original_title": "\u602a\u8ac7",
-            "overview": "Une collection de quatre contes populaires japonais aux th\u00e8mes surnaturels : Les Cheveux noirs, La Femme des neiges, Ho\u00efchi sans oreilles, Dans un bol de th\u00e9.",
-            "popularity": 2.5806,
-            "poster_path": "/xUy8WpmKGyGCliskCwrC1a5KE4I.jpg",
-            "release_date": "1965-01-06",
-            "title": "Kwa\u00efdan",
-            "video": false,
-            "vote_average": 7.717,
-            "vote_count": 434,
-            "genres": [
-                "Horreur",
-                "Fantastique",
-                "Drame"
-            ],
-            "runtime": 183,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
-            "id": 419430,
-            "original_language": "en",
-            "original_title": "Get Out",
-            "overview": "Couple mixte, Chris et sa petite amie Rose filent le parfait amour. Le moment est donc venu de rencontrer la belle famille, Missy et Dean lors d'un week\u2011end sur leur domaine dans le nord de l'\u00c9tat. Chris commence par penser que l'atmosph\u00e8re tendue est li\u00e9e \u00e0 leur diff\u00e9rence de couleur de peau, mais tr\u00e8s vite une s\u00e9rie d'incidents de plus en plus inqui\u00e9tants lui permet de d\u00e9couvrir l'inimaginable.",
-            "popularity": 11.2108,
-            "poster_path": "/8WzjAhgc4HvpN3Y6LLCc6AbpIhF.jpg",
-            "release_date": "2017-02-24",
-            "title": "Get Out",
-            "video": false,
-            "vote_average": 7.621,
-            "vote_count": 18421,
-            "genres": [
-                "Myst\u00e8re",
-                "Thriller",
-                "Horreur"
-            ],
-            "runtime": 104,
-            "tagline": "Ce n'est pas parce que vous \u00eates invit\u00e9 que vous \u00eates le bienvenu."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-            "id": 747,
-            "original_language": "en",
-            "original_title": "Shaun of the Dead",
-            "overview": "\u00c0 presque 30 ans, Shaun ne fait pas grand-chose de sa vie. Entre l'appart qu'il partage avec ses potes et le temps qu'il passe avec eux au pub, Liz, sa petite amie, n'a pas beaucoup de place. Elle qui voudrait que Shaun s'engage, ne supporte plus de le voir tra\u00eener. Exc\u00e9d\u00e9e par ses vaines promesses et son incapacit\u00e9 \u00e0 se consacrer un peu \u00e0 leur couple, Liz d\u00e9cide de rompre. Shaun est d\u00e9cid\u00e9 \u00e0 tout r\u00e9parer, et tant pis si les zombies d\u00e9ferlent sur Londres, tant pis si la ville devient un v\u00e9ritable enfer. Retranch\u00e9 dans son pub pr\u00e9f\u00e9r\u00e9, le temps est venu pour lui de montrer enfin de quoi il est capable\u2026",
-            "popularity": 6.5609,
-            "poster_path": "/uZCC0b2AfnLivW5D5RMYf1SROLf.jpg",
-            "release_date": "2004-04-09",
-            "title": "Shaun of the Dead",
-            "video": false,
-            "vote_average": 7.538,
-            "vote_count": 9058,
-            "genres": [
-                "Horreur",
-                "Com\u00e9die"
-            ],
-            "runtime": 99,
-            "tagline": "Une com\u00e9die romantique. Avec des zombies."
+            "tagline": "Ce n'est pas ce que vous croyez\u2026",
+            "runtime": 138
         },
         {
             "adult": false,
@@ -406,7 +251,7 @@
             "original_language": "en",
             "original_title": "What Ever Happened to Baby Jane?",
             "overview": "Au temps du cin\u00e9ma muet, \"Baby\" Jane est une grande star, une des premi\u00e8res enfants prodiges. Sa soeur Blanche, timide et r\u00e9serv\u00e9e, reste dans l'ombre. Dans les ann\u00e9es 30, les r\u00f4les sont invers\u00e9s, Blanche est une grande vedette, Jane est oubli\u00e9e. D\u00e9sormais, bien des ann\u00e9es apr\u00e8s, elles vivent en commun une double n\u00e9vrose. Blanche, victime d'un myst\u00e9rieux accident, est infirme et semble tout accepter d'une soeur transform\u00e9e en infirmi\u00e8re sadique qui multiplie les mauvais traitements...",
-            "popularity": 2.2446,
+            "popularity": 2.3536,
             "poster_path": "/5sGRWy6nE5lbToh0BQ4i5VprHrl.jpg",
             "release_date": "1962-10-31",
             "title": "Qu'est-il arriv\u00e9 \u00e0 Baby Jane ?",
@@ -418,8 +263,31 @@
                 "Drame",
                 "Horreur"
             ],
-            "runtime": 134,
-            "tagline": "Trop tard . . . trop tard . . . trop tard pour appeler \u00e0 l'aide."
+            "tagline": "Trop tard . . . trop tard . . . trop tard pour appeler \u00e0 l'aide.",
+            "runtime": 134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iNNNkYuUU365LhnPwQqfzBvKnsg.jpg",
+            "id": 234,
+            "original_language": "de",
+            "original_title": "Das Cabinet des Dr. Caligari",
+            "overview": "Dans une f\u00eate foraine, un myst\u00e9rieux docteur pr\u00e9dit un avenir tragique \u00e0 un jeune \u00e9tudiant...",
+            "popularity": 2.6606,
+            "poster_path": "/wFx5owClXBBLIVt4nMAoUQ4yy3t.jpg",
+            "release_date": "1920-02-26",
+            "title": "Le Cabinet du docteur Caligari",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 1722,
+            "genres": [
+                "Drame",
+                "Horreur",
+                "Thriller",
+                "Crime"
+            ],
+            "tagline": "",
+            "runtime": 77
         },
         {
             "adult": false,
@@ -428,7 +296,7 @@
             "original_language": "cs",
             "original_title": "Spalova\u010d mrtvol",
             "overview": "M. Kopfrkingl est un employ\u00e9 mod\u00e8le. Incin\u00e9rateur de cadavres de son \u00e9tat, il exerce son m\u00e9tier avec amour. Il aime ses morts, il est heureux de lib\u00e9rer les \u00e2mes et souhaite, par amour de son prochain, a tous une mort prochaine. \u00c0 la veille de la Seconde Guerre mondiale un ami nazi le persuade qu'il doit avoir du sang allemand dans les veines. Et M. Kopfrkingl se prend \u00e0 r\u00eaver d'une race pure. Son cr\u00e9matoire va pouvoir tourner \u00e0 plein r\u00e9gime.",
-            "popularity": 0.8952,
+            "popularity": 0.9049,
             "poster_path": "/dMHgOJ44ftsRua6sFq56cOhE7O9.jpg",
             "release_date": "1969-03-14",
             "title": "L\u2019Incin\u00e9rateur de cadavres",
@@ -440,29 +308,161 @@
                 "Drame",
                 "Com\u00e9die"
             ],
-            "runtime": 100,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 100
         },
         {
             "adult": false,
-            "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+            "backdrop_path": "/xgiGMef3A2aFAFktYyFu1juDvcI.jpg",
+            "id": 58129,
+            "original_language": "sv",
+            "original_title": "K\u00f6rkarlen",
+            "overview": "La nuit de la Saint-Sylvestre, une jeune femme gravement malade tente de ramener un ivrogne dans le droit chemin.",
+            "popularity": 1.0846,
+            "poster_path": "/a8wExy2e1H34YnU1MJ5alGopYkD.jpg",
+            "release_date": "1921-01-01",
+            "title": "La Charrette fant\u00f4me",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 345,
+            "genres": [
+                "Drame",
+                "Fantastique",
+                "Horreur"
+            ],
+            "tagline": "",
+            "runtime": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+            "id": 30959,
+            "original_language": "ja",
+            "original_title": "\u602a\u8ac7",
+            "overview": "Une collection de quatre contes populaires japonais aux th\u00e8mes surnaturels : Les Cheveux noirs, La Femme des neiges, Ho\u00efchi sans oreilles, Dans un bol de th\u00e9.",
+            "popularity": 2.8105,
+            "poster_path": "/xUy8WpmKGyGCliskCwrC1a5KE4I.jpg",
+            "release_date": "1965-01-06",
+            "title": "Kwa\u00efdan",
+            "video": false,
+            "vote_average": 7.717,
+            "vote_count": 434,
+            "genres": [
+                "Horreur",
+                "Fantastique",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
+            "id": 244,
+            "original_language": "en",
+            "original_title": "King Kong",
+            "overview": "Figurante sans travail, la blonde Ann Darrow est engag\u00e9e par le r\u00e9alisateur Carl Denham pour \u00eatre la vedette de son prochain film. Le Venture, le navire command\u00e9 par le capitaine Englehorn et qui comprend toute l'\u00e9quipe, atteint Skull Island, une \u00eele myst\u00e9rieuse o\u00f9 vivrait une cr\u00e9ature l\u00e9gendaire v\u00e9n\u00e9r\u00e9e par les indig\u00e8nes et appel\u00e9e King Kong.Durant le voyage, Ann tombe amoureuse de John Driscoll, le second du bateau. Une fois d\u00e9barqu\u00e9s, les explorateurs sont aussit\u00f4t rep\u00e9r\u00e9s par les indig\u00e8nes et font marche arri\u00e8re. Mais ces derniers enl\u00e8vent Ann, la \"femme aux cheveux d'or\", et l'attachent pour l'offrir en sacrifice \u00e0 King Kong.Au moment o\u00f9 ses compagnons arrivent pour la d\u00e9livrer, un singe gigantesque saisit la jeune fille et dispara\u00eet dans la for\u00eat. Denham et ses hommes se lancent alors \u00e0 la poursuite de King Kong.",
+            "popularity": 4.3522,
+            "poster_path": "/aqrekugQXjHB8xBjQFv3lAHDmGj.jpg",
+            "release_date": "1933-03-15",
+            "title": "King Kong",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1569,
+            "genres": [
+                "Aventure",
+                "Fantastique",
+                "Horreur"
+            ],
+            "tagline": "",
+            "runtime": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+            "id": 419430,
+            "original_language": "en",
+            "original_title": "Get Out",
+            "overview": "Couple mixte, Chris et sa petite amie Rose filent le parfait amour. Le moment est donc venu de rencontrer la belle famille, Missy et Dean lors d'un week\u2011end sur leur domaine dans le nord de l'\u00c9tat. Chris commence par penser que l'atmosph\u00e8re tendue est li\u00e9e \u00e0 leur diff\u00e9rence de couleur de peau, mais tr\u00e8s vite une s\u00e9rie d'incidents de plus en plus inqui\u00e9tants lui permet de d\u00e9couvrir l'inimaginable.",
+            "popularity": 10.2422,
+            "poster_path": "/8WzjAhgc4HvpN3Y6LLCc6AbpIhF.jpg",
+            "release_date": "2017-02-24",
+            "title": "Get Out",
+            "video": false,
+            "vote_average": 7.621,
+            "vote_count": 18424,
+            "genres": [
+                "Myst\u00e8re",
+                "Thriller",
+                "Horreur"
+            ],
+            "tagline": "Ce n'est pas parce que vous \u00eates invit\u00e9 que vous \u00eates le bienvenu.",
+            "runtime": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+            "id": 747,
+            "original_language": "en",
+            "original_title": "Shaun of the Dead",
+            "overview": "\u00c0 presque 30 ans, Shaun ne fait pas grand-chose de sa vie. Entre l'appart qu'il partage avec ses potes et le temps qu'il passe avec eux au pub, Liz, sa petite amie, n'a pas beaucoup de place. Elle qui voudrait que Shaun s'engage, ne supporte plus de le voir tra\u00eener. Exc\u00e9d\u00e9e par ses vaines promesses et son incapacit\u00e9 \u00e0 se consacrer un peu \u00e0 leur couple, Liz d\u00e9cide de rompre. Shaun est d\u00e9cid\u00e9 \u00e0 tout r\u00e9parer, et tant pis si les zombies d\u00e9ferlent sur Londres, tant pis si la ville devient un v\u00e9ritable enfer. Retranch\u00e9 dans son pub pr\u00e9f\u00e9r\u00e9, le temps est venu pour lui de montrer enfin de quoi il est capable\u2026",
+            "popularity": 6.3556,
+            "poster_path": "/uZCC0b2AfnLivW5D5RMYf1SROLf.jpg",
+            "release_date": "2004-04-09",
+            "title": "Shaun of the Dead",
+            "video": false,
+            "vote_average": 7.538,
+            "vote_count": 9058,
+            "genres": [
+                "Horreur",
+                "Com\u00e9die"
+            ],
+            "tagline": "Une com\u00e9die romantique. Avec des zombies.",
+            "runtime": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+            "id": 106,
+            "original_language": "en",
+            "original_title": "Predator",
+            "overview": "Le Major Dutch Schaefer et son \u00e9quipe sont envoy\u00e9s dans la jungle sud-am\u00e9ricaine avec pour mission de d\u00e9livrer des alli\u00e9s pris en otage par une bande de gu\u00e9rilleros. Mais pendant l'op\u00e9ration, Dutsch et ses hommes s'aper\u00e7oivent que les preneurs d'otages ont \u00e9t\u00e9... d\u00e9pec\u00e9s et suspendus \u00e0 la plus haute cime des arbres. Tr\u00e8s vite, le commando comprend qu'il a en face de lui un ennemi hors du commun. Un monstre invisible et indestructible venu d'une autre plan\u00e8te. Un extraterrestre rompu \u00e0 toutes les formes d'attaques et qui ne poursuit qu'un seul but : la chasse \u00e0 l'\u00eatre humain. Schaefer et sa troupe sont pour lui du gibier de premier choix.",
+            "popularity": 21.1139,
+            "poster_path": "/lXoATMtTK3ZsICCvTtXygASHZd9.jpg",
+            "release_date": "1987-06-12",
+            "title": "Predator",
+            "video": false,
+            "vote_average": 7.544,
+            "vote_count": 8755,
+            "genres": [
+                "Science-Fiction",
+                "Action",
+                "Aventure",
+                "Thriller"
+            ],
+            "tagline": "Il est le chasseur, Schwarzenegger est sa proie !",
+            "runtime": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
             "id": 10331,
             "original_language": "en",
             "original_title": "Night of the Living Dead",
             "overview": "Chaque ann\u00e9e, Barbara et Johnny vont fleurir la tombe de leur p\u00e8re. La route est longue, les environs du cimeti\u00e8re d\u00e9serts. Peu enclin \u00e0 prier, Johnny se souvient du temps o\u00f9 il \u00e9tait enfant et o\u00f9 il s'amusait \u00e0 effrayer sa s\u0153ur en r\u00e9p\u00e9tant d'une voix grave : \"Ils arrivent pour te chercher, Barbara.\"  La nuit tombe. Soudain, un homme \u00e9trange appara\u00eet. Il s'approche de Barbara puis attaque Johnny, qui tombe et est laiss\u00e9 pour mort. Terroris\u00e9e, Barbara s'enfuit et se r\u00e9fugie dans une maison de campagne. Elle y trouve Ben, ainsi que d'autres fugitifs. La radio leur apprend alors la terrible nouvelle : des morts s'attaquent aux vivants.",
-            "popularity": 3.435,
-            "poster_path": "/yZRti46opmXsW298cUqOZAD58xd.jpg",
+            "popularity": 2.9924,
+            "poster_path": "/lX5cA957idlD9Muke5kxZ9V6Rsf.jpg",
             "release_date": "1968-10-04",
             "title": "La Nuit des morts-vivants",
             "video": false,
-            "vote_average": 7.613,
-            "vote_count": 2642,
+            "vote_average": 7.6,
+            "vote_count": 2643,
             "genres": [
                 "Horreur",
                 "Thriller"
             ],
-            "runtime": 96,
-            "tagline": "Si cela ne vous fait pas peur, c'est que vous \u00eates d\u00e9j\u00e0 mort !"
+            "tagline": "Si cela ne vous fait pas peur, c'est que vous \u00eates d\u00e9j\u00e0 mort !",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -471,7 +471,7 @@
             "original_language": "sv",
             "original_title": "L\u00e5t den r\u00e4tte komma in",
             "overview": "Oskar, un gar\u00e7on doux et solitaire de 12 ans victime de harc\u00e8lement scolaire, trouve l'amour en la personne de Eli, une fille magnifique mais particuli\u00e8re, dont l'arriv\u00e9e co\u00efncide avec une s\u00e9rie de morts bien myst\u00e9rieuses.",
-            "popularity": 2.1895,
+            "popularity": 2.3211,
             "poster_path": "/riaynrmURRDKwR1a7Bkugtprd4r.jpg",
             "release_date": "2008-10-24",
             "title": "Morse",
@@ -482,8 +482,8 @@
                 "Horreur",
                 "Drame"
             ],
-            "runtime": 114,
-            "tagline": "Oskar aime Eli, Eli aime le sang\u2026"
+            "tagline": "Oskar aime Eli, Eli aime le sang\u2026",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -492,7 +492,7 @@
             "original_language": "en",
             "original_title": "Bride of Frankenstein",
             "overview": "Le Dr Frankenstein et sa cr\u00e9ature ont surv\u00e9cu. Un savant fou, le Dr Pretorius, kidnappe la femme du Dr Frankenstein, et l'oblige \u00e0 tenter de nouveau l'horrible exp\u00e9rience, dans le but cette fois de cr\u00e9er un monstre f\u00e9minin...",
-            "popularity": 2.1634,
+            "popularity": 2.3012,
             "poster_path": "/bacvNvhA3vAKFtSnzmNizrSY3MQ.jpg",
             "release_date": "1935-04-20",
             "title": "La Fianc\u00e9e de Frankenstein",
@@ -503,8 +503,8 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 74,
-            "tagline": "Le monstre exige une compagne !"
+            "tagline": "Le monstre exige une compagne !",
+            "runtime": 74
         },
         {
             "adult": false,
@@ -513,7 +513,7 @@
             "original_language": "de",
             "original_title": "Nosferatu, eine Symphonie des Grauens",
             "overview": "En 1838, Hutter, jeune clerc de notaire, part conclure une vente avec un ch\u00e2telain des Carpathes. Apr\u00e8s des rencontres mena\u00e7antes et de funestes pr\u00e9sages, il est re\u00e7u par le comte Orlock qui n'est autre que la r\u00e9incarnation du vampire Nosferatu, cr\u00e9ature qui ne peut vivre qu'en su\u00e7ant le sang des humains. Ce chef-d'\u0153uvre du cin\u00e9ma muet d'\u00e9pouvante tourn\u00e9 en d\u00e9cors naturels est la premi\u00e8re adaptation fid\u00e8le du c\u00e9l\u00e8bre roman de Bram Stocker, Dracula, publi\u00e9 en 1897.",
-            "popularity": 4.4392,
+            "popularity": 4.6187,
             "poster_path": "/9WUpFfsUIHuiY4MwTEw46Rvf1Od.jpg",
             "release_date": "1922-02-16",
             "title": "Nosferatu",
@@ -524,8 +524,8 @@
                 "Horreur",
                 "Fantastique"
             ],
-            "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 95
         },
         {
             "adult": false,
@@ -534,19 +534,19 @@
             "original_language": "en",
             "original_title": "Dawn of the Dead",
             "overview": "Des morts-vivants assoiff\u00e9s de sang ont envahi la Terre et se nourrissent de ses habitants. Un groupe de survivants se r\u00e9fugie dans un centre-commercial abandonn\u00e9. Alors que la vie s'organise \u00e0 l'int\u00e9rieur, la situation empire \u00e0 l'ext\u00e9rieur.",
-            "popularity": 4.0169,
+            "popularity": 3.9478,
             "poster_path": "/3N6VNE6IRFDfINamAFxxyI51ASe.jpg",
             "release_date": "1978-09-02",
             "title": "Zombie",
             "video": false,
-            "vote_average": 7.489,
+            "vote_average": 7.5,
             "vote_count": 2230,
             "genres": [
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 115,
-            "tagline": "Quand il n\u2019y a plus de place en enfer, les morts reviennent sur terre."
+            "tagline": "Quand il n\u2019y a plus de place en enfer, les morts reviennent sur terre.",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -555,7 +555,7 @@
             "original_language": "en",
             "original_title": "Freaks",
             "overview": "Un cirque exhibe de vrais monstres : l'homme-tronc, la femme \u00e0 barbe, les s\u0153urs siamoises. Hans, le nain, tombe amoureux de la belle acrobate, Cl\u00e9op\u00e2tre. Cette derni\u00e8re ayant appris que Hans a fait un riche h\u00e9ritage, elle accepte de l'\u00e9pouser tout en pr\u00e9voyant de s'en d\u00e9barrasser quand elle aura mis la main sur ses biens, mais les cr\u00e9atures du cirque d\u00e9couvrent sa vraie nature et son m\u00e9pris. Leur vengeance sera terrifiante.",
-            "popularity": 4.1758,
+            "popularity": 3.2262,
             "poster_path": "/j5Yi9gn1xDHa7QdLRFMYnxylFM.jpg",
             "release_date": "1932-01-01",
             "title": "Freaks, la monstrueuse parade",
@@ -566,8 +566,8 @@
                 "Drame",
                 "Horreur"
             ],
-            "runtime": 64,
-            "tagline": "La parade des monstres va commencer !"
+            "tagline": "La parade des monstres va commencer !",
+            "runtime": 64
         },
         {
             "adult": false,
@@ -576,18 +576,18 @@
             "original_language": "ja",
             "original_title": "\u9b3c\u5a46",
             "overview": "Une vieille femme et sa bru survivent en assassinant et depouillant les soldats qui s'aventurent dans les marais environnants.",
-            "popularity": 1.9406,
+            "popularity": 2.5176,
             "poster_path": "/oCk2BiBzgpQGKe2eA01RH9B9k4K.jpg",
             "release_date": "1964-11-21",
             "title": "Onibaba",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 456,
+            "vote_average": 7.673,
+            "vote_count": 457,
             "genres": [
                 "Horreur"
             ],
-            "runtime": 103,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -596,19 +596,19 @@
             "original_language": "en",
             "original_title": "Halloween",
             "overview": "Il y a 15 ans, dans une petite ville des \u00c9tats-Unis, le soir d\u2019Halloween, au cours de laquelle les enfants ont l\u2019habitude de se d\u00e9guiser, un petit gar\u00e7on, Michael, \u00e9pie sa s\u0153ur et son ami qui flirtent. Michael les suit et, arm\u00e9 d\u2019un couteau de cuisine, assassine la jeune fille. Quinze ans plus tard, un psychiatre, le docteur Loomis qui \u00e9tudie le cas du jeune meurtrier apprend que le criminel s\u2019est \u00e9chapp\u00e9 : il est revenu sur les lieux de son crime pour continuer son \u0153uvre\u2026",
-            "popularity": 6.9786,
+            "popularity": 7.4179,
             "poster_path": "/r1ME6ZFxmZ6vFYqt9PHepiIb1t.jpg",
             "release_date": "1978-10-24",
             "title": "La Nuit des masques",
             "video": false,
             "vote_average": 7.556,
-            "vote_count": 6020,
+            "vote_count": 6021,
             "genres": [
                 "Horreur",
                 "Thriller"
             ],
-            "runtime": 91,
-            "tagline": "Cette nuit l\u00e0, \u00ab il \u00bb est revenu\u2026"
+            "tagline": "Cette nuit l\u00e0, \u00ab il \u00bb est revenu\u2026",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -617,7 +617,7 @@
             "original_language": "en",
             "original_title": "Frankenstein",
             "overview": "Le jeune savant Henry Frankenstein parvient, \u00e0 partir de restes humains assembl\u00e9s, \u00e0 donner vie \u00e0 une cr\u00e9ature.",
-            "popularity": 2.4637,
+            "popularity": 2.2822,
             "poster_path": "/o3p5T0xj5PYTyXz57yYSBzY7HRE.jpg",
             "release_date": "1931-11-21",
             "title": "Frankenstein",
@@ -629,8 +629,8 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 70,
-            "tagline": "L'homme qui cr\u00e9a un monstre."
+            "tagline": "L'homme qui cr\u00e9a un monstre.",
+            "runtime": 70
         },
         {
             "adult": false,
@@ -639,20 +639,20 @@
             "original_language": "en",
             "original_title": "Evil Dead II",
             "overview": "Dans un chalet qui semble abandonn\u00e9, Ash et Annie d\u00e9couvrent un magn\u00e9tophone. Ils le mettent en route et entendent la voix du Professeur Knoby qui a r\u00e9ussi \u00e0 traduire le livre des morts. Mais ses paroles r\u00e9veillent l\u2019Esprit du Mal. Annie dispara\u00eet. Ash est poursuivi par une force \u00e9trange. A son r\u00e9veil, il est poss\u00e9d\u00e9 par le Mal, mais au lever du soleil, retrouve son apparence normale. Il cherche en vain \u00e0 s\u2019enfuir et se r\u00e9fugie \u00e0 nouveau dans le chalet. Des spectres hideux s\u2019en prennent \u00e0 lui\u2026",
-            "popularity": 3.4365,
+            "popularity": 3.7737,
             "poster_path": "/b3t9SIfnsiDZasS2jVklsCMw3ZM.jpg",
             "release_date": "1987-03-13",
             "title": "Evil Dead 2",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 3370,
+            "vote_average": 7.543,
+            "vote_count": 3371,
             "genres": [
                 "Horreur",
                 "Com\u00e9die",
                 "Fantastique"
             ],
-            "runtime": 85,
-            "tagline": "La suite de l\u2019exp\u00e9rience ultime d\u2019une terreur atroce"
+            "tagline": "La suite de l\u2019exp\u00e9rience ultime d\u2019une terreur atroce",
+            "runtime": 85
         },
         {
             "adult": false,
@@ -661,7 +661,7 @@
             "original_language": "ja",
             "original_title": "\u30b4\u30b8\u30e9-1.0",
             "overview": "La guerre est finie, mais le combat est loin d'\u00eatre termin\u00e9 pour Shikishima, pilote rong\u00e9 par la culpabilit\u00e9. Peut-il se pardonner et aider \u00e0 sauver le Japon de la furie de Godzilla ?",
-            "popularity": 9.5211,
+            "popularity": 9.5837,
             "poster_path": "/tBzOqSc51CiUeOlxW2unvYVBU8v.jpg",
             "release_date": "2023-11-03",
             "title": "Godzilla Minus One",
@@ -673,30 +673,8 @@
                 "Horreur",
                 "Action"
             ],
-            "runtime": 125,
-            "tagline": "Le Japon d'apr\u00e8s-guerre. De z\u00e9ro \u00e0 moins un."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6sipzSCPO2jgxmvDGsPRuzsFvyE.jpg",
-            "id": 11549,
-            "original_language": "en",
-            "original_title": "Invasion of the Body Snatchers",
-            "overview": "Des habitants d'une petite ville des \u00c9tats-Unis sont victimes d'une \u00e9trange psychose et pr\u00e9tendent que des membres de leur famille ou leurs amis ont \u00e9t\u00e9 d\u00e9poss\u00e9d\u00e9s de leur identit\u00e9\u2026",
-            "popularity": 1.4985,
-            "poster_path": "/bDglRNfzrYmriSjAU8Ry0kjYkfF.jpg",
-            "release_date": "1956-02-05",
-            "title": "L'Invasion des profanateurs de s\u00e9pultures",
-            "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1153,
-            "genres": [
-                "Science-Fiction",
-                "Horreur",
-                "Thriller"
-            ],
-            "runtime": 80,
-            "tagline": "Il n'y avait rien \u00e0 quoi se raccrocher, sauf l'un \u00e0 l'autre."
+            "tagline": "Le Japon d'apr\u00e8s-guerre. De z\u00e9ro \u00e0 moins un.",
+            "runtime": 125
         },
         {
             "adult": false,
@@ -705,7 +683,7 @@
             "original_language": "en",
             "original_title": "The Innocents",
             "overview": "A la fin du XIXe si\u00e8cle, Miss Giddens, une jeune institutrice, est charg\u00e9e d'\u00e9duquer Flora et Miles, deux enfants, dans un vieux manoir. Elle d\u00e9couvre bient\u00f4t que ces derniers sont tourment\u00e9s par les fant\u00f4mes de deux personnes d\u00e9c\u00e9d\u00e9es quelque temps auparavant.....",
-            "popularity": 1.0645,
+            "popularity": 1.0298,
             "poster_path": "/yqJ60LKVabLywGzFJVZWz0PZrmT.jpg",
             "release_date": "1961-11-24",
             "title": "Les Innocents",
@@ -717,8 +695,30 @@
                 "Myst\u00e8re",
                 "Drame"
             ],
-            "runtime": 100,
-            "tagline": "Apparitions ? Fant\u00f4mes ? Possessions ?"
+            "tagline": "Apparitions ? Fant\u00f4mes ? Possessions ?",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6sipzSCPO2jgxmvDGsPRuzsFvyE.jpg",
+            "id": 11549,
+            "original_language": "en",
+            "original_title": "Invasion of the Body Snatchers",
+            "overview": "Des habitants d'une petite ville des \u00c9tats-Unis sont victimes d'une \u00e9trange psychose et pr\u00e9tendent que des membres de leur famille ou leurs amis ont \u00e9t\u00e9 d\u00e9poss\u00e9d\u00e9s de leur identit\u00e9\u2026",
+            "popularity": 1.8052,
+            "poster_path": "/bDglRNfzrYmriSjAU8Ry0kjYkfF.jpg",
+            "release_date": "1956-02-05",
+            "title": "L'Invasion des profanateurs de s\u00e9pultures",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1153,
+            "genres": [
+                "Science-Fiction",
+                "Horreur",
+                "Thriller"
+            ],
+            "tagline": "Il n'y avait rien \u00e0 quoi se raccrocher, sauf l'un \u00e0 l'autre.",
+            "runtime": 80
         },
         {
             "adult": false,
@@ -727,12 +727,12 @@
             "original_language": "ja",
             "original_title": "\u5438\u8840\u9b3c\u30cf\u30f3\u30bf\u30fcD \u30d6\u30e9\u30c3\u30c9\u30e9\u30b9\u30c8",
             "overview": "N\u00e9 d'une m\u00e8re humaine et d'un p\u00e8re vampire, D vit entre lumi\u00e8re et t\u00e9n\u00e8bres dans un monde au bord de l'ab\u00eeme. C'est le pire qu'il tente d'emp\u00eacher en se lan\u00e7ant sur la trace de Charlotte Elbourne, une jeune femme kidnapp\u00e9e par Meier Link, un puissant vampire que traque \u00e9galement le clan Markus. Mais, autant D que les Markus s'engagent au-del\u00e0 de Meier Link, \u00e0 affronter un adversaire nettement plus redoutable encore, la comtesse Carmilla qui, depuis son tombeau, attend que le sang d'une vierge la ram\u00e8ne \u00e0 la vie.",
-            "popularity": 3.7157,
+            "popularity": 3.1716,
             "poster_path": "/l2FyMofnCYoALX8GZ9L9hdH0fEM.jpg",
             "release_date": "2001-04-21",
             "title": "Vampire Hunter D: Bloodlust",
             "video": false,
-            "vote_average": 7.648,
+            "vote_average": 7.6,
             "vote_count": 755,
             "genres": [
                 "Animation",
@@ -742,30 +742,8 @@
                 "Aventure",
                 "Science-Fiction"
             ],
-            "runtime": 103,
-            "tagline": "Lorsque le soleil se couche, la chasse commence."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
-            "id": 40149,
-            "original_language": "ja",
-            "original_title": "\u85ea\u306e\u4e2d\u306e\u9ed2\u732b",
-            "overview": "Une femme et sa belle fille sont viol\u00e9es et tu\u00e9es par un groupe de samoura\u00efs. Ivres de vengeance, elles renaissent sous la forme d'esprits chats et jurent de tuer tous les samoura\u00efs. Jusqu'au jour o\u00f9 leur victime d\u00e9sign\u00e9e est le fils de la femme, et donc mari de la jeune femme, revenu de la guerre.",
-            "popularity": 1.4942,
-            "poster_path": "/zP5t84YSQe9pOggFxtWIQJc3GNw.jpg",
-            "release_date": "1968-02-24",
-            "title": "Kuroneko",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 223,
-            "genres": [
-                "Drame",
-                "Fantastique",
-                "Horreur"
-            ],
-            "runtime": 100,
-            "tagline": "M\u00e9fiez-vous des femmes hant\u00e9es qui r\u00f4dent dans la for\u00eat de bambous comme des chats noirs assoiff\u00e9s du sang des samoura\u00efs !"
+            "tagline": "Lorsque le soleil se couche, la chasse commence.",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -774,7 +752,7 @@
             "original_language": "en",
             "original_title": "The Unknown",
             "overview": "Le lanceur de couteaux Alonzo travaille dans un cirque sous le nom de sc\u00e8ne de l'\u00ab Homme sans bras \u00bb. En r\u00e9alit\u00e9, il a toujours ses bras mais les dissimule pour donner plus d'effet \u00e0 son num\u00e9ro. Estrellita, sa partenaire, ne supporte pas les mains des hommes. Par amour pour elle, mais aussi pour \u00e9chapper \u00e0 la police, Alonzo d\u00e9cide de se faire r\u00e9ellement amputer des deux bras. Apr\u00e8s l'op\u00e9ration, il d\u00e9couvre que la jeune fille, gu\u00e9rie de sa peur, aime son rival, Malabar, dont elle est devenue la partenaire. D\u00e9sesp\u00e9r\u00e9, Alonzo tentera de le tuer lors de leur premier num\u00e9ro...",
-            "popularity": 2.6655,
+            "popularity": 2.2465,
             "poster_path": "/nNCuCi3DDJIkrvu6G8FXZf2IO14.jpg",
             "release_date": "1927-05-29",
             "title": "L'Inconnu",
@@ -786,8 +764,30 @@
                 "Romance",
                 "Horreur"
             ],
-            "runtime": 65,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
+            "id": 40149,
+            "original_language": "ja",
+            "original_title": "\u85ea\u306e\u4e2d\u306e\u9ed2\u732b",
+            "overview": "Une femme et sa belle fille sont viol\u00e9es et tu\u00e9es par un groupe de samoura\u00efs. Ivres de vengeance, elles renaissent sous la forme d'esprits chats et jurent de tuer tous les samoura\u00efs. Jusqu'au jour o\u00f9 leur victime d\u00e9sign\u00e9e est le fils de la femme, et donc mari de la jeune femme, revenu de la guerre.",
+            "popularity": 1.4779,
+            "poster_path": "/zP5t84YSQe9pOggFxtWIQJc3GNw.jpg",
+            "release_date": "1968-02-24",
+            "title": "Kuroneko",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 223,
+            "genres": [
+                "Drame",
+                "Fantastique",
+                "Horreur"
+            ],
+            "tagline": "M\u00e9fiez-vous des femmes hant\u00e9es qui r\u00f4dent dans la for\u00eat de bambous comme des chats noirs assoiff\u00e9s du sang des samoura\u00efs !",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -796,20 +796,20 @@
             "original_language": "en",
             "original_title": "Sinners",
             "overview": "Alors qu\u2019ils cherchent \u00e0 s\u2019affranchir d\u2019un lourd pass\u00e9, deux fr\u00e8res jumeaux reviennent dans leur ville natale pour repartir \u00e0 z\u00e9ro. Mais ils comprennent qu\u2019une puissance mal\u00e9fique bien plus redoutable guette leur retour avec impatience.",
-            "popularity": 38.3422,
+            "popularity": 36.7783,
             "poster_path": "/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
             "release_date": "2025-04-16",
             "title": "Sinners",
             "video": false,
-            "vote_average": 7.498,
-            "vote_count": 3195,
+            "vote_average": 7.499,
+            "vote_count": 3197,
             "genres": [
                 "Horreur",
                 "Action",
                 "Thriller"
             ],
-            "runtime": 138,
-            "tagline": "Une nuit pour survivre."
+            "tagline": "Une nuit pour survivre.",
+            "runtime": 138
         },
         {
             "adult": false,
@@ -818,20 +818,20 @@
             "original_language": "en",
             "original_title": "American Psycho",
             "overview": "Au c\u0153ur des ann\u00e9es Reagan, Patrick Bateman est un pur produit de la r\u00e9ussite am\u00e9ricaine. Jeune, riche, il est un de ces golden boys qui triomphent \u00e0 la bourse. Seul le nec plus ultra est digne de lui et il s'emploie \u00e0 ne retrouver que des symboles qui lui renvoient une image de succ\u00e8s. Il accumule, avec une obsession maladive, les v\u00eatements de luxe, les relations enviables. Son v\u0153u le plus cher est de se fondre dans cette foule, de trouver sa place au milieu de ceux auxquels il s'identifie.",
-            "popularity": 10.7379,
+            "popularity": 10.0876,
             "poster_path": "/2DWqsx0vafGcfytSIwhtL5nI1uV.jpg",
             "release_date": "2000-01-21",
             "title": "American Psycho",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 11864,
+            "vote_average": 7.407,
+            "vote_count": 11865,
             "genres": [
                 "Thriller",
                 "Drame",
                 "Crime"
             ],
-            "runtime": 101,
-            "tagline": "Golden Boy le jour, serial killer la nuit."
+            "tagline": "Golden Boy le jour, serial killer la nuit.",
+            "runtime": 101
         },
         {
             "adult": false,
@@ -840,7 +840,7 @@
             "original_language": "en",
             "original_title": "The Others",
             "overview": "En 1945, la Seconde Guerre mondiale est termin\u00e9e mais le mari de Grace, parti combattre, n'est pas revenu du front. Dans une immense demeure victorienne isol\u00e9e sur l'\u00eele de Jersey, cette jeune femme pieuse \u00e9l\u00e8ve seule ses deux enfants, Anne et Nicholas, selon les principes stricts de sa religion. Atteints d'un mal \u00e9trange, ces derniers ne peuvent \u00eatre expos\u00e9s \u00e0 la lumi\u00e8re du jour. Ils vivent donc reclus dans ce manoir qui doit constamment rester dans l'obscurit\u00e9. Lorsque trois nouveaux domestiques viennent habiter avec Grace et ses enfants, ils doivent se plier \u00e0 une r\u00e8gle vitale : aucune porte ne doit \u00eatre ouverte avant que la pr\u00e9c\u00e9dente n'ait \u00e9t\u00e9 ferm\u00e9e. Pourtant, quelqu'un va d\u00e9sob\u00e9ir \u00e0 cet ordre. D\u00e8s lors, Grace, ses enfants et tous ceux qui les entourent devront en subir les cons\u00e9quences.",
-            "popularity": 4.8355,
+            "popularity": 4.8993,
             "poster_path": "/avGVh36bjnw88tDFV41N6Hodybl.jpg",
             "release_date": "2001-08-02",
             "title": "Les Autres",
@@ -852,8 +852,8 @@
                 "Myst\u00e8re",
                 "Thriller"
             ],
-            "runtime": 104,
-            "tagline": "T\u00f4t ou tard, ils vous trouveront\u2026"
+            "tagline": "T\u00f4t ou tard, ils vous trouveront\u2026",
+            "runtime": 104
         },
         {
             "adult": false,
@@ -862,7 +862,7 @@
             "original_language": "en",
             "original_title": "Saw",
             "overview": "Deux hommes se r\u00e9veillent encha\u00een\u00e9s au mur d\u2019une salle de bains. Ils ignorent o\u00f9 ils sont et ne se connaissent pas. Ils savent juste que l\u2019un doit absolument tuer l\u2019autre, sinon dans moins de huit heures, ils seront ex\u00e9cut\u00e9s tous les deux\u2026 Voici l\u2019une des situations imagin\u00e9es par un machiav\u00e9lique ma\u00eetre criminel qui impose \u00e0 ses victimes des choix auxquels personne ne souhaite jamais \u00eatre confront\u00e9 un jour. Un d\u00e9tective est charg\u00e9 de l\u2019enqu\u00eate\u2026",
-            "popularity": 9.087,
+            "popularity": 8.9156,
             "poster_path": "/3fhUaMnlY72GGuBlzEeKA4brZAb.jpg",
             "release_date": "2004-10-01",
             "title": "Saw",
@@ -874,8 +874,8 @@
                 "Myst\u00e8re",
                 "Crime"
             ],
-            "runtime": 103,
-            "tagline": "Chaque meurtre est une pi\u00e8ce du puzzle"
+            "tagline": "Chaque meurtre est une pi\u00e8ce du puzzle",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -884,7 +884,7 @@
             "original_language": "ko",
             "original_title": "\ubd80\uc0b0\ud589",
             "overview": "Tandis qu'un virus qui transforme tous les \u00eatres vivants en zombies ravage la Cor\u00e9e du Sud, un p\u00e8re et sa fille tentent de survivre dans le dernier train pour Busan, l'unique ville \u00e0 n'avoir pas encore \u00e9t\u00e9 contamin\u00e9e.",
-            "popularity": 13.9882,
+            "popularity": 14.0319,
             "poster_path": "/9FiRluXOwGJZhb1BPSvJYO7SB7y.jpg",
             "release_date": "2016-07-20",
             "title": "Dernier train pour Busan",
@@ -897,8 +897,29 @@
                 "Action",
                 "Aventure"
             ],
-            "runtime": 118,
-            "tagline": "Pour rester en vie, montez \u00e0 bord."
+            "tagline": "Pour rester en vie, montez \u00e0 bord.",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+            "id": 9426,
+            "original_language": "en",
+            "original_title": "The Fly",
+            "overview": "Seth Brundle est un jeune biologiste tr\u00e8s dou\u00e9. Apr\u00e8s avoir fait ses premi\u00e8res armes dans une brillante \u00e9quipe, il se d\u00e9cide \u00e0 travailler seul. Il met au point une invention qui doit r\u00e9volutionner le monde : la \"t\u00e9l\u00e9portation\" qui consiste \u00e0 transporter la mati\u00e8re \u00e0 travers l'espace. Les essais sur un babouin sont peu convaincants et apr\u00e8s des fuites dans la presse, il d\u00e9cide de se t\u00e9l\u00e9porter lui-m\u00eame. Seulement il ne s'apercoit pas qu'une mouche fait partie du voyage.",
+            "popularity": 5.2504,
+            "poster_path": "/3fJYY3dEbIT9D7DMnUUkeKk1hMA.jpg",
+            "release_date": "1986-08-15",
+            "title": "La Mouche",
+            "video": false,
+            "vote_average": 7.425,
+            "vote_count": 4791,
+            "genres": [
+                "Horreur",
+                "Science-Fiction"
+            ],
+            "tagline": "Ayez peur. Tr\u00e8s peur.",
+            "runtime": 96
         },
         {
             "adult": false,
@@ -907,19 +928,19 @@
             "original_language": "en",
             "original_title": "What We Do in the Shadows",
             "overview": "Les vampires Viago (379 ans), Deacon (183 ans), Vladislav (862 ans) et Peter (8 000 ans) partagent un appartement \u00e0 Wellington, en Nouvelle-Z\u00e9lande. Malheureusement pour eux, et \u00e0 cause de leur irr\u00e9pressible besoin de s\u2019alimenter en sang, ils ont du mal \u00e0 se faire des amis ou \u00e0 maintenir en vie des relations qui leur permettraient de fr\u00e9quenter les \u00e9tablissements branch\u00e9s de la ville. Sans vie sociale, ces cr\u00e9atures de la nuit arriveront-elles \u00e0 surmonter leurs diff\u00e9rences et s\u2019adapter ainsi au monde moderne ?",
-            "popularity": 2.8391,
+            "popularity": 3.0551,
             "poster_path": "/roTYpIqLlzrGcGCEit4tNhKKMdw.jpg",
             "release_date": "2014-06-19",
             "title": "Vampires en toute intimit\u00e9",
             "video": false,
             "vote_average": 7.553,
-            "vote_count": 3800,
+            "vote_count": 3801,
             "genres": [
                 "Com\u00e9die",
                 "Horreur"
             ],
-            "runtime": 82,
-            "tagline": "Dans l'ombre de l'obscurit\u00e9 de la nuit"
+            "tagline": "Dans l'ombre de l'obscurit\u00e9 de la nuit",
+            "runtime": 82
         },
         {
             "adult": false,
@@ -928,7 +949,7 @@
             "original_language": "en",
             "original_title": "The Birds",
             "overview": "Melanie, jeune femme quelque peu superficielle, rencontre chez un marchand d'oiseaux un brillant et s\u00e9duisant avocat qui recherche des ins\u00e9parables. Par jeu, Melanie ach\u00e8te les oiseaux et les apporte \u00e0 Bodega Bay. D\u00e8s son arriv\u00e9e, elle est bless\u00e9e au front par une mouette...",
-            "popularity": 6.5224,
+            "popularity": 6.0339,
             "poster_path": "/pIc5nX1neiJ38R7b4e8PKqvxbkD.jpg",
             "release_date": "1963-03-28",
             "title": "Les Oiseaux",
@@ -939,29 +960,8 @@
                 "Horreur",
                 "Thriller"
             ],
-            "runtime": 120,
-            "tagline": "Le prochain cri que vous entendrez pourrait \u00eatre le v\u00f4tre !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
-            "id": 9426,
-            "original_language": "en",
-            "original_title": "The Fly",
-            "overview": "Seth Brundle est un jeune biologiste tr\u00e8s dou\u00e9. Apr\u00e8s avoir fait ses premi\u00e8res armes dans une brillante \u00e9quipe, il se d\u00e9cide \u00e0 travailler seul. Il met au point une invention qui doit r\u00e9volutionner le monde : la \"t\u00e9l\u00e9portation\" qui consiste \u00e0 transporter la mati\u00e8re \u00e0 travers l'espace. Les essais sur un babouin sont peu convaincants et apr\u00e8s des fuites dans la presse, il d\u00e9cide de se t\u00e9l\u00e9porter lui-m\u00eame. Seulement il ne s'apercoit pas qu'une mouche fait partie du voyage.",
-            "popularity": 5.1774,
-            "poster_path": "/3fJYY3dEbIT9D7DMnUUkeKk1hMA.jpg",
-            "release_date": "1986-08-15",
-            "title": "La Mouche",
-            "video": false,
-            "vote_average": 7.425,
-            "vote_count": 4790,
-            "genres": [
-                "Horreur",
-                "Science-Fiction"
-            ],
-            "runtime": 96,
-            "tagline": "Ayez peur. Tr\u00e8s peur."
+            "tagline": "Le prochain cri que vous entendrez pourrait \u00eatre le v\u00f4tre !",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -970,7 +970,7 @@
             "original_language": "en",
             "original_title": "The Invisible Man",
             "overview": "Jack Griffin, un scientifique, a trouv\u00e9 le moyen de devenir invisible. Soucieux de trouver la formule qui lui permettra un retour \u00e0 la normale avant d'annoncer sa d\u00e9couverte, il s'enroule le visage de bandeaux et se retire dans l'auberge d'un village isol\u00e9. Son aspect \u00e9trange ainsi que son comportement attirent la curiosit\u00e9 des gens et l'emp\u00eachent de travailler. Agac\u00e9, Griffin cherche \u00e0 effrayer les villageois et se sert de son pouvoir \u00e0 des fins de plus en plus malintentionn\u00e9es...",
-            "popularity": 2.0512,
+            "popularity": 2.0648,
             "poster_path": "/c2Ci87wMcehA555tEtqu64GDJk6.jpg",
             "release_date": "1933-10-31",
             "title": "L'Homme invisible",
@@ -981,74 +981,8 @@
                 "Horreur",
                 "Science-Fiction"
             ],
-            "runtime": 71,
-            "tagline": "CARL LAEMMLE pr\u00e9sente la sensation fantastique de H. G. WELLS"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
-            "id": 11167,
-            "original_language": "en",
-            "original_title": "Peeping Tom",
-            "overview": "Mark Lewis est un solitaire, passionn\u00e9 d'image jusqu'\u00e0 l'obsession. Op\u00e9rateur sur un plateau de tournage, il fait aussi des extras comme photographe de charme au-dessus d'un marchand de journaux qui vend ses compositions sous le manteau. Son appartement comprend un immense laboratoire rempli de mat\u00e9riels, appareils, chimie. L\u00e0, il d\u00e9veloppe et visionne seul, ses propres films. La cam\u00e9ra toujours \u00e0 port\u00e9e de main, Mark Lewis dit tourner un documentaire mais il s'emploie \u00e0 une d\u00e9marche plus insolite et surtout beaucoup plus morbide....",
-            "popularity": 1.5855,
-            "poster_path": "/3JQwrZeTmJRZi0P7xAJUF7heXTI.jpg",
-            "release_date": "1960-04-07",
-            "title": "Le Voyeur",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 871,
-            "genres": [
-                "Horreur",
-                "Thriller",
-                "Drame"
-            ],
-            "runtime": 100,
-            "tagline": "Qu'est-ce qui en a fait l'arme meurtri\u00e8re la plus diabolique jamais utilis\u00e9e?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
-            "id": 11481,
-            "original_language": "en",
-            "original_title": "Repulsion",
-            "overview": "Une jeune manucure belge, Carole, travaille et vit \u00e0 Londres avec sa s\u0153ur H\u00e9l\u00e8ne. Carole, introvertie, a des probl\u00e8mes relationnels avec les hommes. Elle repousse Colin, qui la courtise et n\u2019appr\u00e9cie pas Michael, l\u2019amant de sa s\u0153ur. Quand celle-ci part avec Michael, Carole sombre progressivement dans la n\u00e9vrose. Recluse, elle bascule dans la schizophr\u00e9nie, et devient hant\u00e9e par des bruits\u2026",
-            "popularity": 2.8005,
-            "poster_path": "/em67mEr1MbB7PLwbt4aVapTQNlW.jpg",
-            "release_date": "1965-06-01",
-            "title": "R\u00e9pulsion",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 1067,
-            "genres": [
-                "Drame",
-                "Thriller",
-                "Horreur"
-            ],
-            "runtime": 105,
-            "tagline": "Le monde cauchemardesque des r\u00eaves d'une vierge devient la r\u00e9alit\u00e9 choquante de l'\u00e9cran !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
-            "id": 513434,
-            "original_language": "ja",
-            "original_title": "\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a\uff01",
-            "overview": "\u00ab Mais c'est impossible ! \u00bb s'\u00e9crie le r\u00e9alisateur Higurashi (Takayumi Hamatsu) quand on lui propose de r\u00e9aliser un film de zombies sans budget, en un seul plan-s\u00e9quence et pour une diffusion en direct. Le court-m\u00e9trage de 37 minutes qui en r\u00e9sulte est effectivement bien d\u00e9cevant, les acteurs jouent mal, les d\u00e9cors sont sans int\u00e9r\u00eat et en plus la cam\u00e9ra tremble. Mais tout commence r\u00e9ellement apr\u00e8s le court-m\u00e9trage : transport\u00e9 un mois auparavant, le spectateur d\u00e9couvre alors le film sous un nouvel angle en suivant les coulisses de la production, depuis le moment o\u00f9 la cha\u00eene de t\u00e9l\u00e9vision a propos\u00e9 au r\u00e9alisateur ce projet impossible jusqu'au tournage du film.",
-            "popularity": 2.2488,
-            "poster_path": "/F4Q51FOzRygYCw9fKRVyzvqatn.jpg",
-            "release_date": "2017-11-04",
-            "title": "Ne coupez pas !",
-            "video": false,
-            "vote_average": 7.628,
-            "vote_count": 941,
-            "genres": [
-                "Com\u00e9die",
-                "Horreur",
-                "Drame"
-            ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "CARL LAEMMLE pr\u00e9sente la sensation fantastique de H. G. WELLS",
+            "runtime": 71
         },
         {
             "adult": false,
@@ -1057,7 +991,7 @@
             "original_language": "fr",
             "original_title": "Les Yeux sans visage",
             "overview": "Le professeur G\u00e9nessier, c\u00e9l\u00e8bre chirurgien sp\u00e9cialis\u00e9 dans les transplantations, est responsable d'un accident de voiture dont sa fille Christiane, qu'il adore, est sortie vivante mais le visage horriblement mutil\u00e9. \u00c0 l'aide d'une assistante d\u00e9vou\u00e9e, il attire des jeunes filles dans son pavillon-laboratoire, pour pr\u00e9lever la peau de leur visage et l'appliquer sur les plaies de sa fille. Une op\u00e9ration si difficile que G\u00e9nessier est oblig\u00e9 de la r\u00e9p\u00e9ter r\u00e9guli\u00e8rement, apr\u00e8s chaque \u00e9chec des greffons. Christiane, un masque sur le visage, ne se doute encore de rien...",
-            "popularity": 1.0768,
+            "popularity": 1.3708,
             "poster_path": "/wDXPNt695ZvQ8GA9pOCL3W9Ss51.jpg",
             "release_date": "1960-01-11",
             "title": "Les Yeux sans visage",
@@ -1069,8 +1003,74 @@
                 "Horreur",
                 "Thriller"
             ],
-            "runtime": 90,
-            "tagline": "De belles femmes ont \u00e9t\u00e9 les victimes de ses soins du visage diaboliques."
+            "tagline": "De belles femmes ont \u00e9t\u00e9 les victimes de ses soins du visage diaboliques.",
+            "runtime": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+            "id": 11167,
+            "original_language": "en",
+            "original_title": "Peeping Tom",
+            "overview": "Mark Lewis est un solitaire, passionn\u00e9 d'image jusqu'\u00e0 l'obsession. Op\u00e9rateur sur un plateau de tournage, il fait aussi des extras comme photographe de charme au-dessus d'un marchand de journaux qui vend ses compositions sous le manteau. Son appartement comprend un immense laboratoire rempli de mat\u00e9riels, appareils, chimie. L\u00e0, il d\u00e9veloppe et visionne seul, ses propres films. La cam\u00e9ra toujours \u00e0 port\u00e9e de main, Mark Lewis dit tourner un documentaire mais il s'emploie \u00e0 une d\u00e9marche plus insolite et surtout beaucoup plus morbide....",
+            "popularity": 1.6011,
+            "poster_path": "/3JQwrZeTmJRZi0P7xAJUF7heXTI.jpg",
+            "release_date": "1960-04-07",
+            "title": "Le Voyeur",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 871,
+            "genres": [
+                "Horreur",
+                "Thriller",
+                "Drame"
+            ],
+            "tagline": "Qu'est-ce qui en a fait l'arme meurtri\u00e8re la plus diabolique jamais utilis\u00e9e?",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+            "id": 513434,
+            "original_language": "ja",
+            "original_title": "\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a\uff01",
+            "overview": "\u00ab Mais c'est impossible ! \u00bb s'\u00e9crie le r\u00e9alisateur Higurashi (Takayumi Hamatsu) quand on lui propose de r\u00e9aliser un film de zombies sans budget, en un seul plan-s\u00e9quence et pour une diffusion en direct. Le court-m\u00e9trage de 37 minutes qui en r\u00e9sulte est effectivement bien d\u00e9cevant, les acteurs jouent mal, les d\u00e9cors sont sans int\u00e9r\u00eat et en plus la cam\u00e9ra tremble. Mais tout commence r\u00e9ellement apr\u00e8s le court-m\u00e9trage : transport\u00e9 un mois auparavant, le spectateur d\u00e9couvre alors le film sous un nouvel angle en suivant les coulisses de la production, depuis le moment o\u00f9 la cha\u00eene de t\u00e9l\u00e9vision a propos\u00e9 au r\u00e9alisateur ce projet impossible jusqu'au tournage du film.",
+            "popularity": 2.2754,
+            "poster_path": "/F4Q51FOzRygYCw9fKRVyzvqatn.jpg",
+            "release_date": "2017-11-04",
+            "title": "Ne coupez pas !",
+            "video": false,
+            "vote_average": 7.628,
+            "vote_count": 941,
+            "genres": [
+                "Com\u00e9die",
+                "Horreur",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+            "id": 11481,
+            "original_language": "en",
+            "original_title": "Repulsion",
+            "overview": "Une jeune manucure belge, Carole, travaille et vit \u00e0 Londres avec sa s\u0153ur H\u00e9l\u00e8ne. Carole, introvertie, a des probl\u00e8mes relationnels avec les hommes. Elle repousse Colin, qui la courtise et n\u2019appr\u00e9cie pas Michael, l\u2019amant de sa s\u0153ur. Quand celle-ci part avec Michael, Carole sombre progressivement dans la n\u00e9vrose. Recluse, elle bascule dans la schizophr\u00e9nie, et devient hant\u00e9e par des bruits\u2026",
+            "popularity": 2.6251,
+            "poster_path": "/em67mEr1MbB7PLwbt4aVapTQNlW.jpg",
+            "release_date": "1965-06-01",
+            "title": "R\u00e9pulsion",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1067,
+            "genres": [
+                "Drame",
+                "Thriller",
+                "Horreur"
+            ],
+            "tagline": "Le monde cauchemardesque des r\u00eaves d'une vierge devient la r\u00e9alit\u00e9 choquante de l'\u00e9cran !",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -1079,7 +1079,7 @@
             "original_language": "en",
             "original_title": "Dr. Jekyll and Mr. Hyde",
             "overview": "Londres, fin du XIXe si\u00e8cle. Henry Jekyll est un jeune, brillant et charismatique m\u00e9decin dont les th\u00e9ories iconoclastes fascinent ses \u00e9tudiants, m\u00eame si ses confr\u00e8res plus \u00e2g\u00e9s (au premier rang desquels son ami le docteur Lanyon) d\u00e9plorent ses excentricit\u00e9s. C'est ainsi qu'il fait sensation le jour o\u00f9 il annonce, au cours d'une conf\u00e9rence \u00e0 l'universit\u00e9, qu'il a d\u00e9couvert le moyen de s\u00e9parer l'une de l'autre les deux tendances antagonistes pr\u00e9sentes en tout \u00eatre humain : celle qui l'attire vers les aspirations les plus nobles et les plus \u00e9lev\u00e9es, et celle qui le pousse \u00e0 satisfaire les pulsions les plus basses et les plus terrestres.  Jekyll n'en reste pas moins un homme unanimement respect\u00e9 pour son d\u00e9vouement envers les indigents et tendrement aim\u00e9 par sa fianc\u00e9e, Muriel. Mais le p\u00e8re de celle-ci, le g\u00e9n\u00e9ral Carew, voit d'un mauvais \u0153il l'empressement de Jekyll \u00e0 \u00e9pouser sa fille, impatience qu'il juge inconvenante.",
-            "popularity": 0.6945,
+            "popularity": 0.7661,
             "poster_path": "/i5BCdwwQLyWopkyzXBRmVtdxnNP.jpg",
             "release_date": "1931-12-24",
             "title": "Docteur Jekyll et Mr. Hyde",
@@ -1091,8 +1091,8 @@
                 "Science-Fiction",
                 "Drame"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
         }
     ]
 }

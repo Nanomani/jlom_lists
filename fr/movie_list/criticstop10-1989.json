@@ -4,28 +4,91 @@
     "source": "https://criticstop10.com/best-movies-of-1989/",
     "created_by": "lbnt",
     "added": "07/29/25",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/aYPDXxII8VuUkRIylyJmWCfbg4f.jpg",
+            "backdrop_path": "/oYOZay9hyW3uI5paKWLIYkWZlzv.jpg",
+            "id": 925,
+            "original_language": "en",
+            "original_title": "Do the Right Thing",
+            "overview": "\u00c0 Brooklyn, c'est litt\u00e9ralement le jour le plus chaud de l'ann\u00e9e. Mookie, un jeune afro-am\u00e9ricain, est livreur \u00e0 la pizzeria du quartier, tenue par Sal et ses deux fils, d'origine italienne. Chacun vaque \u00e0 ses occupations, mais la chaleur estivale va bient\u00f4t cristalliser les tensions raciales.",
+            "popularity": 2.5621,
+            "poster_path": "/tlu7AwizbRv62kwIfe4E6oi7Z1T.jpg",
+            "release_date": "1989-06-14",
+            "title": "Do the Right Thing",
+            "video": false,
+            "vote_average": 7.771,
+            "vote_count": 1922,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "C'est la journ\u00e9e la plus chaude de l'\u00e9t\u00e9. Vous ne pouvez rien faire, vous pouvez faire quelque chose, ou vous pouvez\u2026",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wD95UmpUazo9820qnbbjRtbQ884.jpg",
             "id": 1412,
             "original_language": "en",
             "original_title": "sex, lies, and videotape",
             "overview": "John et Ann Melaney forment un couple apparemment sans histoires. Mais en v\u00e9rit\u00e9, rien ne va plus entre eux. Ne ressentant plus le besoin de faire l'amour, Ann se refuse \u00e0 son mari. Celui-ci a d\u00e9cid\u00e9 de la d\u00e9laisser pour Cynthia, sa s\u0153ur, une femme au temp\u00e9rament diam\u00e9tralement oppos\u00e9. Un ami de John, Graham Dalton, de retour dans sa ville natale, s'installe pour quelque temps chez les Melaney. Au d\u00e9part, Ann se sent irrit\u00e9e par cet homme au charme \u00e9vident et \u00e0 la franchise inhabituelle. Jusqu'au jour o\u00f9 il lui r\u00e9v\u00e8le son impuissance, ainsi que sa manie d'enregistrer en vid\u00e9o les r\u00e9v\u00e9lations que lui font les femmes au sujet de leur sexualit\u00e9...",
-            "popularity": 2.8652,
+            "popularity": 2.8255,
             "poster_path": "/5HS61VToEcaeAmvBoEUmeaRWyp3.jpg",
             "release_date": "1989-08-04",
             "title": "Sexe, mensonges & vid\u00e9o",
             "video": false,
-            "vote_average": 6.942,
+            "vote_average": 6.9,
             "vote_count": 997,
             "genres": [
                 "Drame"
             ],
-            "runtime": 100,
-            "tagline": "le mari. l\u2019\u00e9pouse. sa s\u0153ur. son ami."
+            "tagline": "le mari. l\u2019\u00e9pouse. sa s\u0153ur. son ami.",
+            "runtime": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDPaSuwaOizRNPitEvNiuY7i6iE.jpg",
+            "id": 11562,
+            "original_language": "en",
+            "original_title": "Crimes and Misdemeanors",
+            "overview": "Un ophtalmologue rencontre par hasard un documentariste. Ensemble, ils vont r\u00e9aliser qu'ils ont commis \u00e0 eux deux \u00e9norm\u00e9ment de crimes et d\u00e9lits.",
+            "popularity": 1.6572,
+            "poster_path": "/yOrnK2uJGIQ4NMJb5d6IwFCLEcd.jpg",
+            "release_date": "1989-10-13",
+            "title": "Crimes et D\u00e9lits",
+            "video": false,
+            "vote_average": 7.411,
+            "vote_count": 925,
+            "genres": [
+                "Com\u00e9die",
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "Un film sur l'humanit\u00e9.",
+            "runtime": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
+            "id": 2323,
+            "original_language": "en",
+            "original_title": "Field of Dreams",
+            "overview": "Ray Kinsella, un fermier de l'Iowa, vit heureux avec sa famille, mais aussi avec beaucoup de dettes. Il a peur de finir comme son p\u00e8re, qui n'a jamais pu aller au bout de ses r\u00eaves. Il veut d\u00e9sormais croire \u00e0 l'impossible, et c'est pourquoi il d\u00e9cide d'\u00e9couter cette voix qui lui dit : Si tu le construis, il viendra....",
+            "popularity": 3.857,
+            "poster_path": "/z6Tla5YkpOpkSLq8Q7se4l5Jwuq.jpg",
+            "release_date": "1989-04-21",
+            "title": "Jusqu'au bout du r\u00eave",
+            "video": false,
+            "vote_average": 7.111,
+            "vote_count": 1615,
+            "genres": [
+                "Drame",
+                "Fantastique"
+            ],
+            "tagline": "Si vous croyez \u00e0 l'impossible, l'incroyable peut se r\u00e9aliser.",
+            "runtime": 102
         },
         {
             "adult": false,
@@ -34,7 +97,7 @@
             "original_language": "en",
             "original_title": "The Fabulous Baker Boys",
             "overview": "Deux fr\u00e8res, obscures pianistes, jouent en duo depuis une trentaine d'ann\u00e9es. Les Fabulous Baker Boys connaissent tous les bars des Etats-Unis et ne se produisent plus que devant un public de plus en plus clairsem\u00e9. C'est alors que surgit dans leur vie Susie Diamond, stup\u00e9fiante beaut\u00e9 qui, denu\u00e9e d'exp\u00e9rience musicale, demande une audition. Les deux fr\u00e8res d\u00e9couvrent une chanteuse accomplie et l'engagent derechef. Ce fatal \"animal\" va bien s\u00fbr bouleverser leur vie...",
-            "popularity": 1.0789,
+            "popularity": 0.9671,
             "poster_path": "/cSZhcp0Qg5uis8V8wUiecI4HgnQ.jpg",
             "release_date": "1989-10-13",
             "title": "Susie et les Baker Boys",
@@ -47,134 +110,8 @@
                 "Musique",
                 "Romance"
             ],
-            "runtime": 113,
-            "tagline": "Pendant 31 ans, ils n'ont \u00e9t\u00e9 que les fabuleux Baker Boys... Mais les temps changent."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
-            "id": 2323,
-            "original_language": "en",
-            "original_title": "Field of Dreams",
-            "overview": "Ray Kinsella, un fermier de l'Iowa, vit heureux avec sa famille, mais aussi avec beaucoup de dettes. Il a peur de finir comme son p\u00e8re, qui n'a jamais pu aller au bout de ses r\u00eaves. Il veut d\u00e9sormais croire \u00e0 l'impossible, et c'est pourquoi il d\u00e9cide d'\u00e9couter cette voix qui lui dit : Si tu le construis, il viendra....",
-            "popularity": 3.5609,
-            "poster_path": "/z6Tla5YkpOpkSLq8Q7se4l5Jwuq.jpg",
-            "release_date": "1989-04-21",
-            "title": "Jusqu'au bout du r\u00eave",
-            "video": false,
-            "vote_average": 7.111,
-            "vote_count": 1615,
-            "genres": [
-                "Drame",
-                "Fantastique"
-            ],
-            "runtime": 102,
-            "tagline": "Si vous croyez \u00e0 l'impossible, l'incroyable peut se r\u00e9aliser."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xDPaSuwaOizRNPitEvNiuY7i6iE.jpg",
-            "id": 11562,
-            "original_language": "en",
-            "original_title": "Crimes and Misdemeanors",
-            "overview": "Un ophtalmologue rencontre par hasard un documentariste. Ensemble, ils vont r\u00e9aliser qu'ils ont commis \u00e0 eux deux \u00e9norm\u00e9ment de crimes et d\u00e9lits.",
-            "popularity": 1.4689,
-            "poster_path": "/yOrnK2uJGIQ4NMJb5d6IwFCLEcd.jpg",
-            "release_date": "1989-10-13",
-            "title": "Crimes et D\u00e9lits",
-            "video": false,
-            "vote_average": 7.411,
-            "vote_count": 925,
-            "genres": [
-                "Com\u00e9die",
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 104,
-            "tagline": "Un film sur l'humanit\u00e9."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zjKg04EquTcnVZUfjHboXnXzjcF.jpg",
-            "id": 10161,
-            "original_language": "en",
-            "original_title": "My Left Foot: The Story of Christy Brown",
-            "overview": "\u00c9vocation de la vie de Christy Brown, peintre et \u00e9crivain, frappe d'une paralysie spasmodique \u00e0 la naissance, d\u2019apr\u00e8s ses M\u00e9moires r\u00e9dig\u00e9s en 1954.",
-            "popularity": 1.8993,
-            "poster_path": "/ovjV6gKLfjQi8Q0LHHWrD2xNK1x.jpg",
-            "release_date": "1989-04-07",
-            "title": "My left foot",
-            "video": false,
-            "vote_average": 7.524,
-            "vote_count": 985,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 103,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1TFrt5rlgbAS7WdHfCp142NPt4s.jpg",
-            "id": 1779,
-            "original_language": "en",
-            "original_title": "Roger & Me",
-            "overview": "Michael Moore relate la suppression de 30 000 emplois dans les usines General Motors dans sa ville natale, Flint dans le Michigan, et leurs cons\u00e9quences sur la population.",
-            "popularity": 1.7744,
-            "poster_path": "/j8SnEd0w1VdU66WeGgrZGjTHBtH.jpg",
-            "release_date": "1989-09-01",
-            "title": "Roger et moi",
-            "video": false,
-            "vote_average": 7.102,
-            "vote_count": 309,
-            "genres": [
-                "Documentaire",
-                "Histoire",
-                "Com\u00e9die"
-            ],
-            "runtime": 91,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oYOZay9hyW3uI5paKWLIYkWZlzv.jpg",
-            "id": 925,
-            "original_language": "en",
-            "original_title": "Do the Right Thing",
-            "overview": "\u00c0 Brooklyn, c'est litt\u00e9ralement le jour le plus chaud de l'ann\u00e9e. Mookie, un jeune afro-am\u00e9ricain, est livreur \u00e0 la pizzeria du quartier, tenue par Sal et ses deux fils, d'origine italienne. Chacun vaque \u00e0 ses occupations, mais la chaleur estivale va bient\u00f4t cristalliser les tensions raciales.",
-            "popularity": 2.1975,
-            "poster_path": "/tlu7AwizbRv62kwIfe4E6oi7Z1T.jpg",
-            "release_date": "1989-06-14",
-            "title": "Do the Right Thing",
-            "video": false,
-            "vote_average": 7.771,
-            "vote_count": 1922,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 120,
-            "tagline": "C'est la journ\u00e9e la plus chaude de l'\u00e9t\u00e9. Vous ne pouvez rien faire, vous pouvez faire quelque chose, ou vous pouvez\u2026"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
-            "id": 476,
-            "original_language": "en",
-            "original_title": "Drugstore Cowboy",
-            "overview": "Une vision hallucinante de l'Am\u00e9rique contemporaine. La descente aux enfers d'un junkie qui devient braqueur pour obtenir de l'argent pour la drogue.",
-            "popularity": 3.2625,
-            "poster_path": "/AcNMOJGaltVDv08Dxrs28SrfqbA.jpg",
-            "release_date": "1989-10-20",
-            "title": "Drugstore Cowboy",
-            "video": false,
-            "vote_average": 7.08,
-            "vote_count": 597,
-            "genres": [
-                "Drame",
-                "Crime"
-            ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "Pendant 31 ans, ils n'ont \u00e9t\u00e9 que les fabuleux Baker Boys... Mais les temps changent.",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -183,7 +120,7 @@
             "original_language": "en",
             "original_title": "Henry V",
             "overview": "1414. Le Roi Henry V d'Angleterre d\u00e9cide de faire valoir ses droits \u00e0 la couronne de France. Il d\u00e9cide alors de mener une bataille contre la France. En cours de route, le jeune roi doit se battre contre la baisse de morale de ses troupes et vaincre ses propres doutes. Une fois sur le sol fran\u00e7ais, les troupes anglaises progressent sans rencontrer de grande r\u00e9sistance et assi\u00e8gent bient\u00f4t Harfleur ...",
-            "popularity": 3.1538,
+            "popularity": 2.5216,
             "poster_path": "/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
             "release_date": "1989-10-05",
             "title": "Henry V",
@@ -195,8 +132,71 @@
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 137,
-            "tagline": "La grande aventure d'un roi qui a d\u00e9fi\u00e9 tous les pronostics pour prouver qu'il \u00e9tait un homme."
+            "tagline": "La grande aventure d'un roi qui a d\u00e9fi\u00e9 tous les pronostics pour prouver qu'il \u00e9tait un homme.",
+            "runtime": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zjKg04EquTcnVZUfjHboXnXzjcF.jpg",
+            "id": 10161,
+            "original_language": "en",
+            "original_title": "My Left Foot: The Story of Christy Brown",
+            "overview": "\u00c9vocation de la vie de Christy Brown, peintre et \u00e9crivain, frappe d'une paralysie spasmodique \u00e0 la naissance, d\u2019apr\u00e8s ses M\u00e9moires r\u00e9dig\u00e9s en 1954.",
+            "popularity": 1.8967,
+            "poster_path": "/ovjV6gKLfjQi8Q0LHHWrD2xNK1x.jpg",
+            "release_date": "1989-04-07",
+            "title": "My left foot",
+            "video": false,
+            "vote_average": 7.524,
+            "vote_count": 985,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1TFrt5rlgbAS7WdHfCp142NPt4s.jpg",
+            "id": 1779,
+            "original_language": "en",
+            "original_title": "Roger & Me",
+            "overview": "Michael Moore relate la suppression de 30 000 emplois dans les usines General Motors dans sa ville natale, Flint dans le Michigan, et leurs cons\u00e9quences sur la population.",
+            "popularity": 1.3007,
+            "poster_path": "/j8SnEd0w1VdU66WeGgrZGjTHBtH.jpg",
+            "release_date": "1989-09-01",
+            "title": "Roger et moi",
+            "video": false,
+            "vote_average": 7.102,
+            "vote_count": 309,
+            "genres": [
+                "Documentaire",
+                "Histoire",
+                "Com\u00e9die"
+            ],
+            "tagline": "",
+            "runtime": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
+            "id": 476,
+            "original_language": "en",
+            "original_title": "Drugstore Cowboy",
+            "overview": "Une vision hallucinante de l'Am\u00e9rique contemporaine. La descente aux enfers d'un junkie qui devient braqueur pour obtenir de l'argent pour la drogue.",
+            "popularity": 3.0284,
+            "poster_path": "/AcNMOJGaltVDv08Dxrs28SrfqbA.jpg",
+            "release_date": "1989-10-20",
+            "title": "Drugstore Cowboy",
+            "video": false,
+            "vote_average": 7.08,
+            "vote_count": 597,
+            "genres": [
+                "Drame",
+                "Crime"
+            ],
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -205,20 +205,20 @@
             "original_language": "en",
             "original_title": "The Little Mermaid",
             "overview": "Ariel, une sir\u00e8ne fascin\u00e9e par l'univers des humains, d\u00e9fie l'interdiction de son p\u00e8re de rester sous la surface. Lors d'une temp\u00eate, elle sauve le prince de ses r\u00eaves. Elle conclut un pacte avec la sorci\u00e8re des mers : des jambes en \u00e9change de sa queue de sir\u00e8ne et de sa jolie voix. Ariel entame une course contre la montre pour conqu\u00e9rir le c\u0153ur de son prince et sauver le royaume de son p\u00e8re.",
-            "popularity": 10.8918,
+            "popularity": 10.8022,
             "poster_path": "/mNUCr8XjBjMqe9N51fp3NtMuuUX.jpg",
             "release_date": "1989-11-17",
             "title": "La Petite Sir\u00e8ne",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 8249,
+            "vote_average": 7.352,
+            "vote_count": 8250,
             "genres": [
                 "Animation",
                 "Familial",
                 "Fantastique"
             ],
-            "runtime": 83,
-            "tagline": "Il \u00e9tait une fois un royaume sous les oc\u00e9ans\u2026"
+            "tagline": "Il \u00e9tait une fois un royaume sous les oc\u00e9ans\u2026",
+            "runtime": 83
         },
         {
             "adult": false,
@@ -227,7 +227,7 @@
             "original_language": "en",
             "original_title": "Born on the Fourth of July",
             "overview": "Ron Kovic, n\u00e9 un 4 juillet, au jour de l'Ind\u00e9pendance, et fervent patriote, est volontaire pour se battre au Vi\u00eat Nam. Il en revient parapl\u00e9gique et remet en question ses valeurs sur la guerre.",
-            "popularity": 2.1795,
+            "popularity": 2.4945,
             "poster_path": "/xLzpwCskq5ZYNIsfSj7GKEOWSXv.jpg",
             "release_date": "1989-12-20",
             "title": "N\u00e9 un 4 juillet",
@@ -238,52 +238,8 @@
                 "Drame",
                 "Guerre"
             ],
-            "runtime": 145,
-            "tagline": "De l'innocence perdue au courage retrouv\u00e9. Une histoire v\u00e9cue."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
-            "id": 639,
-            "original_language": "en",
-            "original_title": "When Harry Met Sally...",
-            "overview": "Lorsqu'ils se rencontrent pour la premi\u00e8re fois dans les ann\u00e9es 70, Harry et Sally ne s'appr\u00e9cient pas, mais alors pas du tout. Ils se quittent, jurant de ne plus se revoir. Cinq ans plus tard, ils se retrouvent mais rien n'a chang\u00e9 : leurs avis sur les relations hommes-femmes divergent du tout au tout. Cinq autres ann\u00e9es passent, et Harry rencontre Sally \u00e0 nouveau. Ils se racontent leurs exp\u00e9riences, leurs d\u00e9ceptions et se rendent compte que leur vie amoureuse est un d\u00e9sastre. Mais l'amiti\u00e9 entre Harry et Sally est-elle possible ?",
-            "popularity": 5.797,
-            "poster_path": "/3LKgUlcBVobOmQ85cLwGycLP3LJ.jpg",
-            "release_date": "1989-07-12",
-            "title": "Quand Harry rencontre Sally\u2026",
-            "video": false,
-            "vote_average": 7.4,
-            "vote_count": 4433,
-            "genres": [
-                "Com\u00e9die",
-                "Romance",
-                "Drame"
-            ],
-            "runtime": 96,
-            "tagline": "Deux amis peuvent-ils coucher ensemble et s'aimer encore au petit matin ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zlsaQEE26TS34ziXAiNIAqa0MLX.jpg",
-            "id": 268,
-            "original_language": "en",
-            "original_title": "Batman",
-            "overview": "Violence et corruption r\u00e8gnent dans la ville de Gotham City. La mafia dirige la ville \u00e0 sa mani\u00e8re, au nez et \u00e0 la barbe des autorit\u00e9s, compl\u00e8tement d\u00e9pass\u00e9es par les \u00e9v\u00e9nements. Depuis quelques semaines cependant, un myst\u00e9rieux justicier, drap\u00e9 dans un costume de chauve-souris, terrorise les malfaiteurs et s\u00e8me l'inqui\u00e9tude dans les rangs de la mafia. Une jeune journaliste, Vicki Vale, m\u00e8ne l'enqu\u00eate. C'est ainsi qu'elle fait la connaissance d'un s\u00e9duisant mais excentrique milliardaire, Bruce Wayne. Celui-ci n'est autre que Batman, qui l'a d\u00e9j\u00e0 sauv\u00e9e. Elle rencontre \u00e9galement un odieux truand, Jack Napier, bras droit du parrain Carl Grissom\u2026",
-            "popularity": 7.4823,
-            "poster_path": "/1xXiKuQapT5g5xf1g0TaWlVDzfx.jpg",
-            "release_date": "1989-06-21",
-            "title": "Batman",
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 8338,
-            "genres": [
-                "Fantastique",
-                "Action",
-                "Crime"
-            ],
-            "runtime": 126,
-            "tagline": ""
+            "tagline": "De l'innocence perdue au courage retrouv\u00e9. Une histoire v\u00e9cue.",
+            "runtime": 145
         },
         {
             "adult": false,
@@ -292,7 +248,7 @@
             "original_language": "en",
             "original_title": "Driving Miss Daisy",
             "overview": "Miss Daisy a soixante-douze ans.Elle est riche, \u00e9nergique, autoritaire... et juive. Son chauffeur est un peu plus jeune. Il est pauvre, serviable, comp\u00e9tent... et noir. Entre ces deux l\u00e0, c'est \u00e0 la fois la haine et l'amiti\u00e9, l'humour et la col\u00e8re, la tendresse et la violence. Etal\u00e9e sur 25 ans, l'extraordinaire histoire de ce duo pas comme les autres a remport\u00e9 4 OSCARS \u00e0 Hollywood.",
-            "popularity": 2.8106,
+            "popularity": 2.3741,
             "poster_path": "/VATOAqeD5aEZLZLLBuSDV5M0dR.jpg",
             "release_date": "1989-12-13",
             "title": "Miss Daisy et son chauffeur",
@@ -302,30 +258,52 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 99,
-            "tagline": "L'histoire dr\u00f4le, touchante et totalement irr\u00e9sistible d'une relation de travail qui s'est transform\u00e9e en une amiti\u00e9 de 25 ans."
+            "tagline": "L'histoire dr\u00f4le, touchante et totalement irr\u00e9sistible d'une relation de travail qui s'est transform\u00e9e en une amiti\u00e9 de 25 ans.",
+            "runtime": 99
         },
         {
             "adult": false,
-            "backdrop_path": "/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
-            "id": 9665,
+            "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
+            "id": 639,
             "original_language": "en",
-            "original_title": "Glory",
-            "overview": "1863. La guerre de S\u00e9cession ravage l'Am\u00e9rique et tourne \u00e0 l'avantage du Sud. Lincoln proclame l'\u00e9mancipation officielle des noirs et d\u00e9cide que les volontaires noirs pourront s'engager sous les ordres d'officiers blancs. Un r\u00e9giment de volontaires noirs est alors cr\u00e9\u00e9 et le jeune Robert Gould Shaw est nomm\u00e9 colonel de ces soldats m\u00e9pris\u00e9s. Les volontaires sont nombreux et parmi eux Searles, un ami de Shaw, et Trip, une t\u00eate br\u00fbl\u00e9e qui refuse l'autorit\u00e9. En s'engageant, ces hommes veulent enfin conqu\u00e9rir une dignit\u00e9 qu'ils n'ont jamais connue. Aid\u00e9 par Forbes, un de ses camarades nomm\u00e9 commandant, Shaw commence \u00e0 former ses recrues pour le combat.",
-            "popularity": 5.1441,
-            "poster_path": "/o7sePmQCAmlgfF50vDb3n7MZgf9.jpg",
-            "release_date": "1989-12-15",
-            "title": "Glory",
+            "original_title": "When Harry Met Sally...",
+            "overview": "Lorsqu'ils se rencontrent pour la premi\u00e8re fois dans les ann\u00e9es 70, Harry et Sally ne s'appr\u00e9cient pas, mais alors pas du tout. Ils se quittent, jurant de ne plus se revoir. Cinq ans plus tard, ils se retrouvent mais rien n'a chang\u00e9 : leurs avis sur les relations hommes-femmes divergent du tout au tout. Cinq autres ann\u00e9es passent, et Harry rencontre Sally \u00e0 nouveau. Ils se racontent leurs exp\u00e9riences, leurs d\u00e9ceptions et se rendent compte que leur vie amoureuse est un d\u00e9sastre. Mais l'amiti\u00e9 entre Harry et Sally est-elle possible ?",
+            "popularity": 6.0967,
+            "poster_path": "/3LKgUlcBVobOmQ85cLwGycLP3LJ.jpg",
+            "release_date": "1989-07-12",
+            "title": "Quand Harry rencontre Sally\u2026",
             "video": false,
-            "vote_average": 7.477,
-            "vote_count": 1742,
+            "vote_average": 7.403,
+            "vote_count": 4434,
             "genres": [
-                "Drame",
-                "Histoire",
-                "Guerre"
+                "Com\u00e9die",
+                "Romance",
+                "Drame"
             ],
-            "runtime": 122,
-            "tagline": "Ils se sont unis pour la Libert\u00e9. Ils se sont battus pour l'Honneur. Ils ont trouv\u00e9 la Gloire."
+            "tagline": "Deux amis peuvent-ils coucher ensemble et s'aimer encore au petit matin ?",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zlsaQEE26TS34ziXAiNIAqa0MLX.jpg",
+            "id": 268,
+            "original_language": "en",
+            "original_title": "Batman",
+            "overview": "Violence et corruption r\u00e8gnent dans la ville de Gotham City. La mafia dirige la ville \u00e0 sa mani\u00e8re, au nez et \u00e0 la barbe des autorit\u00e9s, compl\u00e8tement d\u00e9pass\u00e9es par les \u00e9v\u00e9nements. Depuis quelques semaines cependant, un myst\u00e9rieux justicier, drap\u00e9 dans un costume de chauve-souris, terrorise les malfaiteurs et s\u00e8me l'inqui\u00e9tude dans les rangs de la mafia. Une jeune journaliste, Vicki Vale, m\u00e8ne l'enqu\u00eate. C'est ainsi qu'elle fait la connaissance d'un s\u00e9duisant mais excentrique milliardaire, Bruce Wayne. Celui-ci n'est autre que Batman, qui l'a d\u00e9j\u00e0 sauv\u00e9e. Elle rencontre \u00e9galement un odieux truand, Jack Napier, bras droit du parrain Carl Grissom\u2026",
+            "popularity": 7.359,
+            "poster_path": "/1xXiKuQapT5g5xf1g0TaWlVDzfx.jpg",
+            "release_date": "1989-06-21",
+            "title": "Batman",
+            "video": false,
+            "vote_average": 7.236,
+            "vote_count": 8339,
+            "genres": [
+                "Fantastique",
+                "Action",
+                "Crime"
+            ],
+            "tagline": "",
+            "runtime": 126
         },
         {
             "adult": false,
@@ -334,7 +312,7 @@
             "original_language": "en",
             "original_title": "Enemies, a Love Story",
             "overview": "Herman Broder est le seul survivant de sa famille juive polonaise apr\u00e8s la Seconde Guerre mondiale. Apr\u00e8s avoir \u00e9migr\u00e9 \u00e0 New-York, il se retrouve involontairement tiraill\u00e9 entre trois femmes : sa servante polonaise Yadwiga, \u00e0 qui il doit sa survie, Masha, sa ma\u00eetresse sensuelle et tourment\u00e9e, et son \u00e9pouse officielle Tarnara, qu'il croyait morte dans un camp de concentration et qui refait soudainement surface...",
-            "popularity": 2.4124,
+            "popularity": 2.5766,
             "poster_path": "/g0zh75AWArVtadhaNKZjs231TwF.jpg",
             "release_date": "1989-12-13",
             "title": "Ennemies : Une histoire d'amour",
@@ -346,8 +324,50 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 119,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+            "id": 9665,
+            "original_language": "en",
+            "original_title": "Glory",
+            "overview": "1863. La guerre de S\u00e9cession ravage l'Am\u00e9rique et tourne \u00e0 l'avantage du Sud. Lincoln proclame l'\u00e9mancipation officielle des noirs et d\u00e9cide que les volontaires noirs pourront s'engager sous les ordres d'officiers blancs. Un r\u00e9giment de volontaires noirs est alors cr\u00e9\u00e9 et le jeune Robert Gould Shaw est nomm\u00e9 colonel de ces soldats m\u00e9pris\u00e9s. Les volontaires sont nombreux et parmi eux Searles, un ami de Shaw, et Trip, une t\u00eate br\u00fbl\u00e9e qui refuse l'autorit\u00e9. En s'engageant, ces hommes veulent enfin conqu\u00e9rir une dignit\u00e9 qu'ils n'ont jamais connue. Aid\u00e9 par Forbes, un de ses camarades nomm\u00e9 commandant, Shaw commence \u00e0 former ses recrues pour le combat.",
+            "popularity": 4.6743,
+            "poster_path": "/o7sePmQCAmlgfF50vDb3n7MZgf9.jpg",
+            "release_date": "1989-12-15",
+            "title": "Glory",
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 1742,
+            "genres": [
+                "Drame",
+                "Histoire",
+                "Guerre"
+            ],
+            "tagline": "Ils se sont unis pour la Libert\u00e9. Ils se sont battus pour l'Honneur. Ils ont trouv\u00e9 la Gloire.",
+            "runtime": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSzDfniDjqh2TIP9uH7rwi2iRy3.jpg",
+            "id": 207,
+            "original_language": "en",
+            "original_title": "Dead Poets Society",
+            "overview": "Todd Anderson est un gar\u00e7on plut\u00f4t timide. D\u00e9sormais \u00e9l\u00e8ve de la prestigieuse acad\u00e9mie Welton, r\u00e9put\u00e9e pour \u00eatre l'une des plus ferm\u00e9es et aust\u00e8res des \u00c9tats-Unis, tout le monde attend de lui qu'il suive les traces de son fr\u00e8re, qui avait fait \u00e0 Welton de brillantes \u00e9tudes.  C'est l\u00e0 qu'il va faire la rencontre de M. Keating, un professeur de lettres anglaises qui, c'est le moins que l'on puisse dire, sort des sentiers battus. Jour apr\u00e8s jour, M. Keating encourage ses \u00e9l\u00e8ves \u00e0 penser par eux-m\u00eames et \u00e0 refuser l'ordre \u00e9tabli. Cette rencontre va bouleverser la vie du jeune Todd, mais aussi celle de ses amis.",
+            "popularity": 12.9128,
+            "poster_path": "/oHBdsvdlPhzkJZOfax7Oy3X5mm7.jpg",
+            "release_date": "1989-06-02",
+            "title": "Le Cercle des po\u00e8tes disparus",
+            "video": false,
+            "vote_average": 8.302,
+            "vote_count": 12167,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Il fut leur inspiration. Il a transform\u00e9 leur vie \u00e0 jamais.",
+            "runtime": 128
         },
         {
             "adult": false,
@@ -356,7 +376,7 @@
             "original_language": "en",
             "original_title": "Heathers",
             "overview": "Trois filles de riches chacune pr\u00e9nomm\u00e9e Heather sont les reines du lyc\u00e9e de Westerburg. Elles acceptent n\u00e9anmoins dans leur clan Veronica, dont elles exploitent la candeur et la na\u00efvet\u00e9. Celle-ci, sous l'influence de J.D., un autre jeune marginalis\u00e9, organise une petite vengeance qui va mal tourner...",
-            "popularity": 4.5812,
+            "popularity": 4.458,
             "poster_path": "/2WfpGs2vy8nydriTaeULOJwlGJU.jpg",
             "release_date": "1988-10-01",
             "title": "Fatal Games",
@@ -367,28 +387,8 @@
                 "Com\u00e9die",
                 "Crime"
             ],
-            "runtime": 103,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rSzDfniDjqh2TIP9uH7rwi2iRy3.jpg",
-            "id": 207,
-            "original_language": "en",
-            "original_title": "Dead Poets Society",
-            "overview": "Todd Anderson est un gar\u00e7on plut\u00f4t timide. D\u00e9sormais \u00e9l\u00e8ve de la prestigieuse acad\u00e9mie Welton, r\u00e9put\u00e9e pour \u00eatre l'une des plus ferm\u00e9es et aust\u00e8res des \u00c9tats-Unis, tout le monde attend de lui qu'il suive les traces de son fr\u00e8re, qui avait fait \u00e0 Welton de brillantes \u00e9tudes.  C'est l\u00e0 qu'il va faire la rencontre de M. Keating, un professeur de lettres anglaises qui, c'est le moins que l'on puisse dire, sort des sentiers battus. Jour apr\u00e8s jour, M. Keating encourage ses \u00e9l\u00e8ves \u00e0 penser par eux-m\u00eames et \u00e0 refuser l'ordre \u00e9tabli. Cette rencontre va bouleverser la vie du jeune Todd, mais aussi celle de ses amis.",
-            "popularity": 13.1519,
-            "poster_path": "/oHBdsvdlPhzkJZOfax7Oy3X5mm7.jpg",
-            "release_date": "1989-06-02",
-            "title": "Le Cercle des po\u00e8tes disparus",
-            "video": false,
-            "vote_average": 8.302,
-            "vote_count": 12165,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 128,
-            "tagline": "Il fut leur inspiration. Il a transform\u00e9 leur vie \u00e0 jamais."
+            "tagline": "",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -397,7 +397,7 @@
             "original_language": "en",
             "original_title": "High Hopes",
             "overview": "A travers le quotidien tragi-comique d'une famille anglaise, Cyril, Shirley, Valerie et Mrs Bender, la mere de Cyril et Valerie, un essai presque optimiste sur la communication. \"Au fond de tout cela, declare Mike Leigh, il y a le fait que j'ai toujours \u00e9t\u00e9 tres engage, dans ma volont\u00e9 de faire des films et des pieces sur la vie reelle, les probl\u00e8mes reels, les questions reelles et les rapports humains reels.\" Prix de la critique internationale au festival de Venise en 1988.",
-            "popularity": 2.2921,
+            "popularity": 1.9332,
             "poster_path": "/uDTFcJbZDexghaQVvkKNXWvVw11.jpg",
             "release_date": "1989-01-13",
             "title": "High Hopes",
@@ -408,8 +408,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
         },
         {
             "adult": false,
@@ -418,7 +418,7 @@
             "original_language": "en",
             "original_title": "Casualties of War",
             "overview": "Lors d'une mission, Eriksson, jeune recrue, est sauv\u00e9 d'une mort certaine par son commandant Meserve. Quelques jours plus tard, le radio de l'escouade est abattu dans un village alli\u00e9. Meserve d\u00e9cide alors d'enlever une jeune villageoise. Eriksson, ne doutant pas du sort r\u00e9serv\u00e9 \u00e0 la jeune fille, va se battre, malgr\u00e9 son admiration pour son commandant, contre tous les hommes de sa patrouille.",
-            "popularity": 2.4429,
+            "popularity": 2.4824,
             "poster_path": "/9EuOSdAioElR800R2EBDeBzuk7t.jpg",
             "release_date": "1989-08-18",
             "title": "Outrages",
@@ -430,51 +430,8 @@
                 "Histoire",
                 "Guerre"
             ],
-            "runtime": 113,
-            "tagline": "M\u00eame en temps de guerre, un meutre est un meurtre."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aix01AG7io9RENJt2hrdE66dZFk.jpg",
-            "id": 41799,
-            "original_language": "en",
-            "original_title": "Distant Voices, Still Lives",
-            "overview": "Le deuxi\u00e8me film de la s\u00e9rie autobiographique de Terence Davies (avec \"Trilogy\" et \"The Long Day Closes\") est une vision impressionniste d'une famille ouvri\u00e8re dans le Liverpool des ann\u00e9es 1940 et 1950, bas\u00e9e sur la propre famille du r\u00e9alisateur.\r A travers une s\u00e9rie de tableaux exquis, Davies cr\u00e9e un album photo profond\u00e9ment \u00e9mouvant d'une famille troubl\u00e9e aux prises avec la complexit\u00e9 de l'amour.",
-            "popularity": 0.4058,
-            "poster_path": "/3ecM82J6jNBTR8v1wAyIsAHQWEq.jpg",
-            "release_date": "1988-11-16",
-            "title": "Distant Voices, Still Lives",
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 130,
-            "genres": [
-                "Drame",
-                "Musique"
-            ],
-            "runtime": 84,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3wcDKBiMnCEZBIg5ADN1dZ7L44i.jpg",
-            "id": 2383,
-            "original_language": "fr",
-            "original_title": "L'Ours",
-            "overview": "Une ourse meurt \u00e9cras\u00e9e par un rocher, laissant un orphelin dans l'immensit\u00e9 glac\u00e9e des montagnes. La boule de poil devra apprendre la vie plus t\u00f4t que pr\u00e9vu, s'accrochant \u00e0 un m\u00e2le adulte qui n'a pas vraiment souhait\u00e9 \u00e7a.",
-            "popularity": 4.0671,
-            "poster_path": "/qgauQVZBOHfQukN1i1CpwEZf197.jpg",
-            "release_date": "1988-10-21",
-            "title": "L'Ours",
-            "video": false,
-            "vote_average": 7.084,
-            "vote_count": 508,
-            "genres": [
-                "Aventure",
-                "Drame",
-                "Familial"
-            ],
-            "runtime": 100,
-            "tagline": "C'est un orphelin... au d\u00e9but d'un voyage. Un voyage pour survivre."
+            "tagline": "M\u00eame en temps de guerre, un meutre est un meurtre.",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -483,7 +440,7 @@
             "original_language": "en",
             "original_title": "Say Anything...",
             "overview": "Lloyd Dobler ne veut qu'une et une seule chose : r\u00e9ussir \u00e0 sortir avec la belle et intelligente Diane Court.",
-            "popularity": 1.8968,
+            "popularity": 2.5527,
             "poster_path": "/tHNh7JT3qzQWOWfPpvswguQN95R.jpg",
             "release_date": "1989-04-14",
             "title": "Un monde pour nous",
@@ -495,50 +452,51 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 100,
-            "tagline": "Je lui ai donn\u00e9 mon c\u0153ur, elle m'a donn\u00e9 un stylo"
+            "tagline": "Je lui ai donn\u00e9 mon c\u0153ur, elle m'a donn\u00e9 un stylo",
+            "runtime": 100
         },
         {
             "adult": false,
-            "backdrop_path": "/2fdvCbGsTMIoOS2mRXCTy52FvCH.jpg",
-            "id": 249,
+            "backdrop_path": "/aix01AG7io9RENJt2hrdE66dZFk.jpg",
+            "id": 41799,
             "original_language": "en",
-            "original_title": "The War of the Roses",
-            "overview": "L'histoire d'un couple de yuppies, les Rose, qui, apr\u00e8s une existence qu'ils pensaient heureuse et confortable, se retournent tout \u00e0 coup l'un contre l'autre, n\u2019omettant aucune bassesse pour se d\u00e9truire, jusqu'\u00e0 l'apaisement et la conqu\u00eate de l'instant de bonheur final.",
-            "popularity": 2.5157,
-            "poster_path": "/2m2cfMlKVDuay74F9vaDhVn0pKY.jpg",
-            "release_date": "1989-12-08",
-            "title": "La Guerre des Rose",
+            "original_title": "Distant Voices, Still Lives",
+            "overview": "Le deuxi\u00e8me film de la s\u00e9rie autobiographique de Terence Davies (avec \"Trilogy\" et \"The Long Day Closes\") est une vision impressionniste d'une famille ouvri\u00e8re dans le Liverpool des ann\u00e9es 1940 et 1950, bas\u00e9e sur la propre famille du r\u00e9alisateur.\r A travers une s\u00e9rie de tableaux exquis, Davies cr\u00e9e un album photo profond\u00e9ment \u00e9mouvant d'une famille troubl\u00e9e aux prises avec la complexit\u00e9 de l'amour.",
+            "popularity": 0.3857,
+            "poster_path": "/3ecM82J6jNBTR8v1wAyIsAHQWEq.jpg",
+            "release_date": "1988-11-16",
+            "title": "Distant Voices, Still Lives",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 1208,
+            "vote_average": 6.8,
+            "vote_count": 130,
             "genres": [
-                "Com\u00e9die",
-                "Drame"
+                "Drame",
+                "Musique"
             ],
-            "runtime": 117,
-            "tagline": "Oliver et Barbara Rose... pour le meilleur et pour le pire !"
+            "tagline": "",
+            "runtime": 84
         },
         {
             "adult": false,
-            "backdrop_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
-            "id": 89,
-            "original_language": "en",
-            "original_title": "Indiana Jones and the Last Crusade",
-            "overview": "Indiana Jones se lance cette fois\u2010ci \u00e0 la recherche du Saint Graal, accompagn\u00e9 de l'\u00e9minent et tr\u00e8s maladroit Dr Henry Jones, son p\u00e8re. Malheureusement, ils ne sont pas les seuls lanc\u00e9s sur la trace du tr\u00e9sor, les nazis le convoitent \u00e9galement.",
-            "popularity": 8.5421,
-            "poster_path": "/kD1y7bgbkXvN3RkYogFMlyQR6Ci.jpg",
-            "release_date": "1989-05-24",
-            "title": "Indiana Jones et la derni\u00e8re croisade",
+            "backdrop_path": "/3wcDKBiMnCEZBIg5ADN1dZ7L44i.jpg",
+            "id": 2383,
+            "original_language": "fr",
+            "original_title": "L'Ours",
+            "overview": "Une ourse meurt \u00e9cras\u00e9e par un rocher, laissant un orphelin dans l'immensit\u00e9 glac\u00e9e des montagnes. La boule de poil devra apprendre la vie plus t\u00f4t que pr\u00e9vu, s'accrochant \u00e0 un m\u00e2le adulte qui n'a pas vraiment souhait\u00e9 \u00e7a.",
+            "popularity": 3.8205,
+            "poster_path": "/qgauQVZBOHfQukN1i1CpwEZf197.jpg",
+            "release_date": "1988-10-21",
+            "title": "L'Ours",
             "video": false,
-            "vote_average": 7.849,
-            "vote_count": 10782,
+            "vote_average": 7.084,
+            "vote_count": 508,
             "genres": [
                 "Aventure",
-                "Action"
+                "Drame",
+                "Familial"
             ],
-            "runtime": 127,
-            "tagline": "Il est de retour. Et, cette fois\u2010ci, avec son p\u00e8re."
+            "tagline": "C'est un orphelin... au d\u00e9but d'un voyage. Un voyage pour survivre.",
+            "runtime": 100
         },
         {
             "adult": false,
@@ -547,7 +505,7 @@
             "original_language": "en",
             "original_title": "Parenthood",
             "overview": "Gil et sa femme Karen, ont \u00e9lev\u00e9 leurs trois enfants dans une ambiance protectrice, chaleureuse, lib\u00e9rale, pleine de tendresse et d'humour. Malgr\u00e9 cela, leur fils de neuf ans, Kevin, souffre de troubles psychiques. D\u00e9sempar\u00e9, Gil se d\u00e9pense de plus en plus pour son fils au d\u00e9triment de son travail. La soeur ain\u00e9e de Gil, Helen est divorc\u00e9e et m\u00e8re de deux adolescents \u00e0 probl\u00e8mes. Sa fille Julie est en passe de devenir une femme, tandis que son fils Garry vit les premi\u00e8res affres de la pubert\u00e9. L'autre soeur de Gil, Susan, est mari\u00e9e \u00e0 un brillant et tyrannique intello, Nathan, qui \u00e9l\u00e8ve leur fille de trois ans de fa\u00e7on \u00e0 en faire un futur Prix Nobel. Enfin, il y a Larry, le fr\u00e8re cadet de Gil, la brebis galeuse de la famille qui ne r\u00e9appara\u00eet que lorsqu'il y a des probl\u00e8mes d'argent. Bref, le portrait d'une famille pas si mod\u00e8le que \u00e7a... qui pourrait bien \u00eatre la v\u00f4tre.",
-            "popularity": 1.6846,
+            "popularity": 1.5307,
             "poster_path": "/2UW4w8hIjbf1hCPsa3q8Dtf3Z7i.jpg",
             "release_date": "1989-07-31",
             "title": "Portrait crach\u00e9 d'une famille mod\u00e8le",
@@ -560,28 +518,8 @@
                 "Romance",
                 "Familial"
             ],
-            "runtime": 124,
-            "tagline": "Une com\u00e9die sur la vie, l'amour et le doux art d'\u00e9lever des enfants."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/t0GxYLiPkTtFBuzoPLmLU3HSKEN.jpg",
-            "id": 11305,
-            "original_language": "en",
-            "original_title": "Mystery Train",
-            "overview": "Memphis, Tennessee, la ville du King Elvis Presley. Un couple de Japonais en p\u00e8lerinage, une jeune femme venant chercher les restes de son mari, quelques copains d\u00e9pressifs et alcooliques vont se croiser sans vraiment se rencontrer dans une sorte de com\u00e9die romantique et nostalgique.",
-            "popularity": 5.0484,
-            "poster_path": "/8FAhxQZEoHFcyKWhldkOzVxwt2j.jpg",
-            "release_date": "1989-09-06",
-            "title": "Mystery Train",
-            "video": false,
-            "vote_average": 7.334,
-            "vote_count": 484,
-            "genres": [
-                "Com\u00e9die"
-            ],
-            "runtime": 106,
-            "tagline": "Le dernier volet d\u2019une trilogie comprenant \u00ab Stranger Than Paradise \u00bb et \u00ab Down By Law \u00bb."
+            "tagline": "Une com\u00e9die sur la vie, l'amour et le doux art d'\u00e9lever des enfants.",
+            "runtime": 124
         },
         {
             "adult": false,
@@ -590,7 +528,7 @@
             "original_language": "en",
             "original_title": "The Adventures of Baron Munchausen",
             "overview": "Le si\u00e8cle des Lumi\u00e8res. Une ville s'appr\u00eate \u00e0 succomber sous les assauts des Turcs. Seul le th\u00e9\u00e2tre royal est encore debout o\u00f9 com\u00e9diens et machinistes s'\u00e9chinent \u00e0 donner un spectacle potable mais invariablement hu\u00e9 par les spectateurs. Ils pr\u00e9sentent ce jour-la \u00ab\u00a0Les Aventures du baron de M\u00fcnchausen\u00a0\u00bb quand au beau milieu d'une sc\u00e8ne, un vieillard se l\u00e8ve et revendique l'identit\u00e9 du baron de M\u00fcnchausen. Il propose alors aux habitants incr\u00e9dules de chasser les Turcs. Pour ce faire, il leur demande de l'aider \u00e0 retrouver ses 4 anciens compagnons d'aventures.",
-            "popularity": 2.1963,
+            "popularity": 2.1412,
             "poster_path": "/b9N0RTmb2bMA7OjTP02kOMhP5RM.jpg",
             "release_date": "1988-12-07",
             "title": "Les Aventures du baron de M\u00fcnchausen",
@@ -602,8 +540,50 @@
                 "Aventure",
                 "Com\u00e9die"
             ],
-            "runtime": 125,
-            "tagline": "Remarquable. Incroyable. Impossible. Et vrai."
+            "tagline": "Remarquable. Incroyable. Impossible. Et vrai.",
+            "runtime": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+            "id": 89,
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Last Crusade",
+            "overview": "Indiana Jones se lance cette fois\u2010ci \u00e0 la recherche du Saint Graal, accompagn\u00e9 de l'\u00e9minent et tr\u00e8s maladroit Dr Henry Jones, son p\u00e8re. Malheureusement, ils ne sont pas les seuls lanc\u00e9s sur la trace du tr\u00e9sor, les nazis le convoitent \u00e9galement.",
+            "popularity": 7.9281,
+            "poster_path": "/kD1y7bgbkXvN3RkYogFMlyQR6Ci.jpg",
+            "release_date": "1989-05-24",
+            "title": "Indiana Jones et la derni\u00e8re croisade",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 10782,
+            "genres": [
+                "Aventure",
+                "Action"
+            ],
+            "tagline": "Il est de retour. Et, cette fois\u2010ci, avec son p\u00e8re.",
+            "runtime": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2fdvCbGsTMIoOS2mRXCTy52FvCH.jpg",
+            "id": 249,
+            "original_language": "en",
+            "original_title": "The War of the Roses",
+            "overview": "L'histoire d'un couple de yuppies, les Rose, qui, apr\u00e8s une existence qu'ils pensaient heureuse et confortable, se retournent tout \u00e0 coup l'un contre l'autre, n\u2019omettant aucune bassesse pour se d\u00e9truire, jusqu'\u00e0 l'apaisement et la conqu\u00eate de l'instant de bonheur final.",
+            "popularity": 2.5755,
+            "poster_path": "/2m2cfMlKVDuay74F9vaDhVn0pKY.jpg",
+            "release_date": "1989-12-08",
+            "title": "La Guerre des Rose",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1208,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "Oliver et Barbara Rose... pour le meilleur et pour le pire !",
+            "runtime": 117
         },
         {
             "adult": false,
@@ -612,19 +592,39 @@
             "original_language": "fr",
             "original_title": "Une affaire de femmes",
             "overview": "Marie, m\u00e8re de famille, accepte d'aider une jeune voisine \u00e0 se d\u00e9barrasser d'un enfant non d\u00e9sir\u00e9. Encourag\u00e9e par le succ\u00e8s, elle entame un processus qui en fera une faiseuse d'anges, et une femme adult\u00e8re. Mais la duret\u00e9 de la vie sous le r\u00e9gime de Vichy la rattrape, elle est d\u00e9nonc\u00e9e par son mari et finira guillotin\u00e9e pour l'exemple. Comment la mauvaise conscience de la France de Vichy se soulageait en condamnant \u00e0 mort et en ex\u00e9cutant Marie, la \u00ab\u00a0faiseuse d'anges\u00a0\u00bb. Une des toutes derni\u00e8res femmes ex\u00e9cut\u00e9es en France le 31 juillet 1943.",
-            "popularity": 0.6682,
+            "popularity": 0.8493,
             "poster_path": "/gNYGQwXpgW6T3QNy42f4uQnzD97.jpg",
             "release_date": "1988-09-14",
             "title": "Une affaire de femmes",
             "video": false,
-            "vote_average": 7.28,
+            "vote_average": 7.3,
             "vote_count": 177,
             "genres": [
                 "Drame",
                 "Histoire"
             ],
-            "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t0GxYLiPkTtFBuzoPLmLU3HSKEN.jpg",
+            "id": 11305,
+            "original_language": "en",
+            "original_title": "Mystery Train",
+            "overview": "Memphis, Tennessee, la ville du King Elvis Presley. Un couple de Japonais en p\u00e8lerinage, une jeune femme venant chercher les restes de son mari, quelques copains d\u00e9pressifs et alcooliques vont se croiser sans vraiment se rencontrer dans une sorte de com\u00e9die romantique et nostalgique.",
+            "popularity": 5.4905,
+            "poster_path": "/8FAhxQZEoHFcyKWhldkOzVxwt2j.jpg",
+            "release_date": "1989-09-06",
+            "title": "Mystery Train",
+            "video": false,
+            "vote_average": 7.334,
+            "vote_count": 484,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "Le dernier volet d\u2019une trilogie comprenant \u00ab Stranger Than Paradise \u00bb et \u00ab Down By Law \u00bb.",
+            "runtime": 106
         },
         {
             "adult": false,
@@ -633,7 +633,7 @@
             "original_language": "en",
             "original_title": "In Country",
             "overview": "Samantha n'a jamais connu son p\u00e8re, mort au Vietnam, dont personne ne veut lui parler. Arriv\u00e9e \u00e0 l'\u00e2ge adulte, et sa m\u00e8re \u00e9tant partie, elle vit chez son oncle Emmett, qui a lui aussi combattu au Vietnam et qui, bris\u00e9 par cette guerre, n'a jamais su retrouver sa place dans la soci\u00e9t\u00e9.",
-            "popularity": 0.6186,
+            "popularity": 0.5515,
             "poster_path": "/bFmM3GdkoppEERicjXpK9ZmUNai.jpg",
             "release_date": "1989-09-15",
             "title": "Un h\u00e9ros comme tant d'autres",
@@ -643,8 +643,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 120,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 120
         },
         {
             "adult": false,
@@ -653,7 +653,7 @@
             "original_language": "en",
             "original_title": "A Dry White Season",
             "overview": "Johannesburg, 1976. Ben du Toit, professeur d'histoire, Afrikaner bien-pensant, va tout \u00e0 coup se r\u00e9volter et prendre position lorsque son jardinier noir, Gordon et son jeune fils Jonathan, vont \u00eatre arr\u00eat\u00e9s, tortur\u00e9s et tu\u00e9s au nom de l'apartheid.",
-            "popularity": 0.6974,
+            "popularity": 0.5413,
             "poster_path": "/fcJVZKTd6HXYiHIJV0FBQduyjgJ.jpg",
             "release_date": "1989-09-20",
             "title": "Une saison blanche et s\u00e8che",
@@ -664,8 +664,8 @@
                 "Drame",
                 "Thriller"
             ],
-            "runtime": 107,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 107
         },
         {
             "adult": false,
@@ -674,7 +674,7 @@
             "original_language": "en",
             "original_title": "Let's Get Lost",
             "overview": "Let's Get Lost est un formidable portrait du c\u00e9l\u00e8bre trompettiste et chanteur de jazz, Chet Baker d\u00e9c\u00e9d\u00e9 \u00e0 l'\u00e2ge de 58 ans en 1988. A travers les t\u00e9moignages de ses proches, gr\u00e2ce \u00e0 des extraits de films, \u00e0 des concerts film\u00e9s, on d\u00e9couvre un homme extraordinairement beau, virtuose inspir\u00e9, novateur allant de succ\u00e8s en succ\u00e8s, reconnu comme un pair par les plus grands (Stan Getz, Charlie Parker, Gerry Mulligan, etc...). On s'attarde aussi sur l'autre visage de Chet Baker, compl\u00e8tement accro \u00e0 la drogue, dont le reste de la vie fut une bataille contre cette d\u00e9pendance. Son style de vie f\u00fbt tr\u00e8s erratique, combinant des moments musicaux merveilleux avec des \u00e9pisodes personnels douloureux. Plus encore que ses confessions sur sa vie priv\u00e9e, ce sont le souffle, le son toujours superbe, le chant \u00e9vanescent, la plainte de ce musicien disloqu\u00e9, d\u00e9truit par la drogue, qui s'imposent. Ce portrait de Chet Baker mi ange, mi d\u00e9mon, caboss\u00e9 par la vie se r\u00e9v\u00e8le bouleversant, unique.",
-            "popularity": 1.5346,
+            "popularity": 1.9931,
             "poster_path": "/voAn1Btvyy9icPHaf7HNwBfFZor.jpg",
             "release_date": "1988-09-15",
             "title": "Let's Get Lost",
@@ -685,29 +685,30 @@
                 "Musique",
                 "Documentaire"
             ],
-            "runtime": 121,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 121
         },
         {
             "adult": false,
-            "backdrop_path": "/yZpAb2uqzcSJmdF9K9ks6yhvB2l.jpg",
-            "id": 31863,
+            "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+            "id": 10860,
             "original_language": "en",
-            "original_title": "True Believer",
-            "overview": "Alors qu'il a pass\u00e9 une grande partie de sa carri\u00e8re \u00e0 d\u00e9fendre les libert\u00e9s civiles et les droits de ces concitoyens, Eddie Dodd, avocat, s'est reconverti dans la d\u00e9fense des dealers de drogue, une cause plus lucrative. Roger Baron, un jeune id\u00e9aliste qui admirait la carri\u00e8re de son a\u00een\u00e9 rejoint son cabinet pour apprendre le m\u00e9tier aupr\u00e8s de lui. Il le pousse \u00e0 d\u00e9fendre un jeune cor\u00e9en condamn\u00e9 \u00e0 huit ans de prison pour un meurtre qu'il n'aurait peut-\u00eatre pas commis.",
-            "popularity": 0.6282,
-            "poster_path": "/gMlhHeMdt1MEgdFn7vhI4fs36aD.jpg",
-            "release_date": "1989-02-17",
-            "title": "Coupable ressemblance",
+            "original_title": "Steel Magnolias",
+            "overview": "Dans une petite r\u00e9gion de la Louisiane, six femmes d'\u00e2ges et de caract\u00e8res compl\u00e8tement diff\u00e9rents, se retrouvent dans le salon de beaut\u00e9 de Truvy, entre les potins et les divers hauts et bas de la vie. Parmi elles il y a Claire et Ousier, amies et ennemies ; Annelle, na\u00efve et religieuse, et Shelby qui, malgr\u00e9 une maladie, d\u00e9cide de devenir m\u00e8re \u00e0 tout prix. Lorsque Shelby meurt de diab\u00e8te, les femmes se resserrent autour de M'Lynn, la m\u00e8re de Shelby, au milieu des larmes et des rires ; elles cr\u00e9ent une formidable solidarit\u00e9 f\u00e9minine, comme des fleurs d\u00e9licates mais faites d'acier qui ne se rompent pas face aux adversit\u00e9s de la vie.",
+            "popularity": 4.0354,
+            "poster_path": "/tXGAWrxN46m95O4vJ231zFRy6LO.jpg",
+            "release_date": "1989-11-15",
+            "title": "Potins de femmes",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 115,
+            "vote_average": 7.189,
+            "vote_count": 700,
             "genres": [
-                "Crime",
-                "Drame"
+                "Com\u00e9die",
+                "Drame",
+                "Romance"
             ],
-            "runtime": 105,
-            "tagline": ""
+            "tagline": "Parfois, le rire est une question de vie ou de mort.",
+            "runtime": 118
         },
         {
             "adult": false,
@@ -716,7 +717,7 @@
             "original_language": "en",
             "original_title": "Scandal",
             "overview": "\u00c9vocation de l'affaire Keeler qui \u00e9clata a Londres en 1963. Christine Keeler, une des conqu\u00eates de Stephen Ward, m\u00e9decin mondain, fut la maitresse de nombreuses personnalit\u00e9s politiques. Pouss\u00e9e par Ward, elle devient la maitresse d'Ivanov, attache d'ambassade sovi\u00e9tique. A la m\u00eame \u00e9poque, John Profumo, ministre de la Guerre, la courtise et devient lui aussi son amant. Mais Ivanov, soup\u00e7onne d\u2019\u00eatre un espion, est surveille. Un an plus tard le scandale \u00e9clate...",
-            "popularity": 3.7196,
+            "popularity": 3.0466,
             "poster_path": "/30hZ9Yn7q7OSTrnBQAXggs011VQ.jpg",
             "release_date": "1989-03-03",
             "title": "Scandal",
@@ -728,30 +729,8 @@
                 "Histoire",
                 "Romance"
             ],
-            "runtime": 115,
-            "tagline": "Ce serait un scandale de ne pas le voir"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8she0UIhlxoUnzWhO5AZpPlL0uf.jpg",
-            "id": 12150,
-            "original_language": "en",
-            "original_title": "Sea of Love",
-            "overview": "\u00c0 New York. En l'espace d'une semaine, deux hommes qui organisaient leurs rendez-vous amoureux par l'entremise d'un magazine sp\u00e9cialis\u00e9 sont assassin\u00e9s. Frank Keller, un policier int\u00e8gre mais us\u00e9 depuis sa rupture avec sa femme, est charg\u00e9 de l'enqu\u00eate. Il organise alors des rencontres avec les nombreuses correspondantes des victimes. C'est ainsi qu'il va rencontrer Helen dont il tombe amoureux mais qu'il ne peut s'emp\u00eacher de soup\u00e7onner d'\u00eatre la meurtri\u00e8re.",
-            "popularity": 1.4865,
-            "poster_path": "/62VnWlqQUy1NVsncuYOTDd3hPI5.jpg",
-            "release_date": "1989-09-15",
-            "title": "M\u00e9lodie pour un meurtre",
-            "video": false,
-            "vote_average": 6.606,
-            "vote_count": 658,
-            "genres": [
-                "Crime",
-                "Drame",
-                "Romance"
-            ],
-            "runtime": 113,
-            "tagline": "La tromperie est dangereuse. Le d\u00e9sir est mortel."
+            "tagline": "Ce serait un scandale de ne pas le voir",
+            "runtime": 115
         },
         {
             "adult": false,
@@ -760,7 +739,7 @@
             "original_language": "en",
             "original_title": "Lethal Weapon 2",
             "overview": "Les explosifs Riggs et Murtaugh mettent \u00e0 jour un \u00e9norme trafic de drogue dirig\u00e9 par Arjen Rudd, de l'ambassade sudafricaine. Ce n'est certainement pas l'immunit\u00e9 diplomatique qui va les g\u00e9ner, mais peut-\u00eatre plut\u00f4t ce bavard de L\u00e9o Getz, petit comptable magouilleur dont ils sont charg\u00e9s de la protection.",
-            "popularity": 5.8841,
+            "popularity": 5.7601,
             "poster_path": "/z4Vd5YgIztiLOkpcmAlj7yhhD6R.jpg",
             "release_date": "1989-07-07",
             "title": "L'Arme fatale 2",
@@ -774,30 +753,51 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 114,
-            "tagline": "Retour d'un duo de choc !"
+            "tagline": "Retour d'un duo de choc !",
+            "runtime": 114
         },
         {
             "adult": false,
-            "backdrop_path": "/9ekWqOIkVbhwzheV0gqj5jCNd9d.jpg",
-            "id": 2263,
+            "backdrop_path": "/yZpAb2uqzcSJmdF9K9ks6yhvB2l.jpg",
+            "id": 31863,
             "original_language": "en",
-            "original_title": "Music Box",
-            "overview": "Ann Talbot, brillante avocate de Chicago, est amen\u00e9e \u00e0 d\u00e9fendre son p\u00e8re, poursuivi pour crimes de guerre. Michael Laszlo a fui la Hongrie \u00e0 la fin de la Seconde Guerre mondiale et s'est r\u00e9fugi\u00e9 aux \u00c9tats-Unis. Apr\u00e8s quarante-cinq ans de vie paisible et honn\u00eate, il est convoqu\u00e9 par le bureau des enqu\u00eates sp\u00e9ciales. Des preuves accablantes ont \u00e9t\u00e9 r\u00e9unies contre lui et de nombreux t\u00e9moins auraient reconnu en lui un tortionnaire nazi. Pour Ann, il s'agit de d\u00e9monter un traquenard politique, mais l'enqu\u00eate qu'elle entreprend va s'av\u00e9rer plus complexe que pr\u00e9vu.",
-            "popularity": 1.7227,
-            "poster_path": "/iHumUQOIJWWx6x77fOcB2PVBu53.jpg",
-            "release_date": "1989-12-22",
-            "title": "Music Box",
+            "original_title": "True Believer",
+            "overview": "Alors qu'il a pass\u00e9 une grande partie de sa carri\u00e8re \u00e0 d\u00e9fendre les libert\u00e9s civiles et les droits de ces concitoyens, Eddie Dodd, avocat, s'est reconverti dans la d\u00e9fense des dealers de drogue, une cause plus lucrative. Roger Baron, un jeune id\u00e9aliste qui admirait la carri\u00e8re de son a\u00een\u00e9 rejoint son cabinet pour apprendre le m\u00e9tier aupr\u00e8s de lui. Il le pousse \u00e0 d\u00e9fendre un jeune cor\u00e9en condamn\u00e9 \u00e0 huit ans de prison pour un meurtre qu'il n'aurait peut-\u00eatre pas commis.",
+            "popularity": 0.6048,
+            "poster_path": "/gMlhHeMdt1MEgdFn7vhI4fs36aD.jpg",
+            "release_date": "1989-02-17",
+            "title": "Coupable ressemblance",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 172,
+            "vote_average": 6.2,
+            "vote_count": 115,
             "genres": [
-                "Drame",
-                "Thriller",
-                "Myst\u00e8re"
+                "Crime",
+                "Drame"
             ],
-            "runtime": 124,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8she0UIhlxoUnzWhO5AZpPlL0uf.jpg",
+            "id": 12150,
+            "original_language": "en",
+            "original_title": "Sea of Love",
+            "overview": "\u00c0 New York. En l'espace d'une semaine, deux hommes qui organisaient leurs rendez-vous amoureux par l'entremise d'un magazine sp\u00e9cialis\u00e9 sont assassin\u00e9s. Frank Keller, un policier int\u00e8gre mais us\u00e9 depuis sa rupture avec sa femme, est charg\u00e9 de l'enqu\u00eate. Il organise alors des rencontres avec les nombreuses correspondantes des victimes. C'est ainsi qu'il va rencontrer Helen dont il tombe amoureux mais qu'il ne peut s'emp\u00eacher de soup\u00e7onner d'\u00eatre la meurtri\u00e8re.",
+            "popularity": 1.3209,
+            "poster_path": "/62VnWlqQUy1NVsncuYOTDd3hPI5.jpg",
+            "release_date": "1989-09-15",
+            "title": "M\u00e9lodie pour un meurtre",
+            "video": false,
+            "vote_average": 6.606,
+            "vote_count": 658,
+            "genres": [
+                "Crime",
+                "Drame",
+                "Romance"
+            ],
+            "tagline": "La tromperie est dangereuse. Le d\u00e9sir est mortel.",
+            "runtime": 113
         },
         {
             "adult": false,
@@ -806,7 +806,7 @@
             "original_language": "en",
             "original_title": "True Love",
             "overview": "",
-            "popularity": 2.096,
+            "popularity": 1.712,
             "poster_path": "/bb8LdVqPhJbd1WnH6yiMbjy0N0C.jpg",
             "release_date": "1989-09-15",
             "title": "True Love",
@@ -818,30 +818,30 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 104
         },
         {
             "adult": false,
-            "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
-            "id": 10860,
+            "backdrop_path": "/9ekWqOIkVbhwzheV0gqj5jCNd9d.jpg",
+            "id": 2263,
             "original_language": "en",
-            "original_title": "Steel Magnolias",
-            "overview": "Dans une petite r\u00e9gion de la Louisiane, six femmes d'\u00e2ges et de caract\u00e8res compl\u00e8tement diff\u00e9rents, se retrouvent dans le salon de beaut\u00e9 de Truvy, entre les potins et les divers hauts et bas de la vie. Parmi elles il y a Claire et Ousier, amies et ennemies ; Annelle, na\u00efve et religieuse, et Shelby qui, malgr\u00e9 une maladie, d\u00e9cide de devenir m\u00e8re \u00e0 tout prix. Lorsque Shelby meurt de diab\u00e8te, les femmes se resserrent autour de M'Lynn, la m\u00e8re de Shelby, au milieu des larmes et des rires ; elles cr\u00e9ent une formidable solidarit\u00e9 f\u00e9minine, comme des fleurs d\u00e9licates mais faites d'acier qui ne se rompent pas face aux adversit\u00e9s de la vie.",
-            "popularity": 3.4182,
-            "poster_path": "/tXGAWrxN46m95O4vJ231zFRy6LO.jpg",
-            "release_date": "1989-11-15",
-            "title": "Potins de femmes",
+            "original_title": "Music Box",
+            "overview": "Ann Talbot, brillante avocate de Chicago, est amen\u00e9e \u00e0 d\u00e9fendre son p\u00e8re, poursuivi pour crimes de guerre. Michael Laszlo a fui la Hongrie \u00e0 la fin de la Seconde Guerre mondiale et s'est r\u00e9fugi\u00e9 aux \u00c9tats-Unis. Apr\u00e8s quarante-cinq ans de vie paisible et honn\u00eate, il est convoqu\u00e9 par le bureau des enqu\u00eates sp\u00e9ciales. Des preuves accablantes ont \u00e9t\u00e9 r\u00e9unies contre lui et de nombreux t\u00e9moins auraient reconnu en lui un tortionnaire nazi. Pour Ann, il s'agit de d\u00e9monter un traquenard politique, mais l'enqu\u00eate qu'elle entreprend va s'av\u00e9rer plus complexe que pr\u00e9vu.",
+            "popularity": 1.5515,
+            "poster_path": "/iHumUQOIJWWx6x77fOcB2PVBu53.jpg",
+            "release_date": "1989-12-22",
+            "title": "Music Box",
             "video": false,
-            "vote_average": 7.189,
-            "vote_count": 700,
+            "vote_average": 7.1,
+            "vote_count": 172,
             "genres": [
-                "Com\u00e9die",
                 "Drame",
-                "Romance"
+                "Thriller",
+                "Myst\u00e8re"
             ],
-            "runtime": 118,
-            "tagline": "Parfois, le rire est une question de vie ou de mort."
+            "tagline": "",
+            "runtime": 124
         }
     ]
 }

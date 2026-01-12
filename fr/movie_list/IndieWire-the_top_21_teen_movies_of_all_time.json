@@ -4,9 +4,29 @@
     "source": "https://www.indiewire.com/features/general/the-top-21-teen-movies-of-all-time-131037/",
     "created_by": "lbnt",
     "added": "04/26/24",
-    "modified": "11/01/26",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/1lUcNQpp0uZZdANEYnDhG9Bz3KI.jpg",
+            "id": 28696,
+            "original_language": "en",
+            "original_title": "The Wild One",
+            "overview": "Les Rebelles noirs, une quarantaine d'adolescents casques et bottes, rev\u00eatus de blousons de cuir marqu\u00e9s d'une t\u00eate de mort, prennent la route sur leurs motos. Ils assistent \u00e0 une course de motos, envahissent la piste et volent un prix. Ils disparaissent jusqu'\u00e0 la petite ville voisine qu'ils vont occuper peu \u00e0 peu jusqu'\u00e0 la mettre compl\u00e8tement \u00e0 sac.",
+            "popularity": 0.918,
+            "poster_path": "/s52W3KEqPhVMMxPie4pwzjWSd5K.jpg",
+            "release_date": "1953-12-30",
+            "title": "L'\u00c9quip\u00e9e sauvage",
+            "video": false,
+            "vote_average": 6.568,
+            "vote_count": 316,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Des passions enflamm\u00e9es dans une histoire en \u00e9bullition !",
+            "runtime": 79
+        },
         {
             "adult": false,
             "backdrop_path": "/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
@@ -14,7 +34,7 @@
             "original_language": "sv",
             "original_title": "Sommaren med Monika",
             "overview": "Monika, jeune fille \u00e9prise de libert\u00e9, et Harry, jeune livreur, fuient leur famille et partent vivre sur une \u00eele.",
-            "popularity": 1.0314,
+            "popularity": 1.0682,
             "poster_path": "/jLNuviXy96xOgRE5HM2UXMozYw0.jpg",
             "release_date": "1953-02-09",
             "title": "Monika",
@@ -25,8 +45,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -35,7 +55,7 @@
             "original_language": "en",
             "original_title": "Rebel Without a Cause",
             "overview": "Jim Stark est le petit nouveau au lyc\u00e9e. Un jeune homme accabl\u00e9 de probl\u00e8mes familiaux et brim\u00e9 par ses camarades mais qui n'aspire qu'\u00e0 se faire une place parmi ses camarades. Entra\u00een\u00e9 malgr\u00e9 lui dans un d\u00e9fi de vitesse face \u00e0 Buzz, chef d'un groupe un peu rebelle, ce dernier y perdra la vie. Suite \u00e0 ce drame, Jim est entra\u00een\u00e9 dans une spirale de violence.",
-            "popularity": 2.0907,
+            "popularity": 2.7935,
             "poster_path": "/7Ve2oZJ8QBUhlMgzPMYkJQtORNX.jpg",
             "release_date": "1955-10-27",
             "title": "La Fureur de vivre",
@@ -45,153 +65,8 @@
             "genres": [
                 "Drame"
             ],
-            "runtime": 111,
-            "tagline": "Le mauvais gar\u00e7on d'une bonne famille\u2026"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
-            "id": 704,
-            "original_language": "en",
-            "original_title": "A Hard Day's Night",
-            "overview": "En 1964, les Beatles prennent le train pour donner un concert. Le grand-p\u00e8re de l'un d'eux, qui les accompagne et dont la devise est de semer le d\u00e9sordre et l'anarchie partout o\u00f9 il passe, dispara\u00eet soudain avec son petit-fils. Commence alors une course folle pour les retrouver avant que le concert ne commence.",
-            "popularity": 1.1808,
-            "poster_path": "/iHbMBFc1wQu3gwcJqPNHbjofSxD.jpg",
-            "release_date": "1964-07-07",
-            "title": "Quatre gar\u00e7ons dans le vent",
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 721,
-            "genres": [
-                "Com\u00e9die",
-                "Musique"
-            ],
-            "runtime": 87,
-            "tagline": "Nous sommes en 1964 et quatre gar\u00e7ons de Liverpool sont sur le point de changer le monde ..."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/n31i51vwTOOUxKd1DWU2r6if0XR.jpg",
-            "id": 10373,
-            "original_language": "en",
-            "original_title": "Quadrophenia",
-            "overview": "Derri\u00e8re la musique des Who, un film d\u00e9sesp\u00e9r\u00e9 sur la jeunesse perdue dans la drogue et la violence.",
-            "popularity": 1.1031,
-            "poster_path": "/tJug5kC9baoPxWXIDtdqxMwM2bH.jpg",
-            "release_date": "1979-09-14",
-            "title": "Quadrophenia",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 275,
-            "genres": [
-                "Drame",
-                "Musique"
-            ],
-            "runtime": 120,
-            "tagline": ""
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1lUcNQpp0uZZdANEYnDhG9Bz3KI.jpg",
-            "id": 28696,
-            "original_language": "en",
-            "original_title": "The Wild One",
-            "overview": "Les Rebelles noirs, une quarantaine d'adolescents casques et bottes, rev\u00eatus de blousons de cuir marqu\u00e9s d'une t\u00eate de mort, prennent la route sur leurs motos. Ils assistent \u00e0 une course de motos, envahissent la piste et volent un prix. Ils disparaissent jusqu'\u00e0 la petite ville voisine qu'ils vont occuper peu \u00e0 peu jusqu'\u00e0 la mettre compl\u00e8tement \u00e0 sac.",
-            "popularity": 1.1306,
-            "poster_path": "/s52W3KEqPhVMMxPie4pwzjWSd5K.jpg",
-            "release_date": "1953-12-30",
-            "title": "L'\u00c9quip\u00e9e sauvage",
-            "video": false,
-            "vote_average": 6.568,
-            "vote_count": 316,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 79,
-            "tagline": "Des passions enflamm\u00e9es dans une histoire en \u00e9bullition !"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/suP5OvMzfzEt0MHD61T1x2rk6xf.jpg",
-            "id": 31742,
-            "original_language": "it",
-            "original_title": "Il posto",
-            "overview": "Domenico, de milieu modeste, est engag\u00e9 dans une soci\u00e9t\u00e9 o\u00f9 travaille la belle Antonietta. Danc ce monde ferm\u00e9 et routinier, Domenico connait une cruelle d\u00e9ception amoureuse. Antonietta lui pr\u00e9f\u00e8re ses coll\u00e8gues, plus modernes \u00e0 son go\u00fbt.",
-            "popularity": 1.6657,
-            "poster_path": "/yfOQ8fjbGxSKYoNQcoLyCOa30uC.jpg",
-            "release_date": "1961-09-21",
-            "title": "L'Emploi",
-            "video": false,
-            "vote_average": 7.649,
-            "vote_count": 168,
-            "genres": [
-                "Drame"
-            ],
-            "runtime": 98,
-            "tagline": "Prix de l'Office Catholique et Prix de la Critique internationale au Festival de Venise 1961"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
-            "id": 838,
-            "original_language": "en",
-            "original_title": "American Graffiti",
-            "overview": "En 1962, les destins crois\u00e9s d'un groupe de jeunes dans une bourgade de Californie, autour des courses de voitures, de la musique rock, des soir\u00e9es et des rencontres.",
-            "popularity": 4.1455,
-            "poster_path": "/1bvAKQW9MuHiIGSnbuny0GGdwp1.jpg",
-            "release_date": "1973-08-11",
-            "title": "American Graffiti",
-            "video": false,
-            "vote_average": 7.03,
-            "vote_count": 1534,
-            "genres": [
-                "Com\u00e9die",
-                "Drame"
-            ],
-            "runtime": 110,
-            "tagline": "O\u00f9 \u00e9tiez-vous en 1962 ?"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/d3u97tjDhvPJjeyYMTIEfodtk9j.jpg",
-            "id": 42501,
-            "original_language": "fr",
-            "original_title": "Le Souffle au c\u0153ur",
-            "overview": "Dijon 1954. Une famille bourgeoise. Laurent, 15 ans, vit avec son p\u00e8re, ses deux fr\u00e8res et sa m\u00e8re, Clara. Sa vie se d\u00e9roule en une suite de faits plus ou moins notables jusqu'au jour o\u00f9 il est atteint d'un souffle au c\u0153ur. Il part en compagnie de sa m\u00e8re faire une cure dans le Morvan. Un tendre marivaudage s'instaure alors entre eux.",
-            "popularity": 1.6502,
-            "poster_path": "/7JosnBDCu9fnJZlQ5Bw9u8cwQcE.jpg",
-            "release_date": "1971-04-27",
-            "title": "Le Souffle au c\u0153ur",
-            "video": false,
-            "vote_average": 7.0,
-            "vote_count": 205,
-            "genres": [
-                "Drame",
-                "Com\u00e9die"
-            ],
-            "runtime": 118,
-            "tagline": "Un souffle de film!"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fEiOrpMvC4IXVWhZPfJd53sclUJ.jpg",
-            "id": 21764,
-            "original_language": "en",
-            "original_title": "Gregory's Girl",
-            "overview": "Une petite ville de la banlieue de Glasgow. Gregory, un adolescent de 16 ans, s'int\u00e9resse aux \u00e9tudes, au sport et aux filles. H\u00e9las, ses r\u00e9sultats scolaires ne sont pas brillants, ses performances sportives sont peu louables et ses relations avec les filles presque inexistantes, en raison de son extr\u00eame timidit\u00e9. Un jour, l'entra\u00eeneur de son \u00e9quipe de foot d\u00e9cide d'engager une fille, Dorothy, pour tenir un poste \u00e0 l'avant.",
-            "popularity": 0.7377,
-            "poster_path": "/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
-            "release_date": "1981-04-23",
-            "title": "Une fille pour Gregory",
-            "video": false,
-            "vote_average": 6.739,
-            "vote_count": 142,
-            "genres": [
-                "Com\u00e9die",
-                "Romance"
-            ],
-            "runtime": 91,
-            "tagline": ""
+            "tagline": "Le mauvais gar\u00e7on d'une bonne famille\u2026",
+            "runtime": 111
         },
         {
             "adult": false,
@@ -200,7 +75,7 @@
             "original_language": "ja",
             "original_title": "\u9752\u6625\u6b8b\u9177\u7269\u8a9e",
             "overview": "Makoto, une adolescente un peu perdue \u00e0 la recherche d'exp\u00e9riences nouvelles et de sensations fortes, accepte de suivre des inconnus dans leur voiture. Un jour, elle rencontre un jeune homme, Kiyoshi, mi-\u00e9tudiant, mi-d\u00e9linquant, et d\u00e9cide de quitter sa famille pour aller vivre avec lui...",
-            "popularity": 1.7326,
+            "popularity": 1.6048,
             "poster_path": "/6pYg3Fo7kSWg76bNjkMbJoGvxvX.jpg",
             "release_date": "1960-06-03",
             "title": "Contes cruels de la jeunesse",
@@ -212,8 +87,133 @@
                 "Drame",
                 "Crime"
             ],
-            "runtime": 96,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/suP5OvMzfzEt0MHD61T1x2rk6xf.jpg",
+            "id": 31742,
+            "original_language": "it",
+            "original_title": "Il posto",
+            "overview": "Domenico, de milieu modeste, est engag\u00e9 dans une soci\u00e9t\u00e9 o\u00f9 travaille la belle Antonietta. Danc ce monde ferm\u00e9 et routinier, Domenico connait une cruelle d\u00e9ception amoureuse. Antonietta lui pr\u00e9f\u00e8re ses coll\u00e8gues, plus modernes \u00e0 son go\u00fbt.",
+            "popularity": 1.417,
+            "poster_path": "/yfOQ8fjbGxSKYoNQcoLyCOa30uC.jpg",
+            "release_date": "1961-09-21",
+            "title": "L'Emploi",
+            "video": false,
+            "vote_average": 7.649,
+            "vote_count": 168,
+            "genres": [
+                "Drame"
+            ],
+            "tagline": "Prix de l'Office Catholique et Prix de la Critique internationale au Festival de Venise 1961",
+            "runtime": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+            "id": 704,
+            "original_language": "en",
+            "original_title": "A Hard Day's Night",
+            "overview": "En 1964, les Beatles prennent le train pour donner un concert. Le grand-p\u00e8re de l'un d'eux, qui les accompagne et dont la devise est de semer le d\u00e9sordre et l'anarchie partout o\u00f9 il passe, dispara\u00eet soudain avec son petit-fils. Commence alors une course folle pour les retrouver avant que le concert ne commence.",
+            "popularity": 1.3649,
+            "poster_path": "/iHbMBFc1wQu3gwcJqPNHbjofSxD.jpg",
+            "release_date": "1964-07-07",
+            "title": "Quatre gar\u00e7ons dans le vent",
+            "video": false,
+            "vote_average": 7.321,
+            "vote_count": 722,
+            "genres": [
+                "Com\u00e9die",
+                "Musique"
+            ],
+            "tagline": "Nous sommes en 1964 et quatre gar\u00e7ons de Liverpool sont sur le point de changer le monde ...",
+            "runtime": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d3u97tjDhvPJjeyYMTIEfodtk9j.jpg",
+            "id": 42501,
+            "original_language": "fr",
+            "original_title": "Le Souffle au c\u0153ur",
+            "overview": "Dijon 1954. Une famille bourgeoise. Laurent, 15 ans, vit avec son p\u00e8re, ses deux fr\u00e8res et sa m\u00e8re, Clara. Sa vie se d\u00e9roule en une suite de faits plus ou moins notables jusqu'au jour o\u00f9 il est atteint d'un souffle au c\u0153ur. Il part en compagnie de sa m\u00e8re faire une cure dans le Morvan. Un tendre marivaudage s'instaure alors entre eux.",
+            "popularity": 1.8375,
+            "poster_path": "/7JosnBDCu9fnJZlQ5Bw9u8cwQcE.jpg",
+            "release_date": "1971-04-27",
+            "title": "Le Souffle au c\u0153ur",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 205,
+            "genres": [
+                "Drame",
+                "Com\u00e9die"
+            ],
+            "tagline": "Un souffle de film!",
+            "runtime": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+            "id": 838,
+            "original_language": "en",
+            "original_title": "American Graffiti",
+            "overview": "En 1962, les destins crois\u00e9s d'un groupe de jeunes dans une bourgade de Californie, autour des courses de voitures, de la musique rock, des soir\u00e9es et des rencontres.",
+            "popularity": 4.1729,
+            "poster_path": "/1bvAKQW9MuHiIGSnbuny0GGdwp1.jpg",
+            "release_date": "1973-08-11",
+            "title": "American Graffiti",
+            "video": false,
+            "vote_average": 7.032,
+            "vote_count": 1535,
+            "genres": [
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "O\u00f9 \u00e9tiez-vous en 1962 ?",
+            "runtime": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n31i51vwTOOUxKd1DWU2r6if0XR.jpg",
+            "id": 10373,
+            "original_language": "en",
+            "original_title": "Quadrophenia",
+            "overview": "Derri\u00e8re la musique des Who, un film d\u00e9sesp\u00e9r\u00e9 sur la jeunesse perdue dans la drogue et la violence.",
+            "popularity": 1.0468,
+            "poster_path": "/tJug5kC9baoPxWXIDtdqxMwM2bH.jpg",
+            "release_date": "1979-09-14",
+            "title": "Quadrophenia",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 275,
+            "genres": [
+                "Drame",
+                "Musique"
+            ],
+            "tagline": "",
+            "runtime": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEiOrpMvC4IXVWhZPfJd53sclUJ.jpg",
+            "id": 21764,
+            "original_language": "en",
+            "original_title": "Gregory's Girl",
+            "overview": "Une petite ville de la banlieue de Glasgow. Gregory, un adolescent de 16 ans, s'int\u00e9resse aux \u00e9tudes, au sport et aux filles. H\u00e9las, ses r\u00e9sultats scolaires ne sont pas brillants, ses performances sportives sont peu louables et ses relations avec les filles presque inexistantes, en raison de son extr\u00eame timidit\u00e9. Un jour, l'entra\u00eeneur de son \u00e9quipe de foot d\u00e9cide d'engager une fille, Dorothy, pour tenir un poste \u00e0 l'avant.",
+            "popularity": 0.6232,
+            "poster_path": "/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
+            "release_date": "1981-04-23",
+            "title": "Une fille pour Gregory",
+            "video": false,
+            "vote_average": 6.739,
+            "vote_count": 142,
+            "genres": [
+                "Com\u00e9die",
+                "Romance"
+            ],
+            "tagline": "",
+            "runtime": 91
         },
         {
             "adult": false,
@@ -222,7 +222,7 @@
             "original_language": "en",
             "original_title": "Fast Times at Ridgemont High",
             "overview": "Bas\u00e9 sur les chroniques \u00e9crites par Cameron Crowe, le film suit l'histoire d'un groupe de jeunes \u00e9tudiants dans le sud de la Californie.",
-            "popularity": 3.4993,
+            "popularity": 3.8606,
             "poster_path": "/xWDgQefKPFmiXLmEsPWkHvAwvSI.jpg",
             "release_date": "1982-08-13",
             "title": "\u00c7a chauffe au lyc\u00e9e Ridgemont",
@@ -233,8 +233,8 @@
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 90,
-            "tagline": "Voitures rapides, filles rapides, carottes rapides\u2026 Carottes rapides ?"
+            "tagline": "Voitures rapides, filles rapides, carottes rapides\u2026 Carottes rapides ?",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -243,7 +243,7 @@
             "original_language": "fr",
             "original_title": "Pauline \u00e0 la plage",
             "overview": "Apr\u00e8s son divorce, Marion d\u00e9cide de terminer l'\u00e9t\u00e9 sur la c\u00f4te normande, en compagnie de sa cousine Pauline. Les deux jeunes femmes vont vivre des histoires d'amour inattendues\u2026",
-            "popularity": 0.9809,
+            "popularity": 1.7631,
             "poster_path": "/etELlm7GUQDOwT42SKAuzWs0TZl.jpg",
             "release_date": "1983-03-23",
             "title": "Pauline \u00e0 la plage",
@@ -255,8 +255,8 @@
                 "Romance",
                 "Com\u00e9die"
             ],
-            "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "runtime": 90
         },
         {
             "adult": false,
@@ -265,7 +265,7 @@
             "original_language": "en",
             "original_title": "The Breakfast Club",
             "overview": "Cinq lyc\u00e9ens aux personnalit\u00e9s totalement oppos\u00e9es se retrouvent en colle un samedi. Le professeur qui les surveille leur demande \u00e0 chacun de faire une dissertation de 1 000 mots avec pour sujet\u00a0: \u00ab\u00a0Qui pensez\u2010vous \u00eatre\u202f?\u00a0\u00bb. Au fur et \u00e0 mesure que la journ\u00e9e passe, ils discutent, se d\u00e9chirent et finissent par se trouver plus de points communs qu\u2019ils ne pensaient.",
-            "popularity": 7.0198,
+            "popularity": 7.1325,
             "poster_path": "/9AqAUMwqTwANhtTRTOiiG3i0BPU.jpg",
             "release_date": "1985-02-15",
             "title": "Breakfast Club",
@@ -276,8 +276,49 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 97,
-            "tagline": "Une seule rencontre suffit pour changer leur vie."
+            "tagline": "Une seule rencontre suffit pour changer leur vie.",
+            "runtime": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+            "id": 9377,
+            "original_language": "en",
+            "original_title": "Ferris Bueller's Day Off",
+            "overview": "Ferris Bueller, un adolescent populaire et charmeur mais aussi cancre inv\u00e9t\u00e9r\u00e9, convainc sa petite amie et son meilleur ami hypocondriaque (dont le p\u00e8re a une Ferrari) de s\u00e9cher les cours pour aller passer la journ\u00e9e \u00e0 Chicago. Pendant qu\u2019ils font les 400 coups dans la grande ville, le proviseur et la s\u0153ur de Ferris tentent, chacun de leurs c\u00f4t\u00e9s, de prouver aux parents que leur fils est un cancre et qu\u2019il a s\u00e9ch\u00e9.",
+            "popularity": 6.6768,
+            "poster_path": "/uK8fRkPfQH3nLLOX5WVEA5E2HK.jpg",
+            "release_date": "1986-06-11",
+            "title": "La Folle Journ\u00e9e de Ferris Bueller",
+            "video": false,
+            "vote_average": 7.571,
+            "vote_count": 5231,
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "tagline": "Quand certains craquent\u2026 d'autres s\u2019\u00e9clatent !",
+            "runtime": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6N2aaG46UYcgef7Vg8aUKp59poe.jpg",
+            "id": 650,
+            "original_language": "en",
+            "original_title": "Boyz n the Hood",
+            "overview": "Le passage de l'adolescence a l'age d'homme pour trois heros de la rue d'une banlieue de Los Angeles. Premier film de John Singleton fortement inspire de sa propre experience.",
+            "popularity": 4.3519,
+            "poster_path": "/pPhJFt6fqaJjHwnk43oPSFFpyum.jpg",
+            "release_date": "1991-07-12",
+            "title": "Boyz n the Hood : La loi de la rue",
+            "video": false,
+            "vote_average": 7.617,
+            "vote_count": 2162,
+            "genres": [
+                "Crime",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 112
         },
         {
             "adult": false,
@@ -286,7 +327,7 @@
             "original_language": "en",
             "original_title": "Dazed and Confused",
             "overview": "Les aventures d'\u00e9tudiants d'un lyc\u00e9e du Texas, lors de leur dernier jour de cours en mai 1976\u2026",
-            "popularity": 3.1259,
+            "popularity": 3.8825,
             "poster_path": "/wilkBmvlzTJ1lUy4VbjRctpwtcz.jpg",
             "release_date": "1993-09-24",
             "title": "G\u00e9n\u00e9ration Rebelle",
@@ -297,8 +338,8 @@
                 "Com\u00e9die",
                 "Drame"
             ],
-            "runtime": 103,
-            "tagline": "C\u2019\u00e9tait le dernier jour d\u2019\u00e9cole en 1976, une \u00e9poque qu\u2019ils n\u2019oublieraient jamais\u2026 si seulement ils pouvaient s\u2019en souvenir."
+            "tagline": "C\u2019\u00e9tait le dernier jour d\u2019\u00e9cole en 1976, une \u00e9poque qu\u2019ils n\u2019oublieraient jamais\u2026 si seulement ils pouvaient s\u2019en souvenir.",
+            "runtime": 103
         },
         {
             "adult": false,
@@ -307,19 +348,19 @@
             "original_language": "en",
             "original_title": "Clueless",
             "overview": "Deux beaux mecs font irruption dans l'univers de Cher : un nouveau camarade d'\u00e9cole sexy et son ex demi-fr\u00e8re \u00e0 l'esprit carr\u00e9 mais bien mignon. Elle apprend maintenant que lorsqu'il s'agit d'amour, elle est nulle.",
-            "popularity": 5.9776,
+            "popularity": 5.5865,
             "poster_path": "/zTnyP1ExHx1FEUh5uvkcdy7oSCr.jpg",
             "release_date": "1995-07-19",
             "title": "Clueless",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 4682,
+            "vote_average": 7.26,
+            "vote_count": 4683,
             "genres": [
                 "Com\u00e9die",
                 "Romance"
             ],
-            "runtime": 98,
-            "tagline": "Sexe. Mode. Top. \u00c7a vous g\u00eane ?"
+            "tagline": "Sexe. Mode. Top. \u00c7a vous g\u00eane ?",
+            "runtime": 98
         },
         {
             "adult": false,
@@ -328,7 +369,7 @@
             "original_language": "en",
             "original_title": "10 Things I Hate About You",
             "overview": "Au lyc\u00e9e de Padua, Bianca fait craquer tous les garcons, tandis que sa soeur ain\u00e9e Kat aurait tendance \u00e0 les faire fuir. Non qu'elle soit d'une laideur repoussante, ce serait plut\u00f4t le contraire, mais son caract\u00e8re irascible et son comportement de rebelle ne la rendent pas tr\u00e8s liante. Le p\u00e8re des jeunes filles est tr\u00e8s strict quant \u00e0 leur \u00e9ducation et leurs sorties. Il accepte que Bianca flirte a condition que Kat en fasse autant. Autant dire que l'affaire n'est pas gagn\u00e9e... Mais Cameron, qui est tombe amoureux de Bianca, imagine un plan tout simplement diabolique.",
-            "popularity": 13.1589,
+            "popularity": 12.7944,
             "poster_path": "/2Ys0Wb2ZzgaqpyJ5zh10rWoA50t.jpg",
             "release_date": "1999-03-30",
             "title": "10 bonnes raisons de te larguer",
@@ -340,28 +381,30 @@
                 "Romance",
                 "Drame"
             ],
-            "runtime": 94,
-            "tagline": "1-Ton haleine qui pue, 2-Ton p\u00e8re coinc\u00e9, 3-Tes promesses \u00e0 2 balles..."
+            "tagline": "1-Ton haleine qui pue, 2-Ton p\u00e8re coinc\u00e9, 3-Tes promesses \u00e0 2 balles...",
+            "runtime": 94
         },
         {
             "adult": false,
-            "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
-            "id": 9377,
-            "original_language": "en",
-            "original_title": "Ferris Bueller's Day Off",
-            "overview": "Ferris Bueller, un adolescent populaire et charmeur mais aussi cancre inv\u00e9t\u00e9r\u00e9, convainc sa petite amie et son meilleur ami hypocondriaque (dont le p\u00e8re a une Ferrari) de s\u00e9cher les cours pour aller passer la journ\u00e9e \u00e0 Chicago. Pendant qu\u2019ils font les 400 coups dans la grande ville, le proviseur et la s\u0153ur de Ferris tentent, chacun de leurs c\u00f4t\u00e9s, de prouver aux parents que leur fils est un cancre et qu\u2019il a s\u00e9ch\u00e9.",
-            "popularity": 5.7706,
-            "poster_path": "/uK8fRkPfQH3nLLOX5WVEA5E2HK.jpg",
-            "release_date": "1986-06-11",
-            "title": "La Folle Journ\u00e9e de Ferris Bueller",
+            "backdrop_path": "/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
+            "id": 3176,
+            "original_language": "ja",
+            "original_title": "\u30d0\u30c8\u30eb\u30fb\u30ed\u30ef\u30a4\u30a2\u30eb",
+            "overview": "Dans un avenir proche, les \u00e9l\u00e8ves de la classe B de 3\u00e8me du coll\u00e8ge Shiroiwa ont \u00e9t\u00e9 amen\u00e9s sur une \u00eele d\u00e9serte par une arm\u00e9e myst\u00e9rieuse. Un adulte surgit tout \u00e0 coup devant eux : leur ancien professeur Kitano. Il leur annonce qu'ils vont participer \u00e0 un jeu de massacre dont la r\u00e8gle consiste \u00e0 s'entretuer. Seul le dernier des survivants pourra regagner son foyer. Kitano leur pr\u00e9sente deux nouveaux \u00e9l\u00e8ves tr\u00e8s inqui\u00e9tants. Des coups de feu retentissent pour convaincre les incr\u00e9dules. Selon la loi de r\u00e9forme de l'\u00e9ducation pour le nouveau si\u00e8cle, ce sacrifice permettra de former des adultes sains. Abandonn\u00e9s chacun \u00e0 son sort avec de la nourriture et une arme, les adolescents disposent d'un d\u00e9lai de trois jours pour s'entretuer.",
+            "popularity": 5.6651,
+            "poster_path": "/laUmjb39U6glMrOKyaco4QPeGaC.jpg",
+            "release_date": "2000-12-16",
+            "title": "Battle Royale",
             "video": false,
-            "vote_average": 7.571,
-            "vote_count": 5229,
+            "vote_average": 7.271,
+            "vote_count": 3685,
             "genres": [
-                "Com\u00e9die"
+                "Drame",
+                "Thriller",
+                "Action"
             ],
-            "runtime": 103,
-            "tagline": "Quand certains craquent\u2026 d'autres s\u2019\u00e9clatent !"
+            "tagline": "42 \u00e9l\u00e8ves, trois jours, un survivant, pas de r\u00e8gles.",
+            "runtime": 114
         },
         {
             "adult": false,
@@ -370,7 +413,7 @@
             "original_language": "es",
             "original_title": "Y tu mam\u00e1 tambi\u00e9n",
             "overview": "Les vies de Julio et Tenoch, deux adolescents de 17 ans, sont r\u00e9gies par leurs hormones, leur amiti\u00e9 et la vitesse pr\u00e9cipit\u00e9e avec laquelle ils cherchent \u00e0 passer \u00e0 l'\u00e2ge adulte. Au cours d'un apr\u00e8s-midi de f\u00eate familiale, ils font la rencontre de Luisa, une Espagnole de 28 ans, et ne tardent pas \u00e0 flirter avec. En plaisantant, ils l'invitent \u00e0 les accompagner en voiture sur une plage sauvage appel\u00e9e la Boca del cielo, sans lui dire o\u00f9 elle se situe, ni m\u00eame si elle existe vraiment. Luisa les ignore aimablement, ils prennent des routes diff\u00e9rentes, l'incident est rapidement oubli\u00e9. Cependant, celle-ci re\u00e7oit des nouvelles d\u00e9vastatrices. Devant la n\u00e9cessit\u00e9 d'un changement dans sa vie, elle retrouve les gar\u00e7ons et accepte leur offre.",
-            "popularity": 4.9108,
+            "popularity": 4.3399,
             "poster_path": "/99eRV6tjlowL84D2hO6xdEVzmWe.jpg",
             "release_date": "2001-06-08",
             "title": "Y tu mam\u00e1 tambi\u00e9n",
@@ -381,51 +424,8 @@
                 "Drame",
                 "Romance"
             ],
-            "runtime": 105,
-            "tagline": "La vie a ses mani\u00e8res d'enseigner."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
-            "id": 3176,
-            "original_language": "ja",
-            "original_title": "\u30d0\u30c8\u30eb\u30fb\u30ed\u30ef\u30a4\u30a2\u30eb",
-            "overview": "Dans un avenir proche, les \u00e9l\u00e8ves de la classe B de 3\u00e8me du coll\u00e8ge Shiroiwa ont \u00e9t\u00e9 amen\u00e9s sur une \u00eele d\u00e9serte par une arm\u00e9e myst\u00e9rieuse. Un adulte surgit tout \u00e0 coup devant eux : leur ancien professeur Kitano. Il leur annonce qu'ils vont participer \u00e0 un jeu de massacre dont la r\u00e8gle consiste \u00e0 s'entretuer. Seul le dernier des survivants pourra regagner son foyer. Kitano leur pr\u00e9sente deux nouveaux \u00e9l\u00e8ves tr\u00e8s inqui\u00e9tants. Des coups de feu retentissent pour convaincre les incr\u00e9dules. Selon la loi de r\u00e9forme de l'\u00e9ducation pour le nouveau si\u00e8cle, ce sacrifice permettra de former des adultes sains. Abandonn\u00e9s chacun \u00e0 son sort avec de la nourriture et une arme, les adolescents disposent d'un d\u00e9lai de trois jours pour s'entretuer.",
-            "popularity": 5.3716,
-            "poster_path": "/laUmjb39U6glMrOKyaco4QPeGaC.jpg",
-            "release_date": "2000-12-16",
-            "title": "Battle Royale",
-            "video": false,
-            "vote_average": 7.27,
-            "vote_count": 3684,
-            "genres": [
-                "Drame",
-                "Thriller",
-                "Action"
-            ],
-            "runtime": 114,
-            "tagline": "42 \u00e9l\u00e8ves, trois jours, un survivant, pas de r\u00e8gles."
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6N2aaG46UYcgef7Vg8aUKp59poe.jpg",
-            "id": 650,
-            "original_language": "en",
-            "original_title": "Boyz n the Hood",
-            "overview": "Le passage de l'adolescence a l'age d'homme pour trois heros de la rue d'une banlieue de Los Angeles. Premier film de John Singleton fortement inspire de sa propre experience.",
-            "popularity": 4.3666,
-            "poster_path": "/pPhJFt6fqaJjHwnk43oPSFFpyum.jpg",
-            "release_date": "1991-07-12",
-            "title": "Boyz n the Hood : La loi de la rue",
-            "video": false,
-            "vote_average": 7.617,
-            "vote_count": 2162,
-            "genres": [
-                "Crime",
-                "Drame"
-            ],
-            "runtime": 112,
-            "tagline": ""
+            "tagline": "La vie a ses mani\u00e8res d'enseigner.",
+            "runtime": 105
         },
         {
             "adult": false,
@@ -434,7 +434,7 @@
             "original_language": "en",
             "original_title": "Mean Girls",
             "overview": "Cady d\u00e9barque d'Afrique et atterrit dans un lyc\u00e9e de l'Illinois, v\u00e9ritable \u00e9levage de lolitas branch\u00e9es. Au sommet de la hi\u00e9rarchie, R\u00e9gina, barbie-manipulatrice qui voit en elle une rivale potentielle et d\u00e9cide de se la jouer copine. Mais quand Cady commet l'erreur de sortir avec l'ex de R\u00e9gina, une guerre impitoyable est d\u00e9clar\u00e9e.",
-            "popularity": 12.7189,
+            "popularity": 11.7259,
             "poster_path": "/1Ju45uncn6jUUoDxwr4flUNgdYG.jpg",
             "release_date": "2004-04-30",
             "title": "Lolita malgr\u00e9 moi",
@@ -445,8 +445,8 @@
                 "Drame",
                 "Com\u00e9die"
             ],
-            "runtime": 98,
-            "tagline": "Bienvenue dans le monde des filles."
+            "tagline": "Bienvenue dans le monde des filles.",
+            "runtime": 98
         }
     ]
 }
