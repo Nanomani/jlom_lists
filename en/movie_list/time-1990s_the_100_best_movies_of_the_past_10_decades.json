@@ -4,203 +4,222 @@
     "source": "https://time.com/collection/100-best-movies/",
     "created_by": "lbnt",
     "added": "04/26/24",
-    "modified": "04/26/24",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
-            "genre_ids": [
-                28,
-                53,
-                80
-            ],
+            "backdrop_path": "/bL3rgYFs0NTAoLBMpCBIJ7aX6hp.jpg",
             "id": 11782,
             "original_language": "cn",
             "original_title": "\u8fa3\u624b\u795e\u63a2",
             "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
-            "popularity": 36.049,
-            "poster_path": "/wuljacjo7DCzUzDianeZZwPb6to.jpg",
+            "popularity": 4.4162,
+            "poster_path": "/mbA77wY7fjh2TSQ3FxEuqpKOOA8.jpg",
             "release_date": "1992-04-16",
             "title": "Hard Boiled",
             "video": false,
-            "vote_average": 7.531,
-            "vote_count": 747
+            "vote_average": 7.5,
+            "vote_count": 887,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 126,
+            "tagline": "As a cop, he has brains, brawn, and an instinct to kill."
         },
         {
             "adult": false,
-            "backdrop_path": "/yj9VAqzlA0kasae8rK1VG3NvDZk.jpg",
-            "genre_ids": [
-                18,
-                36
-            ],
+            "backdrop_path": "/2yZdgLUHmhL1UG57OYc2yksrmPl.jpg",
             "id": 1883,
             "original_language": "en",
             "original_title": "Malcolm X",
             "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
-            "popularity": 48.464,
+            "popularity": 3.4008,
             "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
             "release_date": "1992-11-18",
             "title": "Malcolm X",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1565
+            "vote_average": 7.537,
+            "vote_count": 1817,
+            "genres": [
+                "Drama",
+                "History"
+            ],
+            "runtime": 202,
+            "tagline": "Scholar, convict, leader, disciple, hipster, father, hustler, minister, black man, every man."
         },
         {
             "adult": false,
-            "backdrop_path": "/acrTNzWBbZ3fvwaEL4ZJSFyNBah.jpg",
-            "genre_ids": [
-                80,
-                18,
-                10749,
-                53
-            ],
+            "backdrop_path": "/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
             "id": 6075,
             "original_language": "en",
             "original_title": "Carlito's Way",
-            "overview": "A Puerto-Rican ex-con, just released from prison, pledges to stay away from drugs and violence despite the pressure around him, and lead a better life outside NYC.",
-            "popularity": 58.379,
+            "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+            "popularity": 4.3041,
             "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
             "release_date": "1993-11-10",
             "title": "Carlito's Way",
             "video": false,
-            "vote_average": 7.836,
-            "vote_count": 2992
+            "vote_average": 7.826,
+            "vote_count": 3362,
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "runtime": 144,
+            "tagline": "He's got a good future if he can live past next week."
         },
         {
             "adult": false,
-            "backdrop_path": "/8e6avmXiqurj5LHkmdHBq6rc5jm.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749
-            ],
+            "backdrop_path": "/vuglA60RqvpHK9rIcG8sXaiWw1L.jpg",
             "id": 11104,
             "original_language": "cn",
             "original_title": "\u91cd\u6176\u68ee\u6797",
             "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
-            "popularity": 60.039,
+            "popularity": 5.6538,
             "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
             "release_date": "1994-07-14",
             "title": "Chungking Express",
             "video": false,
-            "vote_average": 7.994,
-            "vote_count": 1670
+            "vote_average": 7.966,
+            "vote_count": 2086,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 103,
+            "tagline": "If my memory of her has an expiration date, let it be 10,000 years..."
         },
         {
             "adult": false,
             "backdrop_path": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
-            "genre_ids": [
-                18,
-                10749
-            ],
             "id": 76,
             "original_language": "en",
             "original_title": "Before Sunrise",
-            "overview": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
-            "popularity": 64.673,
+            "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+            "popularity": 5.6919,
             "poster_path": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
             "release_date": "1995-01-27",
             "title": "Before Sunrise",
             "video": false,
             "vote_average": 8.0,
-            "vote_count": 3926
+            "vote_count": 4522,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 101,
+            "tagline": "Can the greatest romance of your life last only one night?"
         },
         {
             "adult": false,
-            "backdrop_path": "/9Kfi1QDVGbMzzi06n8c6A789odL.jpg",
-            "genre_ids": [
-                18,
-                14,
-                37
-            ],
+            "backdrop_path": "/a7DtgKB187dUm9n81IlvNzVXsK1.jpg",
             "id": 922,
             "original_language": "en",
             "original_title": "Dead Man",
-            "overview": "A fatally wounded white man is found by an outcast Native American who prepares him for the afterlife.",
-            "popularity": 41.401,
-            "poster_path": "/dOvHDs2jlMYL1dMfbFabEwyBNWg.jpg",
+            "overview": "On the run after committing murder, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
+            "popularity": 2.9981,
+            "poster_path": "/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg",
             "release_date": "1995-12-23",
             "title": "Dead Man",
             "video": false,
-            "vote_average": 7.304,
-            "vote_count": 1491
+            "vote_average": 7.3,
+            "vote_count": 1672,
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Western"
+            ],
+            "runtime": 121,
+            "tagline": "It is preferable not to travel with a dead man."
         },
         {
             "adult": false,
             "backdrop_path": "/iK3JJvaWg67dQQyob3SqDsnQpHo.jpg",
-            "genre_ids": [
-                35,
-                18
-            ],
             "id": 25355,
             "original_language": "fr",
             "original_title": "Irma Vep",
-            "overview": "Hong Kong action diva Maggie Cheung (playing herself) comes to France when a past-his-prime director casts her in a remake of the silent classic Les Vampires. Clad in a rubber catsuit and unable to speak a word of French, Cheung finds herself adrift in the insanity of the film industry\u2026",
-            "popularity": 26.186,
+            "overview": "Hong Kong action diva Maggie Cheung comes to France when a past-his-prime director casts her in a remake of the silent classic Les Vampires. Clad in a rubber catsuit and unable to speak a word of French, Cheung finds herself adrift in the insanity of the film industry\u2026",
+            "popularity": 1.6979,
             "poster_path": "/9Z84G7mn8eS7WxiHr5CrXRrneaF.jpg",
             "release_date": "1996-10-01",
             "title": "Irma Vep",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 180
+            "vote_average": 6.66,
+            "vote_count": 237,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "runtime": 99,
+            "tagline": "A Latex Comedy"
         },
         {
             "adult": false,
-            "backdrop_path": "/mXELcGjyU0osFfUCiz1YdAn470M.jpg",
-            "genre_ids": [
-                80,
-                18,
-                53
-            ],
+            "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
             "id": 184,
             "original_language": "en",
             "original_title": "Jackie Brown",
             "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
-            "popularity": 53.593,
-            "poster_path": "/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
+            "popularity": 4.7284,
+            "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
             "release_date": "1997-12-25",
             "title": "Jackie Brown",
             "video": false,
-            "vote_average": 7.36,
-            "vote_count": 6070
+            "vote_average": 7.358,
+            "vote_count": 6749,
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "runtime": 154,
+            "tagline": "This Christmas, Santa's got a brand new bag."
         },
         {
             "adult": false,
             "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
-            "genre_ids": [
-                35,
-                18
-            ],
             "id": 99,
             "original_language": "es",
             "original_title": "Todo sobre mi madre",
             "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
-            "popularity": 26.596,
+            "popularity": 2.4026,
             "poster_path": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
             "release_date": "1999-04-16",
             "title": "All About My Mother",
             "video": false,
-            "vote_average": 7.65,
-            "vote_count": 1798
+            "vote_average": 7.629,
+            "vote_count": 2004,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "runtime": 101,
+            "tagline": "Part of every woman is a mother/actress/saint/sinner. And part of every man is a woman."
         },
         {
             "adult": false,
-            "backdrop_path": "/3CMT4APmiXBuFn3NYUZVGoA4knF.jpg",
-            "genre_ids": [
-                18
-            ],
+            "backdrop_path": "/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
             "id": 14626,
             "original_language": "fr",
             "original_title": "Beau travail",
             "overview": "Foreign Legion officer Galoup recalls his once glorious life, training troops in the Gulf of Djibouti. His existence there was happy, strict and regimented, until the arrival of a promising young recruit, Sentain, plants the seeds of jealousy in Galoup's mind.",
-            "popularity": 32.512,
-            "poster_path": "/m3FaQ55Ywk0oUBDrBVarHOcXZw6.jpg",
+            "popularity": 0.9233,
+            "poster_path": "/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
             "release_date": "2000-05-03",
             "title": "Beau Travail",
             "video": false,
-            "vote_average": 6.99,
-            "vote_count": 256
+            "vote_average": 7.1,
+            "vote_count": 343,
+            "genres": [
+                "Drama"
+            ],
+            "runtime": 93,
+            "tagline": "Maybe freedom begins with remorse."
         }
     ]
 }

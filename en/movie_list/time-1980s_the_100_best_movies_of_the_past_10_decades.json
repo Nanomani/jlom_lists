@@ -4,205 +4,225 @@
     "source": "https://time.com/collection/100-best-movies/",
     "created_by": "lbnt",
     "added": "04/26/24",
-    "modified": "04/26/24",
+    "modified": "12/01/26",
     "ordered_by": "year",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
-            "genre_ids": [
-                12,
-                28,
-                878
-            ],
+            "backdrop_path": "/ycBA7zK0v32oY4ohcK5dV3LjJbB.jpg",
             "id": 1891,
             "original_language": "en",
             "original_title": "The Empire Strikes Back",
             "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
-            "popularity": 60.684,
+            "popularity": 8.7433,
             "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
             "release_date": "1980-05-20",
             "title": "The Empire Strikes Back",
             "video": false,
-            "vote_average": 8.39,
-            "vote_count": 16381
+            "vote_average": 8.393,
+            "vote_count": 17960,
+            "genres": [
+                "Adventure",
+                "Action",
+                "Science Fiction"
+            ],
+            "runtime": 124,
+            "tagline": "The Star Wars saga continues."
         },
         {
             "adult": false,
             "backdrop_path": "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
-            "genre_ids": [
-                53,
-                9648,
-                80
-            ],
             "id": 11644,
             "original_language": "en",
             "original_title": "Blow Out",
-            "overview": "Jack Terry is a master sound recordist who works on grade-B horror movies. Late one evening, he is recording sounds for use in his movies when he hears something unexpected through his sound equipment and records it. Curiosity gets the better of him when the media become involved, and he begins to unravel the pieces of a nefarious conspiracy. As he struggles to survive against his shadowy enemies and expose the truth, he does not know whom he can trust.",
-            "popularity": 37.682,
-            "poster_path": "/weMW1wLzeagP3tw6BfmYf1iL7dz.jpg",
+            "overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead \u2014 a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+            "popularity": 2.2423,
+            "poster_path": "/nzYNrav10oXRKDy183PeDG3XoeT.jpg",
             "release_date": "1981-07-24",
             "title": "Blow Out",
             "video": false,
-            "vote_average": 7.36,
-            "vote_count": 1349
+            "vote_average": 7.4,
+            "vote_count": 1612,
+            "genres": [
+                "Thriller",
+                "Mystery",
+                "Crime"
+            ],
+            "runtime": 108,
+            "tagline": "Murder has a sound all of its own."
         },
         {
             "adult": false,
-            "backdrop_path": "/zlp6WHCh44zzG4aFxQW8dmczuBH.jpg",
-            "genre_ids": [
-                878,
-                12,
-                10751,
-                14
-            ],
+            "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
             "id": 601,
             "original_language": "en",
             "original_title": "E.T. the Extra-Terrestrial",
-            "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
-            "popularity": 70.735,
-            "poster_path": "/pEKStszBzTZCvR0H4tosjqxmE7X.jpg",
+            "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+            "popularity": 15.2248,
+            "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
             "release_date": "1982-06-11",
             "title": "E.T. the Extra-Terrestrial",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 10839
+            "vote_average": 7.511,
+            "vote_count": 11735,
+            "genres": [
+                "Science Fiction",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "runtime": 115,
+            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home."
         },
         {
             "adult": false,
-            "backdrop_path": "/g7mJzVVRFK0PwVJOsJMyOcq9xTX.jpg",
-            "genre_ids": [
-                35
-            ],
+            "backdrop_path": "/uTz92k0CfZpn1p3xRmPbgt7MQTz.jpg",
             "id": 13342,
             "original_language": "en",
             "original_title": "Fast Times at Ridgemont High",
-            "overview": "Based on the real-life adventures chronicled by Cameron Crowe, Fast Times follows a group of high school students growing up in Southern California. Stacy Hamilton and Mark Ratner are looking for a love interest, and are helped along by their older classmates, Linda Barrett and Mike Damone, respectively. At the center of the film is Jeff Spicoli, a perpetually stoned surfer who faces-off with the resolute Mr. Hand\u2014a man convinced that everyone is on dope.",
-            "popularity": 36.565,
+            "overview": "Based on the real-life adventures chronicled by Cameron Crowe, Fast Times follows a group of high school students growing up in Southern California. Stacy Hamilton and Mark Ratner are looking for love, and are helped along by their older classmates, Linda Barrett and Mike Damone. Jeff Spicoli, a perpetually stoned surfer faces-off with the resolute teacher, Mr. Hand. Hilarity and heartbreak ensue.",
+            "popularity": 3.8606,
             "poster_path": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
             "release_date": "1982-08-13",
             "title": "Fast Times at Ridgemont High",
             "video": false,
-            "vote_average": 6.811,
-            "vote_count": 1161
+            "vote_average": 6.8,
+            "vote_count": 1331,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 90,
+            "tagline": "At Ridgemont High, only the rules get busted!"
         },
         {
             "adult": false,
             "backdrop_path": "/oWtUJSIfN4umPrwiHwawhMuDZlL.jpg",
-            "genre_ids": [
-                10752,
-                18
-            ],
             "id": 42130,
             "original_language": "it",
             "original_title": "La notte di San Lorenzo",
             "overview": "The Night of San Lorenzo, the night of the shooting stars, is the night when dreams come true in Italian folklore. In 1944, a group of Italians flee their town after hearing rumours that the Nazis plan to blow it up and that the Americans are about to arrive to liberate them.",
-            "popularity": 14.351,
+            "popularity": 0.5974,
             "poster_path": "/u9QgkfHj90rr33KhjLlk5tr7bVg.jpg",
             "release_date": "1982-09-16",
             "title": "The Night of the Shooting Stars",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 113
+            "vote_average": 7.088,
+            "vote_count": 125,
+            "genres": [
+                "War",
+                "Drama"
+            ],
+            "runtime": 105,
+            "tagline": ""
         },
         {
             "adult": false,
-            "backdrop_path": "/w2KUVzeOC1u6cQwvUV0qqi7QYxs.jpg",
-            "genre_ids": [
-                18,
-                36,
-                12
-            ],
+            "backdrop_path": "/jPdRlbRBHGl2POLLk6Oylbav7ac.jpg",
             "id": 9549,
             "original_language": "en",
             "original_title": "The Right Stuff",
-            "overview": "As the Space Race ensues, seven pilots set off on a path to become the first American astronauts to enter space. However, the road to making history brings forth momentous challenges.",
-            "popularity": 33.276,
-            "poster_path": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+            "overview": "At the dawn of the Space Race, seven test pilots set out to become the first American astronauts to enter space. However, the road to making history brings momentous challenges.",
+            "popularity": 2.6045,
+            "poster_path": "/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg",
             "release_date": "1983-10-20",
             "title": "The Right Stuff",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 818
+            "vote_average": 7.415,
+            "vote_count": 931,
+            "genres": [
+                "Drama",
+                "History",
+                "Adventure"
+            ],
+            "runtime": 193,
+            "tagline": "How the future began."
         },
         {
             "adult": false,
             "backdrop_path": "/lns7roobSPQQTF54oSPzkT3qH1q.jpg",
-            "genre_ids": [
-                99
-            ],
             "id": 1563,
             "original_language": "fr",
             "original_title": "Sans soleil",
             "overview": "A woman narrates the thoughts of a world traveler, meditations on time and memory expressed in words and images from places as far-flung as Japan, Guinea-Bissau, Iceland, and San Francisco.",
-            "popularity": 21.663,
-            "poster_path": "/2ZmVbnecEeGoZCimxMhpY0Nz7eh.jpg",
+            "popularity": 0.8733,
+            "poster_path": "/sspJu9K03FZQP8A1cheurkiePD0.jpg",
             "release_date": "1983-03-02",
             "title": "Sans Soleil",
             "video": false,
-            "vote_average": 7.434,
-            "vote_count": 219
+            "vote_average": 7.4,
+            "vote_count": 259,
+            "genres": [
+                "Documentary"
+            ],
+            "runtime": 100,
+            "tagline": "He wrote me..."
         },
         {
             "adult": false,
-            "backdrop_path": "/pP0b891rdleTVFCLPvNQ03pf2sP.jpg",
-            "genre_ids": [
-                80,
-                18,
-                9648,
-                53
-            ],
+            "backdrop_path": "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
             "id": 793,
             "original_language": "en",
             "original_title": "Blue Velvet",
-            "overview": "Clean-cut Jeffrey Beaumont realizes his hometown is not so normal when he discovers a human ear in a field, the investigation soon catapulting him toward a disturbed nightclub singer and a drug-addicted sadist.",
-            "popularity": 69.629,
-            "poster_path": "/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
+            "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "popularity": 4.2869,
+            "poster_path": "/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg",
             "release_date": "1986-09-19",
             "title": "Blue Velvet",
             "video": false,
-            "vote_average": 7.626,
-            "vote_count": 3137
+            "vote_average": 7.6,
+            "vote_count": 3674,
+            "genres": [
+                "Mystery",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 120,
+            "tagline": "It's a strange world, isn't it?"
         },
         {
             "adult": false,
             "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 2039,
             "original_language": "en",
             "original_title": "Moonstruck",
             "overview": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples about aggressively pursuing her while Johnny is out of the country. As Loretta falls for Ronny, she learns that she's not the only one in her family with a secret romance.",
-            "popularity": 49.472,
+            "popularity": 2.6471,
             "poster_path": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
             "release_date": "1987-12-16",
             "title": "Moonstruck",
             "video": false,
-            "vote_average": 6.855,
-            "vote_count": 875
+            "vote_average": 6.837,
+            "vote_count": 1057,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 102,
+            "tagline": "Life. Family. Love."
         },
         {
             "adult": false,
             "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-            "genre_ids": [
-                18,
-                14,
-                10749
-            ],
             "id": 144,
             "original_language": "de",
             "original_title": "Der Himmel \u00fcber Berlin",
-            "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
-            "popularity": 44.681,
+            "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds \u2014 with some words of wisdom from actor Peter Falk \u2014 that it might be possible for him to take human form.",
+            "popularity": 2.7788,
             "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
             "release_date": "1987-09-23",
             "title": "Wings of Desire",
             "video": false,
-            "vote_average": 7.773,
-            "vote_count": 1227
+            "vote_average": 7.8,
+            "vote_count": 1452,
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "runtime": 128,
+            "tagline": "There are angels on the streets of Berlin."
         }
     ]
 }

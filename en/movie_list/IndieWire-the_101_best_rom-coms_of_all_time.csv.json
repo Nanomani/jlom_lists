@@ -1,1972 +1,2172 @@
 {
     "type": "movie_list",
     "title": "IndieWire - The 101 Best Rom-Coms of All Time",
-    "source" : "https://www.bfi.org.uk/sight-and-sound/directors-100-greatest-films-all-time",
+    "source": "https://www.bfi.org.uk/sight-and-sound/directors-100-greatest-films-all-time",
     "created_by": "lbnt",
     "added": "04/04/24",
-    "modified": "04/04/24",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/n0Cju2Eu3VyrUFl32thblHFWznA.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
+            "backdrop_path": "/aSksN0VqrRyXkcJPDqGL6S3gxpl.jpg",
             "id": 901,
             "original_language": "en",
             "original_title": "City Lights",
-            "overview": "In this sound-era silent film, a tramp falls in love with a beautiful blind flower seller.",
-            "popularity": 31.252,
+            "overview": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+            "popularity": 2.6762,
             "poster_path": "/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
-            "release_date": "1931-02-01",
+            "release_date": "1931-02-06",
             "title": "City Lights",
             "video": false,
-            "vote_average": 8.3,
-            "vote_count": 2057
+            "vote_average": 8.263,
+            "vote_count": 2371,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 87,
+            "tagline": "True Blind Love"
         },
         {
             "adult": false,
             "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 3078,
             "original_language": "en",
             "original_title": "It Happened One Night",
-            "overview": "A renegade reporter and a young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.",
-            "popularity": 16.226,
+            "overview": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+            "popularity": 2.7403,
             "poster_path": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
             "release_date": "1934-02-22",
             "title": "It Happened One Night",
             "video": false,
             "vote_average": 7.831,
-            "vote_count": 1170
+            "vote_count": 1355,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 105,
+            "tagline": "An unforgettable entertainment...the outstanding performance of two outstanding careers!"
         },
         {
             "adult": false,
-            "backdrop_path": "/mRtwZCRIIRni9CkpNvQgYSe8F3V.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/wHSZJ8s0JfWIjoHkRknq6ZtGlZr.jpg",
             "id": 12626,
             "original_language": "en",
             "original_title": "Broadcast News",
-            "overview": "Basket-case network news producer Jane Craig falls for new reporter Tom Grunnick, a pretty boy who represents the trend towards entertainment news she despises. Aaron Altman, a talented but plain correspondent, carries an unrequited torch for Jane. Sparks fly between the three as the network prepares for big changes, and both the news and Jane must decide between style and substance.",
-            "popularity": 21.066,
-            "poster_path": "/8g6INpPVcs3M2Jb7OKqtQCmWbVO.jpg",
+            "overview": "A high-strung news producer finds herself in a love triangle between a talented but self-doubting reporter and a charming news anchor who embodies the growing trivialization of news that she is determined to fight against.",
+            "popularity": 1.161,
+            "poster_path": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
             "release_date": "1987-12-16",
             "title": "Broadcast News",
             "video": false,
-            "vote_average": 6.731,
-            "vote_count": 381
+            "vote_average": 6.8,
+            "vote_count": 446,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 133,
+            "tagline": "It\u2019s the story of their lives."
         },
         {
             "adult": false,
-            "backdrop_path": "/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
+            "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
             "id": 639,
             "original_language": "en",
             "original_title": "When Harry Met Sally...",
-            "overview": "During their travel from Chicago to New York, Harry and Sally debate whether or not sex ruins a friendship between a man and a woman. Eleven years later, and they're still no closer to finding the answer.",
-            "popularity": 23.58,
-            "poster_path": "/3wkbKeowUp1Zpkw1KkBqMWbt0P9.jpg",
-            "release_date": "1989-07-21",
+            "overview": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+            "popularity": 6.0967,
+            "poster_path": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+            "release_date": "1989-07-12",
             "title": "When Harry Met Sally...",
             "video": false,
-            "vote_average": 7.405,
-            "vote_count": 3913
+            "vote_average": 7.403,
+            "vote_count": 4434,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "runtime": 96,
+            "tagline": "Can two friends sleep together and still love each other in the morning?"
         },
         {
             "adult": false,
-            "backdrop_path": "/obXJDyy5gORwabqBkadEU0cxlqd.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
             "id": 981,
             "original_language": "en",
             "original_title": "The Philadelphia Story",
             "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-            "popularity": 38.578,
+            "popularity": 1.5721,
             "poster_path": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
             "release_date": "1940-12-05",
             "title": "The Philadelphia Story",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 811
+            "vote_count": 942,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 113,
+            "tagline": "Broadway's howling year-run comedy hit of the snooty society beauty who slipped and fell - IN LOVE!"
         },
         {
             "adult": false,
-            "backdrop_path": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
             "id": 284,
             "original_language": "en",
             "original_title": "The Apartment",
             "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
-            "popularity": 42.856,
+            "popularity": 5.0033,
             "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
             "release_date": "1960-06-21",
             "title": "The Apartment",
             "video": false,
-            "vote_average": 8.208,
-            "vote_count": 2155
+            "vote_average": 8.197,
+            "vote_count": 2539,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 125,
+            "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!"
         },
         {
             "adult": false,
             "backdrop_path": "/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 20334,
             "original_language": "en",
             "original_title": "The Shop Around the Corner",
             "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
-            "popularity": 23.612,
+            "popularity": 1.1573,
             "poster_path": "/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
             "release_date": "1940-01-12",
             "title": "The Shop Around the Corner",
             "video": false,
-            "vote_average": 8.203,
-            "vote_count": 678
+            "vote_average": 8.1,
+            "vote_count": 803,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 99,
+            "tagline": "EVERY GIRL OR FELLOW WHO EVER KEPT A \u201cBLIND DATE\u201d"
         },
         {
             "adult": false,
-            "backdrop_path": "/cL0GxrBnjgWV381C1NLroeNUcTn.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/jF71CkY9bHyWvZTNQUThyzecXYb.jpg",
             "id": 14736,
             "original_language": "en",
             "original_title": "Love & Basketball",
             "overview": "Monica Wright and Quincy McCall grew up in the same neighborhood and have known each other since childhood. As they grow into adulthood, they fall in love, but they also share another all-consuming passion: basketball.  As Quincy and Monica struggle to make their relationship work, they follow separate career paths though high school and college basketball and, they hope, into stardom in big-league professional ball.",
-            "popularity": 25.194,
+            "popularity": 1.1503,
             "poster_path": "/zNZWNX19FZ5QyedprVM0ldsXFiP.jpg",
             "release_date": "2000-04-21",
             "title": "Love & Basketball",
             "video": false,
-            "vote_average": 7.439,
-            "vote_count": 402
+            "vote_average": 7.327,
+            "vote_count": 455,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 125,
+            "tagline": "All's fair in love and basketball."
         },
         {
             "adult": false,
             "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 2039,
             "original_language": "en",
             "original_title": "Moonstruck",
             "overview": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples about aggressively pursuing her while Johnny is out of the country. As Loretta falls for Ronny, she learns that she's not the only one in her family with a secret romance.",
-            "popularity": 40.399,
+            "popularity": 2.6471,
             "poster_path": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
             "release_date": "1987-12-16",
             "title": "Moonstruck",
             "video": false,
-            "vote_average": 6.852,
-            "vote_count": 876
+            "vote_average": 6.837,
+            "vote_count": 1057,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 102,
+            "tagline": "Life. Family. Love."
         },
         {
             "adult": false,
             "backdrop_path": "/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 20770,
             "original_language": "en",
             "original_title": "But I'm a Cheerleader",
             "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
-            "popularity": 13.25,
-            "poster_path": "/zC3BaoHJsrIeqOg4eZolNszsTej.jpg",
+            "popularity": 3.1505,
+            "poster_path": "/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
             "release_date": "2000-07-07",
             "title": "But I'm a Cheerleader",
             "video": false,
-            "vote_average": 6.975,
-            "vote_count": 611
+            "vote_average": 7.0,
+            "vote_count": 793,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 85,
+            "tagline": "A comedy of sexual disorientation."
         },
         {
             "adult": false,
-            "backdrop_path": "/kRQ6B6aXBuhwaPFY2kUfnydjCyQ.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/fzJgCQh2NBnUYlms8EGyr4bPNz3.jpg",
             "id": 900,
             "original_language": "en",
             "original_title": "Bringing Up Baby",
             "overview": "David Huxley is waiting to get a bone he needs for his museum collection. Through a series of strange circumstances, he meets Susan Vance, and the duo have a series of misadventures which include a leopard called Baby.",
-            "popularity": 11.701,
+            "popularity": 1.3481,
             "poster_path": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
             "release_date": "1938-02-18",
             "title": "Bringing Up Baby",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 919
+            "vote_average": 7.527,
+            "vote_count": 1041,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 102,
+            "tagline": "And so begins the hilarious adventure of Professor David Huxley and Miss Susan Vance, a flutter-brained vixen with love in her heart!"
         },
         {
             "adult": false,
-            "backdrop_path": "/s39aQY3dK1s6ARrUKP5yeq824nR.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
+            "backdrop_path": "/buLc1G3Ou5wYUsAI8nbJpomzLdh.jpg",
             "id": 9870,
             "original_language": "en",
             "original_title": "Forgetting Sarah Marshall",
-            "overview": "When Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter's world comes crashing down. His best friend suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful Rachel Jansen, Peter is shocked to see not only Aldous Snow in Hawaii, but also Sarah Marshall.",
-            "popularity": 28.766,
-            "poster_path": "/d4elOzyhNWVlxpG7BwigrumkFTe.jpg",
+            "overview": "When actress Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter's world comes crashing down. His best friend Brian suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful receptionist Rachel Jansen, Peter is shocked to see not only Aldous in Hawaii, but also Sarah.",
+            "popularity": 3.9413,
+            "poster_path": "/oj2oj0AaiY2HIDJJ66aUiXTRS7i.jpg",
             "release_date": "2008-04-17",
             "title": "Forgetting Sarah Marshall",
             "video": false,
-            "vote_average": 6.494,
-            "vote_count": 3251
+            "vote_average": 6.504,
+            "vote_count": 3601,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "runtime": 111,
+            "tagline": "You lose some, you get some."
         },
         {
             "adult": false,
-            "backdrop_path": "/mNQm9BVRBVoGsZFHIrtNERJj5WK.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
             "id": 3086,
             "original_language": "en",
             "original_title": "The Lady Eve",
             "overview": "It's no accident when wealthy Charles falls for Jean. Jean is a con artist with her sights set on Charles' fortune. Matters complicate when Jean starts falling for her mark. When Charles suspects Jean is a gold digger, he dumps her. Jean, fixated on revenge and still pining for the millionaire, devises a plan to get back in Charles' life. With love and payback on her mind, she re-introduces herself to Charles, this time as an aristocrat named Lady Eve Sidwich.",
-            "popularity": 11.683,
+            "popularity": 0.9775,
             "poster_path": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
             "release_date": "1941-02-25",
             "title": "The Lady Eve",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 323
+            "vote_average": 7.231,
+            "vote_count": 379,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 97,
+            "tagline": "When you deal a fast shuffle, love is in the cards."
         },
         {
             "adult": false,
             "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                80
-            ],
             "id": 239,
             "original_language": "en",
             "original_title": "Some Like It Hot",
-            "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
-            "popularity": 42.805,
+            "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+            "popularity": 4.6807,
             "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
             "release_date": "1959-03-19",
             "title": "Some Like It Hot",
             "video": false,
-            "vote_average": 8.104,
-            "vote_count": 3317
+            "vote_average": 8.1,
+            "vote_count": 3751,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Crime"
+            ],
+            "runtime": 122,
+            "tagline": "The movie too HOT for words!"
         },
         {
             "adult": false,
-            "backdrop_path": "/2FonLz0RPxbBriOlZ9mWhYdlqCp.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
+            "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
             "id": 9603,
             "original_language": "en",
             "original_title": "Clueless",
             "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
-            "popularity": 66.911,
+            "popularity": 5.5865,
             "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
             "release_date": "1995-07-19",
             "title": "Clueless",
             "video": false,
-            "vote_average": 7.28,
-            "vote_count": 4194
+            "vote_average": 7.26,
+            "vote_count": 4683,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 97,
+            "tagline": "Sex. Clothes. Popularity. Is there a problem here?"
         },
         {
             "adult": false,
-            "backdrop_path": "/eGkIBknnCpmssrrt4CjRPhHZfLK.jpg",
-            "genre_ids": [
-                10749,
-                18,
-                35
-            ],
+            "backdrop_path": "/l9WzjwHwF7I2DwCtK8DXVQExGjH.jpg",
             "id": 8051,
             "original_language": "en",
             "original_title": "Punch-Drunk Love",
             "overview": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
-            "popularity": 30.776,
-            "poster_path": "/vT2CXIsVKoGl0DZ8USwLWzEFznI.jpg",
+            "popularity": 3.3696,
+            "poster_path": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
             "release_date": "2002-10-11",
             "title": "Punch-Drunk Love",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 2208
+            "vote_average": 7.106,
+            "vote_count": 2618,
+            "genres": [
+                "Romance",
+                "Drama",
+                "Comedy"
+            ],
+            "runtime": 96,
+            "tagline": "I have a love in my life. It makes me stronger than anything you can imagine."
         },
         {
             "adult": false,
-            "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/zQDFHYNVVVp9OAYSixYAG1SyX1l.jpg",
             "id": 19404,
             "original_language": "hi",
             "original_title": "\u0926\u093f\u0932\u0935\u093e\u0932\u0947 \u0926\u0941\u0932\u094d\u0939\u0928\u093f\u092f\u093e \u0932\u0947 \u091c\u093e\u092f\u0947\u0902\u0917\u0947",
             "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fianc\u00e9. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
-            "popularity": 28.755,
-            "poster_path": "/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+            "popularity": 5.6608,
+            "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
             "release_date": "1995-10-20",
             "title": "Dilwale Dulhania Le Jayenge",
             "video": false,
-            "vote_average": 8.535,
-            "vote_count": 4372
+            "vote_average": 8.517,
+            "vote_count": 4539,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 190,
+            "tagline": "Come\u2026 Fall In love, All Over Again\u2026"
         },
         {
             "adult": false,
-            "backdrop_path": "/wU9IuFbLUcxMmX7XNhoFcnFHYD.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/jKgfnnCATAg4fxMfS0LZThmqOZB.jpg",
             "id": 343,
             "original_language": "en",
             "original_title": "Harold and Maude",
             "overview": "The young Harold lives in his own world of suicide-attempts and funeral visits to avoid the misery of his current family and home environment. Harold meets an 80-year-old woman named Maude who also lives in her own world yet one in which she is having the time of her life. When the two opposites meet they realize that their differences don\u2019t matter and they become best friends and love each other.",
-            "popularity": 13.825,
+            "popularity": 1.5234,
             "poster_path": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
             "release_date": "1971-12-20",
             "title": "Harold and Maude",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 1024
+            "vote_count": 1164,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 92,
+            "tagline": "They were meant to be. But exactly what they were meant to be is not quite clear."
         },
         {
             "adult": false,
-            "backdrop_path": "/9p2oLEbktIrmwaZWRJkUtuQiSH8.jpg",
-            "genre_ids": [
-                10749,
-                35,
-                18
-            ],
+            "backdrop_path": "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
             "id": 804,
             "original_language": "en",
             "original_title": "Roman Holiday",
             "overview": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
-            "popularity": 50.951,
+            "popularity": 5.5431,
             "poster_path": "/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
             "release_date": "1953-08-26",
             "title": "Roman Holiday",
             "video": false,
-            "vote_average": 7.885,
-            "vote_count": 1931
+            "vote_average": 7.9,
+            "vote_count": 2198,
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "runtime": 119,
+            "tagline": ""
         },
         {
             "adult": false,
             "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
-            "genre_ids": [
-                10749,
-                14,
-                18,
-                35
-            ],
             "id": 137,
             "original_language": "en",
             "original_title": "Groundhog Day",
             "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
-            "popularity": 62.37,
+            "popularity": 12.8665,
             "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
             "release_date": "1993-02-11",
             "title": "Groundhog Day",
             "video": false,
-            "vote_average": 7.61,
-            "vote_count": 7643
+            "vote_average": 7.621,
+            "vote_count": 8595,
+            "genres": [
+                "Romance",
+                "Fantasy",
+                "Comedy"
+            ],
+            "runtime": 101,
+            "tagline": "He\u2019s having the worst day of his life\u2026 Over and over again."
         },
         {
             "adult": false,
-            "backdrop_path": "/eiFf7KGC4VK60mVKA5K4KvB39X4.jpg",
-            "genre_ids": [
-                10749,
-                18
-            ],
+            "backdrop_path": "/iQJZMLr5cdn7Al2Av4V1VEzPDoQ.jpg",
             "id": 11854,
             "original_language": "hi",
             "original_title": "\u0915\u0941\u091b \u0915\u0941\u091b \u0939\u094b\u0924\u093e \u0939\u0948",
             "overview": "Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.",
-            "popularity": 19.322,
+            "popularity": 2.9042,
             "poster_path": "/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
             "release_date": "1998-10-16",
             "title": "Kuch Kuch Hota Hai",
             "video": false,
-            "vote_average": 7.495,
-            "vote_count": 364
+            "vote_average": 7.47,
+            "vote_count": 418,
+            "genres": [
+                "Romance",
+                "Drama",
+                "Comedy"
+            ],
+            "runtime": 185,
+            "tagline": "Love is Friendship."
         },
         {
             "adult": false,
             "backdrop_path": "/2b999zCG0DGjePd9fpA2keMspey.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 32255,
             "original_language": "en",
             "original_title": "The Palm Beach Story",
-            "overview": "A New York inventor, Tom Jeffers, needs cash to develop his big idea, so his adoring wife, Gerry (Geraldine), decides to raise it by divorcing him and marrying an eccentric Florida millionaire, J. D. Hackensacker III.",
-            "popularity": 9.822,
-            "poster_path": "/3NtOMzHZIn0VGTpsx9NpvuhHsYN.jpg",
+            "overview": "A New York inventor, Tom Jeffers, needs cash to develop his big idea, so his adoring wife, Gerry, decides to raise it by divorcing him and marrying an eccentric Florida millionaire, J. D. Hackensacker III.",
+            "popularity": 0.4591,
+            "poster_path": "/vl3MVnrUsCa0wRsFTVU0ohbtWy6.jpg",
             "release_date": "1942-08-28",
             "title": "The Palm Beach Story",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 174
+            "vote_average": 6.998,
+            "vote_count": 203,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 88,
+            "tagline": "Love is fickle! Love is is blind! She runs 'round the country...with him behind!"
         },
         {
             "adult": false,
-            "backdrop_path": "/hgI7hZ4vMDEdp6t1A9kmnl2wtzA.jpg",
-            "genre_ids": [
-                35,
-                80,
-                10749
-            ],
+            "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
             "id": 195,
             "original_language": "en",
             "original_title": "Trouble in Paradise",
             "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
-            "popularity": 9.591,
+            "popularity": 2.588,
             "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
             "release_date": "1932-10-30",
             "title": "Trouble in Paradise",
             "video": false,
-            "vote_average": 7.434,
-            "vote_count": 264
+            "vote_average": 7.4,
+            "vote_count": 299,
+            "genres": [
+                "Comedy",
+                "Crime",
+                "Romance"
+            ],
+            "runtime": 83,
+            "tagline": "HIS PARADISE BECAME A MERRY HELL!"
         },
         {
             "adult": false,
-            "backdrop_path": "/zEjBQIrUEr5rt24HeLad4I4PnR1.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/vUe5v3l6ul7coxMv2oLwINeVgFi.jpg",
             "id": 455,
             "original_language": "en",
             "original_title": "Bend It Like Beckham",
             "overview": "Jess Bhamra, the daughter of a strict Indian couple in London, is not permitted to play organized soccer, even though she is 18. When Jess is playing for fun one day, her impressive skills are seen by Jules Paxton, who then convinces Jess to play for her semi-pro team. Jess uses elaborate excuses to hide her matches from her family while also dealing with her romantic feelings for her coach, Joe.",
-            "popularity": 14.14,
+            "popularity": 2.9798,
             "poster_path": "/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg",
             "release_date": "2002-04-11",
             "title": "Bend It Like Beckham",
             "video": false,
-            "vote_average": 6.298,
-            "vote_count": 1819
+            "vote_average": 6.322,
+            "vote_count": 1983,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 112,
+            "tagline": "Who wants to cook Aloo Gobi when you can bend a ball like Beckham?"
         },
         {
             "adult": false,
             "backdrop_path": "/x4sqnmV2nAKIG6cmt9WAF9xRA2M.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 236,
             "original_language": "en",
             "original_title": "Muriel's Wedding",
-            "overview": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
-            "popularity": 18.083,
+            "overview": "Socially awkward Muriel Heslop wants nothing more than to get married. Unfortunately, due to her oppressive politician father, Muriel has never even been on a date. Ostracized by her more socially adept friends, Muriel runs into fellow outcast Rhonda Epinstalk, and the two move from their small Australian town to the big city of Sydney, where Muriel changes her name and begins the arduous task of redesigning her life to match her fantasies.",
+            "popularity": 2.2023,
             "poster_path": "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
             "release_date": "1994-09-29",
             "title": "Muriel's Wedding",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 421
+            "vote_average": 6.8,
+            "vote_count": 479,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 106,
+            "tagline": "Success is the best revenge."
         },
         {
             "adult": false,
-            "backdrop_path": "/wdVM1soj2s9ixta8R7NDwoZA12Y.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/wZM9vnatKefMHUNolmGMTr8sZrd.jpg",
             "id": 9489,
             "original_language": "en",
             "original_title": "You've Got Mail",
-            "overview": "Book superstore magnate, Joe Fox and independent book shop owner, Kathleen Kelly fall in love in the anonymity of the Internet\u2014both blissfully unaware that he's trying to put her out of business.",
-            "popularity": 31.385,
+            "overview": "Book superstore magnate Joe Fox and independent book shop owner Kathleen Kelly fall in love in the anonymity of the Internet\u2014both blissfully unaware that he's trying to put her out of business.",
+            "popularity": 8.2706,
             "poster_path": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
             "release_date": "1998-12-18",
             "title": "You've Got Mail",
             "video": false,
-            "vote_average": 6.679,
-            "vote_count": 3126
+            "vote_average": 6.697,
+            "vote_count": 3519,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 119,
+            "tagline": "Someone you pass on the street may already be the love of your life."
         },
         {
             "adult": false,
-            "backdrop_path": "/oZbNIskUsF74YIoJDfpWbnZCDIZ.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/hkYHYp6IrVbDE39ffoGofTIsVj5.jpg",
             "id": 14675,
             "original_language": "en",
             "original_title": "The Awful Truth",
             "overview": "Unfounded suspicions lead a married couple to begin divorce proceedings, whereupon they start undermining each other's attempts to find new romance.",
-            "popularity": 16.808,
+            "popularity": 0.6361,
             "poster_path": "/2VtsJoxvjpcMpwh0gweS8IMfHxO.jpg",
-            "release_date": "1937-10-20",
+            "release_date": "1937-10-21",
             "title": "The Awful Truth",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 286
+            "vote_average": 7.197,
+            "vote_count": 338,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 91,
+            "tagline": "Danger! Wild woman on the loose!"
         },
         {
             "adult": false,
-            "backdrop_path": "/mqcqAE8yefvezVJ78FINJCiV6n3.jpg",
-            "genre_ids": [
-                10749,
-                35
-            ],
+            "backdrop_path": "/h2oRH3xY2DJx06EwdXq76tInFTH.jpg",
             "id": 509,
             "original_language": "en",
             "original_title": "Notting Hill",
-            "overview": "William Thacker is a London bookstore owner whose humdrum existence is thrown into romantic turmoil when famous American actress Anna Scott appears in his shop. A chance encounter over spilled orange juice leads to a kiss that blossoms into a full-blown affair. As the average bloke and glamorous movie star draw closer and closer together, they struggle to reconcile their radically different lifestyles in the name of love.",
-            "popularity": 70.687,
+            "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
+            "popularity": 6.9585,
             "poster_path": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
             "release_date": "1999-05-21",
             "title": "Notting Hill",
             "video": false,
-            "vote_average": 7.262,
-            "vote_count": 5801
+            "vote_average": 7.265,
+            "vote_count": 6533,
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 124,
+            "tagline": "Can the most famous film star in the world fall for the man on the street?"
         },
         {
             "adult": false,
-            "backdrop_path": "/s9Wlxo44kP2gyqQwlkpUG2iJo9l.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/lDeH6UkNGX2UcaOKTJ5SHtmNwbD.jpg",
             "id": 6949,
             "original_language": "en",
             "original_title": "What's Up, Doc?",
             "overview": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
-            "popularity": 20.197,
+            "popularity": 1.3334,
             "poster_path": "/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg",
             "release_date": "1972-03-09",
             "title": "What's Up, Doc?",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 359
+            "vote_average": 7.4,
+            "vote_count": 434,
+            "genres": [
+                "Comedy",
+                "Crime",
+                "Romance"
+            ],
+            "runtime": 94,
+            "tagline": "A screwball comedy. Remember them?"
         },
         {
             "adult": false,
-            "backdrop_path": "/1pjOrzAqlQPifZkRi5h1zlO1VJ2.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749,
-                10402
-            ],
+            "backdrop_path": "/tmP4COlAaowO0FniW30aatOcmMq.jpg",
             "id": 243,
             "original_language": "en",
             "original_title": "High Fidelity",
-            "overview": "When record store owner and compulsive list-compiler Rob Gordon gets dumped by his long-time girlfriend, Laura, because he hasn't changed since they met, he revisits his top five breakups of all time in order to figure out what went wrong. As he examines his failed attempts at romance and happiness, the process finds him being dragged, kicking and screaming, into adulthood.",
-            "popularity": 41.904,
+            "overview": "After his long-time girlfriend dumps him, a thirty-year-old record store owner seeks to understand why he is unlucky in love while recounting his \"top five breakups of all time\".",
+            "popularity": 2.1403,
             "poster_path": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
             "release_date": "2000-03-17",
             "title": "High Fidelity",
             "video": false,
-            "vote_average": 7.136,
-            "vote_count": 1880
+            "vote_average": 7.1,
+            "vote_count": 2119,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance",
+                "Music"
+            ],
+            "runtime": 113,
+            "tagline": "A comedy about fear of commitment, hating your job, falling in love and other pop favorites."
         },
         {
             "adult": false,
-            "backdrop_path": "/5FmPSt34vkCiMDhC8WflhlCwIS8.jpg",
-            "genre_ids": [
-                12,
-                10751,
-                14,
-                35,
-                10749
-            ],
+            "backdrop_path": "/aQ2ZbNqIaecoQsryNe33UmDtms.jpg",
             "id": 2493,
             "original_language": "en",
             "original_title": "The Princess Bride",
             "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
-            "popularity": 28.804,
-            "poster_path": "/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+            "popularity": 9.3936,
+            "poster_path": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
             "release_date": "1987-09-25",
             "title": "The Princess Bride",
             "video": false,
-            "vote_average": 7.678,
-            "vote_count": 4359
+            "vote_average": 7.7,
+            "vote_count": 4930,
+            "genres": [
+                "Adventure",
+                "Family",
+                "Fantasy",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 99,
+            "tagline": "It's as real as the feelings you feel."
         },
         {
             "adult": false,
-            "backdrop_path": "/f1a51iItLhHnGWs2btAQjlDIEPB.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/dlanV9JhkzXsHfYrBFdXbdNiBAz.jpg",
             "id": 11631,
             "original_language": "en",
             "original_title": "Mamma Mia!",
-            "overview": "An independent, single mother who owns a small hotel on a Greek island is about to marry off the spirited young daughter she's raised alone. But, the daughter has secretly invited three of her mother's ex-lovers in the hopes of finding her biological father.",
-            "popularity": 61.119,
+            "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+            "popularity": 6.1861,
             "poster_path": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
             "release_date": "2008-07-03",
             "title": "Mamma Mia!",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 6238
+            "vote_average": 6.975,
+            "vote_count": 6869,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 108,
+            "tagline": "A mother. A daughter. Three possible fathers. A trip down the aisle you'll never forget."
         },
         {
             "adult": false,
             "backdrop_path": "/cPDMOeafVmyguVlwE4ls6HER021.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 4952,
             "original_language": "en",
             "original_title": "Pillow Talk",
             "overview": "Playboy songwriter Brad Allen's succession of romances annoys his neighbor, interior designer Jan Morrow, who shares a telephone party line with him and hears all his breezy routines. After Jan unsuccessfully lodges a complaint against him, Brad sets about to seduce her in\u00a0the guise of a sincere and upstanding Texas rancher. When mutual friend Jonathan discovers that his best friend is moving in on the girl he desires, however, sparks fly.",
-            "popularity": 27.891,
+            "popularity": 1.3495,
             "poster_path": "/ugvyj5nl9QmTYuaGUTefVYBDePE.jpg",
             "release_date": "1959-10-07",
             "title": "Pillow Talk",
             "video": false,
             "vote_average": 7.1,
-            "vote_count": 262
+            "vote_count": 310,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 102,
+            "tagline": "...It's What Goes On When The Lights Go Off!"
         },
         {
             "adult": false,
-            "backdrop_path": "/6yzZf2hq1yz7O47UpT7WRNzz3Vx.jpg",
-            "genre_ids": [
-                10749,
-                35
-            ],
+            "backdrop_path": "/yk67t0Xl8LSW23XcjVXMlooyBlu.jpg",
             "id": 40687,
             "original_language": "en",
             "original_title": "The Heartbreak Kid",
-            "overview": "Three days into his Miami honeymoon with needy and unsophisticated Lila, Lenny meets tall, blonde Kelly. This confirms his fear that he has made a serious mistake and he decides he wants Kelly instead.",
-            "popularity": 7.852,
+            "overview": "Three days into his Miami honeymoon with needy and unsophisticated Lila, Lenny meets tall, blonde Kelly. This confirms his fear that he has made a serious mistake and he decides he wants to be with Kelly instead.",
+            "popularity": 0.5878,
             "poster_path": "/5HtYW6taG3paHleY2LOCi44Qqei.jpg",
             "release_date": "1972-12-17",
             "title": "The Heartbreak Kid",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 81
+            "vote_average": 6.5,
+            "vote_count": 100,
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 105,
+            "tagline": "A hip, hot and sexy lesson in love."
         },
         {
             "adult": false,
-            "backdrop_path": "/fS4qzWxxyyF2vow3G98NMHnsBKm.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/aWYWi34IKwcXt6yQA9fnRGQmZpq.jpg",
             "id": 11066,
             "original_language": "en",
             "original_title": "Boomerang",
             "overview": "Marcus is a successful advertising executive who woos and beds women almost at will. After a company merger he finds that his new boss, the ravishing Jacqueline, is treating him in exactly the same way. Completely traumatised by this, his work goes badly downhill.",
-            "popularity": 40.444,
-            "poster_path": "/cc9YAZq5NXiIEJsHjW7p2FaHQkp.jpg",
+            "popularity": 2.4072,
+            "poster_path": "/apwkBVaJqLuK6mxe6sOABCeNjRw.jpg",
             "release_date": "1992-06-30",
             "title": "Boomerang",
             "video": false,
             "vote_average": 5.7,
-            "vote_count": 540
+            "vote_count": 607,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 117,
+            "tagline": "A player who's about to be played."
         },
         {
             "adult": false,
-            "backdrop_path": "/s5svcTbGcdTkA3cj7pCfy1rxy2O.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/naA6aqGYh8D8x2pODBAvFiqwuJh.jpg",
             "id": 8874,
             "original_language": "en",
             "original_title": "My Best Friend's Wedding",
             "overview": "When she receives word that her longtime platonic pal Michael O'Neal is getting married to debutante Kimberly Wallace, food critic Julianne Potter realizes her true feelings for Michael -- and sets out to sabotage the wedding.",
-            "popularity": 18.211,
+            "popularity": 2.7072,
             "poster_path": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
             "release_date": "1997-06-19",
             "title": "My Best Friend's Wedding",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 2525
+            "vote_count": 2810,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 105,
+            "tagline": "Julianne fell in love with her best friend the day he decided to marry someone else."
         },
         {
             "adult": false,
             "backdrop_path": "/kclghqLepNi2ysevncFTUw0qglH.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749
-            ],
             "id": 37291,
             "original_language": "en",
             "original_title": "Trust",
             "overview": "After being thrown away from home, pregnant high school dropout Maria meets Matthew, a highly educated and extremely moody electronics repairman. The two begin an unusual romance built on their sense of mutual admiration and trust.",
-            "popularity": 14.83,
-            "poster_path": "/xlh6cbXxsDMOBFISUDzWxSGt78C.jpg",
+            "popularity": 1.5061,
+            "poster_path": "/9wE7LuIkvuPfr4Ye6fMqPXHqaiE.jpg",
             "release_date": "1990-09-09",
             "title": "Trust",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 130
+            "vote_average": 6.814,
+            "vote_count": 159,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 106,
+            "tagline": "A slightly twisted comedy."
         },
         {
             "adult": false,
-            "backdrop_path": "/6RfnVwri4LaK1kSzDp5aebsjYwp.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
             "id": 416477,
             "original_language": "en",
             "original_title": "The Big Sick",
             "overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
-            "popularity": 33.788,
-            "poster_path": "/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg",
+            "popularity": 2.2834,
+            "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
             "release_date": "2017-03-30",
             "title": "The Big Sick",
             "video": false,
-            "vote_average": 7.344,
-            "vote_count": 2330
+            "vote_average": 7.335,
+            "vote_count": 2565,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 120,
+            "tagline": "An awkward true story."
         },
         {
             "adult": false,
-            "backdrop_path": "/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
-            "genre_ids": [
-                16,
-                10751,
-                878
-            ],
+            "backdrop_path": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
             "id": 10681,
             "original_language": "en",
             "original_title": "WALL\u00b7E",
-            "overview": "In the distant future, Earth has become a desolate wasteland, abandoned by humanity and overrun by mountains of trash. Amidst the rubble, a small, lovable robot named WALL-E spends his days tirelessly cleaning up the mess. But when a sleek, high-tech robot named EVE arrives on a mission to search for signs of life, WALL-E is immediately smitten. Together, they embark on a journey across the cosmos.",
-            "popularity": 95.671,
+            "overview": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL\u2022E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL\u2022E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL\u2022E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+            "popularity": 15.3414,
             "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
             "release_date": "2008-06-22",
             "title": "WALL\u00b7E",
             "video": false,
-            "vote_average": 8.088,
-            "vote_count": 18137
+            "vote_average": 8.107,
+            "vote_count": 19794,
+            "genres": [
+                "Animation",
+                "Family",
+                "Science Fiction"
+            ],
+            "runtime": 98,
+            "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for."
         },
         {
             "adult": false,
             "backdrop_path": "/gncvmif7zzVOpMNxnpAOPfSXgUq.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 10720,
             "original_language": "en",
             "original_title": "Down with Love",
             "overview": "In 1962 New York City, love blossoms between a playboy journalist and a feminist advice author.",
-            "popularity": 30.232,
-            "poster_path": "/8hpGe0U8oK05dEjVjACjw6TgbWm.jpg",
+            "popularity": 1.4273,
+            "poster_path": "/74lG2SGDJdyiS8hB4kkFcRIviSi.jpg",
             "release_date": "2003-05-08",
             "title": "Down with Love",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 681
+            "vote_average": 6.111,
+            "vote_count": 766,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 102,
+            "tagline": "The ultimate catch has met his match"
         },
         {
             "adult": false,
-            "backdrop_path": "/ybbLMVLp4hFzPpZIPtKp15pkTsB.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
             "id": 3085,
             "original_language": "en",
             "original_title": "His Girl Friday",
             "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper\u2019s star reporter, who also happens to be his estranged wife. She\u2019s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can\u2019t resist a juicy scoop.",
-            "popularity": 16.387,
-            "poster_path": "/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+            "popularity": 1.3699,
+            "poster_path": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
             "release_date": "1940-01-18",
             "title": "His Girl Friday",
             "video": false,
-            "vote_average": 7.401,
-            "vote_count": 781
+            "vote_average": 7.41,
+            "vote_count": 898,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 92,
+            "tagline": "They're at each other's throats when they're not in each other's arms!"
         },
         {
             "adult": false,
-            "backdrop_path": "/sMZPK47vaeG5DTOD7Dkyu6k3lFJ.jpg",
-            "genre_ids": [
-                18,
-                10749
-            ],
+            "backdrop_path": "/83AMHdZU71x7U4aZ7QFGBRtdyxo.jpg",
             "id": 4710,
             "original_language": "fr",
             "original_title": "Masculin f\u00e9minin",
             "overview": "Paul, a young idealist trying to figure out what he wants to do with his life, takes a job interviewing people for a marketing research firm. He moves in with aspiring pop singer Madeleine. Paul, however, is disillusioned by the growing commercialism in society, while Madeleine just wants to be successful. The story is told in a series of 15 unrelated vignettes.",
-            "popularity": 21.936,
-            "poster_path": "/qsWypOI6Y08WfDpGriKLBdxMviR.jpg",
+            "popularity": 1.7695,
+            "poster_path": "/AroNQnZiqjJOWf32lLNZUzWlGvd.jpg",
             "release_date": "1966-03-22",
             "title": "Masculin F\u00e9minin",
             "video": false,
-            "vote_average": 7.29,
-            "vote_count": 359
+            "vote_average": 7.2,
+            "vote_count": 410,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 105,
+            "tagline": "Jean-Luc Godard's Swinging Look at Youth and Love in Paris Today!"
         },
         {
             "adult": false,
-            "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
-            "genre_ids": [
-                35,
-                18
-            ],
+            "backdrop_path": "/vzKzz7ObY3zNIV4ZYFY6Ib3X6ig.jpg",
             "id": 3082,
             "original_language": "en",
             "original_title": "Modern Times",
             "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
-            "popularity": 26.621,
-            "poster_path": "/9baQjJ85LKQZFFpNWR563SsK2rz.jpg",
+            "popularity": 2.608,
+            "poster_path": "/eqLVa5YQg5FmmDi3vbm46KgcPDq.jpg",
             "release_date": "1936-02-05",
             "title": "Modern Times",
             "video": false,
-            "vote_average": 8.294,
-            "vote_count": 3549
+            "vote_average": 8.284,
+            "vote_count": 3950,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 87,
+            "tagline": "He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!"
         },
         {
             "adult": false,
-            "backdrop_path": "/fROgQIALHJEmayqLITFHhOMW3ef.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/7ME0fJZxjEoSGPP4E4bbYT5zoqt.jpg",
             "id": 858,
             "original_language": "en",
             "original_title": "Sleepless in Seattle",
-            "overview": "When Sam Baldwin's wife dies, he is left to bring up his eight-year-old son Jonah alone, and decides to move to Seattle to make a new start. On Christmas Eve, Jonah rings a radio phone-in with his Christmas wish to find a new wife for his dad. Meanwhile in Baltimore, journalist Annie Reed, who is having doubts about her own relationship, is listening in.",
-            "popularity": 33.355,
-            "poster_path": "/iLWsLVrfkFvOXOG9PbUAYg7AK3E.jpg",
+            "overview": "After the death of his mother, a young boy calls a radio station in an attempt to set his father up on a date. Across the country, an engaged woman becomes convinced that they belong together, despite their never having met. Will their paths collide despite the odds?",
+            "popularity": 4.5023,
+            "poster_path": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
             "release_date": "1993-06-24",
             "title": "Sleepless in Seattle",
             "video": false,
-            "vote_average": 6.742,
-            "vote_count": 2236
+            "vote_average": 6.7,
+            "vote_count": 2509,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 105,
+            "tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?"
         },
         {
             "adult": false,
             "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 194,
             "original_language": "fr",
             "original_title": "Le Fabuleux Destin d'Am\u00e9lie Poulain",
             "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
-            "popularity": 36.742,
-            "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+            "popularity": 22.1294,
+            "poster_path": "/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg",
             "release_date": "2001-04-25",
             "title": "Am\u00e9lie",
             "video": false,
-            "vote_average": 7.909,
-            "vote_count": 11136
+            "vote_average": 7.914,
+            "vote_count": 12116,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 122,
+            "tagline": "She\u2019ll change your life."
         },
         {
             "adult": false,
-            "backdrop_path": "/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg",
             "id": 9390,
             "original_language": "en",
             "original_title": "Jerry Maguire",
             "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
-            "popularity": 38.534,
+            "popularity": 5.3425,
             "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
             "release_date": "1996-12-13",
             "title": "Jerry Maguire",
             "video": false,
-            "vote_average": 6.959,
-            "vote_count": 3126
+            "vote_average": 7.0,
+            "vote_count": 3559,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 139,
+            "tagline": "Everybody loved him... Everybody disappeared. The journey is everything."
         },
         {
             "adult": false,
             "backdrop_path": "/sG0TscXVp7817uDwdAnorbml2BA.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
             "id": 16274,
             "original_language": "en",
             "original_title": "Holiday",
             "overview": "Johnny Case, a freethinking financier, has finally found the girl of his dreams \u2014 Julia Seton, the spoiled daughter of a socially prominent millionaire \u2014 and she's agreed to marry him. But when Johnny plans a holiday for the two to enjoy life while they are still young, his fianc\u00e9e has other plans & that is for Johnny to work in her father's bank!",
-            "popularity": 26.779,
-            "poster_path": "/z1I6e3iI0yttcPs49HsLuSfWd9P.jpg",
+            "popularity": 0.9217,
+            "poster_path": "/vTswoixIge9o84NLlWGaWl5lrHO.jpg",
             "release_date": "1938-05-26",
             "title": "Holiday",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 237
+            "vote_average": 7.281,
+            "vote_count": 278,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "runtime": 97,
+            "tagline": "Every day's a holiday... when you're in love."
         },
         {
             "adult": false,
-            "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
+            "backdrop_path": "/oXTzokKufEGDcX7q5Cwoxlhmqxx.jpg",
             "id": 6620,
             "original_language": "en",
             "original_title": "Sabrina",
-            "overview": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work \u2013 busily running the family corporate empire, he has no time for a wife and family. David is all play \u2013 technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus.",
-            "popularity": 35.287,
-            "poster_path": "/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
-            "release_date": "1954-09-10",
+            "overview": "After her return from school in Paris, a playboy finally takes notice of his family's chauffeur's daughter Sabrina, who's long had a crush on him, but he questions his more serious brother's motives when he warns against getting involved with her.",
+            "popularity": 5.6001,
+            "poster_path": "/e1Po9NDrH7IJZhv89467gJH5FS0.jpg",
+            "release_date": "1954-09-01",
             "title": "Sabrina",
             "video": false,
-            "vote_average": 7.521,
-            "vote_count": 1179
+            "vote_average": 7.5,
+            "vote_count": 1323,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "runtime": 113,
+            "tagline": "...the chauffeur's daughter who learned her stuff in Paris"
         },
         {
             "adult": false,
-            "backdrop_path": "/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
             "id": 114,
             "original_language": "en",
             "original_title": "Pretty Woman",
-            "overview": "When a millionaire wheeler-dealer enters a business contract with a Hollywood hooker Vivian Ward, he loses his heart in the bargain.",
-            "popularity": 70.847,
+            "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+            "popularity": 11.4174,
             "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
             "release_date": "1990-03-23",
             "title": "Pretty Woman",
             "video": false,
-            "vote_average": 7.467,
-            "vote_count": 7855
+            "vote_average": 7.458,
+            "vote_count": 8757,
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 120,
+            "tagline": "She walked off the street, into his life and stole his heart."
         },
         {
             "adult": false,
             "backdrop_path": "/cMUjH61we5JUDLmIpLFxlS0tHvB.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 77210,
             "original_language": "en",
             "original_title": "Design for Living",
             "overview": "An independent woman can't choose between the two men she loves.",
-            "popularity": 9.212,
+            "popularity": 0.5883,
             "poster_path": "/h0T4FHsY51IccSGqGfaoYsd7hyx.jpg",
             "release_date": "1933-12-29",
             "title": "Design for Living",
             "video": false,
-            "vote_average": 7.146,
-            "vote_count": 181
+            "vote_average": 7.111,
+            "vote_count": 203,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 91,
+            "tagline": "Three hearts that beat as one."
         },
         {
             "adult": false,
             "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 703,
             "original_language": "en",
             "original_title": "Annie Hall",
             "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
-            "popularity": 69.882,
-            "poster_path": "/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg",
+            "popularity": 2.877,
+            "poster_path": "/gBo4G0p8iVS998aYvXS656jbsH2.jpg",
             "release_date": "1977-04-19",
             "title": "Annie Hall",
             "video": false,
-            "vote_average": 7.752,
-            "vote_count": 3740
+            "vote_average": 7.732,
+            "vote_count": 4127,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 93,
+            "tagline": "A nervous romance."
         },
         {
             "adult": false,
-            "backdrop_path": "/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
-            "genre_ids": [
-                18,
-                10749,
-                35
-            ],
+            "backdrop_path": "/4oWU9FPOvjCE85DaHm4vo89Whpz.jpg",
             "id": 660120,
             "original_language": "no",
             "original_title": "Verdens verste menneske",
             "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
-            "popularity": 19.946,
+            "popularity": 5.5971,
             "poster_path": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
             "release_date": "2021-10-13",
             "title": "The Worst Person in the World",
             "video": false,
-            "vote_average": 7.529,
-            "vote_count": 1209
+            "vote_average": 7.438,
+            "vote_count": 1696,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 128,
+            "tagline": ""
         },
         {
             "adult": false,
             "backdrop_path": "/3d8Y4q172YFp2obUdfMjyErB7eU.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 8346,
             "original_language": "en",
             "original_title": "My Big Fat Greek Wedding",
             "overview": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
-            "popularity": 18.848,
+            "popularity": 2.2074,
             "poster_path": "/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
             "release_date": "2002-04-19",
             "title": "My Big Fat Greek Wedding",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 2038
+            "vote_average": 6.499,
+            "vote_count": 2231,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 95,
+            "tagline": "Love is here to stay... so is her family."
         },
         {
             "adult": false,
             "backdrop_path": "/xTQXtSQQZY5ZbJ1GxEcSCRP4aWV.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749
-            ],
             "id": 6964,
             "original_language": "en",
             "original_title": "Something's Gotta Give",
-            "overview": "Harry Sanborn is an aged music industry exec with a fondness for younger women like Marin, his latest trophy girlfriend. Things get a little awkward when Harry suffers a heart attack at the home of Marin's mother, Erica. Left in the care of Erica and his doctor, a love triangle starts to take shape.",
-            "popularity": 26.725,
-            "poster_path": "/4fQJjwbDf1KELvJJMcmAV6AxJdH.jpg",
+            "overview": "When perpetually single, aging music industry exec Harry Sanborn, and his latest trophy girlfriend, Marin, arrive at her mother's beach house in the Hamptons, they find that her mother, playwright Erica Barry, also plans to stay for the weekend. Erica is scandalized by the relationship and Harry's sexist ways. But when Harry has a heart attack while there, and the doctor prescribes bedrest, his only option is to stay at the Barry home. Left in the care of Erica and his doctor, a love triangle starts to take shape.",
+            "popularity": 3.6962,
+            "poster_path": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
             "release_date": "2003-12-12",
             "title": "Something's Gotta Give",
             "video": false,
-            "vote_average": 6.624,
-            "vote_count": 1518
+            "vote_average": 6.639,
+            "vote_count": 1704,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 128,
+            "tagline": "After a lifetime of going from girl to girl, the ultimate bachelor is about to encounter something new."
         },
         {
             "adult": false,
-            "backdrop_path": "/bb362waz16FQtnTgEGDtdnFTUGW.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/7tTCnQcKzUkabDV3BJMe7LIzlEs.jpg",
             "id": 455207,
             "original_language": "en",
             "original_title": "Crazy Rich Asians",
             "overview": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
-            "popularity": 58.275,
+            "popularity": 4.5342,
             "poster_path": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
             "release_date": "2018-08-15",
             "title": "Crazy Rich Asians",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 3497
+            "vote_average": 7.059,
+            "vote_count": 3873,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 121,
+            "tagline": "The only thing crazier than love is family."
         },
         {
             "adult": false,
             "backdrop_path": "/gBwujuep3xyjkPVbcLfhZ9sOHLP.jpg",
-            "genre_ids": [
-                35,
-                14,
-                10749
-            ],
             "id": 10096,
             "original_language": "en",
             "original_title": "13 Going on 30",
-            "overview": "A girl who's sick of the social strictures of junior high is transformed into a grownup overnight. In this feel-good fairy tale, teenager Jenna wants a boyfriend, and when she's unable to find one, she fantasizes about being a well-adjusted adult. Suddenly, her secret desire becomes a reality, and she is transformed into a 30-year-old, but adulthood, with its own set of male-female challenges, isn't as easy as it looks.",
-            "popularity": 44.821,
+            "overview": "After total humiliation at her thirteenth birthday party, Jenna Rink wants to just hide until she's thirty. Thanks to some magic wishing dust, Jenna's prayer has been answered. With a knockout body, a fabulous wardrobe, an athlete boyfriend, a dream job, and superstar friends, this can't be a better life. But soon Jenna realizes that adult life isn\u2019t as easy as she hoped for.",
+            "popularity": 6.0775,
             "poster_path": "/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
             "release_date": "2004-04-13",
             "title": "13 Going on 30",
             "video": false,
-            "vote_average": 6.744,
-            "vote_count": 4945
+            "vote_average": 6.8,
+            "vote_count": 5430,
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Romance"
+            ],
+            "runtime": 98,
+            "tagline": "For some, 13 feels like it was just yesterday. For Jenna, it was."
         },
         {
             "adult": false,
             "backdrop_path": "/bRZQqYtGK8y2wypgvVRY338fIxj.jpg",
-            "genre_ids": [
-                10749,
-                35
-            ],
             "id": 37964,
             "original_language": "en",
             "original_title": "Brown Sugar",
             "overview": "Sidney and Dre can attribute their lifelong friendship and the launch of their careers to one single childhood instant... witnessing the birth of hip-hop on a New York street corner. Now some 15 years later, she is a revered music critic at a national magazine and he is a successful, though unfulfilled, hip-hop record company executive. Both come to realize that their true life passions will only be fulfilled by remembering what they learned that day on the corner.",
-            "popularity": 24.333,
+            "popularity": 2.4727,
             "poster_path": "/hKltNdfxKg28mOgFwizNyhIFkJ2.jpg",
             "release_date": "2002-10-05",
             "title": "Brown Sugar",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 105
+            "vote_average": 6.593,
+            "vote_count": 123,
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 109,
+            "tagline": "When did you first fall in love with hip-hop?"
         },
         {
             "adult": false,
-            "backdrop_path": "/89AD33sjqpZhtbEwZt7golJxtAy.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/8YYg4SXMJK5Qc7ddxEXoGrNxTGH.jpg",
             "id": 11584,
             "original_language": "en",
             "original_title": "Roxanne",
             "overview": "In this modern take on Edmond Rostand's classic play \"Cyrano de Bergerac,\" C. D. Bales is the witty, intelligent, and brave fire chief of a small Pacific Northwest town who, due to the size of his enormous nose, declines to pursue the girl of his dreams, lovely Roxanne Kowalski. Instead, when his shy underling Chris McConnell becomes smitten with Roxanne, C.D. feeds the handsome young man the words of love to win her heart.",
-            "popularity": 42.099,
+            "popularity": 1.3671,
             "poster_path": "/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg",
             "release_date": "1987-06-19",
             "title": "Roxanne",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 591
+            "vote_average": 6.405,
+            "vote_count": 659,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 107,
+            "tagline": "Roxanne dreamed of a handsome, intelligent, romantic man. C.D. Bales is two out of three\u2014but looks aren't everything."
         },
         {
             "adult": false,
-            "backdrop_path": "/rl6TA8Hhvc3f5LR59WiCBo9QxSa.jpg",
-            "genre_ids": [
-                28,
-                35,
-                10749
-            ],
+            "backdrop_path": "/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
             "id": 22538,
             "original_language": "en",
             "original_title": "Scott Pilgrim vs. the World",
             "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
-            "popularity": 50.333,
+            "popularity": 6.1968,
             "poster_path": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
             "release_date": "2010-08-12",
             "title": "Scott Pilgrim vs. the World",
             "video": false,
             "vote_average": 7.487,
-            "vote_count": 7554
+            "vote_count": 8340,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 113,
+            "tagline": "An epic of epic epicness."
         },
         {
             "adult": false,
-            "backdrop_path": "/bynRHBHqxkWk0HU2sYXKtz9HYxF.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10751,
-                10749
-            ],
+            "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
             "id": 848116,
             "original_language": "hi",
             "original_title": "\u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940",
             "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
-            "popularity": 9.196,
+            "popularity": 1.4724,
             "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
             "release_date": "2023-07-28",
             "title": "Rocky Aur Rani Kii Prem Kahaani",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 45
+            "vote_average": 6.007,
+            "vote_count": 72,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Family",
+                "Romance"
+            ],
+            "runtime": 179,
+            "tagline": "The power of family will decide the fate of love"
         },
         {
             "adult": false,
             "backdrop_path": "/fUsBSXkii0e4sEyEkXiPWXIpnuT.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 16980,
             "original_language": "en",
             "original_title": "The Last Days of Disco",
             "overview": "Two young women and their friends spend spare time at an exclusive nightclub in 1980s New York.",
-            "popularity": 12.611,
+            "popularity": 0.9136,
             "poster_path": "/lReaAZCsA0GXvJrxzSMsFxwgh6F.jpg",
             "release_date": "1998-05-29",
             "title": "The Last Days of Disco",
             "video": false,
-            "vote_average": 6.3,
-            "vote_count": 174
+            "vote_average": 6.224,
+            "vote_count": 203,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 113,
+            "tagline": "History is made at night."
         },
         {
             "adult": false,
-            "backdrop_path": "/rOd0Vp2jGsbyH0YF9mxRDs3l9Ue.jpg",
-            "genre_ids": [
-                18,
-                10749,
-                35
-            ],
+            "backdrop_path": "/mAZqXy8Ssigm1owFtwC70nT2RcB.jpg",
             "id": 5767,
             "original_language": "en",
             "original_title": "Two for the Road",
-            "overview": "On the way to a party, a British couple dissatisfied with their marriage recall the gradual dissolution of their relationship.",
-            "popularity": 10.504,
+            "overview": "Architect Mark Wallace and his wife, Joanna, travel to France to meet with an affluent client. While there, they reflect on their first decade of marriage -- memories of when they first met, of courtship, and of road trips through the French countryside. As flirtation and playful quarreling turn to boredom with the banality of married life, the Wallaces struggle to rekindle their passion, while mutual infidelity threatens to tear them apart.",
+            "popularity": 0.7678,
             "poster_path": "/f9GAaL5gXzSP8LhXJcAx8Remfy3.jpg",
             "release_date": "1967-04-27",
             "title": "Two for the Road",
             "video": false,
-            "vote_average": 6.967,
-            "vote_count": 230
+            "vote_average": 6.996,
+            "vote_count": 259,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 112,
+            "tagline": "They make something wonderful out of being alive!"
         },
         {
             "adult": false,
-            "backdrop_path": "/pa3xghEkAb2dQ8MLvZJ2VoqCars.jpg",
-            "genre_ids": [
-                10402,
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/utumW9rZtRymRQuFJXG3uZlowPG.jpg",
             "id": 11239,
             "original_language": "ja",
             "original_title": "Shall we \u30c0\u30f3\u30b9?",
-            "overview": "A bored Japanese accountant sees a beautiful woman in the window of a ballroom dance studio. He secretly starts taking dancing lessons to be near her, and then over time discovers how much he loves ballroom dancing. His wife, meanwhile, has hired a private detective to find out why he has started coming home late smelling of perfume.",
-            "popularity": 18.39,
-            "poster_path": "/a3HQNANsAZ3zhKpHeWdznwBmJPF.jpg",
+            "overview": "A bored accountant spots a beautiful woman in the window of a ballroom dance studio. He secretly starts taking dancing lessons to be near her, and then over time discovers how much he loves dancing. His wife, meanwhile, has hired a private detective to find out why he has started coming home late smelling of perfume.",
+            "popularity": 1.739,
+            "poster_path": "/rCpqoo4phrDQSaLs9ToJnAqPG83.jpg",
             "release_date": "1996-01-27",
             "title": "Shall We Dance?",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 140
+            "vote_average": 7.431,
+            "vote_count": 173,
+            "genres": [
+                "Music",
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 136,
+            "tagline": "She's got the moves\u2026 but he's got two left feet!"
         },
         {
             "adult": false,
             "backdrop_path": "/8h200JQ8vwKzQuaitYwmVfXwCaV.jpg",
-            "genre_ids": [
-                35
-            ],
             "id": 15647,
             "original_language": "en",
             "original_title": "Kissing Jessica Stein",
             "overview": "Jessica, a Jewish copy editor living and working in New York City, is plagued by failed blind dates with men, and decides to answer a newspaper's personal advertisement. The advertisement has been placed by 'lesbian-curious' Helen Cooper, a thirtysomething art gallerist.",
-            "popularity": 16.061,
+            "popularity": 0.9821,
             "poster_path": "/8b2g8QZRLTJMYyzc3HirTSRQpLW.jpg",
             "release_date": "2002-03-13",
             "title": "Kissing Jessica Stein",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 209
+            "vote_average": 6.023,
+            "vote_count": 240,
+            "genres": [
+                "Comedy"
+            ],
+            "runtime": 97,
+            "tagline": "When it comes to love, sometimes she just can't think straight."
         },
         {
             "adult": false,
             "backdrop_path": "/jyaCqYH5gLEp0Z9oZJ8nQrQM9pA.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 1845,
             "original_language": "en",
             "original_title": "2 Days in Paris",
             "overview": "Marion and Jack try to rekindle their relationship with a visit to Paris, home of Marion's parents \u2014 and several of her ex-boyfriends.",
-            "popularity": 16.66,
-            "poster_path": "/uqxkuGxV1zLw4kJXj9XMx4oFQgE.jpg",
+            "popularity": 1.1507,
+            "poster_path": "/4yf8vcgJtADTTPP0Ltq2KhqLfdE.jpg",
             "release_date": "2007-02-09",
             "title": "2 Days in Paris",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 357
+            "vote_average": 6.243,
+            "vote_count": 407,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 96,
+            "tagline": "He knew Paris was for lovers, he just didn't think they were all hers."
         },
         {
             "adult": false,
-            "backdrop_path": "/9l0drjuLhadG6jCzr8AIHSHSuWU.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749
-            ],
+            "backdrop_path": "/13uKAt4M87HQi1lMZAwBmsNZRGg.jpg",
             "id": 11178,
             "original_language": "ko",
             "original_title": "\uc5fd\uae30\uc801\uc778 \uadf8\ub140",
             "overview": "A dweeby, mild-mannered man comes to the aid of a drunk young woman on a subway platform. Little does he know how much trouble he\u2019s in for.",
-            "popularity": 16.467,
-            "poster_path": "/nVVxhtBj4lrq7ieiuXgp07vDv46.jpg",
+            "popularity": 1.7026,
+            "poster_path": "/grFSgOnSt8saknfRUY05wLGVJ7T.jpg",
             "release_date": "2001-07-27",
             "title": "My Sassy Girl",
             "video": false,
-            "vote_average": 7.522,
-            "vote_count": 533
+            "vote_average": 7.5,
+            "vote_count": 620,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 137,
+            "tagline": "My date with her started."
         },
         {
             "adult": false,
             "backdrop_path": "/40ZRzvdkuCPNCSbdcImc5o4JGdD.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 288036,
             "original_language": "en",
             "original_title": "Sleeping with Other People",
             "overview": "Can two serial cheaters get a second chance at love? After a one-night stand in college, New Yorkers Lainey and Jake meet by chance twelve years later and discover they each have the same problem: because of their monogamy-challenged ways, neither can maintain a relationship. Determined to stay friends despite their mutual attraction, they make a pact to keep it platonic, a deal that proves easier said than done.",
-            "popularity": 20.547,
+            "popularity": 1.4695,
             "poster_path": "/thYomS3wTYDTRZaM98ADMfBiDxm.jpg",
             "release_date": "2015-06-26",
             "title": "Sleeping with Other People",
             "video": false,
-            "vote_average": 6.306,
-            "vote_count": 868
+            "vote_average": 6.273,
+            "vote_count": 951,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 100,
+            "tagline": "A romantic comedy with commitment issues."
         },
         {
             "adult": false,
             "backdrop_path": "/d0oHN3xA6TxOvADW64OiyYFpLOf.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 5966,
             "original_language": "en",
             "original_title": "Along Came Polly",
             "overview": "Reuben Feffer is a guy who's spent his entire life playing it safe. Polly Prince is irresistible as a free-spirit who lives for the thrill of the moment. When these two comically mismatched souls collide, Reuben's world is turned upside down, as he makes an uproarious attempt to change his life from middle-of-the-road to totally-out-there.",
-            "popularity": 36.282,
-            "poster_path": "/ieTSn8YTsHoPK8GNf2J9eIkP5wo.jpg",
+            "popularity": 2.8533,
+            "poster_path": "/cM8Px79kOsX037VRHeViiiDncvk.jpg",
             "release_date": "2004-01-16",
             "title": "Along Came Polly",
             "video": false,
-            "vote_average": 6.0,
-            "vote_count": 2724
+            "vote_average": 6.025,
+            "vote_count": 2963,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 90,
+            "tagline": "For the most cautious man on Earth, life is about to get interesting."
         },
         {
             "adult": false,
             "backdrop_path": "/3di4noZGr04O2lyqgDgWNbyW1wA.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 1049638,
             "original_language": "en",
             "original_title": "Rye Lane",
             "overview": "Two twenty-somethings, both reeling from bad break-ups, connect over the course of an eventful day in South London \u2013 helping each other deal with their nightmare exes, and potentially restoring their faith in romance.",
-            "popularity": 38.38,
+            "popularity": 4.6994,
             "poster_path": "/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",
             "release_date": "2023-03-17",
             "title": "Rye Lane",
             "video": false,
-            "vote_average": 7.089,
-            "vote_count": 168
+            "vote_average": 7.1,
+            "vote_count": 231,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 82,
+            "tagline": ""
         },
         {
             "adult": false,
             "backdrop_path": "/nDfHT9HvEyRFrjctodwqxZ7Yuem.jpg",
-            "genre_ids": [
-                10749,
-                18,
-                35
-            ],
             "id": 56137,
             "original_language": "en",
             "original_title": "I Know Where I'm Going!",
             "overview": "Plucky Englishwoman Joan Webster travels to the remote islands of the Scottish Hebrides in order to marry a wealthy industrialist. Trapped by inclement weather on the Isle of Mull and unable to continue to her destination, Joan finds herself charmed by the straightforward, no-nonsense islanders around her, and becomes increasingly attracted to naval officer Torquil MacNeil, who holds a secret that may change her life forever.",
-            "popularity": 8.005,
+            "popularity": 0.8841,
             "poster_path": "/i0Tq9xHqjlm3TjMYAJEq3hFnpQb.jpg",
             "release_date": "1945-11-16",
             "title": "I Know Where I'm Going!",
             "video": false,
             "vote_average": 7.0,
-            "vote_count": 130
+            "vote_count": 158,
+            "genres": [
+                "Romance",
+                "Drama",
+                "Comedy"
+            ],
+            "runtime": 91,
+            "tagline": ""
         },
         {
             "adult": false,
-            "backdrop_path": "/3t5ZtUhv7QECBQeMlUIRPEcLSjS.jpg",
-            "genre_ids": [
-                18,
-                10749,
-                35
-            ],
+            "backdrop_path": "/yu3boJ3VvHGStgCMBxYqzyOaBgA.jpg",
             "id": 18620,
             "original_language": "en",
             "original_title": "Go Fish",
             "overview": "Max is a trendy, pretty, young lesbian, who is having trouble finding love. A friend sets her up with Ely, whom Max likes, but Ely is frumpy, homely, and older. Nor do they have much in common. Can Max learn to look past the packaging?",
-            "popularity": 10.164,
+            "popularity": 1.6596,
             "poster_path": "/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg",
-            "release_date": "1994-02-01",
+            "release_date": "1994-06-10",
             "title": "Go Fish",
             "video": false,
-            "vote_average": 4.6,
-            "vote_count": 26
+            "vote_average": 4.961,
+            "vote_count": 38,
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "runtime": 83,
+            "tagline": "The girl is out there"
         },
         {
             "adult": false,
             "backdrop_path": "/1HOO7m6NeK3wFw22xGBLdwvim51.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 2470,
             "original_language": "es",
             "original_title": "Belle \u00c9poque",
             "overview": "In 1931, a young soldier deserts from the army and falls into a country farm, where he is welcomed by the owner due to his political ideas. Manolo has four daughters, Fernando likes all of them and they like him, so he has to decide which one to love.",
-            "popularity": 21.072,
+            "popularity": 2.2857,
             "poster_path": "/2pb7i9pI6wMH5dlyjbVTXdfSKun.jpg",
             "release_date": "1992-12-04",
             "title": "Belle \u00c9poque",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 174
+            "vote_average": 6.636,
+            "vote_count": 198,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 109,
+            "tagline": ""
         },
         {
             "adult": false,
             "backdrop_path": "/f06wctFI1PSBlxBOqQYQ3vkJbua.jpg",
-            "genre_ids": [
-                10749,
-                35
-            ],
             "id": 67793,
             "original_language": "cn",
             "original_title": "\u55ae\u8eab\u7537\u5973",
             "overview": "A typical story of the classic romantic triangle, where one person ends up having to choose between two others. This time, it is set against a backdrop of offices in Hong Kong, with a focus on architecture and its designers.",
-            "popularity": 6.678,
+            "popularity": 0.8862,
             "poster_path": "/l3wF8nHu1v2R1iI5ZIQ0zgyIeW.jpg",
             "release_date": "2011-03-31",
             "title": "Don't Go Breaking My Heart",
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 44
+            "vote_average": 6.371,
+            "vote_count": 62,
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 115,
+            "tagline": "Torn between two lovers, feeling like a fool."
         },
         {
             "adult": false,
-            "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
-            "genre_ids": [
-                10749,
-                36,
-                35
-            ],
+            "backdrop_path": "/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg",
             "id": 1934,
             "original_language": "en",
             "original_title": "Shakespeare in Love",
-            "overview": "Young Shakespeare is forced to stage his latest comedy, \"Romeo and Ethel, the Pirate's Daughter,\" before it's even written. When a lovely noblewoman auditions for a role, they fall into forbidden love -- and his play finds a new life (and title). As their relationship progresses, Shakespeare's comedy soon transforms into tragedy.",
-            "popularity": 31.693,
-            "poster_path": "/xeRom2aQmB7aVp3ft5O7UcRI2AO.jpg",
+            "overview": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love \u2014 and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy.",
+            "popularity": 3.6089,
+            "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
             "release_date": "1998-12-11",
             "title": "Shakespeare in Love",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 2889
+            "vote_average": 6.8,
+            "vote_count": 3136,
+            "genres": [
+                "Romance",
+                "History",
+                "Comedy"
+            ],
+            "runtime": 124,
+            "tagline": "Love is the only inspiration."
         },
         {
             "adult": false,
-            "backdrop_path": "/yVDvtPaouact2AFFTC4stQ8koq5.jpg",
-            "genre_ids": [
-                16,
-                18,
-                10751
-            ],
+            "backdrop_path": "/gq7DxEWheTmULhMekam9ihsiQyo.jpg",
             "id": 37797,
             "original_language": "ja",
             "original_title": "\u8033\u3092\u3059\u307e\u305b\u3070",
             "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'.",
-            "popularity": 59.304,
+            "popularity": 5.3609,
             "poster_path": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
             "release_date": "1995-07-15",
             "title": "Whisper of the Heart",
             "video": false,
-            "vote_average": 7.933,
-            "vote_count": 1883
+            "vote_average": 7.948,
+            "vote_count": 2196,
+            "genres": [
+                "Animation",
+                "Drama",
+                "Family"
+            ],
+            "runtime": 111,
+            "tagline": "I found someone I like."
         },
         {
             "adult": false,
-            "backdrop_path": "/bq8iPedKeg22ITNQPCwRlvO36nW.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/yjMq644i4zTEchKsnQbD6lDV2dy.jpg",
             "id": 24203,
             "original_language": "en",
             "original_title": "Desk Set",
             "overview": "A computer expert tries to prove his electronic brain can replace a television network's research staff.",
-            "popularity": 17.804,
+            "popularity": 0.7352,
             "poster_path": "/9gFerTRUGkIFn41mb3B1wb8ohtj.jpg",
             "release_date": "1957-08-02",
             "title": "Desk Set",
             "video": false,
             "vote_average": 7.0,
-            "vote_count": 105
+            "vote_count": 124,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 103,
+            "tagline": "The girls and guys who make the office such a wonderful place to love in!"
         },
         {
             "adult": false,
-            "backdrop_path": "/dYk6sE9nNy6ge0InSB2gJY9zcnM.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/62BnXyJtVEq4WKNSpnPG7QPYYDI.jpg",
             "id": 9087,
             "original_language": "en",
             "original_title": "The American President",
             "overview": "Widowed U.S. president Andrew Shepherd, one of the world's most powerful men, can have anything he wants -- and what he covets most is Sydney Ellen Wade, a Washington lobbyist. But Shepherd's attempts at courting her spark wild rumors and decimate his approval ratings.",
-            "popularity": 22.505,
+            "popularity": 2.3113,
             "poster_path": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
             "release_date": "1995-11-17",
             "title": "The American President",
             "video": false,
-            "vote_average": 6.544,
-            "vote_count": 671
+            "vote_average": 6.5,
+            "vote_count": 760,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 113,
+            "tagline": "Why can't the most powerful man in the world have the one thing he wants most?"
         },
         {
             "adult": false,
             "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 846250,
             "original_language": "en",
             "original_title": "Fire Island",
-            "overview": "A pair of best friends set out to have a legendary week-long summer vacation with the help of cheap ros\u00e9 and a group of eclectic friends.",
-            "popularity": 24.757,
+            "overview": "A group of queer best friends gather in the Fire Island Pines for their annual week of love and laughter. However, desires, dramas, drink and drugs push their bonds to the limits.",
+            "popularity": 3.1129,
             "poster_path": "/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
-            "release_date": "2022-06-09",
+            "release_date": "2022-06-02",
             "title": "Fire Island",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 215
+            "vote_average": 7.0,
+            "vote_count": 268,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 105,
+            "tagline": "It takes a match to light a fire."
         },
         {
             "adult": false,
             "backdrop_path": "/vay1nnmwRbS6HUPjCEhWHzUkq8x.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 48992,
             "original_language": "en",
             "original_title": "I Like It Like That",
-            "overview": "Lisette and husband Chino face marital difficulties. She is fed up with the kids, while he has job troubles. His mother Rosaria hates Lisette and the neighborhood tramp has designs on Chino. Things get even worse when Chino goes to jail and Lisette gets a good job uptown. Can this marriage be saved?",
-            "popularity": 4.829,
-            "poster_path": "/lFiGWrHhk517E9VE641zKMgB5fP.jpg",
+            "overview": "After her husband is arrested for looting, Lisette struggles for independence while dealing with her transgender sibling, her critical mother-in-law and assorted neighborhood eccentrics.",
+            "popularity": 0.251,
+            "poster_path": "/aCxh21UPLHi7Pxm9ykH1GNx39OW.jpg",
             "release_date": "1994-10-14",
             "title": "I Like It Like That",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 15
+            "vote_average": 6.2,
+            "vote_count": 20,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 104,
+            "tagline": "For Lisette, everyday has become independence day."
         },
         {
             "adult": false,
-            "backdrop_path": "/nY103Y9P6yMgk4Vr7H0PHOpNf1Z.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/wBpXbfCXsSjoPaKoNa9ERLvvc17.jpg",
             "id": 17887,
             "original_language": "en",
             "original_title": "Barefoot in the Park",
             "overview": "In this film based on a Neil Simon play, newlyweds Corie, a free spirit, and Paul Bratter, an uptight lawyer, share a sixth-floor apartment in Greenwich Village. Soon after their marriage, Corie tries to find a companion for mother, Ethel, who is now alone, and sets up Ethel with neighbor Victor. Inappropriate behavior on a double date causes conflict, and the young couple considers divorce.",
-            "popularity": 15.378,
-            "poster_path": "/qh64tAOmbQNoYMLTETkhmBQgSbu.jpg",
+            "popularity": 0.9293,
+            "poster_path": "/rYRorEvNI7fBHiFui1qEinuSYbC.jpg",
             "release_date": "1967-05-25",
             "title": "Barefoot in the Park",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 545
+            "vote_average": 7.127,
+            "vote_count": 599,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 106,
+            "tagline": "Broadway's barest, rarest, unsquarest love play."
         },
         {
             "adult": false,
-            "backdrop_path": "/17QTukt4IwFKE9F3mSDEmIWOwTH.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
+            "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
             "id": 164,
             "original_language": "en",
             "original_title": "Breakfast at Tiffany's",
             "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-            "popularity": 30.974,
+            "popularity": 5.9221,
             "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
             "release_date": "1961-10-06",
             "title": "Breakfast at Tiffany's",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 4033
+            "vote_average": 7.6,
+            "vote_count": 4395,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "runtime": 115,
+            "tagline": "Audrey Hepburn plays that daring, darling Holly Golightly to a new high in entertainment delight!"
         },
         {
             "adult": false,
-            "backdrop_path": "/lmOFoZBxTEwc75N1TN91kqdAzxY.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/oLtgiQU30YOlKfDK8gGxq2d1WBv.jpg",
             "id": 52696,
             "original_language": "hi",
             "original_title": "Band Baaja Baaraat",
             "overview": "Shruti and Bittoo decide to start a wedding planning company together after they graduate from university, but romance gets in the way of business.",
-            "popularity": 8.762,
+            "popularity": 0.5453,
             "poster_path": "/uEh8cvyaW1uKfqvB4HJ8ALoT72M.jpg",
             "release_date": "2010-12-10",
             "title": "Band Baaja Baaraat",
             "video": false,
             "vote_average": 6.6,
-            "vote_count": 117
+            "vote_count": 136,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 139,
+            "tagline": ""
         },
         {
             "adult": false,
             "backdrop_path": "/38mKWUbVaWaMvKHeCNeXRJY5yLW.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 25462,
             "original_language": "en",
             "original_title": "Two Can Play That Game",
             "overview": "Corporate overachiever and all-around fly chick Shant\u00e9 Smith thinks she's got the goods to keep her slickster boyfriend Keith, from straying\u2014until he discovers a greener pasture, Shant\u00e9's archrival, Conny. Scorned, she plans to get her man back by any means necessary.",
-            "popularity": 11.605,
-            "poster_path": "/nhKRxaO9KWLyyVBr3I5G5mfJtJT.jpg",
+            "popularity": 0.9207,
+            "poster_path": "/oDWVsSJMXvDeX9KohSOtfqCFD7e.jpg",
             "release_date": "2001-09-07",
             "title": "Two Can Play That Game",
             "video": false,
-            "vote_average": 6.6,
-            "vote_count": 75
+            "vote_average": 6.4,
+            "vote_count": 89,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 90,
+            "tagline": "The rules are simple. There are no rules."
         },
         {
             "adult": false,
-            "backdrop_path": "/hSnSV1qcIiWIxxrolnlWd2dBApz.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749
-            ],
+            "backdrop_path": "/1liaFFVnxdcUlfvi6Dp29261tK5.jpg",
             "id": 11807,
             "original_language": "hi",
             "original_title": "\u091c\u092c \u0935\u0940 \u092e\u0947\u091f",
-            "overview": "A depressed wealthy businessman and a spunky and care-free young woman embark on an unexpected journey that changes their lives.",
-            "popularity": 12.249,
-            "poster_path": "/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+            "overview": "A depressed wealthy businessman and a spunky carefree young woman embark on an unexpected journey that changes their lives.",
+            "popularity": 2.0948,
+            "poster_path": "/iqiH6vnoEgjAypKsuIScN7JlE2j.jpg",
             "release_date": "2007-10-26",
             "title": "Jab We Met",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 255
+            "vote_average": 7.311,
+            "vote_count": 302,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 138,
+            "tagline": "Don't miss the train!"
         },
         {
             "adult": false,
-            "backdrop_path": "/eqprZ4kt2CuUXAW1H2By4kbpM3m.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/7DsPcLMbybqpl7nNMcwzPCM4VKG.jpg",
             "id": 248774,
             "original_language": "en",
             "original_title": "Obvious Child",
             "overview": "An immature, newly unemployed comic must navigate the murky waters of adulthood after her fling with a graduate student results in an unplanned pregnancy.",
-            "popularity": 18.694,
-            "poster_path": "/jo1nr5BkhBKaoeaKj1YRvtgDoPx.jpg",
+            "popularity": 3.5212,
+            "poster_path": "/vAVuQuboHiqc6ClsFeWQXBHJkOX.jpg",
             "release_date": "2014-06-06",
             "title": "Obvious Child",
             "video": false,
-            "vote_average": 6.51,
-            "vote_count": 413
+            "vote_average": 6.494,
+            "vote_count": 450,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 85,
+            "tagline": ""
         },
         {
             "adult": false,
             "backdrop_path": "/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                878
-            ],
             "id": 587792,
             "original_language": "en",
             "original_title": "Palm Springs",
             "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
-            "popularity": 59.376,
-            "poster_path": "/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+            "popularity": 7.5576,
+            "poster_path": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
             "release_date": "2020-07-10",
             "title": "Palm Springs",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 2898
+            "vote_average": 7.335,
+            "vote_count": 3501,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Science Fiction"
+            ],
+            "runtime": 90,
+            "tagline": "Live like there's no tomorrow"
         },
         {
             "adult": false,
             "backdrop_path": "/iIcJ72VzqAIw5NT6bOYqfHB2ukM.jpg",
-            "genre_ids": [
-                18,
-                35,
-                10749
-            ],
             "id": 212716,
             "original_language": "en",
             "original_title": "What If",
             "overview": "Medical-school dropout Wallace has been repeatedly burned by bad relationships. So while everyone around him, including his roommate Allan, seems to be finding the perfect partner, Wallace decides to put his love life on hold. It is then that he meets Chantry, an animator who lives with her longtime boyfriend Ben. Wallace and Chantry form an instant connection, striking up a close friendship. Still, there is no denying the chemistry between them, leading the pair to wonder, what if the love of your life is actually your best friend?",
-            "popularity": 31.928,
-            "poster_path": "/67x9NJyjK4u02NpISnChDMKzCUr.jpg",
+            "popularity": 1.6486,
+            "poster_path": "/2GZdiJR4AS3EQPE5XBi6EQVp86F.jpg",
             "release_date": "2013-09-07",
             "title": "What If",
             "video": false,
-            "vote_average": 6.741,
-            "vote_count": 1896
+            "vote_average": 6.7,
+            "vote_count": 2042,
+            "genres": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 98,
+            "tagline": "...being friends has its benefits?"
         },
         {
             "adult": false,
-            "backdrop_path": "/pdhDFmVQSA0f5i5IL0gpWROjgZ5.jpg",
-            "genre_ids": [
-                10749,
-                35
-            ],
+            "backdrop_path": "/mGPc6OBx75S1MuMjgx0pQHIyt8e.jpg",
             "id": 621,
             "original_language": "en",
             "original_title": "Grease",
             "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
-            "popularity": 130.226,
-            "poster_path": "/czVhhAaSBFpakur7U8pOIDV9NUG.jpg",
-            "release_date": "1978-07-07",
+            "popularity": 10.0402,
+            "poster_path": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+            "release_date": "1978-06-16",
             "title": "Grease",
             "video": false,
-            "vote_average": 7.397,
-            "vote_count": 6968
+            "vote_average": 7.372,
+            "vote_count": 7543,
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 110,
+            "tagline": "Grease is the word."
         },
         {
             "adult": false,
             "backdrop_path": "/yJYFp97trLmcNAQb5A4SXXhNJU4.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                14,
-                18
-            ],
             "id": 103332,
             "original_language": "en",
             "original_title": "Ruby Sparks",
             "overview": "Calvin is a young novelist who achieved phenomenal success early in his career but is now struggling with his writing \u2013 as well as his romantic life. Finally, he makes a breakthrough and creates a character named Ruby who inspires him. When Calvin finds Ruby, in the flesh, sitting on his couch about a week later, he is completely flabbergasted that his words have turned into a living, breathing person.",
-            "popularity": 38.989,
+            "popularity": 1.5384,
             "poster_path": "/zELurt0GVRkR5X5ymuk7KXUxhC8.jpg",
             "release_date": "2012-07-25",
             "title": "Ruby Sparks",
             "video": false,
-            "vote_average": 7.108,
-            "vote_count": 1551
+            "vote_average": 7.116,
+            "vote_count": 1729,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Fantasy",
+                "Drama"
+            ],
+            "runtime": 104,
+            "tagline": "She's Out Of His Mind."
         },
         {
             "adult": false,
-            "backdrop_path": "/dnVigajpWbYFshlP77KRfYPhIz7.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/cQ9sbPLBox8z2LIYsExHnsvgrzZ.jpg",
             "id": 33666,
             "original_language": "en",
             "original_title": "The Glass Bottom Boat",
-            "overview": "Bruce, the owner of a aerospace company, is infatuated with Jennifer and hires her to be his biographer so that he can be near her and win her affections. Is she actually a Russian spy trying to obtain aerospace secrets?",
-            "popularity": 8.363,
+            "overview": "Bruce, the owner of an aerospace company, is infatuated with Jennifer and hires her to be his biographer so that he can be near her and win her affections. Is she actually a Russian spy trying to obtain aerospace secrets?",
+            "popularity": 1.1916,
             "poster_path": "/jlj5rCl7jfW7QskJ1vucd7j5n5M.jpg",
             "release_date": "1966-06-09",
             "title": "The Glass Bottom Boat",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 58
+            "vote_average": 6.246,
+            "vote_count": 65,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 110,
+            "tagline": "Is this the girl next door?"
         },
         {
             "adult": false,
-            "backdrop_path": "/88r25ghJzVYKq0vaOApqEOZsQlD.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
             "id": 459992,
             "original_language": "en",
             "original_title": "Long Shot",
             "overview": "Journalist Fred Flarsky reunites with his childhood crush, Charlotte Field, now one of the most influential women in the world. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter \u2014 much to the dismay of her trusted advisers.",
-            "popularity": 65.893,
-            "poster_path": "/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg",
+            "popularity": 3.1284,
+            "poster_path": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
             "release_date": "2019-05-02",
             "title": "Long Shot",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 2563
+            "vote_average": 6.715,
+            "vote_count": 2809,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 125,
+            "tagline": "Unlikely but not impossible."
         },
         {
             "adult": false,
             "backdrop_path": "/7AP3RLWMnnJDy1fspP3jK7f89RL.jpg",
-            "genre_ids": [
-                10402,
-                10749,
-                35
-            ],
             "id": 2098,
             "original_language": "en",
             "original_title": "Viva Las Vegas",
             "overview": "Lucky Jackson arrives in town with his car literally in tow ready for the first Las Vegas Grand Prix - once he has the money to buy an engine. He gets the cash easily enough but mislays it when the pretty swimming pool manageress takes his mind off things. It seems he will lose both race and girl, problems made more difficult by rivalry from Elmo Mancini, fellow racer and womaniser.",
-            "popularity": 10.999,
-            "poster_path": "/mpI1qaQJXmqfuUgrmxczvWLcHqu.jpg",
+            "popularity": 1.6779,
+            "poster_path": "/7YEjLotGpVYVcGGKpqfHX8aDfNJ.jpg",
             "release_date": "1964-02-08",
             "title": "Viva Las Vegas",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 128
+            "vote_average": 6.197,
+            "vote_count": 147,
+            "genres": [
+                "Music",
+                "Romance",
+                "Comedy"
+            ],
+            "runtime": 85,
+            "tagline": "Elvis is at the wheel but Ann-Margret drives him wild!"
         },
         {
             "adult": false,
             "backdrop_path": "/cLZsdMMC3hoVQy9xwn3YJ4CR9Pd.jpg",
-            "genre_ids": [
-                35,
-                10402,
-                10749
-            ],
             "id": 11172,
             "original_language": "en",
             "original_title": "Music and Lyrics",
             "overview": "A washed-up '80s pop star gets a chance at a comeback when reigning pop diva Cora Corman invites him to write & record a duet with her, but there's a problem--Alex hasn't written a song in years; he's never written lyrics and he has to come up with a hit in a matter of days.",
-            "popularity": 18.224,
-            "poster_path": "/xcdA2WLBNcPXMQB9uA5DqqQvbwe.jpg",
+            "popularity": 2.3057,
+            "poster_path": "/qJeaucfjK3IPqISCrvTM9g3n4g2.jpg",
             "release_date": "2007-02-09",
             "title": "Music and Lyrics",
             "video": false,
-            "vote_average": 6.434,
-            "vote_count": 1604
+            "vote_average": 6.4,
+            "vote_count": 1752,
+            "genres": [
+                "Comedy",
+                "Music",
+                "Romance"
+            ],
+            "runtime": 104,
+            "tagline": "Share the music with someone you love."
         },
         {
             "adult": false,
-            "backdrop_path": "/6x4GfkDWioSsYYuORhTGCvluWNG.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
+            "backdrop_path": "/pVIDe1IBxEnsCEbBP9fQQYIQsm0.jpg",
             "id": 8748,
             "original_language": "en",
             "original_title": "Eagle vs Shark",
             "overview": "Love blossoms for Lily over double Meaty Boy burgers at mid-day when uber-computer nerd Jarrod comes in and leaves with free extra large fries.  After gatecrashing Jarrod's party and proving her skills on the game console, Lily goes down to Jarrod's home town with him so he can settle an old score with a past school bully.",
-            "popularity": 8.41,
+            "popularity": 0.468,
             "poster_path": "/bHGHxXX8jOLV33r8rf1wjBkIdgr.jpg",
             "release_date": "2007-07-15",
             "title": "Eagle vs Shark",
             "video": false,
             "vote_average": 6.5,
-            "vote_count": 271
+            "vote_count": 319,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 87,
+            "tagline": "There's Someone For Everyone... Luckily Love Is Blind."
         },
         {
             "adult": false,
             "backdrop_path": "/mezKuuKtAKPENnAVlT3TghkMACv.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 614939,
             "original_language": "en",
             "original_title": "Bros",
             "overview": "Two emotionally unavailable men attempt a relationship.",
-            "popularity": 39.499,
-            "poster_path": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+            "popularity": 1.6015,
+            "poster_path": "/6iFBzZ3LjmlE83pHok03Z9QPkAB.jpg",
             "release_date": "2022-09-30",
             "title": "Bros",
             "video": false,
-            "vote_average": 6.792,
-            "vote_count": 440
+            "vote_average": 6.659,
+            "vote_count": 552,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 115,
+            "tagline": "A romantic comedy that gives you all the feels."
         },
         {
             "adult": false,
             "backdrop_path": "/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 466282,
             "original_language": "en",
             "original_title": "To All the Boys I've Loved Before",
             "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
-            "popularity": 37.953,
+            "popularity": 6.5936,
             "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
-            "release_date": "2018-08-16",
+            "release_date": "2018-08-17",
             "title": "To All the Boys I've Loved Before",
             "video": false,
-            "vote_average": 7.626,
-            "vote_count": 8209
+            "vote_average": 7.596,
+            "vote_count": 8643,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 100,
+            "tagline": "The letters are out."
         },
         {
             "adult": false,
             "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
-            "genre_ids": [
-                35,
-                10749,
-                18
-            ],
             "id": 508,
             "original_language": "en",
             "original_title": "Love Actually",
-            "overview": "Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be.",
-            "popularity": 56.834,
-            "poster_path": "/1ODdWLpyOnIVl0l67GrdaFDlJGf.jpg",
+            "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+            "popularity": 8.1074,
+            "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
             "release_date": "2003-09-07",
             "title": "Love Actually",
             "video": false,
-            "vote_average": 7.114,
-            "vote_count": 6436
+            "vote_average": 7.097,
+            "vote_count": 7212,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "runtime": 135,
+            "tagline": "Love actually is all around."
         },
         {
             "adult": false,
-            "backdrop_path": "/rAQLRypzIl0IiXKvIUFLt3UhHuA.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
+            "backdrop_path": "/4KajfHWJ190Qm6J1NR2qxFNntPb.jpg",
             "id": 637053,
             "original_language": "en",
             "original_title": "Shithouse",
             "overview": "Lonely college freshman Alex has closed himself off from his peers, who all appear to have this whole \"college thing\" figured out. But everything changes one night when Alex takes a leap and attends a party at Shithouse - a legendary party fraternity - where he forges a strong connection with Maggie.",
-            "popularity": 23.292,
-            "poster_path": "/u9Yv1kISlhOszo7NJOpGmSQLDG1.jpg",
+            "popularity": 2.0387,
+            "poster_path": "/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
             "release_date": "2020-10-16",
             "title": "Shithouse",
             "video": false,
-            "vote_average": 7.025,
-            "vote_count": 161
+            "vote_average": 6.942,
+            "vote_count": 189,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 102,
+            "tagline": "College stinks."
         },
         {
             "adult": false,
             "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
-            "genre_ids": [
-                35,
-                18,
-                10749
-            ],
             "id": 19913,
             "original_language": "en",
             "original_title": "(500) Days of Summer",
             "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
-            "popularity": 43.91,
-            "poster_path": "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+            "popularity": 11.2626,
+            "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
             "release_date": "2009-07-17",
             "title": "(500) Days of Summer",
             "video": false,
-            "vote_average": 7.281,
-            "vote_count": 9714
+            "vote_average": 7.297,
+            "vote_count": 10760,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 95,
+            "tagline": "This is not a love story. This is a story about love."
         },
         {
             "adult": false,
             "backdrop_path": "/cdYj6HFpKp5NTmLiHHbNEGSmDT4.jpg",
-            "genre_ids": [
-                35,
-                10749
-            ],
             "id": 9919,
             "original_language": "en",
             "original_title": "How to Lose a Guy in 10 Days",
-            "overview": "It\u2019s the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking - and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
-            "popularity": 38.725,
+            "overview": "It's the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking\u2014and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
+            "popularity": 6.0972,
             "poster_path": "/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
             "release_date": "2003-02-07",
             "title": "How to Lose a Guy in 10 Days",
             "video": false,
-            "vote_average": 6.781,
-            "vote_count": 3685
+            "vote_average": 6.854,
+            "vote_count": 4331,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "runtime": 116,
+            "tagline": "One of them is lying. So is the other."
         }
     ]
 }

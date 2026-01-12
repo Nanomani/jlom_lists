@@ -4,1000 +4,1098 @@
     "source": "https://variety.com/lists/best-action-movies/",
     "created_by": "lbnt",
     "added": "10/14/24",
-    "modified": "10/14/24",
+    "modified": "12/01/26",
     "ordered_by": "rank",
     "movies": [
         {
             "adult": false,
-            "backdrop_path": "/jEuwsmFS8JPzkDIhRL3B2BVYbU4.jpg",
-            "genre_ids": [
-                12,
-                28,
-                53,
-                878
-            ],
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
             "id": 8810,
             "original_language": "en",
             "original_title": "Mad Max 2",
             "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
-            "popularity": 79.192,
-            "poster_path": "/dhVekfpaCW3QavAwGYbaQig87Xc.jpg",
+            "popularity": 4.936,
+            "poster_path": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
             "release_date": "1981-12-24",
             "title": "Mad Max 2",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 3692
+            "vote_average": 7.388,
+            "vote_count": 4041,
+            "genres": [
+                "Adventure",
+                "Action",
+                "Thriller",
+                "Science Fiction"
+            ],
+            "runtime": 96,
+            "tagline": "Just one man can make a difference."
         },
         {
             "adult": false,
-            "backdrop_path": "/rahJyvdMruvqUmSLWRQKYS57mx8.jpg",
-            "genre_ids": [
-                28,
-                53
-            ],
+            "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
             "id": 562,
             "original_language": "en",
             "original_title": "Die Hard",
-            "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
-            "popularity": 46.049,
+            "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office's Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+            "popularity": 17.859,
             "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
             "release_date": "1988-07-15",
             "title": "Die Hard",
             "video": false,
-            "vote_average": 7.8,
-            "vote_count": 11016
+            "vote_average": 7.804,
+            "vote_count": 11936,
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 132,
+            "tagline": "40 stories of sheer adventure!"
         },
         {
             "adult": false,
             "backdrop_path": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
-            "genre_ids": [
-                9648,
-                53,
-                12
-            ],
             "id": 213,
             "original_language": "en",
             "original_title": "North by Northwest",
             "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-            "popularity": 134.813,
-            "poster_path": "/8gvfRlVpcKaTVqipXpYOGWBN1aO.jpg",
-            "release_date": "1959-07-08",
+            "popularity": 3.9689,
+            "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+            "release_date": "1959-08-06",
             "title": "North by Northwest",
             "video": false,
             "vote_average": 8.0,
-            "vote_count": 4052
+            "vote_count": 4372,
+            "genres": [
+                "Thriller",
+                "Adventure"
+            ],
+            "runtime": 136,
+            "tagline": "It's a deadly game of \"tag\" and Cary Grant is \"it\"!"
         },
         {
             "adult": false,
-            "backdrop_path": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
-            "genre_ids": [
-                12,
-                28
-            ],
+            "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
             "id": 85,
             "original_language": "en",
             "original_title": "Raiders of the Lost Ark",
             "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-            "popularity": 81.097,
+            "popularity": 12.2867,
             "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
             "release_date": "1981-06-12",
             "title": "Raiders of the Lost Ark",
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 12312
+            "vote_average": 7.922,
+            "vote_count": 13293,
+            "genres": [
+                "Adventure",
+                "Action"
+            ],
+            "runtime": 115,
+            "tagline": "The return of the great adventure."
         },
         {
             "adult": false,
-            "backdrop_path": "/npLwIeUobjVCM4fLfdeLqQhAoey.jpg",
-            "genre_ids": [
-                28
-            ],
+            "backdrop_path": "/ugfBioco0L7qNvwq0d0Pl0AL8SL.jpg",
             "id": 9461,
             "original_language": "en",
             "original_title": "Enter the Dragon",
             "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
-            "popularity": 21.046,
+            "popularity": 4.9757,
             "poster_path": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
             "release_date": "1973-08-17",
             "title": "Enter the Dragon",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 1859
+            "vote_average": 7.416,
+            "vote_count": 2027,
+            "genres": [
+                "Action"
+            ],
+            "runtime": 102,
+            "tagline": "Their deadly mission: to crack the forbidden island of Han!"
         },
         {
             "adult": false,
             "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
-            "genre_ids": [
-                28,
-                80,
-                53
-            ],
             "id": 1051,
             "original_language": "en",
             "original_title": "The French Connection",
             "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
-            "popularity": 35.616,
-            "poster_path": "/5A1kg62MmQS5Dm3oo6t1OLu2lCy.jpg",
+            "popularity": 3.0218,
+            "poster_path": "/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
             "release_date": "1971-10-09",
             "title": "The French Connection",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1817
+            "vote_average": 7.499,
+            "vote_count": 2054,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "runtime": 104,
+            "tagline": "Doyle is bad news\u2014but a good cop."
         },
         {
             "adult": false,
-            "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
-            "genre_ids": [
-                28,
-                878
-            ],
+            "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
             "id": 603,
             "original_language": "en",
             "original_title": "The Matrix",
             "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-            "popularity": 123.108,
-            "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "popularity": 19.9483,
+            "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
             "release_date": "1999-03-31",
             "title": "The Matrix",
             "video": false,
-            "vote_average": 8.218,
-            "vote_count": 25491
+            "vote_average": 8.237,
+            "vote_count": 27202,
+            "genres": [
+                "Action",
+                "Science Fiction"
+            ],
+            "runtime": 136,
+            "tagline": "Believe the unbelievable."
         },
         {
             "adult": false,
-            "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
-            "genre_ids": [
-                28,
-                53,
-                878
-            ],
+            "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
             "id": 679,
             "original_language": "en",
             "original_title": "Aliens",
             "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
-            "popularity": 85.604,
+            "popularity": 13.273,
             "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
             "release_date": "1986-07-18",
             "title": "Aliens",
             "video": false,
-            "vote_average": 7.945,
-            "vote_count": 9629
+            "vote_average": 8.0,
+            "vote_count": 10520,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Science Fiction"
+            ],
+            "runtime": 137,
+            "tagline": "This time it's war."
         },
         {
             "adult": false,
-            "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
-            "genre_ids": [
-                28,
-                18
-            ],
+            "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
             "id": 346,
             "original_language": "ja",
             "original_title": "\u4e03\u4eba\u306e\u4f8d",
             "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
-            "popularity": 94.305,
-            "poster_path": "/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
+            "popularity": 8.2755,
+            "poster_path": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
             "release_date": "1954-04-26",
             "title": "Seven Samurai",
             "video": false,
             "vote_average": 8.5,
-            "vote_count": 3637
+            "vote_count": 4074,
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "runtime": 207,
+            "tagline": "Unmatched for suspense and spectacle!"
         },
         {
             "adult": false,
-            "backdrop_path": "/mBwWtD37k8mGfVjPfG3XeRRvsd0.jpg",
-            "genre_ids": [
-                28,
-                80,
-                53,
-                10749,
-                18
-            ],
+            "backdrop_path": "/iKO7UEnXJUumjbjNwP4719n7vds.jpg",
             "id": 916,
             "original_language": "en",
             "original_title": "Bullitt",
             "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
-            "popularity": 21.69,
+            "popularity": 2.9631,
             "poster_path": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
             "release_date": "1968-10-17",
             "title": "Bullitt",
             "video": false,
             "vote_average": 7.2,
-            "vote_count": 1116
+            "vote_count": 1234,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "runtime": 113,
+            "tagline": "The word 'cop' isn't written all over him\u2014something more puzzling is."
         },
         {
             "adult": false,
-            "backdrop_path": "/nHsgbDJXLGEh1YHUV7IWlLmsURZ.jpg",
-            "genre_ids": [
-                28,
-                53
-            ],
+            "backdrop_path": "/dAi6Yymj9SqSMg6BzF6PW5Qhirh.jpg",
             "id": 1637,
             "original_language": "en",
             "original_title": "Speed",
-            "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
-            "popularity": 40.61,
+            "overview": "Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that will kill everyone on board if the vehicle's speed dips below fifty miles per hour.",
+            "popularity": 6.1869,
             "poster_path": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
             "release_date": "1994-06-09",
             "title": "Speed",
             "video": false,
-            "vote_average": 7.141,
-            "vote_count": 6091
+            "vote_average": 7.147,
+            "vote_count": 6623,
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 116,
+            "tagline": "Get ready for rush hour."
         },
         {
             "adult": false,
-            "backdrop_path": "/no6inVgUAd1XHZWLhlDPcdi7DGo.jpg",
-            "genre_ids": [
-                12,
-                28,
-                53
-            ],
+            "backdrop_path": "/f1Is9VLQZSRpeLMU7mIcj5aXclt.jpg",
             "id": 658,
             "original_language": "en",
             "original_title": "Goldfinger",
             "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
-            "popularity": 30.498,
-            "poster_path": "/yNW09AHdvWwIXshiF0tMLr4bAWA.jpg",
+            "popularity": 6.2005,
+            "poster_path": "/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg",
             "release_date": "1964-09-20",
             "title": "Goldfinger",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 3505
+            "vote_average": 7.357,
+            "vote_count": 3821,
+            "genres": [
+                "Adventure",
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 110,
+            "tagline": "Everything he touches turns into excitement!"
         },
         {
             "adult": false,
-            "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
-            "genre_ids": [
-                28,
-                80
-            ],
+            "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
             "id": 24,
             "original_language": "en",
             "original_title": "Kill Bill: Vol. 1",
             "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
-            "popularity": 68.59,
+            "popularity": 11.3757,
             "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
             "release_date": "2003-10-10",
             "title": "Kill Bill: Vol. 1",
             "video": false,
-            "vote_average": 7.971,
-            "vote_count": 17252
+            "vote_average": 7.97,
+            "vote_count": 18451,
+            "genres": [
+                "Action",
+                "Crime"
+            ],
+            "runtime": 111,
+            "tagline": "Here comes the bride."
         },
         {
             "adult": false,
-            "backdrop_path": "/gxmL7J38OiAWO6xvcOI7IXhGAJ.jpg",
-            "genre_ids": [
-                12,
-                10749,
-                36
-            ],
+            "backdrop_path": "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
             "id": 10907,
             "original_language": "en",
             "original_title": "The Adventures of Robin Hood",
             "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
-            "popularity": 18.728,
-            "poster_path": "/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+            "popularity": 2.2467,
+            "poster_path": "/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
             "release_date": "1938-05-13",
             "title": "The Adventures of Robin Hood",
             "video": false,
             "vote_average": 7.5,
-            "vote_count": 733
+            "vote_count": 824,
+            "genres": [
+                "Adventure",
+                "Romance",
+                "History"
+            ],
+            "runtime": 102,
+            "tagline": "Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!"
         },
         {
             "adult": false,
-            "backdrop_path": "/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
-            "genre_ids": [
-                28,
-                53,
-                80
-            ],
+            "backdrop_path": "/bL3rgYFs0NTAoLBMpCBIJ7aX6hp.jpg",
             "id": 11782,
             "original_language": "cn",
             "original_title": "\u8fa3\u624b\u795e\u63a2",
             "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
-            "popularity": 28.971,
-            "poster_path": "/wuljacjo7DCzUzDianeZZwPb6to.jpg",
+            "popularity": 4.4162,
+            "poster_path": "/mbA77wY7fjh2TSQ3FxEuqpKOOA8.jpg",
             "release_date": "1992-04-16",
             "title": "Hard Boiled",
             "video": false,
-            "vote_average": 7.535,
-            "vote_count": 781
+            "vote_average": 7.5,
+            "vote_count": 887,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 126,
+            "tagline": "As a cop, he has brains, brawn, and an instinct to kill."
         },
         {
             "adult": false,
             "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
-            "genre_ids": [
-                37
-            ],
             "id": 429,
             "original_language": "it",
             "original_title": "Il buono, il brutto, il cattivo",
             "overview": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
-            "popularity": 217.816,
+            "popularity": 11.4913,
             "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
             "release_date": "1966-12-22",
             "title": "The Good, the Bad and the Ugly",
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 8538
+            "vote_average": 8.468,
+            "vote_count": 9336,
+            "genres": [
+                "Western"
+            ],
+            "runtime": 161,
+            "tagline": "For three men the Civil War wasn't hell. It was practice."
         },
         {
             "adult": false,
-            "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
-            "genre_ids": [
-                28,
-                53,
-                878
-            ],
+            "backdrop_path": "/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
             "id": 280,
             "original_language": "en",
             "original_title": "Terminator 2: Judgment Day",
-            "overview": "Set ten years after the events of the original, James Cameron\u2019s classic sci-fi action flick tells the story of a second attempt to get the rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.",
-            "popularity": 131.953,
-            "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+            "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+            "popularity": 13.2056,
+            "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
             "release_date": "1991-07-03",
             "title": "Terminator 2: Judgment Day",
             "video": false,
-            "vote_average": 8.1,
-            "vote_count": 12756
+            "vote_average": 8.137,
+            "vote_count": 13842,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Science Fiction"
+            ],
+            "runtime": 137,
+            "tagline": "It's nothing personal."
         },
         {
             "adult": false,
             "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
-            "genre_ids": [
-                36,
-                18,
-                12,
-                28
-            ],
             "id": 665,
             "original_language": "en",
             "original_title": "Ben-Hur",
-            "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
-            "popularity": 47.553,
+            "overview": "In 26 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+            "popularity": 8.561,
             "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
             "release_date": "1959-11-18",
             "title": "Ben-Hur",
             "video": false,
             "vote_average": 7.9,
-            "vote_count": 2727
+            "vote_count": 3006,
+            "genres": [
+                "History",
+                "Drama",
+                "Adventure"
+            ],
+            "runtime": 212,
+            "tagline": "The entertainment experience of a lifetime!"
         },
         {
             "adult": false,
-            "backdrop_path": "/8D0tbahTduvTkSo1Aqn3dVVg9mk.jpg",
-            "genre_ids": [
-                37
-            ],
+            "backdrop_path": "/nkgWcfOeQnVnxak5xCKvkRDLt5H.jpg",
             "id": 576,
             "original_language": "en",
             "original_title": "The Wild Bunch",
             "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
-            "popularity": 14.831,
+            "popularity": 2.6656,
             "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
             "release_date": "1969-06-19",
             "title": "The Wild Bunch",
             "video": false,
-            "vote_average": 7.605,
-            "vote_count": 1166
+            "vote_average": 7.596,
+            "vote_count": 1285,
+            "genres": [
+                "Western"
+            ],
+            "runtime": 145,
+            "tagline": "Unchanged men in a changing land"
         },
         {
             "adult": false,
-            "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
-            "genre_ids": [
-                12,
-                18,
-                28,
-                10749
-            ],
+            "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
             "id": 146,
             "original_language": "zh",
             "original_title": "\u5367\u864e\u85cf\u9f8d",
             "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
-            "popularity": 25.628,
+            "popularity": 7.0253,
             "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
             "release_date": "2000-07-06",
             "title": "Crouching Tiger, Hidden Dragon",
             "video": false,
-            "vote_average": 7.426,
-            "vote_count": 3162
+            "vote_average": 7.433,
+            "vote_count": 3456,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Action",
+                "Romance"
+            ],
+            "runtime": 120,
+            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender."
         },
         {
             "adult": false,
-            "backdrop_path": "/6N1uy1r66mXHefU3gG9ePZgijCW.jpg",
-            "genre_ids": [
-                28,
-                80,
-                18
-            ],
+            "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
             "id": 949,
             "original_language": "en",
             "original_title": "Heat",
             "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
-            "popularity": 51.581,
+            "popularity": 13.047,
             "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
             "release_date": "1995-12-15",
             "title": "Heat",
             "video": false,
-            "vote_average": 7.916,
-            "vote_count": 7217
+            "vote_average": 7.926,
+            "vote_count": 7997,
+            "genres": [
+                "Crime",
+                "Drama",
+                "Action"
+            ],
+            "runtime": 170,
+            "tagline": "A Los Angeles crime saga."
         },
         {
             "adult": false,
             "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
-            "genre_ids": [
-                18,
-                53,
-                12
-            ],
             "id": 204,
             "original_language": "fr",
             "original_title": "Le Salaire de la peur",
             "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
-            "popularity": 51.177,
-            "poster_path": "/y5iBurPvCvPfGukQUxlJHjazeZV.jpg",
+            "popularity": 2.498,
+            "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
             "release_date": "1953-04-22",
             "title": "The Wages of Fear",
             "video": false,
-            "vote_average": 8.033,
-            "vote_count": 927
+            "vote_average": 8.004,
+            "vote_count": 1040,
+            "genres": [
+                "Drama",
+                "Thriller",
+                "Adventure"
+            ],
+            "runtime": 153,
+            "tagline": "\u2018Dynamic\u2019 \u2018Tremendous\u2019 \u2018Shattering\u2019"
         },
         {
             "adult": false,
-            "backdrop_path": "/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
-            "genre_ids": [
-                28,
-                18,
-                12
-            ],
+            "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
             "id": 98,
             "original_language": "en",
             "original_title": "Gladiator",
-            "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
-            "popularity": 154.213,
+            "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+            "popularity": 15.8786,
             "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
             "release_date": "2000-05-04",
             "title": "Gladiator",
             "video": false,
-            "vote_average": 8.217,
-            "vote_count": 18329
+            "vote_average": 8.221,
+            "vote_count": 20388,
+            "genres": [
+                "Action",
+                "Drama",
+                "Adventure"
+            ],
+            "runtime": 155,
+            "tagline": "What we do in life echoes in eternity."
         },
         {
             "adult": false,
-            "backdrop_path": "/28lA2YGj74GU4CG4S5DoRmi9mNl.jpg",
-            "genre_ids": [
-                53,
-                28,
-                80
-            ],
+            "backdrop_path": "/dm1bqDSw3MJTjYCeuNUv122BXFp.jpg",
             "id": 17814,
             "original_language": "en",
             "original_title": "Assault on Precinct 13",
-            "overview": "The lone inhabitants of an abandoned police station are under attack by the overwhelming numbers of a seemingly unstoppable street gang.",
-            "popularity": 16.99,
+            "overview": "A highway patrol officer, two criminals, and a station secretary form an unlikely alliance to defend a defunct Los Angeles precinct against a siege by a bloodthirsty street gang.",
+            "popularity": 1.5044,
             "poster_path": "/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg",
             "release_date": "1976-10-08",
             "title": "Assault on Precinct 13",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 1058
+            "vote_average": 7.272,
+            "vote_count": 1163,
+            "genres": [
+                "Thriller",
+                "Action",
+                "Crime"
+            ],
+            "runtime": 91,
+            "tagline": "A white-hot night of hate!"
         },
         {
             "adult": false,
             "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
-            "genre_ids": [
-                18,
-                36,
-                80,
-                53,
-                28
-            ],
             "id": 9829,
             "original_language": "en",
             "original_title": "United 93",
             "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
-            "popularity": 11.382,
+            "popularity": 2.5614,
             "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
             "release_date": "2006-04-28",
             "title": "United 93",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 1457
+            "vote_average": 7.102,
+            "vote_count": 1581,
+            "genres": [
+                "Drama",
+                "History",
+                "Crime",
+                "Thriller",
+                "Action"
+            ],
+            "runtime": 111,
+            "tagline": "September 11, 2001. Four planes were hijacked. Three of them reached their target. This is the story of the fourth."
         },
         {
             "adult": false,
-            "backdrop_path": "/3PQLohxgvjUQgF94sY5SEgVKSS6.jpg",
-            "genre_ids": [
-                28,
-                53,
-                80
-            ],
+            "backdrop_path": "/ihYOaSoQ4IPNhnxwwMPZAYprs3o.jpg",
             "id": 1089,
             "original_language": "en",
             "original_title": "Point Break",
             "overview": "In Los Angeles, a gang of bank robbers who call themselves The Ex-Presidents commit their crimes while wearing masks of Reagan, Carter, Nixon and Johnson. Believing that the members of the gang could be surfers, the F.B.I. sends young agent Johnny Utah to the beach undercover to mix with the surfers and gather information.",
-            "popularity": 26.946,
+            "popularity": 6.9381,
             "poster_path": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
             "release_date": "1991-07-12",
             "title": "Point Break",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 3504
+            "vote_average": 7.155,
+            "vote_count": 3839,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 122,
+            "tagline": "100% pure adrenaline."
         },
         {
             "adult": false,
-            "backdrop_path": "/4ftfcvCOoxK9IpWXs1MhT0iwBha.jpg",
-            "genre_ids": [
-                28,
-                80,
-                53
-            ],
+            "backdrop_path": "/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
             "id": 9056,
             "original_language": "cn",
             "original_title": "\u8b66\u5bdf\u6545\u4e8b",
             "overview": "Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.",
-            "popularity": 21.755,
-            "poster_path": "/c6OVw4icIHr5LIyTWYnc3SNGh06.jpg",
+            "popularity": 4.5346,
+            "poster_path": "/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg",
             "release_date": "1985-12-14",
             "title": "Police Story",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 864
+            "vote_average": 7.525,
+            "vote_count": 986,
+            "genres": [
+                "Action",
+                "Crime",
+                "Comedy"
+            ],
+            "runtime": 100,
+            "tagline": "You may know the name, but the game has changed."
         },
         {
             "adult": false,
-            "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
-            "genre_ids": [
-                28,
-                12,
-                878
-            ],
+            "backdrop_path": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
             "id": 76341,
             "original_language": "en",
             "original_title": "Mad Max: Fury Road",
             "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
-            "popularity": 114.524,
+            "popularity": 15.2701,
             "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
             "release_date": "2015-05-13",
             "title": "Mad Max: Fury Road",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 22458
+            "vote_average": 7.629,
+            "vote_count": 23648,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "runtime": 121,
+            "tagline": "The future belongs to the mad."
         },
         {
             "adult": false,
             "backdrop_path": "/fBbaoVkZjzmF3Rea40xz87qwwf3.jpg",
-            "genre_ids": [
-                28,
-                80,
-                53
-            ],
             "id": 22048,
             "original_language": "en",
             "original_title": "Foxy Brown",
             "overview": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
-            "popularity": 34.354,
-            "poster_path": "/d0K6SWsZi1VrZm6nALMY4Y1PxZq.jpg",
+            "popularity": 1.7355,
+            "poster_path": "/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg",
             "release_date": "1974-04-05",
             "title": "Foxy Brown",
             "video": false,
-            "vote_average": 6.2,
-            "vote_count": 210
+            "vote_average": 6.246,
+            "vote_count": 250,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "runtime": 94,
+            "tagline": "She's brown sugar and spice but if you don't treat her nice she'll put you on ice!"
         },
         {
             "adult": false,
             "backdrop_path": "/ih4lZkUpmSE7AP3maymiO72xJ1z.jpg",
-            "genre_ids": [
-                28,
-                53,
-                12
-            ],
             "id": 56292,
             "original_language": "en",
             "original_title": "Mission: Impossible - Ghost Protocol",
             "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
-            "popularity": 51.921,
+            "popularity": 8.3955,
             "poster_path": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
             "release_date": "2011-12-07",
             "title": "Mission: Impossible - Ghost Protocol",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 9779
+            "vote_average": 7.107,
+            "vote_count": 10526,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Adventure"
+            ],
+            "runtime": 133,
+            "tagline": "No plan. No backup. No choice."
         },
         {
             "adult": false,
-            "backdrop_path": "/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
-            "genre_ids": [
-                28,
-                12,
-                10752
-            ],
+            "backdrop_path": "/iXS9Y5oMwbN9wKsVu7mNzsI7QSM.jpg",
             "id": 1654,
             "original_language": "en",
             "original_title": "The Dirty Dozen",
             "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy ch\u00e2teau and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
-            "popularity": 19.7,
+            "popularity": 4.7229,
             "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
             "release_date": "1967-06-15",
             "title": "The Dirty Dozen",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 1180
+            "vote_count": 1276,
+            "genres": [
+                "Action",
+                "Adventure",
+                "War"
+            ],
+            "runtime": 149,
+            "tagline": "Train them! Excite them! Arm them!...Then turn them loose on the Nazis!"
         },
         {
             "adult": false,
-            "backdrop_path": "/iguUzxPdJSaABpbagYeKDe6dVlV.jpg",
-            "genre_ids": [
-                28,
-                12,
-                53
-            ],
+            "backdrop_path": "/gvao0WZchzudp2oMF5sjgzwHY0q.jpg",
             "id": 10999,
             "original_language": "en",
             "original_title": "Commando",
             "overview": "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she's killed.",
-            "popularity": 39.463,
+            "popularity": 7.9963,
             "poster_path": "/ollPAAAgZ7euU8VisfqU3cuXhZ6.jpg",
             "release_date": "1985-10-03",
             "title": "Commando",
             "video": false,
-            "vote_average": 6.678,
-            "vote_count": 2764
+            "vote_average": 6.695,
+            "vote_count": 3031,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "runtime": 90,
+            "tagline": "Somewhere, somehow, someone's going to pay."
         },
         {
             "adult": false,
-            "backdrop_path": "/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg",
-            "genre_ids": [
-                28,
-                18,
-                53
-            ],
+            "backdrop_path": "/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
             "id": 104,
             "original_language": "de",
             "original_title": "Lola rennt",
             "overview": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
-            "popularity": 28.001,
+            "popularity": 2.4619,
             "poster_path": "/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
             "release_date": "1998-08-20",
             "title": "Run Lola Run",
             "video": false,
-            "vote_average": 7.29,
-            "vote_count": 2200
+            "vote_average": 7.298,
+            "vote_count": 2469,
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "runtime": 80,
+            "tagline": "Every second of every day you're faced with a decision that can change your life."
         },
         {
             "adult": false,
-            "backdrop_path": "/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
-            "genre_ids": [
-                28,
-                53,
-                80
-            ],
+            "backdrop_path": "/g5VrNyNhyQFHJB8ANGEfIuvLyhF.jpg",
             "id": 51497,
             "original_language": "en",
             "original_title": "Fast Five",
             "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
-            "popularity": 10.56,
+            "popularity": 1.494,
             "poster_path": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
             "release_date": "2011-04-20",
             "title": "Fast Five",
             "video": false,
-            "vote_average": 7.246,
-            "vote_count": 8101
+            "vote_average": 7.243,
+            "vote_count": 8649,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 131,
+            "tagline": "Get the fifth gear."
         },
         {
             "adult": false,
             "backdrop_path": "/ezeFFebkb8MX33IRQ2LYwegLNit.jpg",
-            "genre_ids": [
-                12,
-                18,
-                28
-            ],
             "id": 50075,
             "original_language": "en",
             "original_title": "The Black Pirate",
             "overview": "A nobleman vows to avenge the death of his father by the hands of pirates. To this end, he infiltrates the pirate band; Acting in character, he single-handedly captures a merchant vessel, but things are complicated when he finds that there is a beautiful young woman of royal blood aboard.",
-            "popularity": 7.727,
+            "popularity": 0.6302,
             "poster_path": "/841WLSvTRN3TQKxiUjD1TY9dc42.jpg",
             "release_date": "1926-03-08",
             "title": "The Black Pirate",
             "video": false,
-            "vote_average": 6.8,
-            "vote_count": 47
+            "vote_average": 6.7,
+            "vote_count": 55,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Action"
+            ],
+            "runtime": 94,
+            "tagline": "The Love Story of a Bold Buccaneer"
         },
         {
             "adult": false,
-            "backdrop_path": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
-            "genre_ids": [
-                12,
-                28,
-                53
-            ],
+            "backdrop_path": "/mXFmGlMCgTIOyHaGmQG1Hb6Rv2m.jpg",
             "id": 36557,
             "original_language": "en",
             "original_title": "Casino Royale",
             "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
-            "popularity": 49.693,
+            "popularity": 11.9646,
             "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
             "release_date": "2006-11-14",
             "title": "Casino Royale",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 10587
+            "vote_average": 7.566,
+            "vote_count": 11359,
+            "genres": [
+                "Adventure",
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 144,
+            "tagline": "Everyone has a past. Every legend has a beginning."
         },
         {
             "adult": false,
             "backdrop_path": "/8W9dXK2Q0lajJnE5jZSTwAduTu2.jpg",
-            "genre_ids": [
-                28
-            ],
             "id": 10619,
             "original_language": "cn",
             "original_title": "\u9ec3\u98db\u9d3b\u4e4b\u4e09\uff1a\u7345\u738b\u722d\u9738",
             "overview": "Master Wong and his disciples enroll in the 'Dancing Lion Competition' to stop an assassination plot and to battle an arrogant, deceitful opponent.",
-            "popularity": 47.167,
+            "popularity": 1.9088,
             "poster_path": "/8TmkTiHOTAyAjmbtDVi5f78a5ow.jpg",
-            "release_date": "1993-02-11",
+            "release_date": "1993-01-14",
             "title": "Once Upon a Time in China III",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 190
+            "vote_average": 6.472,
+            "vote_count": 213,
+            "genres": [
+                "Action"
+            ],
+            "runtime": 112,
+            "tagline": "A Hero Beyond All Others."
         },
         {
             "adult": false,
-            "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-            "genre_ids": [
-                28,
-                878,
-                12
-            ],
+            "backdrop_path": "/ii8QGacT3MXESqBckQlyrATY0lT.jpg",
             "id": 27205,
             "original_language": "en",
             "original_title": "Inception",
             "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-            "popularity": 144.005,
-            "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+            "popularity": 25.4551,
+            "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
             "release_date": "2010-07-15",
             "title": "Inception",
             "video": false,
-            "vote_average": 8.368,
-            "vote_count": 36378
+            "vote_average": 8.37,
+            "vote_count": 38475,
+            "genres": [
+                "Action",
+                "Science Fiction",
+                "Adventure"
+            ],
+            "runtime": 148,
+            "tagline": "Your mind is the scene of the crime."
         },
         {
             "adult": false,
-            "backdrop_path": "/nVl6SKKzuweWqDo56Iipov2tqm0.jpg",
-            "genre_ids": [
-                28,
-                53,
-                10770
-            ],
+            "backdrop_path": "/AoGLKkPvBcZP27jwSA85fY8emvJ.jpg",
             "id": 839,
             "original_language": "en",
             "original_title": "Duel",
             "overview": "Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.",
-            "popularity": 28.163,
-            "poster_path": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+            "popularity": 3.1449,
+            "poster_path": "/trhk6fA4Ss2cyiCYvwegLW9OmEM.jpg",
             "release_date": "1971-11-13",
             "title": "Duel",
             "video": false,
-            "vote_average": 7.4,
-            "vote_count": 1830
+            "vote_average": 7.417,
+            "vote_count": 2000,
+            "genres": [
+                "Action",
+                "Thriller",
+                "TV Movie"
+            ],
+            "runtime": 89,
+            "tagline": "The most bizarre murder weapon ever used!"
         },
         {
             "adult": false,
-            "backdrop_path": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
-            "genre_ids": [
-                12,
-                28
-            ],
+            "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
             "id": 85,
             "original_language": "en",
             "original_title": "Raiders of the Lost Ark",
             "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-            "popularity": 81.097,
+            "popularity": 12.2867,
             "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
             "release_date": "1981-06-12",
             "title": "Raiders of the Lost Ark",
             "video": false,
-            "vote_average": 7.928,
-            "vote_count": 12312
+            "vote_average": 7.922,
+            "vote_count": 13293,
+            "genres": [
+                "Adventure",
+                "Action"
+            ],
+            "runtime": 115,
+            "tagline": "The return of the great adventure."
         },
         {
             "adult": false,
-            "backdrop_path": "/m2hhAw6VsKYS7bjV19ZVeyVcHPO.jpg",
-            "genre_ids": [
-                28,
-                53
-            ],
+            "backdrop_path": "/i4Fp0AJsqAzbeVQyCoG0adRRfdh.jpg",
             "id": 11474,
             "original_language": "en",
             "original_title": "The Warriors",
             "overview": "Prominent gang leader Cyrus calls a meeting of New York's gangs to set aside their turf wars and take over the city. At the meeting, a rival leader kills Cyrus, but a Coney Island gang called the Warriors is wrongly blamed for Cyrus' death. Before you know it, the cops and every gangbanger in town is hot on the Warriors' trail.",
-            "popularity": 25.054,
-            "poster_path": "/fCDXAJcPvpsMd5CL1kBKkkNGW3X.jpg",
+            "popularity": 4.2671,
+            "poster_path": "/sjN9IZHmRHZmpxvQYYYFNQ22Pch.jpg",
             "release_date": "1979-02-01",
             "title": "The Warriors",
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 2122
+            "vote_average": 7.671,
+            "vote_count": 2286,
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 94,
+            "tagline": "These are the armies of the night. They are 100,000 strong. They outnumber the cops five to one. They could run New York City. Tonight they're all out to get the Warriors."
         },
         {
             "adult": false,
             "backdrop_path": "/j7UOjPzoYRDQlayNLswiNRzmtK9.jpg",
-            "genre_ids": [
-                80,
-                28,
-                53
-            ],
             "id": 315,
             "original_language": "en",
             "original_title": "Faster, Pussycat! Kill! Kill!",
-            "overview": "Three strippers seeking thrills encounter a young couple in the desert. After dispatching the boyfriend, they take the girl hostage and begin scheming on a crippled old man living with his two sons in the desert, reputedly hiding a tidy sum of cash. They become house guests of the old man and try and seduce the sons in an attempt to locate the money, not realizing that the old man has a few sinister intentions of his own.",
-            "popularity": 5.695,
-            "poster_path": "/4mld2L1vWqgqFQmKa7KU4HzLKPi.jpg",
+            "overview": "A trio of thrill-seeking go-go dancers kidnap a young girl and attempt to seduce an old rancher and his two sons out of their small fortune, but their scheme doesn't play out as intended.",
+            "popularity": 0.8172,
+            "poster_path": "/2hIHFk52SZ9XsZB4U85RUq36BT4.jpg",
             "release_date": "1965-08-06",
             "title": "Faster, Pussycat! Kill! Kill!",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 314
+            "vote_average": 6.347,
+            "vote_count": 352,
+            "genres": [
+                "Crime",
+                "Action",
+                "Thriller",
+                "Comedy"
+            ],
+            "runtime": 83,
+            "tagline": "SUPERWOMEN!  BELTED, BUCKLED and BOOTED!"
         },
         {
             "adult": false,
             "backdrop_path": "/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
-            "genre_ids": [
-                28,
-                18,
-                9648,
-                53
-            ],
             "id": 2501,
             "original_language": "en",
             "original_title": "The Bourne Identity",
             "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy\u2014but who does he work for?",
-            "popularity": 67.719,
+            "popularity": 9.4859,
             "poster_path": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
             "release_date": "2002-06-14",
             "title": "The Bourne Identity",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 9171
+            "vote_average": 7.47,
+            "vote_count": 9810,
+            "genres": [
+                "Action",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "runtime": 119,
+            "tagline": "He was the perfect weapon until he became the target."
         },
         {
             "adult": false,
-            "backdrop_path": "/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
-            "genre_ids": [
-                28,
-                53
-            ],
+            "backdrop_path": "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
             "id": 4909,
             "original_language": "en",
             "original_title": "The Day of the Jackal",
             "overview": "An international assassin known as \u2018The Jackal\u2019 is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin\u2019s trail.",
-            "popularity": 36.659,
+            "popularity": 4.634,
             "poster_path": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
             "release_date": "1973-05-16",
             "title": "The Day of the Jackal",
             "video": false,
             "vote_average": 7.5,
-            "vote_count": 536
+            "vote_count": 646,
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 143,
+            "tagline": "Nameless, faceless... relentlessly moving towards the date with death that would rock the world."
         },
         {
             "adult": false,
-            "backdrop_path": "/xh820ngf1lauGQuFiTvzYuCe6vj.jpg",
-            "genre_ids": [
-                28,
-                12,
-                53,
-                10752
-            ],
+            "backdrop_path": "/tYwkQigtc8afw0XeEogSSG0YcYQ.jpg",
             "id": 1369,
             "original_language": "en",
             "original_title": "Rambo: First Blood Part II",
             "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
-            "popularity": 62.878,
-            "poster_path": "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg",
+            "popularity": 7.7082,
+            "poster_path": "/lIyUiHted0eWUceCx2ZHLnQGmgy.jpg",
             "release_date": "1985-05-21",
             "title": "Rambo: First Blood Part II",
             "video": false,
-            "vote_average": 6.642,
-            "vote_count": 3860
+            "vote_average": 6.654,
+            "vote_count": 4185,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Thriller",
+                "War"
+            ],
+            "runtime": 96,
+            "tagline": "No man, no law, no war can stop him."
         },
         {
             "adult": false,
             "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
-            "genre_ids": [
-                18,
-                12,
-                28,
-                36
-            ],
             "id": 79,
             "original_language": "zh",
             "original_title": "\u82f1\u96c4",
             "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
-            "popularity": 15.696,
-            "poster_path": "/1NBtOH3KPU9UUp1vzVHJ8qzdW88.jpg",
+            "popularity": 6.7414,
+            "poster_path": "/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
             "release_date": "2002-07-22",
             "title": "Hero",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 2221
+            "vote_average": 7.507,
+            "vote_count": 2416,
+            "genres": [
+                "Drama",
+                "Adventure",
+                "Action",
+                "History"
+            ],
+            "runtime": 99,
+            "tagline": "One man's strength will unite an empire."
         },
         {
             "adult": false,
             "backdrop_path": "/sYn05iS9AxV9rsjqBSHrI4azji1.jpg",
-            "genre_ids": [
-                28,
-                80,
-                18
-            ],
             "id": 11951,
             "original_language": "en",
             "original_title": "Vanishing Point",
             "overview": "Kowalski works for a car delivery service, and takes delivery of a 1970 Dodge Challenger to drive from Colorado to San Francisco. Shortly after pickup, he takes a bet to get the car there in less than 15 hours.",
-            "popularity": 22.336,
+            "popularity": 2.8709,
             "poster_path": "/1ThnpFx2G2HPhecvODGFEQxfOpO.jpg",
             "release_date": "1971-01-15",
             "title": "Vanishing Point",
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 441
+            "vote_average": 7.1,
+            "vote_count": 493,
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "runtime": 99,
+            "tagline": "It's the maximum trip... at maximum speed."
         },
         {
             "adult": false,
             "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
-            "genre_ids": [
-                28,
-                53,
-                18
-            ],
             "id": 5503,
             "original_language": "en",
             "original_title": "The Fugitive",
             "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
-            "popularity": 33.676,
+            "popularity": 6.018,
             "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
             "release_date": "1993-08-06",
             "title": "The Fugitive",
             "video": false,
-            "vote_average": 7.467,
-            "vote_count": 4183
+            "vote_average": 7.466,
+            "vote_count": 4612,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Drama"
+            ],
+            "runtime": 131,
+            "tagline": "A murdered wife. A one-armed man. An obsessed detective. The chase begins."
         },
         {
             "adult": false,
             "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
-            "genre_ids": [
-                28,
-                18
-            ],
             "id": 361743,
             "original_language": "en",
             "original_title": "Top Gun: Maverick",
             "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-            "popularity": 161.814,
+            "popularity": 20.5931,
             "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
             "release_date": "2022-05-21",
             "title": "Top Gun: Maverick",
             "video": false,
-            "vote_average": 8.205,
-            "vote_count": 9093
+            "vote_average": 8.2,
+            "vote_count": 10475,
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "runtime": 131,
+            "tagline": "Feel the need... The need for speed."
         },
         {
             "adult": false,
-            "backdrop_path": "/lhPq8R8qgoyLNWvVTiqZSkYGLPX.jpg",
-            "genre_ids": [
-                12,
-                28,
-                53
-            ],
+            "backdrop_path": "/8lRdfsmJjUXQU3DMOOB3vVIhJxP.jpg",
             "id": 691,
             "original_language": "en",
             "original_title": "The Spy Who Loved Me",
             "overview": "Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.",
-            "popularity": 29.363,
-            "poster_path": "/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg",
+            "popularity": 4.0563,
+            "poster_path": "/cOm2ULaB4luYEjxlI53tW6jWLyJ.jpg",
             "release_date": "1977-07-07",
             "title": "The Spy Who Loved Me",
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 1949
+            "vote_count": 2140,
+            "genres": [
+                "Adventure",
+                "Action",
+                "Thriller"
+            ],
+            "runtime": 125,
+            "tagline": "It's the BIGGEST. It's the BEST. It's BOND. And B-E-Y-O-N-D."
         }
     ]
 }
