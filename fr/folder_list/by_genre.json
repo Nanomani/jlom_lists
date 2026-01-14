@@ -2,7 +2,7 @@
     "type" : "folder_list",
     "title" : "By genre",
     "added" : "24/04/24",
-    "modified" : "24/04/24",
+    "modified" : "15/01/26",
     "folders" : [
         {
             "title" : "Action",
@@ -10,7 +10,7 @@
             "type" : "folder_list"
         },
         {
-            "title" : "Adventure",
+            "title" : "Aventure",
             "id" : "adventure",
             "type" : "folder_list"
         },
@@ -20,32 +20,32 @@
             "type" : "folder_list"
         },
         {
-            "title" : "Comedies",
+            "title" : "Comédie",
             "id" : "comedy",
             "type" : "folder_list"
         },
         {
-            "title" : "Drama",
+            "title" : "Drame",
             "id" : "drama",
             "type" : "folder_list"
         },
         {
-            "title" : "Fantasy",
+            "title" : "Fantastique",
             "id" : "fantasy",
             "type" : "folder_list"
         },
         {
-            "title" : "Historical",
+            "title" : "Historique",
             "id" : "historical",
             "type" : "folder_list"
         },
         {
-            "title" : "Horror",
+            "title" : "Horreur",
             "id" : "horror",
             "type" : "folder_list"
         },
         {
-            "title" : "Musicals",
+            "title" : "Musique",
             "id" : "musicals",
             "type" : "folder_list"
         },
