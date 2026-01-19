@@ -4,7 +4,7 @@
     "source": "https://theyshootpictures.com/gf1000.htm",
     "created_by": "lbnt",
     "added": "05/01/24",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -80,7 +80,7 @@
             "release_date": "2017-12-05",
             "title": "Bad Binoculars",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 4,
             "genres": [
                 "Documentaire"
@@ -1349,7 +1349,7 @@
             "release_date": "1973-04-26",
             "title": "Sambizanga",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 28,
             "genres": [
                 "Drame"
@@ -1369,7 +1369,7 @@
             "release_date": "1928-10-06",
             "title": "La symphonie nuptiale",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 39,
             "genres": [
                 "Drame",
@@ -2619,7 +2619,7 @@
             "release_date": "1965-11-12",
             "title": "Les amours d'une blonde",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 180,
             "genres": [
                 "Com\u00e9die",
@@ -2683,7 +2683,7 @@
             "release_date": "1968-10-28",
             "title": "Symbiopsychotaxiplasm: Take One",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 56,
             "genres": [
                 "Documentaire"
@@ -3447,7 +3447,7 @@
             "release_date": "1972-07-26",
             "title": "La Derni\u00e8re Chance",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 171,
             "genres": [
                 "Drame"
@@ -3664,6 +3664,26 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/vmdcQODWMqLvdx18e6aFkOqOPIu.jpg",
+            "id": 1598076,
+            "original_language": "en",
+            "original_title": "Le chagrin et la piti\u00e9",
+            "overview": "Entre 1940 et 1944, Clermont-Ferrand est occup\u00e9e par les Nazis. La population va r\u00e9agir de diff\u00e9rentes fa\u00e7ons: certaines personnes vont s'engager dans la R\u00e9sistance pendant que d'autres collaborent avec les Nazis et d\u00e9noncent leurs voisins",
+            "popularity": 0.1538,
+            "poster_path": "/jgFe82GRZTVYNklUpBM8dKKNxPS.jpg",
+            "release_date": "1969-09-18",
+            "title": "Le chagrin et la piti\u00e9",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0,
+            "genres": "Documentaire",
+            "tagline": "",
+            "runtime": 251,
+            "imdb_id": "tt0066904",
+            "status": "Released"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/qqybzi8MPIJxg2bSXzkkg5pEIhe.jpg",
             "id": 32318,
             "original_language": "en",
@@ -3842,7 +3862,7 @@
             "release_date": "1965-07-30",
             "title": "\uce60\uc778\uc758 \uc5ec\ud3ec\ub85c",
             "video": false,
-            "vote_average": 0.0,
+            "vote_average": 0,
             "vote_count": 0,
             "genres": [
                 "Drame"

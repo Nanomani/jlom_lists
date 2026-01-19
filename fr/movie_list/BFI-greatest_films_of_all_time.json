@@ -4,7 +4,7 @@
     "source": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time",
     "created_by": "lbnt",
     "added": "04/04/24",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,18 +14,20 @@
             "original_language": "fr",
             "original_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
             "overview": "Une femme au foyer veuve et solitaire accomplit ses t\u00e2ches quotidiennes et s'occupe de son appartement o\u00f9 elle vit avec son fils adolescent, et fait des combines occasionnelles pour joindre les deux bouts. Lentement, son quotidien ritualis\u00e9 commence \u00e0 s'effondrer.",
-            "popularity": 1.3155,
+            "popularity": 1.3052,
             "poster_path": "/lkCEM3GTOYKsM3EgDfuTLSJFdc2.jpg",
             "release_date": "1976-01-21",
             "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 370,
+            "vote_count": 371,
             "genres": [
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 201
+            "runtime": 201,
+            "imdb_id": "tt0073198",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -353,7 +355,7 @@
             "release_date": "1990-02-01",
             "title": "Close-up",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 431,
             "genres": [
                 "Crime",
@@ -963,7 +965,7 @@
             "release_date": "1959-08-06",
             "title": "La Mort aux trousses",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 4372,
             "genres": [
                 "Thriller",
@@ -984,7 +986,7 @@
             "release_date": "1975-12-18",
             "title": "Barry Lyndon",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 3067,
             "genres": [
                 "Drame",
@@ -1174,7 +1176,7 @@
             "release_date": "1963-10-29",
             "title": "Le M\u00e9pris",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 923,
             "genres": [
                 "Drame",
@@ -1447,7 +1449,7 @@
             "release_date": "1966-12-16",
             "title": "Andre\u00ef Roublev",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 909,
             "genres": [
                 "Drame",
@@ -1489,7 +1491,7 @@
             "release_date": "1948-09-06",
             "title": "Les Chaussons rouges",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 721,
             "genres": [
                 "Drame",
@@ -2804,7 +2806,7 @@
             "release_date": "1962-12-11",
             "title": "Lawrence d'Arabie",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 3296,
             "genres": [
                 "Aventure",
@@ -2931,7 +2933,7 @@
             "release_date": "1973-04-26",
             "title": "Sambizanga",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 28,
             "genres": [
                 "Drame"
@@ -3005,23 +3007,27 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/9cBHoxfuNcrDUY4tABQs6IKfl2g.jpg",
-            "id": 67155,
+            "backdrop_path": "/pOyo0alLklzMIeOkdFpooqQPh13.jpg",
+            "id": 43878,
             "original_language": "en",
-            "original_title": "Orphan's Picnic",
-            "overview": "Mickey et Donald d\u00e9cident d'emmener un groupe de souriceaux \u00e0 bord d'une camionnette pour pique-niquer. Mais les jeunes ont eux d\u00e9cid\u00e9 de rendre la vie impossible \u00e0 Donald. Ils volent la nourriture puis lui offrent une fleur contenant une abeille. Apr\u00e8s plusieurs p\u00e9rip\u00e9ties, il arrive \u00e0 s'en d\u00e9faire mais les enfants lui offrent un sandwich avec une autre abeille.",
-            "popularity": 0.3731,
-            "poster_path": "/9XSSTt9g7N26qlSJQQv2wPCi0du.jpg",
-            "release_date": "1936-02-15",
-            "title": "Partie de Campagne",
+            "original_title": "Partie de campagne",
+            "overview": "Une jeune fille accompagn\u00e9e de son fianc\u00e9 et de sa famille rencontre lors d'une partie de campagne un jeune homme avec lequel elle vit une br\u00e8ve aventure.",
+            "popularity": 2.0104,
+            "poster_path": "/rKYHwKJC0X8j7CvjyTDWqp8SPAq.jpg",
+            "release_date": "1946-05-21",
+            "title": "Partie de campagne",
             "video": false,
-            "vote_average": 5.917,
-            "vote_count": 30,
+            "vote_average": 7.299,
+            "vote_count": 206,
             "genres": [
-                "Animation"
+                "Drame",
+                "Romance",
+                "Com\u00e9die"
             ],
             "tagline": "",
-            "runtime": 8
+            "runtime": 41,
+            "imdb_id": "tt0028445",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -3208,7 +3214,7 @@
             "release_date": "2017-12-05",
             "title": "Bad Binoculars",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 4,
             "genres": [
                 "Documentaire"
@@ -3541,7 +3547,7 @@
             "release_date": "1950-12-09",
             "title": "Los olvidados : piti\u00e9 pour eux",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 519,
             "genres": [
                 "Drame",
@@ -3647,7 +3653,7 @@
             "release_date": "1968-10-28",
             "title": "Symbiopsychotaxiplasm: Take One",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 56,
             "genres": [
                 "Documentaire"
@@ -3961,7 +3967,7 @@
             "release_date": "1985-06-01",
             "title": "Ran",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 1722,
             "genres": [
                 "Action",
@@ -4381,7 +4387,7 @@
             "release_date": "1945-11-16",
             "title": "Je sais o\u00f9 je vais !",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 158,
             "genres": [
                 "Romance",

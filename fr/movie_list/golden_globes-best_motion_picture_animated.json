@@ -1,10 +1,10 @@
 {
     "type": "movie_list",
     "title": "Golden Globes - Best Motion Picture - Animated",
-    "source": "https://goldenglobes.com/",
+    "source": "https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Animated_Feature_Film",
     "created_by": "lbnt",
     "added": "01/09/26",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "year",
     "movies": [
         {
@@ -229,7 +229,7 @@
             "release_date": "2016-08-30",
             "title": "Vice Versa",
             "video": true,
-            "vote_average": 0.0,
+            "vote_average": 0,
             "vote_count": 0,
             "genres": [],
             "tagline": "",

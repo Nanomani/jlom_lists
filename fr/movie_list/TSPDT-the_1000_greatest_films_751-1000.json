@@ -4,7 +4,7 @@
     "source": "https://theyshootpictures.com/gf1000.htm",
     "created_by": "lbnt",
     "added": "05/01/24",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -837,7 +837,7 @@
             "release_date": "1948-05-21",
             "title": "Le Massacre de Fort Apache",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 394,
             "genres": [
                 "Western"
@@ -2755,6 +2755,29 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/7kSzxv7WKuV3crrYZ6a373J3i0T.jpg",
+            "id": 1474601,
+            "original_language": "fr",
+            "original_title": "Mist\u00e9rios de Lisboa",
+            "overview": "The tragic story of the many lives of Father Dinis, his dark origins and his pious works, and the different fates of all those who, trapped in a sinister web of love, hate and crime, cross paths with him through years of adventure.",
+            "popularity": 1.2802,
+            "poster_path": "/mwU4btZQzJkUMRDtPtJGnpcUPpF.jpg",
+            "release_date": "2010-10-21",
+            "title": "Mist\u00e9rios de Lisboa",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 2,
+            "genres": [
+                "Drame",
+                "Histoire"
+            ],
+            "tagline": "",
+            "runtime": 266,
+            "imdb_id": "tt20259142",
+            "status": "Released"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/g2Y4A9qgkHhecPBnYMaAIzTlmcN.jpg",
             "id": 12516,
             "original_language": "ja",
@@ -2781,12 +2804,12 @@
             "original_language": "en",
             "original_title": "Autumn Rush for Kurt Kren and Winter and Spring and Summer",
             "overview": "",
-            "popularity": 0.0,
+            "popularity": 0,
             "poster_path": "/hTc4tjAS6uQ4ugxhgLLVcoMJDrY.jpg",
             "release_date": "2003-04-13",
             "title": "Autumn Rush for Kurt Kren and Winter and Spring and Summer",
             "video": false,
-            "vote_average": 0.0,
+            "vote_average": 0,
             "vote_count": 0,
             "genres": [],
             "tagline": "",
@@ -2973,7 +2996,7 @@
             "release_date": "1984-02-20",
             "title": "Ullis Allerlei \u2013 Neues aus der alten Heimat",
             "video": false,
-            "vote_average": 0.0,
+            "vote_average": 0,
             "vote_count": 0,
             "genres": [],
             "tagline": "",
@@ -3239,7 +3262,7 @@
             "release_date": "1967-11-03",
             "title": "Rouges et Blancs",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 89,
             "genres": [
                 "Guerre",
@@ -3494,7 +3517,7 @@
             "release_date": "1957-11-09",
             "title": "Rendez-vous avec la peur",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 298,
             "genres": [
                 "Fantastique",
@@ -4107,7 +4130,7 @@
             "release_date": "1995-01-27",
             "title": "Before Sunrise",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 4522,
             "genres": [
                 "Drame",
@@ -5231,7 +5254,7 @@
             "release_date": "1973-12-11",
             "title": "La Derni\u00e8re Corv\u00e9e",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 392,
             "genres": [
                 "Drame",

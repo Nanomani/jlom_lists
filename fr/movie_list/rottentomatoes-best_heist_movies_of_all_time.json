@@ -4,7 +4,7 @@
     "source": "https://editorial.rottentomatoes.com/guide/best-heist-movies-of-all-time/",
     "created_by": "lbnt",
     "added": "10/09/24",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -594,6 +594,28 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/2ZbYjD4j3RzUZ7PvPb8toKQeF4.jpg",
+            "id": 336,
+            "original_language": "fr",
+            "original_title": "Gi\u00f9 la testa",
+            "overview": "Mexique, 1913. Un pilleur de diligences, Juan Miranda, fait chanter un sp\u00e9cialiste en explosifs, John Mallory, pour qu'ils s'associent afin de d\u00e9valiser la banque centrale de Mesa Verde. Tous deux se trouvent plong\u00e9s en plein c\u0153ur de la tourmente de la r\u00e9volution mexicaine.",
+            "popularity": 4.4527,
+            "poster_path": "/hK5cH1bJ44zoIdXLxwx4EAOtZ4Z.jpg",
+            "release_date": "1971-10-29",
+            "title": "Il \u00e9tait une fois\u2026 la r\u00e9volution",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1147,
+            "genres": [
+                "Western"
+            ],
+            "tagline": "La r\u00e9volution ce n'est ni un d\u00eener mondain, ni un \u00e9v\u00e9nement litt\u00e9raire. La r\u00e9volution est un acte de violence.",
+            "runtime": 157,
+            "imdb_id": "tt0067140",
+            "status": "Released"
+        },
+        {
+            "adult": false,
             "backdrop_path": "/tkri1hMrb1FhWfb2bWpprsvq9Sd.jpg",
             "id": 401469,
             "original_language": "en",
@@ -1107,7 +1129,7 @@
             "release_date": "1969-06-02",
             "title": "L'or se barre",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 823,
             "genres": [
                 "Crime",

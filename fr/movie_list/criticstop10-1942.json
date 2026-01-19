@@ -4,7 +4,7 @@
     "source": "https://criticstop10.com/best-movies-of-1942/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -297,7 +297,7 @@
             "release_date": "1942-07-10",
             "title": "L'amour chante et danse",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 216,
             "genres": [
                 "Com\u00e9die",
@@ -614,7 +614,7 @@
             "original_language": "en",
             "original_title": "George Washington Slept Here",
             "overview": "",
-            "popularity": 0.5637,
+            "popularity": 2.1864,
             "poster_path": "/qJGPPLaarCSFziixOUwFB4MZwmG.jpg",
             "release_date": "1942-10-30",
             "title": "George Washington Slept Here",
@@ -625,7 +625,33 @@
                 "Com\u00e9die"
             ],
             "tagline": "",
-            "runtime": 93
+            "runtime": 93,
+            "imdb_id": "tt0034780",
+            "status": "Released"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ZsEc2b9iCMWaFjUw3a0kPZZLXu.jpg",
+            "id": 962,
+            "original_language": "en",
+            "original_title": "The Gold Rush",
+            "overview": "Le c\u00e9l\u00e8bre assaut pour tout l'or de l'Oklahoma vu par l'un des ma\u00eetres du burlesque am\u00e9ricain.",
+            "popularity": 1.3611,
+            "poster_path": "/iOPQ531swI0lSWfYHRPGvfwMGoJ.jpg",
+            "release_date": "1925-07-13",
+            "title": "La Ru\u00e9e vers l'or",
+            "video": false,
+            "vote_average": 7.979,
+            "vote_count": 1772,
+            "genres": [
+                "Aventure",
+                "Com\u00e9die",
+                "Drame"
+            ],
+            "tagline": "",
+            "runtime": 96,
+            "imdb_id": "tt0015864",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -683,7 +709,7 @@
             "release_date": "1942-09-26",
             "title": "Sabotage \u00e0 Berlin",
             "video": false,
-            "vote_average": 6.0,
+            "vote_average": 6,
             "vote_count": 28,
             "genres": [
                 "Guerre",
@@ -769,7 +795,7 @@
             "release_date": "1942-08-07",
             "title": "The War Against Mrs. Hadley",
             "video": false,
-            "vote_average": 5.0,
+            "vote_average": 5,
             "vote_count": 7,
             "genres": [
                 "Drame"
