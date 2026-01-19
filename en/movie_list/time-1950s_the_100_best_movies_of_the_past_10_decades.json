@@ -27,7 +27,8 @@
                 "Romance"
             ],
             "runtime": 112,
-            "tagline": "Get Aboard!"
+            "tagline": "Get Aboard!",
+            "rank": 1
         },
         {
             "adult": false,
@@ -49,7 +50,8 @@
                 "Romance"
             ],
             "runtime": 108,
-            "tagline": "The man lived by the jungle law of the docks!"
+            "tagline": "The man lived by the jungle law of the docks!",
+            "rank": 2
         },
         {
             "adult": false,
@@ -70,7 +72,8 @@
                 "Drama"
             ],
             "runtime": 207,
-            "tagline": "Unmatched for suspense and spectacle!"
+            "tagline": "Unmatched for suspense and spectacle!",
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "History"
             ],
             "runtime": 125,
-            "tagline": ""
+            "tagline": "",
+            "rank": 4
         },
         {
             "adult": false,
@@ -111,7 +115,8 @@
                 "Drama"
             ],
             "runtime": 110,
-            "tagline": "The story of a betrayed but unquenchable little Roman street-walker."
+            "tagline": "The story of a betrayed but unquenchable little Roman street-walker.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -133,7 +138,8 @@
                 "Thriller"
             ],
             "runtime": 128,
-            "tagline": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!"
+            "tagline": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!",
+            "rank": 6
         },
         {
             "adult": false,
@@ -153,7 +159,8 @@
                 "Drama"
             ],
             "runtime": 99,
-            "tagline": "Angel faces hell-bent for violence."
+            "tagline": "Angel faces hell-bent for violence.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -174,7 +181,8 @@
                 "Romance"
             ],
             "runtime": 125,
-            "tagline": "Fannie Hurst's best selling novel of today's tormented generation!"
+            "tagline": "Fannie Hurst's best selling novel of today's tormented generation!",
+            "rank": 8
         },
         {
             "adult": false,
@@ -194,7 +202,8 @@
                 "Western"
             ],
             "runtime": 141,
-            "tagline": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!"
+            "tagline": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!",
+            "rank": 9
         },
         {
             "adult": false,
@@ -216,7 +225,8 @@
                 "Crime"
             ],
             "runtime": 122,
-            "tagline": "The movie too HOT for words!"
+            "tagline": "The movie too HOT for words!",
+            "rank": 10
         }
     ]
 }

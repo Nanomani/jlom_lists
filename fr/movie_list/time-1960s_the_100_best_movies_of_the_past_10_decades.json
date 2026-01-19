@@ -26,7 +26,8 @@
                 "Crime"
             ],
             "tagline": "Sauvage! Violent! Franc et honn\u00eate !",
-            "runtime": 90
+            "runtime": 90,
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Myst\u00e8re"
             ],
             "tagline": "Une nouvelle et tout \u00e0 fait diff\u00e9rente exp\u00e9rience \u00e0 l'\u00e9cran !",
-            "runtime": 109
+            "runtime": 109,
+            "rank": 2
         },
         {
             "adult": false,
@@ -68,7 +70,8 @@
                 "Drame"
             ],
             "tagline": "Le monde entier a pris rendez-vous avec.",
-            "runtime": 90
+            "runtime": 90,
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Drame"
             ],
             "tagline": "Quand vous aurez tout vu, vous jurez qu'il n'y a jamais rien eu de tel !",
-            "runtime": 131
+            "runtime": 131,
+            "rank": 4
         },
         {
             "adult": false,
@@ -109,7 +113,8 @@
                 "Drame"
             ],
             "tagline": "L'aventure romantique durable de Luchino Visconti",
-            "runtime": 170
+            "runtime": 170,
+            "rank": 5
         },
         {
             "adult": false,
@@ -129,7 +134,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 65
+            "runtime": 65,
+            "rank": 6
         },
         {
             "adult": false,
@@ -150,7 +156,8 @@
                 "Drame"
             ],
             "tagline": "Ils sont jeunes\u2026 ils s'aiment\u2026 ils vivent dangereusement\u2026",
-            "runtime": 111
+            "runtime": 111,
+            "rank": 7
         },
         {
             "adult": false,
@@ -171,7 +178,8 @@
                 "Thriller"
             ],
             "tagline": "Si cela ne vous fait pas peur, c'est que vous \u00eates d\u00e9j\u00e0 mort !",
-            "runtime": 96
+            "runtime": 96,
+            "rank": 8
         },
         {
             "adult": false,
@@ -192,7 +200,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 103
+            "runtime": 103,
+            "rank": 9
         },
         {
             "adult": false,
@@ -214,7 +223,8 @@
                 "Thriller"
             ],
             "tagline": "Trahison. Fid\u00e9lit\u00e9. Collaboration. R\u00e9sistance.",
-            "runtime": 140
+            "runtime": 140,
+            "rank": 10
         }
     ]
 }

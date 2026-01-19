@@ -26,7 +26,8 @@
                 "Crime"
             ],
             "runtime": 90,
-            "tagline": "Wild! Violent! Outspoken and Honest!"
+            "tagline": "Wild! Violent! Outspoken and Honest!",
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Mystery"
             ],
             "runtime": 109,
-            "tagline": "A new and altogether different screen excitement!"
+            "tagline": "A new and altogether different screen excitement!",
+            "rank": 2
         },
         {
             "adult": false,
@@ -68,7 +70,8 @@
                 "Drama"
             ],
             "runtime": 90,
-            "tagline": "The whole world... has made an appointment with..."
+            "tagline": "The whole world... has made an appointment with...",
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Drama"
             ],
             "runtime": 126,
-            "tagline": "When you've seen it all, you'll swear there's never been anything like it!"
+            "tagline": "When you've seen it all, you'll swear there's never been anything like it!",
+            "rank": 4
         },
         {
             "adult": false,
@@ -109,7 +113,8 @@
                 "Drama"
             ],
             "runtime": 186,
-            "tagline": "Luchino Visconti's enduring romantic adventure"
+            "tagline": "Luchino Visconti's enduring romantic adventure",
+            "rank": 5
         },
         {
             "adult": false,
@@ -129,7 +134,8 @@
                 "Drama"
             ],
             "runtime": 65,
-            "tagline": ""
+            "tagline": "",
+            "rank": 6
         },
         {
             "adult": false,
@@ -150,7 +156,8 @@
                 "Drama"
             ],
             "runtime": 111,
-            "tagline": "They\u2019re young\u2026 they\u2019re in love\u2026 and they kill people."
+            "tagline": "They\u2019re young\u2026 they\u2019re in love\u2026 and they kill people.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -171,7 +178,8 @@
                 "Thriller"
             ],
             "runtime": 96,
-            "tagline": "If it doesn't scare you, you're already dead!"
+            "tagline": "If it doesn't scare you, you're already dead!",
+            "rank": 8
         },
         {
             "adult": false,
@@ -192,7 +200,8 @@
                 "Drama"
             ],
             "runtime": 104,
-            "tagline": ""
+            "tagline": "",
+            "rank": 9
         },
         {
             "adult": false,
@@ -214,7 +223,8 @@
                 "Thriller"
             ],
             "runtime": 145,
-            "tagline": "Betrayal. Loyalty. Collaboration. Resistance."
+            "tagline": "Betrayal. Loyalty. Collaboration. Resistance.",
+            "rank": 10
         }
     ]
 }

@@ -25,7 +25,8 @@
                 "Drama"
             ],
             "runtime": 97,
-            "tagline": "It explodes like 12 sticks of dynamite!"
+            "tagline": "It explodes like 12 sticks of dynamite!",
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Adventure"
             ],
             "runtime": 149,
-            "tagline": "An epic drama of adventure and exploration."
+            "tagline": "An epic drama of adventure and exploration.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -67,7 +69,8 @@
                 "Drama"
             ],
             "runtime": 99,
-            "tagline": "Angel faces hell-bent for violence."
+            "tagline": "Angel faces hell-bent for violence.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -88,7 +91,8 @@
                 "Comedy"
             ],
             "runtime": 103,
-            "tagline": "Finally, a comedy that will change the way you think, the way you feel, and most importantly... the way you dress."
+            "tagline": "Finally, a comedy that will change the way you think, the way you feel, and most importantly... the way you dress.",
+            "rank": 4
         },
         {
             "adult": false,
@@ -110,7 +114,8 @@
                 "History"
             ],
             "runtime": 102,
-            "tagline": "Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!"
+            "tagline": "Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!",
+            "rank": 5
         },
         {
             "adult": false,
@@ -132,7 +137,8 @@
                 "Drama"
             ],
             "runtime": 95,
-            "tagline": "A breathtaking journey into the heart of darkness."
+            "tagline": "A breathtaking journey into the heart of darkness.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -152,7 +158,8 @@
                 "Comedy"
             ],
             "runtime": 88,
-            "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?"
+            "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?",
+            "rank": 7
         },
         {
             "adult": false,
@@ -174,7 +181,8 @@
                 "Action"
             ],
             "runtime": 124,
-            "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E."
+            "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -195,7 +203,8 @@
                 "Science Fiction"
             ],
             "runtime": 117,
-            "tagline": "In space no one can hear you scream."
+            "tagline": "In space no one can hear you scream.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -217,7 +226,8 @@
                 "Science Fiction"
             ],
             "runtime": 137,
-            "tagline": "This time it's war."
+            "tagline": "This time it's war.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -237,7 +247,8 @@
                 "Drama"
             ],
             "runtime": 139,
-            "tagline": "It's all about women... and their men!"
+            "tagline": "It's all about women... and their men!",
+            "rank": 11
         },
         {
             "adult": false,
@@ -258,7 +269,8 @@
                 "Drama"
             ],
             "runtime": 101,
-            "tagline": "Part of every woman is a mother/actress/saint/sinner. And part of every man is a woman."
+            "tagline": "Part of every woman is a mother/actress/saint/sinner. And part of every man is a woman.",
+            "rank": 12
         },
         {
             "adult": false,
@@ -280,7 +292,8 @@
                 "Thriller"
             ],
             "runtime": 138,
-            "tagline": "The most devastating detective story of this century."
+            "tagline": "The most devastating detective story of this century.",
+            "rank": 13
         },
         {
             "adult": false,
@@ -301,7 +314,8 @@
                 "Music"
             ],
             "runtime": 124,
-            "tagline": "Experience it. Enjoy it. Just don't fall for it."
+            "tagline": "Experience it. Enjoy it. Just don't fall for it.",
+            "rank": 14
         },
         {
             "adult": false,
@@ -323,7 +337,8 @@
                 "Drama"
             ],
             "runtime": 160,
-            "tagline": "The Man... The Music... The Madness... The Murder... The Motion Picture."
+            "tagline": "The Man... The Music... The Madness... The Murder... The Motion Picture.",
+            "rank": 15
         },
         {
             "adult": false,
@@ -344,7 +359,8 @@
                 "Romance"
             ],
             "runtime": 122,
-            "tagline": "She\u2019ll change your life."
+            "tagline": "She\u2019ll change your life.",
+            "rank": 16
         },
         {
             "adult": false,
@@ -365,7 +381,8 @@
                 "Romance"
             ],
             "runtime": 127,
-            "tagline": ""
+            "tagline": "",
+            "rank": 17
         },
         {
             "adult": false,
@@ -387,7 +404,8 @@
                 "Comedy"
             ],
             "runtime": 113,
-            "tagline": "What a joy! It's M-G-M's Technicolor musical!"
+            "tagline": "What a joy! It's M-G-M's Technicolor musical!",
+            "rank": 18
         },
         {
             "adult": false,
@@ -409,7 +427,8 @@
                 "Romance"
             ],
             "runtime": 93,
-            "tagline": "A nervous romance."
+            "tagline": "A nervous romance.",
+            "rank": 19
         },
         {
             "adult": false,
@@ -431,7 +450,8 @@
                 "Romance"
             ],
             "runtime": 125,
-            "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!"
+            "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!",
+            "rank": 20
         },
         {
             "adult": false,
@@ -452,7 +472,8 @@
                 "War"
             ],
             "runtime": 147,
-            "tagline": "This is the end..."
+            "tagline": "This is the end...",
+            "rank": 21
         },
         {
             "adult": false,
@@ -474,7 +495,8 @@
                 "Action"
             ],
             "runtime": 181,
-            "tagline": "Avenge the fallen."
+            "tagline": "Avenge the fallen.",
+            "rank": 22
         },
         {
             "adult": false,
@@ -496,7 +518,8 @@
                 "Science Fiction"
             ],
             "runtime": 116,
-            "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all."
+            "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+            "rank": 23
         },
         {
             "adult": false,
@@ -518,7 +541,8 @@
                 "Romance"
             ],
             "runtime": 94,
-            "tagline": "In 1959 a lot of people were killing time. Kit and Holly were killing people."
+            "tagline": "In 1959 a lot of people were killing time. Kit and Holly were killing people.",
+            "rank": 24
         },
         {
             "adult": false,
@@ -541,7 +565,8 @@
                 "Fantasy"
             ],
             "runtime": 84,
-            "tagline": "The most beautiful love story ever told."
+            "tagline": "The most beautiful love story ever told.",
+            "rank": 25
         },
         {
             "adult": false,
@@ -563,7 +588,8 @@
                 "Fantasy"
             ],
             "runtime": 113,
-            "tagline": "Ever wanted to be someone else? Now you can."
+            "tagline": "Ever wanted to be someone else? Now you can.",
+            "rank": 26
         },
         {
             "adult": false,
@@ -584,7 +610,8 @@
                 "Drama"
             ],
             "runtime": 130,
-            "tagline": "Getting there is half the fun; being there is all of it!"
+            "tagline": "Getting there is half the fun; being there is all of it!",
+            "rank": 27
         },
         {
             "adult": false,
@@ -605,7 +632,8 @@
                 "Romance"
             ],
             "runtime": 171,
-            "tagline": "Three wonderful loves in the best picture of the year!"
+            "tagline": "Three wonderful loves in the best picture of the year!",
+            "rank": 28
         },
         {
             "adult": false,
@@ -627,7 +655,8 @@
                 "Romance"
             ],
             "runtime": 101,
-            "tagline": "Never underestimate an overachiever."
+            "tagline": "Never underestimate an overachiever.",
+            "rank": 29
         },
         {
             "adult": false,
@@ -647,7 +676,8 @@
                 "Drama"
             ],
             "runtime": 89,
-            "tagline": "The Prize Picture They Want to Censor!"
+            "tagline": "The Prize Picture They Want to Censor!",
+            "rank": 30
         },
         {
             "adult": false,
@@ -668,7 +698,8 @@
                 "Crime"
             ],
             "runtime": 117,
-            "tagline": "Times like these call for a Big Lebowski."
+            "tagline": "Times like these call for a Big Lebowski.",
+            "rank": 31
         },
         {
             "adult": false,
@@ -690,7 +721,8 @@
                 "Romance"
             ],
             "runtime": 120,
-            "tagline": "An awkward true story."
+            "tagline": "An awkward true story.",
+            "rank": 32
         },
         {
             "adult": false,
@@ -711,7 +743,8 @@
                 "Comedy"
             ],
             "runtime": 120,
-            "tagline": "How did we end up here?"
+            "tagline": "How did we end up here?",
+            "rank": 33
         },
         {
             "adult": false,
@@ -733,7 +766,8 @@
                 "History"
             ],
             "runtime": 145,
-            "tagline": "Leave no man behind."
+            "tagline": "Leave no man behind.",
+            "rank": 34
         },
         {
             "adult": false,
@@ -754,7 +788,8 @@
                 "Romance"
             ],
             "runtime": 100,
-            "tagline": "The film that introduced Bossa Nova to the world..."
+            "tagline": "The film that introduced Bossa Nova to the world...",
+            "rank": 35
         },
         {
             "adult": false,
@@ -776,7 +811,8 @@
                 "Science Fiction"
             ],
             "runtime": 135,
-            "tagline": "Long live the king."
+            "tagline": "Long live the king.",
+            "rank": 36
         },
         {
             "adult": false,
@@ -798,7 +834,8 @@
                 "Thriller"
             ],
             "runtime": 118,
-            "tagline": "Man has made his match... now it's his problem."
+            "tagline": "Man has made his match... now it's his problem.",
+            "rank": 37
         },
         {
             "adult": false,
@@ -819,7 +856,8 @@
                 "Comedy"
             ],
             "runtime": 93,
-            "tagline": "...or never give a saga an even break!"
+            "tagline": "...or never give a saga an even break!",
+            "rank": 38
         },
         {
             "adult": false,
@@ -839,7 +877,8 @@
                 "Drama"
             ],
             "runtime": 156,
-            "tagline": "The life of a dreamer, the days of a business and the nights in between."
+            "tagline": "The life of a dreamer, the days of a business and the nights in between.",
+            "rank": 39
         },
         {
             "adult": false,
@@ -860,7 +899,8 @@
                 "Drama"
             ],
             "runtime": 118,
-            "tagline": "A true story about finding the courage to be yourself."
+            "tagline": "A true story about finding the courage to be yourself.",
+            "rank": 40
         },
         {
             "adult": false,
@@ -881,7 +921,8 @@
                 "Drama"
             ],
             "runtime": 112,
-            "tagline": "Once upon a time in South Central L.A... It ain't no fairy tale."
+            "tagline": "Once upon a time in South Central L.A... It ain't no fairy tale.",
+            "rank": 41
         },
         {
             "adult": false,
@@ -902,7 +943,8 @@
                 "Drama"
             ],
             "runtime": 98,
-            "tagline": "They only met once, but it changed their lives forever."
+            "tagline": "They only met once, but it changed their lives forever.",
+            "rank": 42
         },
         {
             "adult": false,
@@ -923,7 +965,8 @@
                 "Crime"
             ],
             "runtime": 90,
-            "tagline": "Wild! Violent! Outspoken and Honest!"
+            "tagline": "Wild! Violent! Outspoken and Honest!",
+            "rank": 43
         },
         {
             "adult": false,
@@ -944,7 +987,8 @@
                 "Romance"
             ],
             "runtime": 125,
-            "tagline": "Save the date."
+            "tagline": "Save the date.",
+            "rank": 44
         },
         {
             "adult": false,
@@ -966,7 +1010,8 @@
                 "War"
             ],
             "runtime": 161,
-            "tagline": "It spans a whole new world of entertainment!"
+            "tagline": "It spans a whole new world of entertainment!",
+            "rank": 45
         },
         {
             "adult": false,
@@ -988,7 +1033,8 @@
                 "Drama"
             ],
             "runtime": 97,
-            "tagline": "All women keep score... Only the great ones put it in writing."
+            "tagline": "All women keep score... Only the great ones put it in writing.",
+            "rank": 46
         },
         {
             "adult": false,
@@ -1009,7 +1055,8 @@
                 "Romance"
             ],
             "runtime": 133,
-            "tagline": "It\u2019s the story of their lives."
+            "tagline": "It\u2019s the story of their lives.",
+            "rank": 47
         },
         {
             "adult": false,
@@ -1030,7 +1077,8 @@
                 "Romance"
             ],
             "runtime": 134,
-            "tagline": "Love is a force of nature."
+            "tagline": "Love is a force of nature.",
+            "rank": 48
         },
         {
             "adult": false,
@@ -1054,7 +1102,8 @@
                 "History"
             ],
             "runtime": 111,
-            "tagline": "Not that it matters, but most of it is true."
+            "tagline": "Not that it matters, but most of it is true.",
+            "rank": 49
         },
         {
             "adult": false,
@@ -1076,7 +1125,8 @@
                 "Romance"
             ],
             "runtime": 124,
-            "tagline": "Life is a Cabaret."
+            "tagline": "Life is a Cabaret.",
+            "rank": 50
         },
         {
             "adult": false,
@@ -1099,7 +1149,8 @@
                 "Crime"
             ],
             "runtime": 77,
-            "tagline": "You must become Caligari!"
+            "tagline": "You must become Caligari!",
+            "rank": 51
         },
         {
             "adult": false,
@@ -1120,7 +1171,8 @@
                 "Drama"
             ],
             "runtime": 132,
-            "tagline": "Is it better to speak or die?"
+            "tagline": "Is it better to speak or die?",
+            "rank": 52
         },
         {
             "adult": false,
@@ -1141,7 +1193,8 @@
                 "Drama"
             ],
             "runtime": 118,
-            "tagline": "Some people change your life forever."
+            "tagline": "Some people change your life forever.",
+            "rank": 53
         },
         {
             "adult": false,
@@ -1162,7 +1215,8 @@
                 "Romance"
             ],
             "runtime": 103,
-            "tagline": "They had a date with fate in Casablanca!"
+            "tagline": "They had a date with fate in Casablanca!",
+            "rank": 54
         },
         {
             "adult": false,
@@ -1184,7 +1238,8 @@
                 "Thriller"
             ],
             "runtime": 144,
-            "tagline": "Everyone has a past. Every legend has a beginning."
+            "tagline": "Everyone has a past. Every legend has a beginning.",
+            "rank": 55
         },
         {
             "adult": false,
@@ -1207,7 +1262,8 @@
                 "Science Fiction"
             ],
             "runtime": 109,
-            "tagline": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope."
+            "tagline": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope.",
+            "rank": 56
         },
         {
             "adult": false,
@@ -1230,7 +1286,8 @@
                 "Thriller"
             ],
             "runtime": 130,
-            "tagline": "You get tough. You get tender. You get close to each other. Maybe you even get close to the truth."
+            "tagline": "You get tough. You get tender. You get close to each other. Maybe you even get close to the truth.",
+            "rank": 57
         },
         {
             "adult": false,
@@ -1251,7 +1308,8 @@
                 "Crime"
             ],
             "runtime": 129,
-            "tagline": "If you run, the beast catches you; if you stay, the beast eats you."
+            "tagline": "If you run, the beast catches you; if you stay, the beast eats you.",
+            "rank": 58
         },
         {
             "adult": false,
@@ -1272,7 +1330,8 @@
                 "Romance"
             ],
             "runtime": 124,
-            "tagline": "An enchanted village. A wonderful friendship. Star-crossed lovers. And the magic of the movies."
+            "tagline": "An enchanted village. A wonderful friendship. Star-crossed lovers. And the magic of the movies.",
+            "rank": 59
         },
         {
             "adult": false,
@@ -1293,7 +1352,8 @@
                 "Drama"
             ],
             "runtime": 119,
-            "tagline": "Some called him a hero...others called him a heel."
+            "tagline": "Some called him a hero...others called him a heel.",
+            "rank": 60
         },
         {
             "adult": false,
@@ -1315,7 +1375,8 @@
                 "Romance"
             ],
             "runtime": 87,
-            "tagline": "True Blind Love"
+            "tagline": "True Blind Love",
+            "rank": 61
         },
         {
             "adult": false,
@@ -1335,7 +1396,8 @@
                 "Comedy"
             ],
             "runtime": 92,
-            "tagline": "Just because they serve you doesn't mean they like you."
+            "tagline": "Just because they serve you doesn't mean they like you.",
+            "rank": 62
         },
         {
             "adult": false,
@@ -1356,7 +1418,8 @@
                 "Crime"
             ],
             "runtime": 137,
-            "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven."
+            "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+            "rank": 63
         },
         {
             "adult": false,
@@ -1377,7 +1440,8 @@
                 "Romance"
             ],
             "runtime": 97,
-            "tagline": "Sex. Clothes. Popularity. Is there a problem here?"
+            "tagline": "Sex. Clothes. Popularity. Is there a problem here?",
+            "rank": 64
         },
         {
             "adult": false,
@@ -1400,7 +1464,8 @@
                 "Adventure"
             ],
             "runtime": 105,
-            "tagline": "The celebration of a lifetime."
+            "tagline": "The celebration of a lifetime.",
+            "rank": 65
         },
         {
             "adult": false,
@@ -1421,7 +1486,8 @@
                 "Romance"
             ],
             "runtime": 121,
-            "tagline": "The only thing crazier than love is family."
+            "tagline": "The only thing crazier than love is family.",
+            "rank": 66
         },
         {
             "adult": false,
@@ -1442,7 +1508,8 @@
                 "Action"
             ],
             "runtime": 133,
-            "tagline": "Your legacy is more than a name."
+            "tagline": "Your legacy is more than a name.",
+            "rank": 67
         },
         {
             "adult": false,
@@ -1465,7 +1532,8 @@
                 "Romance"
             ],
             "runtime": 120,
-            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender."
+            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+            "rank": 68
         },
         {
             "adult": false,
@@ -1488,7 +1556,8 @@
                 "Thriller"
             ],
             "runtime": 152,
-            "tagline": "Welcome to a world without rules."
+            "tagline": "Welcome to a world without rules.",
+            "rank": 69
         },
         {
             "adult": false,
@@ -1509,7 +1578,8 @@
                 "Science Fiction"
             ],
             "runtime": 127,
-            "tagline": "When there\u2019s no more room in HELL, the dead will walk the EARTH!"
+            "tagline": "When there\u2019s no more room in HELL, the dead will walk the EARTH!",
+            "rank": 70
         },
         {
             "adult": false,
@@ -1531,7 +1601,8 @@
                 "Drama"
             ],
             "runtime": 92,
-            "tagline": "From out of space...A warning and an ultimatum."
+            "tagline": "From out of space...A warning and an ultimatum.",
+            "rank": 71
         },
         {
             "adult": false,
@@ -1552,7 +1623,8 @@
                 "Drama"
             ],
             "runtime": 102,
-            "tagline": "It was the last day of school in 1976. A time they'd never forget. (If only they could remember)"
+            "tagline": "It was the last day of school in 1976. A time they'd never forget. (If only they could remember)",
+            "rank": 72
         },
         {
             "adult": false,
@@ -1572,7 +1644,8 @@
                 "Drama"
             ],
             "runtime": 129,
-            "tagline": "He was their inspiration. He made their lives extraordinary."
+            "tagline": "He was their inspiration. He made their lives extraordinary.",
+            "rank": 73
         },
         {
             "adult": false,
@@ -1593,7 +1666,8 @@
                 "Thriller"
             ],
             "runtime": 132,
-            "tagline": "40 stories of sheer adventure!"
+            "tagline": "40 stories of sheer adventure!",
+            "rank": 74
         },
         {
             "adult": false,
@@ -1613,7 +1687,8 @@
                 "Drama"
             ],
             "runtime": 120,
-            "tagline": "It's the hottest day of the summer. You can do nothing, you can do something, or you can..."
+            "tagline": "It's the hottest day of the summer. You can do nothing, you can do something, or you can...",
+            "rank": 75
         },
         {
             "adult": false,
@@ -1635,7 +1710,8 @@
                 "War"
             ],
             "runtime": 200,
-            "tagline": "A Love Caught in the Fire of Revolution"
+            "tagline": "A Love Caught in the Fire of Revolution",
+            "rank": 76
         },
         {
             "adult": false,
@@ -1657,7 +1733,8 @@
                 "Thriller"
             ],
             "runtime": 124,
-            "tagline": "Anything can happen during the dog days of summer. On August 22nd, 1972, everything did."
+            "tagline": "Anything can happen during the dog days of summer. On August 22nd, 1972, everything did.",
+            "rank": 77
         },
         {
             "adult": false,
@@ -1679,7 +1756,8 @@
                 "Horror"
             ],
             "runtime": 110,
-            "tagline": "Pass the warning."
+            "tagline": "Pass the warning.",
+            "rank": 78
         },
         {
             "adult": false,
@@ -1700,7 +1778,8 @@
                 "Thriller"
             ],
             "runtime": 107,
-            "tagline": "It's love and murder at first sight!"
+            "tagline": "It's love and murder at first sight!",
+            "rank": 79
         },
         {
             "adult": false,
@@ -1721,7 +1800,8 @@
                 "War"
             ],
             "runtime": 95,
-            "tagline": "The hot-line suspense comedy."
+            "tagline": "The hot-line suspense comedy.",
+            "rank": 80
         },
         {
             "adult": false,
@@ -1743,7 +1823,8 @@
                 "Romance"
             ],
             "runtime": 74,
-            "tagline": "The story of the strangest passion the world has ever known!"
+            "tagline": "The story of the strangest passion the world has ever known!",
+            "rank": 81
         },
         {
             "adult": false,
@@ -1765,7 +1846,8 @@
                 "Crime"
             ],
             "runtime": 100,
-            "tagline": "There are no clean getaways."
+            "tagline": "There are no clean getaways.",
+            "rank": 82
         },
         {
             "adult": false,
@@ -1786,7 +1868,8 @@
                 "Comedy"
             ],
             "runtime": 102,
-            "tagline": "He's got a secret weapon with a lot of kick."
+            "tagline": "He's got a secret weapon with a lot of kick.",
+            "rank": 83
         },
         {
             "adult": false,
@@ -1807,7 +1890,8 @@
                 "War"
             ],
             "runtime": 68,
-            "tagline": "War is swell...when the Marx Brothers are in it. They'll be out of the trenches by Christmas...if the food doesn't improve!"
+            "tagline": "War is swell...when the Marx Brothers are in it. They'll be out of the trenches by Christmas...if the food doesn't improve!",
+            "rank": 84
         },
         {
             "adult": false,
@@ -1830,7 +1914,8 @@
                 "Fantasy"
             ],
             "runtime": 115,
-            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home."
+            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+            "rank": 85
         },
         {
             "adult": false,
@@ -1851,7 +1936,8 @@
                 "Drama"
             ],
             "runtime": 95,
-            "tagline": "A man went looking for America and couldn\u2019t find it anywhere..."
+            "tagline": "A man went looking for America and couldn\u2019t find it anywhere...",
+            "rank": 86
         },
         {
             "adult": false,
@@ -1873,7 +1959,8 @@
                 "Romance"
             ],
             "runtime": 105,
-            "tagline": "Innocence is what he knows. Beauty is what she sees."
+            "tagline": "Innocence is what he knows. Beauty is what she sees.",
+            "rank": 87
         },
         {
             "adult": false,
@@ -1894,7 +1981,8 @@
                 "Drama"
             ],
             "runtime": 103,
-            "tagline": "Reading. Writing. Revenge."
+            "tagline": "Reading. Writing. Revenge.",
+            "rank": 88
         },
         {
             "adult": false,
@@ -1915,7 +2003,8 @@
                 "History"
             ],
             "runtime": 124,
-            "tagline": "A true story of courage and human dignity."
+            "tagline": "A true story of courage and human dignity.",
+            "rank": 89
         },
         {
             "adult": false,
@@ -1935,7 +2024,8 @@
                 "Action"
             ],
             "runtime": 102,
-            "tagline": "Their deadly mission: to crack the forbidden island of Han!"
+            "tagline": "Their deadly mission: to crack the forbidden island of Han!",
+            "rank": 90
         },
         {
             "adult": false,
@@ -1957,7 +2047,8 @@
                 "Romance"
             ],
             "runtime": 108,
-            "tagline": "You can erase someone from your mind. Getting them out of your heart is another story."
+            "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+            "rank": 91
         },
         {
             "adult": false,
@@ -1979,7 +2070,8 @@
                 "Fantasy"
             ],
             "runtime": 84,
-            "tagline": "Kiss your nerves goodbye!"
+            "tagline": "Kiss your nerves goodbye!",
+            "rank": 92
         },
         {
             "adult": false,
@@ -1999,7 +2091,8 @@
                 "Horror"
             ],
             "runtime": 122,
-            "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house\u2026And a man has been sent for as a last resort. This man is The Exorcist."
+            "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house\u2026And a man has been sent for as a last resort. This man is The Exorcist.",
+            "rank": 93
         },
         {
             "adult": false,
@@ -2020,7 +2113,8 @@
                 "Drama"
             ],
             "runtime": 100,
-            "tagline": "Based on an actual lie."
+            "tagline": "Based on an actual lie.",
+            "rank": 94
         },
         {
             "adult": false,
@@ -2042,7 +2136,8 @@
                 "Thriller"
             ],
             "runtime": 98,
-            "tagline": "A homespun murder story."
+            "tagline": "A homespun murder story.",
+            "rank": 95
         },
         {
             "adult": false,
@@ -2064,7 +2159,8 @@
                 "Crime"
             ],
             "runtime": 131,
-            "tagline": "Get the fifth gear."
+            "tagline": "Get the fifth gear.",
+            "rank": 96
         },
         {
             "adult": false,
@@ -2085,7 +2181,8 @@
                 "Romance"
             ],
             "runtime": 90,
-            "tagline": "At Ridgemont High, only the rules get busted!"
+            "tagline": "At Ridgemont High, only the rules get busted!",
+            "rank": 97
         },
         {
             "adult": false,
@@ -2106,7 +2203,8 @@
                 "Thriller"
             ],
             "runtime": 139,
-            "tagline": "Mischief. Mayhem. Soap."
+            "tagline": "Mischief. Mayhem. Soap.",
+            "rank": 98
         },
         {
             "adult": false,
@@ -2126,7 +2224,8 @@
                 "Drama"
             ],
             "runtime": 123,
-            "tagline": "Live, love and give as good as you get."
+            "tagline": "Live, love and give as good as you get.",
+            "rank": 99
         },
         {
             "adult": false,
@@ -2147,7 +2246,8 @@
                 "Adventure"
             ],
             "runtime": 98,
-            "tagline": "Earthmen on a fabulous, peril-journey into outer space!"
+            "tagline": "Earthmen on a fabulous, peril-journey into outer space!",
+            "rank": 100
         },
         {
             "adult": false,
@@ -2169,7 +2269,8 @@
                 "Romance"
             ],
             "runtime": 117,
-            "tagline": "Five good reasons to stay single."
+            "tagline": "Five good reasons to stay single.",
+            "rank": 101
         },
         {
             "adult": false,
@@ -2191,7 +2292,8 @@
                 "Science Fiction"
             ],
             "runtime": 70,
-            "tagline": "The man who made a monster."
+            "tagline": "The man who made a monster.",
+            "rank": 102
         },
         {
             "adult": false,
@@ -2213,7 +2315,8 @@
                 "Thriller"
             ],
             "runtime": 104,
-            "tagline": "Doyle is bad news\u2014but a good cop."
+            "tagline": "Doyle is bad news\u2014but a good cop.",
+            "rank": 103
         },
         {
             "adult": false,
@@ -2234,7 +2337,8 @@
                 "Romance"
             ],
             "runtime": 123,
-            "tagline": "Prepare to be seduced."
+            "tagline": "Prepare to be seduced.",
+            "rank": 104
         },
         {
             "adult": false,
@@ -2256,7 +2360,8 @@
                 "Drama"
             ],
             "runtime": 112,
-            "tagline": "From a place you never heard of...a story you'll never forget."
+            "tagline": "From a place you never heard of...a story you'll never forget.",
+            "rank": 105
         },
         {
             "adult": false,
@@ -2277,7 +2382,8 @@
                 "History"
             ],
             "runtime": 191,
-            "tagline": "His triumph changed the world forever."
+            "tagline": "His triumph changed the world forever.",
+            "rank": 106
         },
         {
             "adult": false,
@@ -2300,7 +2406,8 @@
                 "Romance"
             ],
             "runtime": 107,
-            "tagline": "There is no gene for the human spirit."
+            "tagline": "There is no gene for the human spirit.",
+            "rank": 107
         },
         {
             "adult": false,
@@ -2324,7 +2431,8 @@
                 "Romance"
             ],
             "runtime": 79,
-            "tagline": "Buster drives \"The General\" to trainload of laughter."
+            "tagline": "Buster drives \"The General\" to trainload of laughter.",
+            "rank": 108
         },
         {
             "adult": false,
@@ -2346,7 +2454,8 @@
                 "Horror"
             ],
             "runtime": 104,
-            "tagline": "Just because you're invited, doesn't mean you're welcome."
+            "tagline": "Just because you're invited, doesn't mean you're welcome.",
+            "rank": 109
         },
         {
             "adult": false,
@@ -2368,7 +2477,8 @@
                 "Science Fiction"
             ],
             "runtime": 83,
-            "tagline": "It found a voice... Now it needs a body."
+            "tagline": "It found a voice... Now it needs a body.",
+            "rank": 110
         },
         {
             "adult": false,
@@ -2389,7 +2499,8 @@
                 "Fantasy"
             ],
             "runtime": 107,
-            "tagline": "They're here to save the world."
+            "tagline": "They're here to save the world.",
+            "rank": 111
         },
         {
             "adult": false,
@@ -2411,7 +2522,8 @@
                 "Adventure"
             ],
             "runtime": 122,
-            "tagline": "Forgive us in advance for this wild weekend"
+            "tagline": "Forgive us in advance for this wild weekend",
+            "rank": 112
         },
         {
             "adult": false,
@@ -2432,7 +2544,8 @@
                 "Crime"
             ],
             "runtime": 175,
-            "tagline": "An offer you can't refuse."
+            "tagline": "An offer you can't refuse.",
+            "rank": 113
         },
         {
             "adult": false,
@@ -2453,7 +2566,8 @@
                 "Crime"
             ],
             "runtime": 202,
-            "tagline": "The rise and fall of the Corleone empire."
+            "tagline": "The rise and fall of the Corleone empire.",
+            "rank": 114
         },
         {
             "adult": false,
@@ -2475,7 +2589,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Godzilla, a weapon of science, a great battle of wonder and terror!"
+            "tagline": "Godzilla, a weapon of science, a great battle of wonder and terror!",
+            "rank": 115
         },
         {
             "adult": false,
@@ -2497,7 +2612,8 @@
                 "Thriller"
             ],
             "runtime": 110,
-            "tagline": "Everything he touches turns into excitement!"
+            "tagline": "Everything he touches turns into excitement!",
+            "rank": 116
         },
         {
             "adult": false,
@@ -2517,7 +2633,8 @@
                 "Western"
             ],
             "runtime": 161,
-            "tagline": "For three men the Civil War wasn't hell. It was practice."
+            "tagline": "For three men the Civil War wasn't hell. It was practice.",
+            "rank": 117
         },
         {
             "adult": false,
@@ -2538,7 +2655,8 @@
                 "Crime"
             ],
             "runtime": 145,
-            "tagline": "Three decades of life in the mafia."
+            "tagline": "Three decades of life in the mafia.",
+            "rank": 118
         },
         {
             "adult": false,
@@ -2559,7 +2677,8 @@
                 "Drama"
             ],
             "runtime": 100,
-            "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!"
+            "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
+            "rank": 119
         },
         {
             "adult": false,
@@ -2581,7 +2700,8 @@
                 "War"
             ],
             "runtime": 114,
-            "tagline": "A Great Drama of Human Emotions"
+            "tagline": "A Great Drama of Human Emotions",
+            "rank": 120
         },
         {
             "adult": false,
@@ -2601,7 +2721,8 @@
                 "Drama"
             ],
             "runtime": 129,
-            "tagline": "The Joads step right out of the pages of the novel that has shocked millions!"
+            "tagline": "The Joads step right out of the pages of the novel that has shocked millions!",
+            "rank": 121
         },
         {
             "adult": false,
@@ -2622,7 +2743,8 @@
                 "Comedy"
             ],
             "runtime": 110,
-            "tagline": "Grease is the word."
+            "tagline": "Grease is the word.",
+            "rank": 122
         },
         {
             "adult": false,
@@ -2644,7 +2766,8 @@
                 "War"
             ],
             "runtime": 173,
-            "tagline": "Put a fence in front of these men... and they'll climb it!"
+            "tagline": "Put a fence in front of these men... and they'll climb it!",
+            "rank": 123
         },
         {
             "adult": false,
@@ -2666,7 +2789,8 @@
                 "Comedy"
             ],
             "runtime": 101,
-            "tagline": "He\u2019s having the worst day of his life\u2026 Over and over again."
+            "tagline": "He\u2019s having the worst day of his life\u2026 Over and over again.",
+            "rank": 124
         },
         {
             "adult": false,
@@ -2688,7 +2812,8 @@
                 "Adventure"
             ],
             "runtime": 121,
-            "tagline": "When things get bad, they'll do their worst."
+            "tagline": "When things get bad, they'll do their worst.",
+            "rank": 125
         },
         {
             "adult": false,
@@ -2710,7 +2835,8 @@
                 "Romance"
             ],
             "runtime": 92,
-            "tagline": "The world was in a mess... but their hair was perfect!!"
+            "tagline": "The world was in a mess... but their hair was perfect!!",
+            "rank": 126
         },
         {
             "adult": false,
@@ -2731,7 +2857,8 @@
                 "Thriller"
             ],
             "runtime": 91,
-            "tagline": "The night he came home!"
+            "tagline": "The night he came home!",
+            "rank": 127
         },
         {
             "adult": false,
@@ -2752,7 +2879,8 @@
                 "Music"
             ],
             "runtime": 88,
-            "tagline": "The Beatles, starring in their first full-length, hilarious, action-packed film!"
+            "tagline": "The Beatles, starring in their first full-length, hilarious, action-packed film!",
+            "rank": 128
         },
         {
             "adult": false,
@@ -2774,7 +2902,8 @@
                 "Romance"
             ],
             "runtime": 92,
-            "tagline": "They were meant to be. But exactly what they were meant to be is not quite clear."
+            "tagline": "They were meant to be. But exactly what they were meant to be is not quite clear.",
+            "rank": 129
         },
         {
             "adult": false,
@@ -2795,7 +2924,8 @@
                 "Fantasy"
             ],
             "runtime": 141,
-            "tagline": "Something wicked this way comes."
+            "tagline": "Something wicked this way comes.",
+            "rank": 130
         },
         {
             "adult": false,
@@ -2816,7 +2946,8 @@
                 "Drama"
             ],
             "runtime": 133,
-            "tagline": "Two worlds. One voice. No going back."
+            "tagline": "Two worlds. One voice. No going back.",
+            "rank": 131
         },
         {
             "adult": false,
@@ -2838,7 +2969,8 @@
                 "Action"
             ],
             "runtime": 170,
-            "tagline": "A Los Angeles crime saga."
+            "tagline": "A Los Angeles crime saga.",
+            "rank": 132
         },
         {
             "adult": false,
@@ -2859,7 +2991,8 @@
                 "Crime"
             ],
             "runtime": 103,
-            "tagline": "Best friends, social trends and occasional murder."
+            "tagline": "Best friends, social trends and occasional murder.",
+            "rank": 133
         },
         {
             "adult": false,
@@ -2881,7 +3014,8 @@
                 "Drama"
             ],
             "runtime": 95,
-            "tagline": "An anatomically incorrect rock odyssey"
+            "tagline": "An anatomically incorrect rock odyssey",
+            "rank": 134
         },
         {
             "adult": false,
@@ -2904,7 +3038,8 @@
                 "History"
             ],
             "runtime": 99,
-            "tagline": "One man's strength will unite an empire."
+            "tagline": "One man's strength will unite an empire.",
+            "rank": 135
         },
         {
             "adult": false,
@@ -2925,7 +3060,8 @@
                 "Drama"
             ],
             "runtime": 85,
-            "tagline": "The story of a man who was too proud to run!"
+            "tagline": "The story of a man who was too proud to run!",
+            "rank": 136
         },
         {
             "adult": false,
@@ -2946,7 +3082,8 @@
                 "Romance"
             ],
             "runtime": 92,
-            "tagline": "They're at each other's throats when they're not in each other's arms!"
+            "tagline": "They're at each other's throats when they're not in each other's arms!",
+            "rank": 137
         },
         {
             "adult": false,
@@ -2966,7 +3103,8 @@
                 "Drama"
             ],
             "runtime": 116,
-            "tagline": "The lie is spreading."
+            "tagline": "The lie is spreading.",
+            "rank": 138
         },
         {
             "adult": false,
@@ -2986,7 +3124,8 @@
                 "Drama"
             ],
             "runtime": 143,
-            "tagline": "A big story of a little man which will grip your soul..."
+            "tagline": "A big story of a little man which will grip your soul...",
+            "rank": 139
         },
         {
             "adult": false,
@@ -3009,7 +3148,8 @@
                 "Thriller"
             ],
             "runtime": 109,
-            "tagline": "They got a murder on their hands. They don\u2019t know what to do with it."
+            "tagline": "They got a murder on their hands. They don\u2019t know what to do with it.",
+            "rank": 140
         },
         {
             "adult": false,
@@ -3030,7 +3170,8 @@
                 "Romance"
             ],
             "runtime": 99,
-            "tagline": "Feel the heat, keep the feeling burning, let the sensation explode."
+            "tagline": "Feel the heat, keep the feeling burning, let the sensation explode.",
+            "rank": 141
         },
         {
             "adult": false,
@@ -3052,7 +3193,8 @@
                 "Adventure"
             ],
             "runtime": 148,
-            "tagline": "Your mind is the scene of the crime."
+            "tagline": "Your mind is the scene of the crime.",
+            "rank": 142
         },
         {
             "adult": false,
@@ -3074,7 +3216,8 @@
                 "War"
             ],
             "runtime": 153,
-            "tagline": "Once upon a time in Nazi occupied France..."
+            "tagline": "Once upon a time in Nazi occupied France...",
+            "rank": 143
         },
         {
             "adult": false,
@@ -3098,7 +3241,8 @@
                 "Comedy"
             ],
             "runtime": 95,
-            "tagline": "Meet the little voices inside your head."
+            "tagline": "Meet the little voices inside your head.",
+            "rank": 144
         },
         {
             "adult": false,
@@ -3122,7 +3266,8 @@
                 "Action"
             ],
             "runtime": 86,
-            "tagline": "It came from outer space!"
+            "tagline": "It came from outer space!",
+            "rank": 145
         },
         {
             "adult": false,
@@ -3144,7 +3289,8 @@
                 "Adventure"
             ],
             "runtime": 126,
-            "tagline": "Heroes aren't born. They're built."
+            "tagline": "Heroes aren't born. They're built.",
+            "rank": 146
         },
         {
             "adult": false,
@@ -3165,7 +3311,8 @@
                 "Romance"
             ],
             "runtime": 105,
-            "tagline": "An unforgettable entertainment...the outstanding performance of two outstanding careers!"
+            "tagline": "An unforgettable entertainment...the outstanding performance of two outstanding careers!",
+            "rank": 147
         },
         {
             "adult": false,
@@ -3187,7 +3334,8 @@
                 "Fantasy"
             ],
             "runtime": 130,
-            "tagline": "It's a wonderful laugh! It's a wonderful love!"
+            "tagline": "It's a wonderful laugh! It's a wonderful love!",
+            "rank": 148
         },
         {
             "adult": false,
@@ -3209,7 +3357,8 @@
                 "Adventure"
             ],
             "runtime": 124,
-            "tagline": "The terrifying motion picture from the terrifying No. 1 best seller."
+            "tagline": "The terrifying motion picture from the terrifying No. 1 best seller.",
+            "rank": 149
         },
         {
             "adult": false,
@@ -3230,7 +3379,8 @@
                 "Thriller"
             ],
             "runtime": 101,
-            "tagline": "Don't set him off."
+            "tagline": "Don't set him off.",
+            "rank": 150
         }
     ]
 }

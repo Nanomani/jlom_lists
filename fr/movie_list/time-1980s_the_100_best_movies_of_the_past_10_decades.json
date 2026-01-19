@@ -27,7 +27,8 @@
                 "Science-Fiction"
             ],
             "tagline": "La Guerre des \u00c9toiles continue\u2026",
-            "runtime": 124
+            "runtime": 124,
+            "rank": 1
         },
         {
             "adult": false,
@@ -49,7 +50,8 @@
                 "Crime"
             ],
             "tagline": "Le meurtre a un son qui lui est propre\u00a0!",
-            "runtime": 107
+            "runtime": 107,
+            "rank": 2
         },
         {
             "adult": false,
@@ -72,7 +74,8 @@
                 "Fantastique"
             ],
             "tagline": "Il a peur. Il est seul. Il est \u00e0 3 millions d\u2019ann\u00e9es lumi\u00e8re de chez lui.",
-            "runtime": 115
+            "runtime": 115,
+            "rank": 3
         },
         {
             "adult": false,
@@ -93,7 +96,8 @@
                 "Romance"
             ],
             "tagline": "Voitures rapides, filles rapides, carottes rapides\u2026 Carottes rapides ?",
-            "runtime": 90
+            "runtime": 90,
+            "rank": 4
         },
         {
             "adult": false,
@@ -114,7 +118,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 105
+            "runtime": 105,
+            "rank": 5
         },
         {
             "adult": false,
@@ -136,7 +141,8 @@
                 "Aventure"
             ],
             "tagline": "Aimant la vie, d\u00e9fiant la mort, ces diables d'hommes ont pulv\u00e9ris\u00e9 les limites de l'espace.",
-            "runtime": 192
+            "runtime": 192,
+            "rank": 6
         },
         {
             "adult": false,
@@ -156,7 +162,8 @@
                 "Documentaire"
             ],
             "tagline": "Une r\u00e9flexion en images sur divers pays, de l'Islande a la Guinee-Bissau, en passant par le Japon.",
-            "runtime": 104
+            "runtime": 104,
+            "rank": 7
         },
         {
             "adult": false,
@@ -178,7 +185,8 @@
                 "Crime"
             ],
             "tagline": "C'est un monde bien \u00e9trange, n'est-ce pas ?",
-            "runtime": 120
+            "runtime": 120,
+            "rank": 8
         },
         {
             "adult": false,
@@ -200,7 +208,8 @@
                 "Romance"
             ],
             "tagline": "La vie. La famille. L'amour.",
-            "runtime": 101
+            "runtime": 101,
+            "rank": 9
         },
         {
             "adult": false,
@@ -222,7 +231,8 @@
                 "Romance"
             ],
             "tagline": "Il y a des anges dans les rues de Berlin",
-            "runtime": 128
+            "runtime": 128,
+            "rank": 10
         }
     ]
 }

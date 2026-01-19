@@ -26,7 +26,8 @@
                 "Family"
             ],
             "runtime": 105,
-            "tagline": "Anyone can make it if they learn how to shake it."
+            "tagline": "Anyone can make it if they learn how to shake it.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -46,7 +47,8 @@
                 "Documentary"
             ],
             "runtime": 174,
-            "tagline": "An Extraordinary True Story."
+            "tagline": "An Extraordinary True Story.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -66,7 +68,8 @@
                 "Documentary"
             ],
             "runtime": 97,
-            "tagline": "Everyone wants the last word."
+            "tagline": "Everyone wants the last word.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Drama"
             ],
             "runtime": 106,
-            "tagline": "The closer you are to death. The more you realize you are alive."
+            "tagline": "The closer you are to death. The more you realize you are alive.",
+            "rank": 4
         },
         {
             "adult": false,
@@ -110,7 +114,8 @@
                 "Drama"
             ],
             "runtime": 88,
-            "tagline": ""
+            "tagline": "",
+            "rank": 5
         },
         {
             "adult": false,
@@ -130,7 +135,8 @@
                 "Documentary"
             ],
             "runtime": 94,
-            "tagline": "Discover a world that thinks inside the box"
+            "tagline": "Discover a world that thinks inside the box",
+            "rank": 6
         },
         {
             "adult": false,
@@ -150,7 +156,8 @@
                 "Documentary"
             ],
             "runtime": 94,
-            "tagline": "1974. 1350 feet up. The artistic crime of the century."
+            "tagline": "1974. 1350 feet up. The artistic crime of the century.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -171,7 +178,8 @@
                 "Action"
             ],
             "runtime": 90,
-            "tagline": "The ultimate world class adventure!"
+            "tagline": "The ultimate world class adventure!",
+            "rank": 8
         },
         {
             "adult": false,
@@ -191,7 +199,8 @@
                 "Documentary"
             ],
             "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "rank": 9
         },
         {
             "adult": false,
@@ -211,7 +220,8 @@
                 "Documentary"
             ],
             "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "rank": 10
         }
     ]
 }

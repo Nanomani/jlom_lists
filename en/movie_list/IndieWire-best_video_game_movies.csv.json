@@ -27,7 +27,8 @@
                 "Drama"
             ],
             "runtime": 135,
-            "tagline": "Objection!"
+            "tagline": "Objection!",
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Comedy"
             ],
             "runtime": 97,
-            "tagline": "A whodunnit with teeth."
+            "tagline": "A whodunnit with teeth.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Mystery"
             ],
             "runtime": 125,
-            "tagline": "We've been expecting you."
+            "tagline": "We've been expecting you.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -92,7 +95,8 @@
                 "Thriller"
             ],
             "runtime": 102,
-            "tagline": "The fight to save the world is on!"
+            "tagline": "The fight to save the world is on!",
+            "rank": 4
         },
         {
             "adult": false,
@@ -113,7 +117,8 @@
                 "Fantasy"
             ],
             "runtime": 101,
-            "tagline": "Nothing in this world has prepared you for this."
+            "tagline": "Nothing in this world has prepared you for this.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -136,7 +141,8 @@
                 "Family"
             ],
             "runtime": 104,
-            "tagline": "This ain't no game."
+            "tagline": "This ain't no game.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -159,7 +165,8 @@
                 "Comedy"
             ],
             "runtime": 123,
-            "tagline": "Welcome to the next level."
+            "tagline": "Welcome to the next level.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -181,7 +188,8 @@
                 "Science Fiction"
             ],
             "runtime": 105,
-            "tagline": "No one gets out alive."
+            "tagline": "No one gets out alive.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -203,7 +211,8 @@
                 "Fantasy"
             ],
             "runtime": 100,
-            "tagline": "Born into Wealth. Groomed by the Elite. Trained for Combat."
+            "tagline": "Born into Wealth. Groomed by the Elite. Trained for Combat.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -225,7 +234,8 @@
                 "Fantasy"
             ],
             "runtime": 105,
-            "tagline": "Partner up!"
+            "tagline": "Partner up!",
+            "rank": 10
         },
         {
             "adult": false,
@@ -247,7 +257,8 @@
                 "Science Fiction"
             ],
             "runtime": 107,
-            "tagline": "Witness the beginning of evil."
+            "tagline": "Witness the beginning of evil.",
+            "rank": 11
         }
     ]
 }

@@ -26,7 +26,8 @@
                 "Fantastique"
             ],
             "tagline": "",
-            "runtime": 115
+            "runtime": 115,
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Fantastique"
             ],
             "tagline": "",
-            "runtime": 123
+            "runtime": 123,
+            "rank": 2
         },
         {
             "adult": false,
@@ -70,7 +72,8 @@
                 "Drame"
             ],
             "tagline": "Une myst\u00e9rieuse s\u00e9ductrice opprime la population d'\u00c9cosse.",
-            "runtime": 108
+            "runtime": 108,
+            "rank": 3
         },
         {
             "adult": false,
@@ -90,7 +93,8 @@
                 "Drame"
             ],
             "tagline": "Phoenix (2014)",
-            "runtime": 98
+            "runtime": 98,
+            "rank": 4
         },
         {
             "adult": false,
@@ -111,7 +115,8 @@
                 "Drame"
             ],
             "tagline": "Un r\u00eave peut changer le monde",
-            "runtime": 128
+            "runtime": 128,
+            "rank": 5
         },
         {
             "adult": false,
@@ -131,7 +136,8 @@
                 "Documentaire"
             ],
             "tagline": "C'est un v\u00e9ritable coup de poing ! Un \u00e9blouissant r\u00e9quisitoire sur la question raciale.",
-            "runtime": 89
+            "runtime": 89,
+            "rank": 6
         },
         {
             "adult": false,
@@ -153,7 +159,8 @@
                 "Histoire"
             ],
             "tagline": "En 1925, Percy Fawcett s'aventure en Amazonie \u00e0 la recherche d'un mythe. Ce qu'il a d\u00e9couvert l'a rendu l\u00e9gendaire.",
-            "runtime": 140
+            "runtime": 140,
+            "rank": 7
         },
         {
             "adult": false,
@@ -173,7 +180,8 @@
                 "Drame"
             ],
             "tagline": "C'est l'histoire d'une vie.",
-            "runtime": 100
+            "runtime": 100,
+            "rank": 8
         },
         {
             "adult": false,
@@ -195,7 +203,8 @@
                 "Histoire"
             ],
             "tagline": "Appropriez-vous votre histoire.",
-            "runtime": 135
+            "runtime": 135,
+            "rank": 9
         },
         {
             "adult": false,
@@ -217,7 +226,8 @@
                 "Thriller"
             ],
             "tagline": "Dans cette ville, tout peut changer.",
-            "runtime": 162
+            "runtime": 162,
+            "rank": 10
         }
     ]
 }

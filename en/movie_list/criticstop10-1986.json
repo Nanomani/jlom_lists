@@ -26,7 +26,8 @@
                 "Drama"
             ],
             "runtime": 107,
-            "tagline": "A story between two Thanksgivings."
+            "tagline": "A story between two Thanksgivings.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Romance"
             ],
             "runtime": 117,
-            "tagline": "An Edwardian Romance"
+            "tagline": "An Edwardian Romance",
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Action"
             ],
             "runtime": 120,
-            "tagline": "The first casualty of war is innocence."
+            "tagline": "The first casualty of war is innocence.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "Crime"
             ],
             "runtime": 120,
-            "tagline": "It's a strange world, isn't it?"
+            "tagline": "It's a strange world, isn't it?",
+            "rank": 4
         },
         {
             "adult": false,
@@ -114,7 +118,8 @@
                 "Thriller"
             ],
             "runtime": 105,
-            "tagline": "Sometimes love is a strange and wicked game."
+            "tagline": "Sometimes love is a strange and wicked game.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -136,7 +141,8 @@
                 "Science Fiction"
             ],
             "runtime": 137,
-            "tagline": "This time it's war."
+            "tagline": "This time it's war.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -157,7 +163,8 @@
                 "Music"
             ],
             "runtime": 131,
-            "tagline": "The music and the magic come together..."
+            "tagline": "The music and the magic come together...",
+            "rank": 7
         },
         {
             "adult": false,
@@ -178,7 +185,8 @@
                 "Drama"
             ],
             "runtime": 89,
-            "tagline": "\"If I could only have one food to eat for the rest of my life?\" \"That's easy. Pez. Cherry flavor Pez. No question about it.\""
+            "tagline": "\"If I could only have one food to eat for the rest of my life?\" \"That's easy. Pez. Cherry flavor Pez. No question about it.\"",
+            "rank": 8
         },
         {
             "adult": false,
@@ -198,7 +206,8 @@
                 "Drama"
             ],
             "runtime": 119,
-            "tagline": "The Hustler isn't what he used to be. But he has the next best thing. A kid who is."
+            "tagline": "The Hustler isn't what he used to be. But he has the next best thing. A kid who is.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -219,7 +228,8 @@
                 "Romance"
             ],
             "runtime": 119,
-            "tagline": "She is the most mysterious, independent, beautiful, angry person he has ever met. He is the first man who has ever gotten close enough to love her."
+            "tagline": "She is the most mysterious, independent, beautiful, angry person he has ever met. He is the first man who has ever gotten close enough to love her.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -241,7 +251,8 @@
                 "Fantasy"
             ],
             "runtime": 103,
-            "tagline": "Knowing what you know now, what would you do differently?"
+            "tagline": "Knowing what you know now, what would you do differently?",
+            "rank": 11
         },
         {
             "adult": false,
@@ -263,7 +274,8 @@
                 "Romance"
             ],
             "runtime": 114,
-            "tagline": "Something Different. Something Daring. Something Dangerous."
+            "tagline": "Something Different. Something Daring. Something Dangerous.",
+            "rank": 12
         },
         {
             "adult": false,
@@ -284,7 +296,8 @@
                 "Comedy"
             ],
             "runtime": 94,
-            "tagline": "A singing plant. A daring hero. A sweet girl. A demented dentist. It's the most outrageous musical comedy in years."
+            "tagline": "A singing plant. A daring hero. A sweet girl. A demented dentist. It's the most outrageous musical comedy in years.",
+            "rank": 13
         },
         {
             "adult": false,
@@ -305,7 +318,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Be afraid. Be very afraid."
+            "tagline": "Be afraid. Be very afraid.",
+            "rank": 14
         },
         {
             "adult": false,
@@ -327,7 +341,8 @@
                 "Romance"
             ],
             "runtime": 98,
-            "tagline": "A sharp, sophisticated, funny, sexy, compassionate picture."
+            "tagline": "A sharp, sophisticated, funny, sexy, compassionate picture.",
+            "rank": 15
         },
         {
             "adult": false,
@@ -349,7 +364,8 @@
                 "War"
             ],
             "runtime": 123,
-            "tagline": "Dateline: 1980, El Salvador. Correspondent: Richard Boyle, Photojournalist - Guatemala, Iran, Vietnam, Chile, Belfast, Lebanon, Cambodia..."
+            "tagline": "Dateline: 1980, El Salvador. Correspondent: Richard Boyle, Photojournalist - Guatemala, Iran, Vietnam, Chile, Belfast, Lebanon, Cambodia...",
+            "rank": 16
         },
         {
             "adult": false,
@@ -370,7 +386,8 @@
                 "Drama"
             ],
             "runtime": 105,
-            "tagline": "Meg just left one. Lenny never had one. Babe just shot one. The MaGrath sisters sure have a way with men."
+            "tagline": "Meg just left one. Lenny never had one. Babe just shot one. The MaGrath sisters sure have a way with men.",
+            "rank": 17
         },
         {
             "adult": false,
@@ -391,7 +408,8 @@
                 "Romance"
             ],
             "runtime": 114,
-            "tagline": "Love Kills."
+            "tagline": "Love Kills.",
+            "rank": 18
         },
         {
             "adult": false,
@@ -411,7 +429,8 @@
                 "Comedy"
             ],
             "runtime": 103,
-            "tagline": "See what happens when a dirty bum meets the filthy rich."
+            "tagline": "See what happens when a dirty bum meets the filthy rich.",
+            "rank": 19
         },
         {
             "adult": false,
@@ -432,7 +451,8 @@
                 "Adventure"
             ],
             "runtime": 118,
-            "tagline": "Star date: 1986. How on Earth can they save the future?"
+            "tagline": "Star date: 1986. How on Earth can they save the future?",
+            "rank": 20
         },
         {
             "adult": false,
@@ -452,7 +472,8 @@
                 "Comedy"
             ],
             "runtime": 93,
-            "tagline": "Sam Stone's wife has just been kidnapped... And he doesn't want her back!"
+            "tagline": "Sam Stone's wife has just been kidnapped... And he doesn't want her back!",
+            "rank": 21
         },
         {
             "adult": false,
@@ -473,7 +494,8 @@
                 "Comedy"
             ],
             "runtime": 97,
-            "tagline": "There's a little of him in all of us."
+            "tagline": "There's a little of him in all of us.",
+            "rank": 22
         },
         {
             "adult": false,
@@ -496,7 +518,8 @@
                 "History"
             ],
             "runtime": 125,
-            "tagline": "One will trust in the power of prayer. One will believe in the might of the sword."
+            "tagline": "One will trust in the power of prayer. One will believe in the might of the sword.",
+            "rank": 23
         },
         {
             "adult": false,
@@ -520,7 +543,8 @@
                 "Comedy"
             ],
             "runtime": 76,
-            "tagline": "She's from the leash and license set... he's footloose and collar free!"
+            "tagline": "She's from the leash and license set... he's footloose and collar free!",
+            "rank": 24
         },
         {
             "adult": false,
@@ -542,7 +566,8 @@
                 "Comedy"
             ],
             "runtime": 106,
-            "tagline": "It's not where you start - It's where you start again."
+            "tagline": "It's not where you start - It's where you start again.",
+            "rank": 25
         },
         {
             "adult": false,
@@ -563,7 +588,8 @@
                 "Romance"
             ],
             "runtime": 84,
-            "tagline": "A seriously sexy comedy."
+            "tagline": "A seriously sexy comedy.",
+            "rank": 26
         },
         {
             "adult": false,
@@ -585,7 +611,8 @@
                 "Romance"
             ],
             "runtime": 118,
-            "tagline": "It's a comedy. And a drama. Just like life."
+            "tagline": "It's a comedy. And a drama. Just like life.",
+            "rank": 27
         },
         {
             "adult": false,
@@ -605,7 +632,8 @@
                 "Drama"
             ],
             "runtime": 94,
-            "tagline": "The true story of the \"Little Flower\" who became a saint."
+            "tagline": "The true story of the \"Little Flower\" who became a saint.",
+            "rank": 28
         },
         {
             "adult": false,
@@ -625,7 +653,8 @@
                 "Drama"
             ],
             "runtime": 149,
-            "tagline": "The final film of Andrei Tarkovsky"
+            "tagline": "The final film of Andrei Tarkovsky",
+            "rank": 29
         },
         {
             "adult": false,
@@ -646,7 +675,8 @@
                 "Music"
             ],
             "runtime": 89,
-            "tagline": "A Completely Cool, Multi-Purpose Movie."
+            "tagline": "A Completely Cool, Multi-Purpose Movie.",
+            "rank": 30
         },
         {
             "adult": false,
@@ -668,7 +698,8 @@
                 "Romance"
             ],
             "runtime": 97,
-            "tagline": "They share a strange and amusing obsession."
+            "tagline": "They share a strange and amusing obsession.",
+            "rank": 31
         },
         {
             "adult": false,
@@ -689,7 +720,8 @@
                 "Family"
             ],
             "runtime": 105,
-            "tagline": "The nuclear family meets the atomic age."
+            "tagline": "The nuclear family meets the atomic age.",
+            "rank": 32
         },
         {
             "adult": false,
@@ -709,7 +741,8 @@
                 "Documentary"
             ],
             "runtime": 136,
-            "tagline": "Imagine yourself at 7, 14, 21 & 28."
+            "tagline": "Imagine yourself at 7, 14, 21 & 28.",
+            "rank": 33
         },
         {
             "adult": false,
@@ -731,7 +764,8 @@
                 "Comedy"
             ],
             "runtime": 111,
-            "tagline": "Drugs, sex, crime\u2026 Rain City has it all. Here everyone gets what they want \u2014 or what they deserve."
+            "tagline": "Drugs, sex, crime\u2026 Rain City has it all. Here everyone gets what they want \u2014 or what they deserve.",
+            "rank": 34
         },
         {
             "adult": false,
@@ -751,7 +785,8 @@
                 "Comedy"
             ],
             "runtime": 87,
-            "tagline": "Life is a beach."
+            "tagline": "Life is a beach.",
+            "rank": 35
         },
         {
             "adult": false,
@@ -771,7 +806,8 @@
                 "Documentary"
             ],
             "runtime": 158,
-            "tagline": "An improbable search for love"
+            "tagline": "An improbable search for love",
+            "rank": 36
         },
         {
             "adult": false,
@@ -792,7 +828,8 @@
                 "Adventure"
             ],
             "runtime": 119,
-            "tagline": "He never bargained for what he found."
+            "tagline": "He never bargained for what he found.",
+            "rank": 37
         },
         {
             "adult": false,
@@ -814,7 +851,8 @@
                 "History"
             ],
             "runtime": 160,
-            "tagline": "In a mad world, only the mad are sane."
+            "tagline": "In a mad world, only the mad are sane.",
+            "rank": 38
         },
         {
             "adult": false,
@@ -835,7 +873,8 @@
                 "Family"
             ],
             "runtime": 114,
-            "tagline": "They needed a second chance to finish first."
+            "tagline": "They needed a second chance to finish first.",
+            "rank": 39
         },
         {
             "adult": false,
@@ -855,7 +894,8 @@
                 "Documentary"
             ],
             "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "rank": 40
         },
         {
             "adult": false,
@@ -877,7 +917,8 @@
                 "Romance"
             ],
             "runtime": 113,
-            "tagline": "Making love was easy...being in love difficult."
+            "tagline": "Making love was easy...being in love difficult.",
+            "rank": 41
         },
         {
             "adult": false,
@@ -898,7 +939,8 @@
                 "Drama"
             ],
             "runtime": 101,
-            "tagline": "A spontaneously funny sex comedy!"
+            "tagline": "A spontaneously funny sex comedy!",
+            "rank": 42
         },
         {
             "adult": false,
@@ -918,7 +960,8 @@
                 "Comedy"
             ],
             "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "rank": 43
         },
         {
             "adult": false,
@@ -940,7 +983,8 @@
                 "Thriller"
             ],
             "runtime": 120,
-            "tagline": "It's just you and me now, sport\u2026"
+            "tagline": "It's just you and me now, sport\u2026",
+            "rank": 44
         },
         {
             "adult": false,
@@ -960,7 +1004,8 @@
                 "Comedy"
             ],
             "runtime": 103,
-            "tagline": "Leisure rules."
+            "tagline": "Leisure rules.",
+            "rank": 45
         },
         {
             "adult": false,
@@ -982,7 +1027,8 @@
                 "Romance"
             ],
             "runtime": 108,
-            "tagline": "It's about falling in love.  For the first time."
+            "tagline": "It's about falling in love.  For the first time.",
+            "rank": 46
         }
     ]
 }

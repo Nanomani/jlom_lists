@@ -28,7 +28,8 @@
                 "Familial"
             ],
             "tagline": "Dans ce nouveau monde, l'union sera la cl\u00e9.",
-            "runtime": 85
+            "runtime": 85,
+            "rank": 1
         },
         {
             "adult": false,
@@ -52,7 +53,8 @@
                 "Familial"
             ],
             "tagline": "L\u00e0 o\u00f9 la mort prend fin, la vie trouve un nouveau commencement.",
-            "runtime": 119
+            "runtime": 119,
+            "rank": 2
         },
         {
             "adult": false,
@@ -75,7 +77,8 @@
                 "Drame"
             ],
             "tagline": "L'amour vous donnera la vie.",
-            "runtime": 121
+            "runtime": 121,
+            "rank": 3
         },
         {
             "adult": false,
@@ -98,7 +101,8 @@
                 "Fantastique"
             ],
             "tagline": "Chez les Madrigal, tout le monde est magique\u2026 Enfin presque.",
-            "runtime": 102
+            "runtime": 102,
+            "rank": 4
         },
         {
             "adult": false,
@@ -123,7 +127,8 @@
                 "Musique"
             ],
             "tagline": "Tout le monde a une \u00e2me. Joe Gardner est sur le point de trouver la sienne.",
-            "runtime": 100
+            "runtime": 100,
+            "rank": 5
         },
         {
             "adult": false,
@@ -146,7 +151,8 @@
                 "Aventure"
             ],
             "tagline": "Une aventure XXL",
-            "runtime": 94
+            "runtime": 94,
+            "rank": 6
         },
         {
             "adult": false,
@@ -169,7 +175,8 @@
                 "Science-Fiction"
             ],
             "tagline": "D\u00e9couvrez un univers o\u00f9 ils sont plus d'un \u00e0 porter le masque",
-            "runtime": 117
+            "runtime": 117,
+            "rank": 7
         },
         {
             "adult": false,
@@ -192,7 +199,8 @@
                 "Aventure"
             ],
             "tagline": "La c\u00e9l\u00e9bration de toute une vie.",
-            "runtime": 110
+            "runtime": 110,
+            "rank": 8
         },
         {
             "adult": false,
@@ -215,7 +223,8 @@
                 "Com\u00e9die"
             ],
             "tagline": "Bienvenue dans la jungle urbaine.",
-            "runtime": 109
+            "runtime": 109,
+            "rank": 9
         },
         {
             "adult": false,
@@ -233,7 +242,8 @@
             "vote_count": 0,
             "genres": [],
             "tagline": "",
-            "runtime": 38
+            "runtime": 38,
+            "rank": 10
         },
         {
             "adult": false,
@@ -258,7 +268,8 @@
                 "Familial"
             ],
             "tagline": "Prenez votre envol\u202f!",
-            "runtime": 85
+            "runtime": 85,
+            "rank": 11
         },
         {
             "adult": false,
@@ -281,7 +292,8 @@
                 "Fantastique"
             ],
             "tagline": "",
-            "runtime": 102
+            "runtime": 102,
+            "rank": 12
         },
         {
             "adult": false,
@@ -306,7 +318,8 @@
                 "Fantastique"
             ],
             "tagline": "Changez votre destin.",
-            "runtime": 93
+            "runtime": 93,
+            "rank": 13
         },
         {
             "adult": false,
@@ -328,7 +341,8 @@
                 "Myst\u00e8re"
             ],
             "tagline": "Cette ann\u00e9e, d\u00e9couvrez jusqu'o\u00f9 l'aventure vous m\u00e8nera.",
-            "runtime": 106
+            "runtime": 106,
+            "rank": 14
         },
         {
             "adult": false,
@@ -350,7 +364,8 @@
                 "Com\u00e9die"
             ],
             "tagline": "Aucun jouet ne sera laiss\u00e9 en arri\u00e8re.",
-            "runtime": 103
+            "runtime": 103,
+            "rank": 15
         },
         {
             "adult": false,
@@ -373,7 +388,8 @@
                 "Aventure"
             ],
             "tagline": "Changez d'air.",
-            "runtime": 95
+            "runtime": 95,
+            "rank": 16
         },
         {
             "adult": false,
@@ -395,7 +411,8 @@
                 "Science-Fiction"
             ],
             "tagline": "Tu fais quoi les 700 prochaines ann\u00e9es\u202f?",
-            "runtime": 98
+            "runtime": 98,
+            "rank": 17
         },
         {
             "adult": false,
@@ -418,7 +435,8 @@
                 "Fantastique"
             ],
             "tagline": "Chaud devant\u202f!",
-            "runtime": 110
+            "runtime": 110,
+            "rank": 18
         },
         {
             "adult": false,
@@ -441,7 +459,8 @@
                 "Familial"
             ],
             "tagline": "Ka-Chow !",
-            "runtime": 111
+            "runtime": 111,
+            "rank": 19
         }
     ]
 }

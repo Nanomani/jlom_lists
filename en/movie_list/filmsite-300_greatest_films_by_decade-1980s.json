@@ -25,7 +25,8 @@
                 "Comedy"
             ],
             "runtime": 88,
-            "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?"
+            "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?",
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Science Fiction"
             ],
             "runtime": 124,
-            "tagline": "The Star Wars saga continues."
+            "tagline": "The Star Wars saga continues.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -67,7 +69,8 @@
                 "Drama"
             ],
             "runtime": 129,
-            "tagline": "I don\u2019t go down for nobody."
+            "tagline": "I don\u2019t go down for nobody.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -88,7 +91,8 @@
                 "Thriller"
             ],
             "runtime": 144,
-            "tagline": "A masterpiece of modern horror."
+            "tagline": "A masterpiece of modern horror.",
+            "rank": 4
         },
         {
             "adult": false,
@@ -110,7 +114,8 @@
                 "Romance"
             ],
             "runtime": 104,
-            "tagline": "Where dreamers can be winners."
+            "tagline": "Where dreamers can be winners.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -131,7 +136,8 @@
                 "Action"
             ],
             "runtime": 115,
-            "tagline": "The return of the great adventure."
+            "tagline": "The return of the great adventure.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -153,7 +159,8 @@
                 "Thriller"
             ],
             "runtime": 118,
-            "tagline": "Man has made his match... now it's his problem."
+            "tagline": "Man has made his match... now it's his problem.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -176,7 +183,8 @@
                 "Fantasy"
             ],
             "runtime": 115,
-            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home."
+            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -197,7 +205,8 @@
                 "Comedy"
             ],
             "runtime": 109,
-            "tagline": "It's no laughing matter."
+            "tagline": "It's no laughing matter.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -217,7 +226,8 @@
                 "Horror"
             ],
             "runtime": 114,
-            "tagline": "They're here."
+            "tagline": "They're here.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -240,7 +250,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Just one man can make a difference."
+            "tagline": "Just one man can make a difference.",
+            "rank": 11
         },
         {
             "adult": false,
@@ -261,7 +272,8 @@
                 "Romance"
             ],
             "runtime": 116,
-            "tagline": "What do you get when you cross a hopelessly straight starving actor with a dynamite red sequined dress? You get America's hottest new actress."
+            "tagline": "What do you get when you cross a hopelessly straight starving actor with a dynamite red sequined dress? You get America's hottest new actress.",
+            "rank": 12
         },
         {
             "adult": false,
@@ -283,7 +295,8 @@
                 "Drama"
             ],
             "runtime": 160,
-            "tagline": "The Man... The Music... The Madness... The Murder... The Motion Picture."
+            "tagline": "The Man... The Music... The Madness... The Murder... The Motion Picture.",
+            "rank": 13
         },
         {
             "adult": false,
@@ -305,7 +318,8 @@
                 "Science Fiction"
             ],
             "runtime": 108,
-            "tagline": "Your future is in its hands."
+            "tagline": "Your future is in its hands.",
+            "rank": 14
         },
         {
             "adult": false,
@@ -326,7 +340,8 @@
                 "Music"
             ],
             "runtime": 82,
-            "tagline": "Prepare to crank those amps up to eleven."
+            "tagline": "Prepare to crank those amps up to eleven.",
+            "rank": 15
         },
         {
             "adult": false,
@@ -347,7 +362,8 @@
                 "Science Fiction"
             ],
             "runtime": 143,
-            "tagline": "It's only a state of mind."
+            "tagline": "It's only a state of mind.",
+            "rank": 16
         },
         {
             "adult": false,
@@ -369,7 +385,8 @@
                 "Crime"
             ],
             "runtime": 120,
-            "tagline": "It's a strange world, isn't it?"
+            "tagline": "It's a strange world, isn't it?",
+            "rank": 17
         },
         {
             "adult": false,
@@ -390,7 +407,8 @@
                 "Drama"
             ],
             "runtime": 107,
-            "tagline": "A story between two Thanksgivings."
+            "tagline": "A story between two Thanksgivings.",
+            "rank": 18
         },
         {
             "adult": false,
@@ -412,7 +430,8 @@
                 "Action"
             ],
             "runtime": 120,
-            "tagline": "The first casualty of war is innocence."
+            "tagline": "The first casualty of war is innocence.",
+            "rank": 19
         },
         {
             "adult": false,
@@ -433,7 +452,8 @@
                 "War"
             ],
             "runtime": 117,
-            "tagline": "In Vietnam, the wind doesn't blow. It sucks."
+            "tagline": "In Vietnam, the wind doesn't blow. It sucks.",
+            "rank": 20
         },
         {
             "adult": false,
@@ -454,7 +474,8 @@
                 "Romance"
             ],
             "runtime": 108,
-            "tagline": "Romance is a lot like baseball. It's not whether you win or lose. It's how you play the game."
+            "tagline": "Romance is a lot like baseball. It's not whether you win or lose. It's how you play the game.",
+            "rank": 21
         },
         {
             "adult": false,
@@ -475,7 +496,8 @@
                 "Crime"
             ],
             "runtime": 109,
-            "tagline": "A tale of murder, lust, greed, revenge, and seafood."
+            "tagline": "A tale of murder, lust, greed, revenge, and seafood.",
+            "rank": 22
         },
         {
             "adult": false,
@@ -498,7 +520,8 @@
                 "Crime"
             ],
             "runtime": 104,
-            "tagline": "It's the story of a man, a woman, and a rabbit in a triangle of trouble."
+            "tagline": "It's the story of a man, a woman, and a rabbit in a triangle of trouble.",
+            "rank": 23
         },
         {
             "adult": false,
@@ -520,7 +543,8 @@
                 "Crime"
             ],
             "runtime": 104,
-            "tagline": "It's about love and reality. Faith and delusion. Good and evil. Success and failure."
+            "tagline": "It's about love and reality. Faith and delusion. Good and evil. Success and failure.",
+            "rank": 24
         },
         {
             "adult": false,
@@ -540,7 +564,8 @@
                 "Drama"
             ],
             "runtime": 120,
-            "tagline": "It's the hottest day of the summer. You can do nothing, you can do something, or you can..."
+            "tagline": "It's the hottest day of the summer. You can do nothing, you can do something, or you can...",
+            "rank": 25
         },
         {
             "adult": false,
@@ -561,7 +586,8 @@
                 "Fantasy"
             ],
             "runtime": 105,
-            "tagline": "All his life, Ray Kinsella was searching for his dreams. Then one day, his dreams came looking for him."
+            "tagline": "All his life, Ray Kinsella was searching for his dreams. Then one day, his dreams came looking for him.",
+            "rank": 26
         },
         {
             "adult": false,
@@ -583,7 +609,8 @@
                 "Drama"
             ],
             "runtime": 96,
-            "tagline": "Can two friends sleep together and still love each other in the morning?"
+            "tagline": "Can two friends sleep together and still love each other in the morning?",
+            "rank": 27
         }
     ]
 }

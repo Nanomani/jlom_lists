@@ -27,7 +27,8 @@
                 "Science Fiction"
             ],
             "runtime": 121,
-            "tagline": "The future belongs to the mad."
+            "tagline": "The future belongs to the mad.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -50,7 +51,8 @@
                 "Romance"
             ],
             "runtime": 120,
-            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender."
+            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -71,7 +73,8 @@
                 "Action"
             ],
             "runtime": 115,
-            "tagline": "The return of the great adventure."
+            "tagline": "The return of the great adventure.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -92,7 +95,8 @@
                 "Crime"
             ],
             "runtime": 111,
-            "tagline": "Here comes the bride."
+            "tagline": "Here comes the bride.",
+            "rank": 4
         },
         {
             "adult": false,
@@ -114,7 +118,8 @@
                 "Drama"
             ],
             "runtime": 185,
-            "tagline": "Rise, Roar, Revolt."
+            "tagline": "Rise, Roar, Revolt.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -135,7 +140,8 @@
                 "Adventure"
             ],
             "runtime": 147,
-            "tagline": "Some missions are not a choice."
+            "tagline": "Some missions are not a choice.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -157,7 +163,8 @@
                 "Crime"
             ],
             "runtime": 122,
-            "tagline": "Never stab the devil in the back!"
+            "tagline": "Never stab the devil in the back!",
+            "rank": 7
         },
         {
             "adult": false,
@@ -180,7 +187,8 @@
                 "Thriller"
             ],
             "runtime": 115,
-            "tagline": "Remember everything. Forgive nothing."
+            "tagline": "Remember everything. Forgive nothing.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -202,7 +210,8 @@
                 "Science Fiction"
             ],
             "runtime": 140,
-            "tagline": "The universe is so much bigger than you realize."
+            "tagline": "The universe is so much bigger than you realize.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -225,7 +234,8 @@
                 "Adventure"
             ],
             "runtime": 118,
-            "tagline": "Life-or-death survival begins."
+            "tagline": "Life-or-death survival begins.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -247,7 +257,8 @@
                 "Crime"
             ],
             "runtime": 131,
-            "tagline": "Get the fifth gear."
+            "tagline": "Get the fifth gear.",
+            "rank": 11
         },
         {
             "adult": false,
@@ -268,7 +279,8 @@
                 "Drama"
             ],
             "runtime": 131,
-            "tagline": "Feel the need... The need for speed."
+            "tagline": "Feel the need... The need for speed.",
+            "rank": 12
         },
         {
             "adult": false,
@@ -290,7 +302,8 @@
                 "Thriller"
             ],
             "runtime": 144,
-            "tagline": "Everyone has a past. Every legend has a beginning."
+            "tagline": "Everyone has a past. Every legend has a beginning.",
+            "rank": 13
         },
         {
             "adult": false,
@@ -311,7 +324,8 @@
                 "Thriller"
             ],
             "runtime": 93,
-            "tagline": "They gave her no choice"
+            "tagline": "They gave her no choice",
+            "rank": 14
         },
         {
             "adult": false,
@@ -334,7 +348,8 @@
                 "Fantasy"
             ],
             "runtime": 99,
-            "tagline": "So many gangsters\u2026 so little time."
+            "tagline": "So many gangsters\u2026 so little time.",
+            "rank": 15
         },
         {
             "adult": false,
@@ -356,7 +371,8 @@
                 "Action"
             ],
             "runtime": 113,
-            "tagline": "Could you kill your best friend?"
+            "tagline": "Could you kill your best friend?",
+            "rank": 16
         },
         {
             "adult": false,
@@ -378,7 +394,8 @@
                 "Romance"
             ],
             "runtime": 113,
-            "tagline": "An epic of epic epicness."
+            "tagline": "An epic of epic epicness.",
+            "rank": 17
         },
         {
             "adult": false,
@@ -400,7 +417,8 @@
                 "Thriller"
             ],
             "runtime": 132,
-            "tagline": "No Law. No Rules. No Order."
+            "tagline": "No Law. No Rules. No Order.",
+            "rank": 18
         },
         {
             "adult": false,
@@ -423,7 +441,8 @@
                 "Comedy"
             ],
             "runtime": 135,
-            "tagline": "Go!"
+            "tagline": "Go!",
+            "rank": 19
         },
         {
             "adult": false,
@@ -444,7 +463,8 @@
                 "Thriller"
             ],
             "runtime": 99,
-            "tagline": "He took their drugs. They took his son."
+            "tagline": "He took their drugs. They took his son.",
+            "rank": 20
         },
         {
             "adult": false,
@@ -466,7 +486,8 @@
                 "History"
             ],
             "runtime": 130,
-            "tagline": "In Martial Arts there is no right or wrong, only the last man standing."
+            "tagline": "In Martial Arts there is no right or wrong, only the last man standing.",
+            "rank": 21
         },
         {
             "adult": false,
@@ -489,7 +510,8 @@
                 "Thriller"
             ],
             "runtime": 152,
-            "tagline": "Welcome to a world without rules."
+            "tagline": "Welcome to a world without rules.",
+            "rank": 22
         },
         {
             "adult": false,
@@ -510,7 +532,8 @@
                 "Crime"
             ],
             "runtime": 110,
-            "tagline": "Get in. Get out. Get even."
+            "tagline": "Get in. Get out. Get even.",
+            "rank": 23
         },
         {
             "adult": false,
@@ -531,7 +554,8 @@
                 "Thriller"
             ],
             "runtime": 94,
-            "tagline": "They took his daughter. He'll take their lives."
+            "tagline": "They took his daughter. He'll take their lives.",
+            "rank": 24
         },
         {
             "adult": false,
@@ -553,7 +577,8 @@
                 "Thriller"
             ],
             "runtime": 108,
-            "tagline": "There is no other law."
+            "tagline": "There is no other law.",
+            "rank": 25
         },
         {
             "adult": false,
@@ -574,7 +599,8 @@
                 "Science Fiction"
             ],
             "runtime": 114,
-            "tagline": "Live. Die. Repeat."
+            "tagline": "Live. Die. Repeat.",
+            "rank": 26
         },
         {
             "adult": false,
@@ -596,7 +622,8 @@
                 "Drama"
             ],
             "runtime": 122,
-            "tagline": "The only thing more dangerous than the line being crossed, is the cop who will cross it."
+            "tagline": "The only thing more dangerous than the line being crossed, is the cop who will cross it.",
+            "rank": 27
         },
         {
             "adult": false,
@@ -618,7 +645,8 @@
                 "Thriller"
             ],
             "runtime": 115,
-            "tagline": "Talents can be overrated."
+            "tagline": "Talents can be overrated.",
+            "rank": 28
         },
         {
             "adult": false,
@@ -639,7 +667,8 @@
                 "Thriller"
             ],
             "runtime": 116,
-            "tagline": "When the mission ends, redemption begins"
+            "tagline": "When the mission ends, redemption begins",
+            "rank": 29
         },
         {
             "adult": false,
@@ -662,7 +691,8 @@
                 "Science Fiction"
             ],
             "runtime": 140,
-            "tagline": "It's how you wear the mask that matters."
+            "tagline": "It's how you wear the mask that matters.",
+            "rank": 30
         },
         {
             "adult": false,
@@ -685,7 +715,8 @@
                 "History"
             ],
             "runtime": 99,
-            "tagline": "One man's strength will unite an empire."
+            "tagline": "One man's strength will unite an empire.",
+            "rank": 31
         },
         {
             "adult": false,
@@ -707,7 +738,8 @@
                 "History"
             ],
             "runtime": 106,
-            "tagline": "The celebrated Kung Fu master of Bruce Lee."
+            "tagline": "The celebrated Kung Fu master of Bruce Lee.",
+            "rank": 32
         },
         {
             "adult": false,
@@ -730,7 +762,8 @@
                 "Action"
             ],
             "runtime": 120,
-            "tagline": "15 years of imprisonment, five days of vengeance."
+            "tagline": "15 years of imprisonment, five days of vengeance.",
+            "rank": 33
         },
         {
             "adult": false,
@@ -752,7 +785,8 @@
                 "Science Fiction"
             ],
             "runtime": 135,
-            "tagline": "Long live the king."
+            "tagline": "Long live the king.",
+            "rank": 34
         },
         {
             "adult": false,
@@ -773,7 +807,8 @@
                 "Action"
             ],
             "runtime": 101,
-            "tagline": "When there's no more room in Hell, the dead will walk the Earth."
+            "tagline": "When there's no more room in Hell, the dead will walk the Earth.",
+            "rank": 35
         },
         {
             "adult": false,
@@ -795,7 +830,8 @@
                 "Adventure"
             ],
             "runtime": 111,
-            "tagline": "Adapt or die."
+            "tagline": "Adapt or die.",
+            "rank": 36
         },
         {
             "adult": false,
@@ -817,7 +853,8 @@
                 "Drama"
             ],
             "runtime": 127,
-            "tagline": "Fight your way to the front."
+            "tagline": "Fight your way to the front.",
+            "rank": 37
         },
         {
             "adult": false,
@@ -839,7 +876,8 @@
                 "Thriller"
             ],
             "runtime": 120,
-            "tagline": "It started like any other night."
+            "tagline": "It started like any other night.",
+            "rank": 38
         },
         {
             "adult": false,
@@ -860,7 +898,8 @@
                 "Thriller"
             ],
             "runtime": 91,
-            "tagline": "Never underestimate a nobody."
+            "tagline": "Never underestimate a nobody.",
+            "rank": 39
         },
         {
             "adult": false,
@@ -882,7 +921,8 @@
                 "Horror"
             ],
             "runtime": 122,
-            "tagline": "A BRUTAL JOURNEY TOWARDS THE WILDEST REVENGE."
+            "tagline": "A BRUTAL JOURNEY TOWARDS THE WILDEST REVENGE.",
+            "rank": 40
         },
         {
             "adult": false,
@@ -904,7 +944,8 @@
                 "Fantasy"
             ],
             "runtime": 141,
-            "tagline": "Power. Grace. Wisdom. Wonder."
+            "tagline": "Power. Grace. Wisdom. Wonder.",
+            "rank": 41
         },
         {
             "adult": false,
@@ -926,7 +967,8 @@
                 "Science Fiction"
             ],
             "runtime": 127,
-            "tagline": "A hero will be revealed."
+            "tagline": "A hero will be revealed.",
+            "rank": 42
         },
         {
             "adult": false,
@@ -948,7 +990,8 @@
                 "Adventure"
             ],
             "runtime": 148,
-            "tagline": "Your mind is the scene of the crime."
+            "tagline": "Your mind is the scene of the crime.",
+            "rank": 43
         },
         {
             "adult": false,
@@ -969,7 +1012,8 @@
                 "Comedy"
             ],
             "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "rank": 44
         },
         {
             "adult": false,
@@ -990,7 +1034,8 @@
                 "Crime"
             ],
             "runtime": 109,
-            "tagline": "Mind over mayhem."
+            "tagline": "Mind over mayhem.",
+            "rank": 45
         },
         {
             "adult": false,
@@ -1011,7 +1056,8 @@
                 "Crime"
             ],
             "runtime": 105,
-            "tagline": "No computer graphics. No stunt doubles. No wires."
+            "tagline": "No computer graphics. No stunt doubles. No wires.",
+            "rank": 46
         },
         {
             "adult": false,
@@ -1033,7 +1079,8 @@
                 "Action"
             ],
             "runtime": 181,
-            "tagline": "Avenge the fallen."
+            "tagline": "Avenge the fallen.",
+            "rank": 47
         },
         {
             "adult": false,
@@ -1055,7 +1102,8 @@
                 "Action"
             ],
             "runtime": 141,
-            "tagline": "Take up your sword."
+            "tagline": "Take up your sword.",
+            "rank": 48
         },
         {
             "adult": false,
@@ -1076,7 +1124,8 @@
                 "Science Fiction"
             ],
             "runtime": 89,
-            "tagline": "The average person uses 10% of their brain capacity. Imagine what she could do with 100%."
+            "tagline": "The average person uses 10% of their brain capacity. Imagine what she could do with 100%.",
+            "rank": 49
         },
         {
             "adult": false,
@@ -1098,7 +1147,8 @@
                 "Drama"
             ],
             "runtime": 129,
-            "tagline": "Left with nothing. Capable of anything."
+            "tagline": "Left with nothing. Capable of anything.",
+            "rank": 50
         },
         {
             "adult": false,
@@ -1120,7 +1170,8 @@
                 "Comedy"
             ],
             "runtime": 121,
-            "tagline": "Big cops. Small town. Moderate violence."
+            "tagline": "Big cops. Small town. Moderate violence.",
+            "rank": 51
         },
         {
             "adult": false,
@@ -1143,7 +1194,8 @@
                 "Family"
             ],
             "runtime": 115,
-            "tagline": "Expect the incredible."
+            "tagline": "Expect the incredible.",
+            "rank": 52
         },
         {
             "adult": false,
@@ -1165,7 +1217,8 @@
                 "Crime"
             ],
             "runtime": 96,
-            "tagline": "He was dead... but he got better."
+            "tagline": "He was dead... but he got better.",
+            "rank": 53
         },
         {
             "adult": false,
@@ -1186,7 +1239,8 @@
                 "Crime"
             ],
             "runtime": 113,
-            "tagline": "All you need is one killer track."
+            "tagline": "All you need is one killer track.",
+            "rank": 54
         },
         {
             "adult": false,
@@ -1207,7 +1261,8 @@
                 "Comedy"
             ],
             "runtime": 99,
-            "tagline": "A romantic comedy. With zombies."
+            "tagline": "A romantic comedy. With zombies.",
+            "rank": 55
         },
         {
             "adult": false,
@@ -1230,7 +1285,8 @@
                 "Crime"
             ],
             "runtime": 86,
-            "tagline": "Just another family man making a living."
+            "tagline": "Just another family man making a living.",
+            "rank": 56
         },
         {
             "adult": false,
@@ -1252,7 +1308,8 @@
                 "Thriller"
             ],
             "runtime": 107,
-            "tagline": "Survive together or die alone."
+            "tagline": "Survive together or die alone.",
+            "rank": 57
         }
     ]
 }

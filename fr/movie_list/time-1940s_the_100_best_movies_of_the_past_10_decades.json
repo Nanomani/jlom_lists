@@ -26,7 +26,8 @@
                 "Romance"
             ],
             "tagline": "Elle a appris l'existence des hommes gr\u00e2ce \u00e0 lui !",
-            "runtime": 92
+            "runtime": 92,
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 94
+            "runtime": 94,
+            "rank": 2
         },
         {
             "adult": false,
@@ -68,7 +70,8 @@
                 "Romance"
             ],
             "tagline": "La vie r\u00e9elle projet\u00e9e plus t\u00e9m\u00e9raire et audacieuse qu'elle ne l'a jamais \u00e9t\u00e9 !",
-            "runtime": 90
+            "runtime": 90,
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 111
+            "runtime": 111,
+            "rank": 4
         },
         {
             "adult": false,
@@ -111,7 +115,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 96
+            "runtime": 96,
+            "rank": 5
         },
         {
             "adult": false,
@@ -132,7 +137,8 @@
                 "Guerre"
             ],
             "tagline": "",
-            "runtime": 56
+            "runtime": 56,
+            "rank": 6
         },
         {
             "adult": false,
@@ -153,7 +159,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 172
+            "runtime": 172,
+            "rank": 7
         },
         {
             "adult": false,
@@ -174,7 +181,8 @@
                 "Thriller"
             ],
             "tagline": "",
-            "runtime": 96
+            "runtime": 96,
+            "rank": 8
         },
         {
             "adult": false,
@@ -194,7 +202,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 101
+            "runtime": 101,
+            "rank": 9
         },
         {
             "adult": false,
@@ -214,7 +223,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 89
+            "runtime": 89,
+            "rank": 10
         }
     ]
 }

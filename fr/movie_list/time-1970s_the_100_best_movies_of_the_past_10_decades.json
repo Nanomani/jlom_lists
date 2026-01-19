@@ -26,7 +26,8 @@
                 "Drame"
             ],
             "tagline": "Nommez votre poison.",
-            "runtime": 116
+            "runtime": 116,
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Romance"
             ],
             "tagline": "Quand on voit une histoire d'amour, ce n'est qu'un film. Quand vous la ressentez avec chaque cellule de votre corps, c'est un chef-d'\u0153uvre.",
-            "runtime": 129
+            "runtime": 129,
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Fantastique"
             ],
             "tagline": "",
-            "runtime": 193
+            "runtime": 193,
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Com\u00e9die"
             ],
             "tagline": "La com\u00e9die la plus effrayante de tous les temps\u202f!",
-            "runtime": 106
+            "runtime": 106,
+            "rank": 4
         },
         {
             "adult": false,
@@ -110,7 +114,8 @@
                 "Crime"
             ],
             "tagline": "Les affaires reprennent.",
-            "runtime": 202
+            "runtime": 202,
+            "rank": 5
         },
         {
             "adult": false,
@@ -132,7 +137,8 @@
                 "Aventure"
             ],
             "tagline": "Elle fut la premi\u00e8re\u2026",
-            "runtime": 124
+            "runtime": 124,
+            "rank": 6
         },
         {
             "adult": false,
@@ -152,7 +158,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 201
+            "runtime": 201,
+            "rank": 7
         },
         {
             "adult": false,
@@ -172,7 +179,8 @@
                 "Documentaire"
             ],
             "tagline": "",
-            "runtime": 105
+            "runtime": 105,
+            "rank": 8
         },
         {
             "adult": false,
@@ -193,7 +201,8 @@
                 "Drame"
             ],
             "tagline": "Il est un homme oubli\u00e9, solitaire et d\u00e9sesp\u00e9r\u00e9 de prouver qu'il est vivant.",
-            "runtime": 115
+            "runtime": 115,
+            "rank": 9
         },
         {
             "adult": false,
@@ -213,7 +222,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 80
+            "runtime": 80,
+            "rank": 10
         }
     ]
 }

@@ -26,7 +26,8 @@
                 "Drama"
             ],
             "runtime": 120,
-            "tagline": "The story of a gambling man and a hustling lady and the empire they fashioned from the wilderness."
+            "tagline": "The story of a gambling man and a hustling lady and the empire they fashioned from the wilderness.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Romance"
             ],
             "runtime": 129,
-            "tagline": "When you see a love story, it's only a movie. When you feel it with every nerve in your body, it's a masterpiece."
+            "tagline": "When you see a love story, it's only a movie. When you feel it with every nerve in your body, it's a masterpiece.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Fantasy"
             ],
             "runtime": 193,
-            "tagline": ""
+            "tagline": "",
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Comedy"
             ],
             "runtime": 106,
-            "tagline": "The scariest comedy of all time!"
+            "tagline": "The scariest comedy of all time!",
+            "rank": 4
         },
         {
             "adult": false,
@@ -110,7 +114,8 @@
                 "Crime"
             ],
             "runtime": 202,
-            "tagline": "The rise and fall of the Corleone empire."
+            "tagline": "The rise and fall of the Corleone empire.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -132,7 +137,8 @@
                 "Adventure"
             ],
             "runtime": 124,
-            "tagline": "The terrifying motion picture from the terrifying No. 1 best seller."
+            "tagline": "The terrifying motion picture from the terrifying No. 1 best seller.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -152,7 +158,8 @@
                 "Drama"
             ],
             "runtime": 202,
-            "tagline": ""
+            "tagline": "",
+            "rank": 7
         },
         {
             "adult": false,
@@ -172,7 +179,8 @@
                 "Documentary"
             ],
             "runtime": 105,
-            "tagline": "Which Side Are You On?"
+            "tagline": "Which Side Are You On?",
+            "rank": 8
         },
         {
             "adult": false,
@@ -193,7 +201,8 @@
                 "Drama"
             ],
             "runtime": 114,
-            "tagline": "On every street in every city in this country, there's a nobody who dreams of being a somebody. He's a lonely forgotten man desperate to prove that he's alive."
+            "tagline": "On every street in every city in this country, there's a nobody who dreams of being a somebody. He's a lonely forgotten man desperate to prove that he's alive.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -213,7 +222,8 @@
                 "Drama"
             ],
             "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "rank": 10
         }
     ]
 }

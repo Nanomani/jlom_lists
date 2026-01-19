@@ -27,7 +27,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 135
+            "runtime": 135,
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Com\u00e9die"
             ],
             "tagline": "Quand le village s\u2019endort, ils se r\u00e9veillent.",
-            "runtime": 97
+            "runtime": 97,
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Myst\u00e8re"
             ],
             "tagline": "Nous vous attendions\u2026",
-            "runtime": 125
+            "runtime": 125,
+            "rank": 3
         },
         {
             "adult": false,
@@ -92,7 +95,8 @@
                 "Thriller"
             ],
             "tagline": "Le combat pour sauver le monde est lanc\u00e9 !",
-            "runtime": 102
+            "runtime": 102,
+            "rank": 4
         },
         {
             "adult": false,
@@ -113,7 +117,8 @@
                 "Fantastique"
             ],
             "tagline": "Rien en ce monde ne vous y a pr\u00e9par\u00e9",
-            "runtime": 102
+            "runtime": 102,
+            "rank": 5
         },
         {
             "adult": false,
@@ -136,7 +141,8 @@
                 "Familial"
             ],
             "tagline": "Plus palpitant qu'un jeu vid\u00e9o",
-            "runtime": 104
+            "runtime": 104,
+            "rank": 6
         },
         {
             "adult": false,
@@ -159,7 +165,8 @@
                 "Com\u00e9die"
             ],
             "tagline": "2 fois plus de fun.",
-            "runtime": 124
+            "runtime": 124,
+            "rank": 7
         },
         {
             "adult": false,
@@ -181,7 +188,8 @@
                 "Science-Fiction"
             ],
             "tagline": "Personne ne sort vivant.",
-            "runtime": 104
+            "runtime": 104,
+            "rank": 8
         },
         {
             "adult": false,
@@ -203,7 +211,8 @@
                 "Fantastique"
             ],
             "tagline": "N\u00e9e dans la richesse. Soign\u00e9e par l'\u00e9lite. Entra\u00een\u00e9e au combat.",
-            "runtime": 100
+            "runtime": 100,
+            "rank": 9
         },
         {
             "adult": false,
@@ -225,7 +234,8 @@
                 "Fantastique"
             ],
             "tagline": "Une amiti\u00e9 du tonnerre. Une aventure l\u00e9gendaire.",
-            "runtime": 104
+            "runtime": 104,
+            "rank": 10
         },
         {
             "adult": false,
@@ -247,7 +257,8 @@
                 "Science-Fiction"
             ],
             "tagline": "D\u00e9couvrez l'origine du mal",
-            "runtime": 107
+            "runtime": 107,
+            "rank": 11
         }
     ]
 }

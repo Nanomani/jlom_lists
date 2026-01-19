@@ -26,7 +26,8 @@
                 "Familial"
             ],
             "tagline": "",
-            "runtime": 105
+            "runtime": 105,
+            "rank": 1
         },
         {
             "adult": false,
@@ -46,7 +47,8 @@
                 "Documentaire"
             ],
             "tagline": "",
-            "runtime": 174
+            "runtime": 174,
+            "rank": 2
         },
         {
             "adult": false,
@@ -66,7 +68,8 @@
                 "Documentaire"
             ],
             "tagline": "",
-            "runtime": 97
+            "runtime": 97,
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Drame"
             ],
             "tagline": "Plus on approche de la mort, plus on se sent en vie.",
-            "runtime": 106
+            "runtime": 106,
+            "rank": 4
         },
         {
             "adult": false,
@@ -110,7 +114,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 88
+            "runtime": 88,
+            "rank": 5
         },
         {
             "adult": false,
@@ -130,7 +135,8 @@
                 "Documentaire"
             ],
             "tagline": "",
-            "runtime": 94
+            "runtime": 94,
+            "rank": 6
         },
         {
             "adult": false,
@@ -150,7 +156,8 @@
                 "Documentaire"
             ],
             "tagline": "",
-            "runtime": 94
+            "runtime": 94,
+            "rank": 7
         },
         {
             "adult": false,
@@ -171,7 +178,8 @@
                 "Action"
             ],
             "tagline": "",
-            "runtime": 90
+            "runtime": 90,
+            "rank": 8
         },
         {
             "adult": false,
@@ -191,7 +199,8 @@
                 "Documentaire"
             ],
             "tagline": "",
-            "runtime": 95
+            "runtime": 95,
+            "rank": 9
         },
         {
             "adult": false,
@@ -211,7 +220,8 @@
                 "Documentaire"
             ],
             "tagline": "Ce docu-surf est le t\u00e9moignage d'une passion sinc\u00e8re et fait d\u00e9couvrir les moindres recoins de la discipline. La cam\u00e9ra est plus illustrative que d\u00e9corative, agissant comme une justification visuelle",
-            "runtime": 105
+            "runtime": 105,
+            "rank": 10
         }
     ]
 }

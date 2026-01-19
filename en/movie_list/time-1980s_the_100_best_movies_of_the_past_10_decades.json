@@ -27,7 +27,8 @@
                 "Science Fiction"
             ],
             "runtime": 124,
-            "tagline": "The Star Wars saga continues."
+            "tagline": "The Star Wars saga continues.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -49,7 +50,8 @@
                 "Crime"
             ],
             "runtime": 108,
-            "tagline": "Murder has a sound all of its own."
+            "tagline": "Murder has a sound all of its own.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -72,7 +74,8 @@
                 "Fantasy"
             ],
             "runtime": 115,
-            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home."
+            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -93,7 +96,8 @@
                 "Romance"
             ],
             "runtime": 90,
-            "tagline": "At Ridgemont High, only the rules get busted!"
+            "tagline": "At Ridgemont High, only the rules get busted!",
+            "rank": 4
         },
         {
             "adult": false,
@@ -114,7 +118,8 @@
                 "Drama"
             ],
             "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "rank": 5
         },
         {
             "adult": false,
@@ -136,7 +141,8 @@
                 "Adventure"
             ],
             "runtime": 193,
-            "tagline": "How the future began."
+            "tagline": "How the future began.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -156,7 +162,8 @@
                 "Documentary"
             ],
             "runtime": 100,
-            "tagline": "He wrote me..."
+            "tagline": "He wrote me...",
+            "rank": 7
         },
         {
             "adult": false,
@@ -178,7 +185,8 @@
                 "Crime"
             ],
             "runtime": 120,
-            "tagline": "It's a strange world, isn't it?"
+            "tagline": "It's a strange world, isn't it?",
+            "rank": 8
         },
         {
             "adult": false,
@@ -200,7 +208,8 @@
                 "Romance"
             ],
             "runtime": 102,
-            "tagline": "Life. Family. Love."
+            "tagline": "Life. Family. Love.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -222,7 +231,8 @@
                 "Romance"
             ],
             "runtime": 128,
-            "tagline": "There are angels on the streets of Berlin."
+            "tagline": "There are angels on the streets of Berlin.",
+            "rank": 10
         }
     ]
 }

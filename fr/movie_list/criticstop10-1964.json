@@ -26,7 +26,8 @@
                 "Romance"
             ],
             "tagline": "Plus pr\u00e9cieuse que jamais !",
-            "runtime": 160
+            "runtime": 160,
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Histoire"
             ],
             "tagline": "",
-            "runtime": 148
+            "runtime": 148,
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Fantastique"
             ],
             "tagline": "Plus supercalifragilisticexpialidocious que jamais !",
-            "runtime": 134
+            "runtime": 134,
+            "rank": 3
         },
         {
             "adult": false,
@@ -90,7 +93,8 @@
                 "Guerre"
             ],
             "tagline": "Comment j'ai appris \u00e0 ne plus m'en faire et \u00e0 aimer la bombe.",
-            "runtime": 93
+            "runtime": 93,
+            "rank": 4
         },
         {
             "adult": false,
@@ -112,7 +116,8 @@
                 "Aventure"
             ],
             "tagline": "Une seule chose les unit : le vol !",
-            "runtime": 119
+            "runtime": 119,
+            "rank": 5
         },
         {
             "adult": false,
@@ -133,7 +138,8 @@
                 "Musique"
             ],
             "tagline": "Nous sommes en 1964 et quatre gar\u00e7ons de Liverpool sont sur le point de changer le monde ...",
-            "runtime": 87
+            "runtime": 87,
+            "rank": 6
         },
         {
             "adult": false,
@@ -156,7 +162,8 @@
                 "Guerre"
             ],
             "tagline": "",
-            "runtime": 115
+            "runtime": 115,
+            "rank": 7
         },
         {
             "adult": false,
@@ -176,7 +183,8 @@
                 "Com\u00e9die"
             ],
             "tagline": "",
-            "runtime": 128
+            "runtime": 128,
+            "rank": 8
         },
         {
             "adult": false,
@@ -197,7 +205,8 @@
                 "Myst\u00e8re"
             ],
             "tagline": "",
-            "runtime": 110
+            "runtime": 110,
+            "rank": 9
         },
         {
             "adult": false,
@@ -218,7 +227,8 @@
                 "Thriller"
             ],
             "tagline": "L'histoire stup\u00e9fiante d'un complot militaire visant \u00e0 prendre le contr\u00f4le des Etats-Unis ! Nous sommes en 1970 ou en 1980 ou, peut-\u00eatre, demain !",
-            "runtime": 108
+            "runtime": 108,
+            "rank": 10
         }
     ]
 }

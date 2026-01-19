@@ -27,7 +27,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 150
+            "runtime": 150,
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Drame"
             ],
             "tagline": "Les us et coutumes des Esquimaux du grand Nord canadien.",
-            "runtime": 78
+            "runtime": 78,
+            "rank": 2
         },
         {
             "adult": false,
@@ -70,7 +72,8 @@
                 "Fantastique"
             ],
             "tagline": "",
-            "runtime": 149
+            "runtime": 149,
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 78
+            "runtime": 78,
+            "rank": 4
         },
         {
             "adult": false,
@@ -112,7 +116,8 @@
                 "Histoire"
             ],
             "tagline": "Un classique immortel du cin\u00e9ma !",
-            "runtime": 82
+            "runtime": 82,
+            "rank": 5
         },
         {
             "adult": false,
@@ -133,7 +138,8 @@
                 "Romance"
             ],
             "tagline": "Les retrouvailles d'un p\u00e8re rude et d'un fils fragile",
-            "runtime": 70
+            "runtime": 70,
+            "rank": 6
         },
         {
             "adult": false,
@@ -155,7 +161,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 100
+            "runtime": 100,
+            "rank": 7
         }
     ]
 }

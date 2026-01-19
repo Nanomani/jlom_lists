@@ -27,7 +27,8 @@
                 "Adventure"
             ],
             "runtime": 149,
-            "tagline": "An epic drama of adventure and exploration."
+            "tagline": "An epic drama of adventure and exploration.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Drama"
             ],
             "runtime": 162,
-            "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder."
+            "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Drama"
             ],
             "runtime": 137,
-            "tagline": "We are not alone."
+            "tagline": "We are not alone.",
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "Thriller"
             ],
             "runtime": 118,
-            "tagline": "Man has made his match... now it's his problem."
+            "tagline": "Man has made his match... now it's his problem.",
+            "rank": 4
         },
         {
             "adult": false,
@@ -112,7 +116,8 @@
                 "Science Fiction"
             ],
             "runtime": 117,
-            "tagline": "In space no one can hear you scream."
+            "tagline": "In space no one can hear you scream.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -134,7 +139,8 @@
                 "Drama"
             ],
             "runtime": 108,
-            "tagline": ""
+            "tagline": "",
+            "rank": 6
         },
         {
             "adult": false,
@@ -157,7 +163,8 @@
                 "Science Fiction"
             ],
             "runtime": 109,
-            "tagline": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope."
+            "tagline": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -178,7 +185,8 @@
                 "Science Fiction"
             ],
             "runtime": 148,
-            "tagline": "There can be no understanding between the hands and the brain unless the heart acts as mediator."
+            "tagline": "There can be no understanding between the hands and the brain unless the heart acts as mediator.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -200,7 +208,8 @@
                 "Science Fiction"
             ],
             "runtime": 121,
-            "tagline": "A long time ago in a galaxy far, far away..."
+            "tagline": "A long time ago in a galaxy far, far away...",
+            "rank": 9
         },
         {
             "adult": false,
@@ -221,7 +230,8 @@
                 "Science Fiction"
             ],
             "runtime": 136,
-            "tagline": "Believe the unbelievable."
+            "tagline": "Believe the unbelievable.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -244,7 +254,8 @@
                 "Science Fiction"
             ],
             "runtime": 129,
-            "tagline": "A new kind of enemy. A new kind of war."
+            "tagline": "A new kind of enemy. A new kind of war.",
+            "rank": 11
         },
         {
             "adult": false,
@@ -266,7 +277,8 @@
                 "Drama"
             ],
             "runtime": 92,
-            "tagline": "From out of space...A warning and an ultimatum."
+            "tagline": "From out of space...A warning and an ultimatum.",
+            "rank": 12
         },
         {
             "adult": false,
@@ -287,7 +299,8 @@
                 "Drama"
             ],
             "runtime": 139,
-            "tagline": "Power, space, time and a visitor."
+            "tagline": "Power, space, time and a visitor.",
+            "rank": 13
         },
         {
             "adult": false,
@@ -309,7 +322,8 @@
                 "Mystery"
             ],
             "runtime": 116,
-            "tagline": "Why are they here?"
+            "tagline": "Why are they here?",
+            "rank": 14
         },
         {
             "adult": false,
@@ -330,7 +344,8 @@
                 "Science Fiction"
             ],
             "runtime": 114,
-            "tagline": "Live. Die. Repeat."
+            "tagline": "Live. Die. Repeat.",
+            "rank": 15
         },
         {
             "adult": false,
@@ -352,7 +367,8 @@
                 "Science Fiction"
             ],
             "runtime": 137,
-            "tagline": "It's nothing personal."
+            "tagline": "It's nothing personal.",
+            "rank": 16
         },
         {
             "adult": false,
@@ -374,7 +390,8 @@
                 "Romance"
             ],
             "runtime": 108,
-            "tagline": "You can erase someone from your mind. Getting them out of your heart is another story."
+            "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+            "rank": 17
         },
         {
             "adult": false,
@@ -395,7 +412,8 @@
                 "Horror"
             ],
             "runtime": 116,
-            "tagline": "The seed is planted... terror grows."
+            "tagline": "The seed is planted... terror grows.",
+            "rank": 18
         },
         {
             "adult": false,
@@ -418,7 +436,8 @@
                 "Action"
             ],
             "runtime": 112,
-            "tagline": "Somewhere in the Universe, there must be something better than man!"
+            "tagline": "Somewhere in the Universe, there must be something better than man!",
+            "rank": 19
         },
         {
             "adult": false,
@@ -440,7 +459,8 @@
                 "Mystery"
             ],
             "runtime": 167,
-            "tagline": "The planet where nightmares come true\u2026"
+            "tagline": "The planet where nightmares come true\u2026",
+            "rank": 20
         },
         {
             "adult": false,
@@ -462,7 +482,8 @@
                 "Science Fiction"
             ],
             "runtime": 109,
-            "tagline": "Anytime. Anywhere. Anyone."
+            "tagline": "Anytime. Anywhere. Anyone.",
+            "rank": 21
         },
         {
             "adult": false,
@@ -484,7 +505,8 @@
                 "Science Fiction"
             ],
             "runtime": 124,
-            "tagline": "The Star Wars saga continues."
+            "tagline": "The Star Wars saga continues.",
+            "rank": 22
         },
         {
             "adult": false,
@@ -506,7 +528,8 @@
                 "Drama"
             ],
             "runtime": 127,
-            "tagline": "Fight your way to the front."
+            "tagline": "Fight your way to the front.",
+            "rank": 23
         },
         {
             "adult": false,
@@ -528,7 +551,8 @@
                 "Thriller"
             ],
             "runtime": 145,
-            "tagline": "Everybody runs."
+            "tagline": "Everybody runs.",
+            "rank": 24
         },
         {
             "adult": false,
@@ -549,7 +573,8 @@
                 "Horror"
             ],
             "runtime": 97,
-            "tagline": "World in panic! Cities in flames!"
+            "tagline": "World in panic! Cities in flames!",
+            "rank": 25
         },
         {
             "adult": false,
@@ -570,7 +595,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Be afraid. Be very afraid."
+            "tagline": "Be afraid. Be very afraid.",
+            "rank": 26
         },
         {
             "adult": false,
@@ -592,7 +618,8 @@
                 "Mystery"
             ],
             "runtime": 99,
-            "tagline": "Suddenly the word is Alphaville... and a secret agent is in a breathless race against the Masters of the Future."
+            "tagline": "Suddenly the word is Alphaville... and a secret agent is in a breathless race against the Masters of the Future.",
+            "rank": 27
         },
         {
             "adult": false,
@@ -613,7 +640,8 @@
                 "Science Fiction"
             ],
             "runtime": 143,
-            "tagline": "It's only a state of mind."
+            "tagline": "It's only a state of mind.",
+            "rank": 28
         },
         {
             "adult": false,
@@ -634,7 +662,8 @@
                 "Science Fiction"
             ],
             "runtime": 108,
-            "tagline": "There is nothing more human than the will to survive."
+            "tagline": "There is nothing more human than the will to survive.",
+            "rank": 29
         },
         {
             "adult": false,
@@ -656,7 +685,8 @@
                 "Science Fiction"
             ],
             "runtime": 121,
-            "tagline": "The future belongs to the mad."
+            "tagline": "The future belongs to the mad.",
+            "rank": 30
         },
         {
             "adult": false,
@@ -678,7 +708,8 @@
                 "Science Fiction"
             ],
             "runtime": 29,
-            "tagline": "A man's obsession with an image of his past"
+            "tagline": "A man's obsession with an image of his past",
+            "rank": 31
         },
         {
             "adult": false,
@@ -700,7 +731,8 @@
                 "Action"
             ],
             "runtime": 124,
-            "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E."
+            "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
+            "rank": 32
         },
         {
             "adult": false,
@@ -722,7 +754,8 @@
                 "Thriller"
             ],
             "runtime": 80,
-            "tagline": "There was nothing to hold onto - except each other."
+            "tagline": "There was nothing to hold onto - except each other.",
+            "rank": 33
         },
         {
             "adult": false,
@@ -744,7 +777,8 @@
                 "Science Fiction"
             ],
             "runtime": 137,
-            "tagline": "This time it's war."
+            "tagline": "This time it's war.",
+            "rank": 34
         },
         {
             "adult": false,
@@ -766,7 +800,8 @@
                 "Drama"
             ],
             "runtime": 126,
-            "tagline": "A Spike Jonze love story."
+            "tagline": "A Spike Jonze love story.",
+            "rank": 35
         },
         {
             "adult": false,
@@ -787,7 +822,8 @@
                 "Adventure"
             ],
             "runtime": 98,
-            "tagline": "Earthmen on a fabulous, peril-journey into outer space!"
+            "tagline": "Earthmen on a fabulous, peril-journey into outer space!",
+            "rank": 36
         },
         {
             "adult": false,
@@ -809,7 +845,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Godzilla, a weapon of science, a great battle of wonder and terror!"
+            "tagline": "Godzilla, a weapon of science, a great battle of wonder and terror!",
+            "rank": 37
         },
         {
             "adult": false,
@@ -831,7 +868,8 @@
                 "Adventure"
             ],
             "runtime": 148,
-            "tagline": "Your mind is the scene of the crime."
+            "tagline": "Your mind is the scene of the crime.",
+            "rank": 38
         },
         {
             "adult": false,
@@ -851,7 +889,8 @@
                 "Documentary"
             ],
             "runtime": 70,
-            "tagline": ""
+            "tagline": "",
+            "rank": 39
         },
         {
             "adult": false,
@@ -873,7 +912,8 @@
                 "Science Fiction"
             ],
             "runtime": 108,
-            "tagline": "Your future is in its hands."
+            "tagline": "Your future is in its hands.",
+            "rank": 40
         },
         {
             "adult": false,
@@ -895,7 +935,8 @@
                 "Mystery"
             ],
             "runtime": 88,
-            "tagline": "First it controls your mind. Then it destroys your body."
+            "tagline": "First it controls your mind. Then it destroys your body.",
+            "rank": 41
         },
         {
             "adult": false,
@@ -917,7 +958,8 @@
                 "Science Fiction"
             ],
             "runtime": 116,
-            "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all."
+            "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+            "rank": 42
         },
         {
             "adult": false,
@@ -939,7 +981,8 @@
                 "Thriller"
             ],
             "runtime": 93,
-            "tagline": "You see them on the street. You watch them on TV. You might even vote for one this fall. You think they're people just like you. You're wrong. Dead wrong."
+            "tagline": "You see them on the street. You watch them on TV. You might even vote for one this fall. You think they're people just like you. You're wrong. Dead wrong.",
+            "rank": 43
         },
         {
             "adult": false,
@@ -961,7 +1004,8 @@
                 "Drama"
             ],
             "runtime": 91,
-            "tagline": "Don't let go."
+            "tagline": "Don't let go.",
+            "rank": 44
         },
         {
             "adult": false,
@@ -983,7 +1027,8 @@
                 "Fantasy"
             ],
             "runtime": 15,
-            "tagline": ""
+            "tagline": "",
+            "rank": 45
         },
         {
             "adult": false,
@@ -1004,7 +1049,8 @@
                 "Science Fiction"
             ],
             "runtime": 109,
-            "tagline": "He's not just another out-of-towner..."
+            "tagline": "He's not just another out-of-towner...",
+            "rank": 46
         },
         {
             "adult": false,
@@ -1026,7 +1072,8 @@
                 "Science Fiction"
             ],
             "runtime": 118,
-            "tagline": "Hunted by your future, haunted by your past."
+            "tagline": "Hunted by your future, haunted by your past.",
+            "rank": 47
         },
         {
             "adult": false,
@@ -1049,7 +1096,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Just one man can make a difference."
+            "tagline": "Just one man can make a difference.",
+            "rank": 48
         },
         {
             "adult": false,
@@ -1071,7 +1119,8 @@
                 "Science Fiction"
             ],
             "runtime": 140,
-            "tagline": "The universe is so much bigger than you realize."
+            "tagline": "The universe is so much bigger than you realize.",
+            "rank": 49
         },
         {
             "adult": false,
@@ -1095,7 +1144,8 @@
                 "Documentary"
             ],
             "runtime": 90,
-            "tagline": ""
+            "tagline": "",
+            "rank": 50
         },
         {
             "adult": false,
@@ -1118,7 +1168,8 @@
                 "Thriller"
             ],
             "runtime": 112,
-            "tagline": "At the end of the universe lies the beginning of vengeance."
+            "tagline": "At the end of the universe lies the beginning of vengeance.",
+            "rank": 51
         },
         {
             "adult": false,
@@ -1139,7 +1190,8 @@
                 "Crime"
             ],
             "runtime": 137,
-            "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven."
+            "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+            "rank": 52
         },
         {
             "adult": false,
@@ -1160,7 +1212,8 @@
                 "Adventure"
             ],
             "runtime": 155,
-            "tagline": "It begins."
+            "tagline": "It begins.",
+            "rank": 53
         },
         {
             "adult": false,
@@ -1182,7 +1235,8 @@
                 "Science Fiction"
             ],
             "runtime": 117,
-            "tagline": "They're already here."
+            "tagline": "They're already here.",
+            "rank": 54
         },
         {
             "adult": false,
@@ -1204,7 +1258,8 @@
                 "Horror"
             ],
             "runtime": 107,
-            "tagline": "Who are SECONDS? The answer is almost too terrifying for words!"
+            "tagline": "Who are SECONDS? The answer is almost too terrifying for words!",
+            "rank": 55
         },
         {
             "adult": false,
@@ -1226,7 +1281,8 @@
                 "Thriller"
             ],
             "runtime": 77,
-            "tagline": "What happens if it actually works?"
+            "tagline": "What happens if it actually works?",
+            "rank": 56
         },
         {
             "adult": false,
@@ -1247,7 +1303,8 @@
                 "Drama"
             ],
             "runtime": 97,
-            "tagline": "250,000 miles from home, the hardest thing to face...is yourself."
+            "tagline": "250,000 miles from home, the hardest thing to face...is yourself.",
+            "rank": 57
         },
         {
             "adult": false,
@@ -1269,7 +1326,8 @@
                 "Science Fiction"
             ],
             "runtime": 102,
-            "tagline": "Part man, part machine, all cop."
+            "tagline": "Part man, part machine, all cop.",
+            "rank": 58
         },
         {
             "adult": false,
@@ -1291,7 +1349,8 @@
                 "Thriller"
             ],
             "runtime": 100,
-            "tagline": "Everything is not going to be OK."
+            "tagline": "Everything is not going to be OK.",
+            "rank": 59
         },
         {
             "adult": false,
@@ -1314,7 +1373,8 @@
                 "Fantasy"
             ],
             "runtime": 115,
-            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home."
+            "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+            "rank": 60
         },
         {
             "adult": false,
@@ -1336,7 +1396,8 @@
                 "Mystery"
             ],
             "runtime": 129,
-            "tagline": "The future is history."
+            "tagline": "The future is history.",
+            "rank": 61
         },
         {
             "adult": false,
@@ -1358,7 +1419,8 @@
                 "Mystery"
             ],
             "runtime": 150,
-            "tagline": "Take a journey to the heart of the universe."
+            "tagline": "Take a journey to the heart of the universe.",
+            "rank": 62
         },
         {
             "adult": false,
@@ -1381,7 +1443,8 @@
                 "Science Fiction"
             ],
             "runtime": 162,
-            "tagline": "Enter the world of Pandora."
+            "tagline": "Enter the world of Pandora.",
+            "rank": 63
         },
         {
             "adult": false,
@@ -1403,7 +1466,8 @@
                 "Science Fiction"
             ],
             "runtime": 169,
-            "tagline": "Mankind was born on Earth. It was never meant to die here."
+            "tagline": "Mankind was born on Earth. It was never meant to die here.",
+            "rank": 64
         },
         {
             "adult": false,
@@ -1424,7 +1488,8 @@
                 "Horror"
             ],
             "runtime": 115,
-            "tagline": "Fear what's inside."
+            "tagline": "Fear what's inside.",
+            "rank": 65
         },
         {
             "adult": false,
@@ -1446,7 +1511,8 @@
                 "Thriller"
             ],
             "runtime": 112,
-            "tagline": "Strange aliens having bizarre orgasms!"
+            "tagline": "Strange aliens having bizarre orgasms!",
+            "rank": 66
         },
         {
             "adult": false,
@@ -1467,7 +1533,8 @@
                 "Science Fiction"
             ],
             "runtime": 72,
-            "tagline": "A sublime trip to a fine new world"
+            "tagline": "A sublime trip to a fine new world",
+            "rank": 67
         },
         {
             "adult": false,
@@ -1488,7 +1555,8 @@
                 "Thriller"
             ],
             "runtime": 131,
-            "tagline": "The picture runs 130 minutes... The story covers 96 of the most critical hours in man's history... The suspense will last through your lifetime!"
+            "tagline": "The picture runs 130 minutes... The story covers 96 of the most critical hours in man's history... The suspense will last through your lifetime!",
+            "rank": 68
         },
         {
             "adult": false,
@@ -1509,7 +1577,8 @@
                 "Science Fiction"
             ],
             "runtime": 113,
-            "tagline": "What if you had no right to read?"
+            "tagline": "What if you had no right to read?",
+            "rank": 69
         },
         {
             "adult": false,
@@ -1530,7 +1599,8 @@
                 "Action"
             ],
             "runtime": 99,
-            "tagline": "1997. New York City is a walled, maximum security prison. Breaking out is impossible. Breaking in is insane."
+            "tagline": "1997. New York City is a walled, maximum security prison. Breaking out is impossible. Breaking in is insane.",
+            "rank": 70
         },
         {
             "adult": false,
@@ -1551,7 +1621,8 @@
                 "Science Fiction"
             ],
             "runtime": 119,
-            "tagline": "Welcome to the 23rd century. The perfect world of total pleasure...there's just one catch."
+            "tagline": "Welcome to the 23rd century. The perfect world of total pleasure...there's just one catch.",
+            "rank": 71
         },
         {
             "adult": false,
@@ -1573,7 +1644,8 @@
                 "Science Fiction"
             ],
             "runtime": 83,
-            "tagline": "It found a voice... Now it needs a body."
+            "tagline": "It found a voice... Now it needs a body.",
+            "rank": 72
         },
         {
             "adult": false,
@@ -1595,7 +1667,8 @@
                 "Science Fiction"
             ],
             "runtime": 113,
-            "tagline": "They stole his mind. Now, he wants it back."
+            "tagline": "They stole his mind. Now, he wants it back.",
+            "rank": 73
         },
         {
             "adult": false,
@@ -1617,7 +1690,8 @@
                 "Adventure"
             ],
             "runtime": 146,
-            "tagline": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not."
+            "tagline": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not.",
+            "rank": 74
         },
         {
             "adult": false,
@@ -1639,7 +1713,8 @@
                 "Science Fiction"
             ],
             "runtime": 120,
-            "tagline": "Man has made his newest predator."
+            "tagline": "Man has made his newest predator.",
+            "rank": 75
         },
         {
             "adult": false,
@@ -1661,7 +1736,8 @@
                 "Mystery"
             ],
             "runtime": 114,
-            "tagline": "28 days, 6 hours, 42 minutes, 12 seconds... that is when the world will end."
+            "tagline": "28 days, 6 hours, 42 minutes, 12 seconds... that is when the world will end.",
+            "rank": 76
         },
         {
             "adult": false,
@@ -1683,7 +1759,8 @@
                 "Mystery"
             ],
             "runtime": 113,
-            "tagline": "Oblivion Awaits."
+            "tagline": "Oblivion Awaits.",
+            "rank": 77
         },
         {
             "adult": false,
@@ -1704,7 +1781,8 @@
                 "Science Fiction"
             ],
             "runtime": 130,
-            "tagline": "What\u2019s a bad miracle?"
+            "tagline": "What\u2019s a bad miracle?",
+            "rank": 78
         },
         {
             "adult": false,
@@ -1726,7 +1804,8 @@
                 "Adventure"
             ],
             "runtime": 102,
-            "tagline": "A comedy of galactic proportions."
+            "tagline": "A comedy of galactic proportions.",
+            "rank": 79
         },
         {
             "adult": false,
@@ -1747,7 +1826,8 @@
                 "Science Fiction"
             ],
             "runtime": 67,
-            "tagline": ""
+            "tagline": "",
+            "rank": 80
         },
         {
             "adult": false,
@@ -1768,7 +1848,8 @@
                 "Horror"
             ],
             "runtime": 93,
-            "tagline": "Beware the triffids... they grow... know... walk... talk... stalk... and kill!"
+            "tagline": "Beware the triffids... they grow... know... walk... talk... stalk... and kill!",
+            "rank": 81
         },
         {
             "adult": false,
@@ -1791,7 +1872,8 @@
                 "Thriller"
             ],
             "runtime": 145,
-            "tagline": "You Know You Want It"
+            "tagline": "You Know You Want It",
+            "rank": 82
         },
         {
             "adult": false,
@@ -1812,7 +1894,8 @@
                 "Drama"
             ],
             "runtime": 86,
-            "tagline": "The Future is here."
+            "tagline": "The Future is here.",
+            "rank": 83
         },
         {
             "adult": false,
@@ -1834,7 +1917,8 @@
                 "Thriller"
             ],
             "runtime": 90,
-            "tagline": "This is your brain on anime."
+            "tagline": "This is your brain on anime.",
+            "rank": 84
         },
         {
             "adult": false,
@@ -1855,7 +1939,8 @@
                 "Thriller"
             ],
             "runtime": 108,
-            "tagline": "If the sun dies, so do we."
+            "tagline": "If the sun dies, so do we.",
+            "rank": 85
         },
         {
             "adult": false,
@@ -1876,7 +1961,8 @@
                 "Adventure"
             ],
             "runtime": 118,
-            "tagline": "Star date: 1986. How on Earth can they save the future?"
+            "tagline": "Star date: 1986. How on Earth can they save the future?",
+            "rank": 86
         },
         {
             "adult": false,
@@ -1897,7 +1983,8 @@
                 "Drama"
             ],
             "runtime": 164,
-            "tagline": "The key to the future is finally unearthed."
+            "tagline": "The key to the future is finally unearthed.",
+            "rank": 87
         },
         {
             "adult": false,
@@ -1918,7 +2005,8 @@
                 "Horror"
             ],
             "runtime": 103,
-            "tagline": "10 Seconds: The Pain Begins. 15 Seconds: You Can\u2019t Breathe. 20 Seconds: You Explode."
+            "tagline": "10 Seconds: The Pain Begins. 15 Seconds: You Can\u2019t Breathe. 20 Seconds: You Explode.",
+            "rank": 88
         },
         {
             "adult": false,
@@ -1939,7 +2027,8 @@
                 "Science Fiction"
             ],
             "runtime": 83,
-            "tagline": "The terrifying truth about flying saucers!"
+            "tagline": "The terrifying truth about flying saucers!",
+            "rank": 89
         },
         {
             "adult": false,
@@ -1961,7 +2050,8 @@
                 "Science Fiction"
             ],
             "runtime": 85,
-            "tagline": "Some thing has found us."
+            "tagline": "Some thing has found us.",
+            "rank": 90
         },
         {
             "adult": false,
@@ -1982,7 +2072,8 @@
                 "Science Fiction"
             ],
             "runtime": 83,
-            "tagline": "Bombed Out in Space with a Spaced Out Bomb!"
+            "tagline": "Bombed Out in Space with a Spaced Out Bomb!",
+            "rank": 91
         },
         {
             "adult": false,
@@ -2005,7 +2096,8 @@
                 "Horror"
             ],
             "runtime": 81,
-            "tagline": "A fascinating adventure into the unknown!"
+            "tagline": "A fascinating adventure into the unknown!",
+            "rank": 92
         },
         {
             "adult": false,
@@ -2027,7 +2119,8 @@
                 "Science Fiction"
             ],
             "runtime": 152,
-            "tagline": "Let the past die."
+            "tagline": "Let the past die.",
+            "rank": 93
         },
         {
             "adult": false,
@@ -2051,7 +2144,8 @@
                 "Action"
             ],
             "runtime": 86,
-            "tagline": "It came from outer space!"
+            "tagline": "It came from outer space!",
+            "rank": 94
         },
         {
             "adult": false,
@@ -2073,7 +2167,8 @@
                 "Drama"
             ],
             "runtime": 89,
-            "tagline": "Amazing companions on an incredible adventure... that journeys beyond imagination!"
+            "tagline": "Amazing companions on an incredible adventure... that journeys beyond imagination!",
+            "rank": 95
         },
         {
             "adult": false,
@@ -2094,7 +2189,8 @@
                 "Science Fiction"
             ],
             "runtime": 92,
-            "tagline": ""
+            "tagline": "",
+            "rank": 96
         },
         {
             "adult": false,
@@ -2117,7 +2213,8 @@
                 "Mystery"
             ],
             "runtime": 97,
-            "tagline": "It's the year 2022. People are still the same. They'll do anything to get what they need. And they need Soylent Green."
+            "tagline": "It's the year 2022. People are still the same. They'll do anything to get what they need. And they need Soylent Green.",
+            "rank": 97
         },
         {
             "adult": false,
@@ -2138,7 +2235,8 @@
                 "Action"
             ],
             "runtime": 125,
-            "tagline": "In the not-too-distant future, wars will no longer exist. But there WILL be...The Game"
+            "tagline": "In the not-too-distant future, wars will no longer exist. But there WILL be...The Game",
+            "rank": 98
         },
         {
             "adult": false,
@@ -2161,7 +2259,8 @@
                 "Thriller"
             ],
             "runtime": 107,
-            "tagline": "Soon the hunt will begin."
+            "tagline": "Soon the hunt will begin.",
+            "rank": 99
         },
         {
             "adult": false,
@@ -2183,7 +2282,8 @@
                 "Drama"
             ],
             "runtime": 115,
-            "tagline": "In 1977 Voyager II was launched into space, inviting all lifeforms in the universe to visit our planet. Get ready. Company's coming."
+            "tagline": "In 1977 Voyager II was launched into space, inviting all lifeforms in the universe to visit our planet. Get ready. Company's coming.",
+            "rank": 100
         },
         {
             "adult": false,
@@ -2205,7 +2305,8 @@
                 "Western"
             ],
             "runtime": 89,
-            "tagline": "Boy, have we got a vacation for you..."
+            "tagline": "Boy, have we got a vacation for you...",
+            "rank": 101
         },
         {
             "adult": false,
@@ -2227,7 +2328,8 @@
                 "Horror"
             ],
             "runtime": 85,
-            "tagline": "2\u00bd Years in the Making!"
+            "tagline": "2\u00bd Years in the Making!",
+            "rank": 102
         },
         {
             "adult": false,
@@ -2248,7 +2350,8 @@
                 "Music"
             ],
             "runtime": 82,
-            "tagline": ""
+            "tagline": "",
+            "rank": 103
         },
         {
             "adult": false,
@@ -2270,7 +2373,8 @@
                 "Drama"
             ],
             "runtime": 91,
-            "tagline": "Two years in the making!"
+            "tagline": "Two years in the making!",
+            "rank": 104
         },
         {
             "adult": false,
@@ -2291,7 +2395,8 @@
                 "Drama"
             ],
             "runtime": 96,
-            "tagline": "The future has never looked so human."
+            "tagline": "The future has never looked so human.",
+            "rank": 105
         },
         {
             "adult": false,
@@ -2312,7 +2417,8 @@
                 "Science Fiction"
             ],
             "runtime": 127,
-            "tagline": "An adventure 65 million years in the making."
+            "tagline": "An adventure 65 million years in the making.",
+            "rank": 106
         },
         {
             "adult": false,
@@ -2332,7 +2438,8 @@
                 "Science Fiction"
             ],
             "runtime": 100,
-            "tagline": "This is the dawning of the Age of Colossus (where peace is compulsory... freedom is forbidden... and Man's greatest invention could be Man's greatest mistake)."
+            "tagline": "This is the dawning of the Age of Colossus (where peace is compulsory... freedom is forbidden... and Man's greatest invention could be Man's greatest mistake).",
+            "rank": 107
         },
         {
             "adult": false,
@@ -2353,7 +2460,8 @@
                 "Horror"
             ],
             "runtime": 78,
-            "tagline": "NATURAL or SUPERNATURAL?"
+            "tagline": "NATURAL or SUPERNATURAL?",
+            "rank": 108
         },
         {
             "adult": false,
@@ -2377,7 +2485,8 @@
                 "Action"
             ],
             "runtime": 98,
-            "tagline": "See Barbarella do her thing!"
+            "tagline": "See Barbarella do her thing!",
+            "rank": 109
         },
         {
             "adult": false,
@@ -2399,7 +2508,8 @@
                 "Science Fiction"
             ],
             "runtime": 97,
-            "tagline": "Play it. Live it. Kill for it."
+            "tagline": "Play it. Live it. Kill for it.",
+            "rank": 110
         },
         {
             "adult": false,
@@ -2422,7 +2532,8 @@
                 "Thriller"
             ],
             "runtime": 119,
-            "tagline": "They aim to misbehave."
+            "tagline": "They aim to misbehave.",
+            "rank": 111
         },
         {
             "adult": false,
@@ -2445,7 +2556,8 @@
                 "Romance"
             ],
             "runtime": 107,
-            "tagline": "There is no gene for the human spirit."
+            "tagline": "There is no gene for the human spirit.",
+            "rank": 112
         },
         {
             "adult": false,
@@ -2467,7 +2579,8 @@
                 "Comedy"
             ],
             "runtime": 80,
-            "tagline": "In the year 2000, hit and run driving is no longer a felony. It's the national sport!"
+            "tagline": "In the year 2000, hit and run driving is no longer a felony. It's the national sport!",
+            "rank": 113
         },
         {
             "adult": false,
@@ -2488,7 +2601,8 @@
                 "Horror"
             ],
             "runtime": 94,
-            "tagline": "A horror horde of crawl-and-crush giants clawing out of the earth from mile-deep catacombs!"
+            "tagline": "A horror horde of crawl-and-crush giants clawing out of the earth from mile-deep catacombs!",
+            "rank": 114
         },
         {
             "adult": false,
@@ -2510,7 +2624,8 @@
                 "Science Fiction"
             ],
             "runtime": 133,
-            "tagline": "Empires are built on fear. Rebellions are built on hope."
+            "tagline": "Empires are built on fear. Rebellions are built on hope.",
+            "rank": 115
         },
         {
             "adult": false,
@@ -2533,7 +2648,8 @@
                 "Thriller"
             ],
             "runtime": 91,
-            "tagline": "There\u2019s something in the sky."
+            "tagline": "There\u2019s something in the sky.",
+            "rank": 116
         },
         {
             "adult": false,
@@ -2555,7 +2671,8 @@
                 "Adventure"
             ],
             "runtime": 121,
-            "tagline": "When things get bad, they'll do their worst."
+            "tagline": "When things get bad, they'll do their worst.",
+            "rank": 117
         },
         {
             "adult": false,
@@ -2577,7 +2694,8 @@
                 "Science Fiction"
             ],
             "runtime": 80,
-            "tagline": "You'll see it tear a city apart!"
+            "tagline": "You'll see it tear a city apart!",
+            "rank": 118
         },
         {
             "adult": false,
@@ -2601,7 +2719,8 @@
                 "Romance"
             ],
             "runtime": 103,
-            "tagline": "You Will Orbit into the Fantastic Future!"
+            "tagline": "You Will Orbit into the Fantastic Future!",
+            "rank": 119
         },
         {
             "adult": false,
@@ -2622,7 +2741,8 @@
                 "Science Fiction"
             ],
             "runtime": 101,
-            "tagline": "They built the city to see what makes us tick. Last night, one of us went off."
+            "tagline": "They built the city to see what makes us tick. Last night, one of us went off.",
+            "rank": 120
         },
         {
             "adult": false,
@@ -2644,7 +2764,8 @@
                 "Thriller"
             ],
             "runtime": 84,
-            "tagline": "Faith in chaos."
+            "tagline": "Faith in chaos.",
+            "rank": 121
         },
         {
             "adult": false,
@@ -2668,7 +2789,8 @@
                 "Comedy"
             ],
             "runtime": 116,
-            "tagline": "\u2026they didn\u2019t make history, they stole it!"
+            "tagline": "\u2026they didn\u2019t make history, they stole it!",
+            "rank": 122
         },
         {
             "adult": false,
@@ -2689,7 +2811,8 @@
                 "Science Fiction"
             ],
             "runtime": 86,
-            "tagline": "The day the Earth was turned into a cemetery!"
+            "tagline": "The day the Earth was turned into a cemetery!",
+            "rank": 123
         },
         {
             "adult": false,
@@ -2711,7 +2834,8 @@
                 "Science Fiction"
             ],
             "runtime": 88,
-            "tagline": "Inner City vs. Outer Space"
+            "tagline": "Inner City vs. Outer Space",
+            "rank": 124
         },
         {
             "adult": false,
@@ -2732,7 +2856,8 @@
                 "Science Fiction"
             ],
             "runtime": 100,
-            "tagline": "The future is here!"
+            "tagline": "The future is here!",
+            "rank": 125
         },
         {
             "adult": false,
@@ -2754,7 +2879,8 @@
                 "Science Fiction"
             ],
             "runtime": 90,
-            "tagline": "The people of this city are being terrorized. The crimes have no motives. The killers have only one explanation..."
+            "tagline": "The people of this city are being terrorized. The crimes have no motives. The killers have only one explanation...",
+            "rank": 126
         },
         {
             "adult": false,
@@ -2778,7 +2904,8 @@
                 "Thriller"
             ],
             "runtime": 112,
-            "tagline": "H.G. Wells Races Through Time To Catch Jack The Ripper!"
+            "tagline": "H.G. Wells Races Through Time To Catch Jack The Ripper!",
+            "rank": 127
         },
         {
             "adult": false,
@@ -2800,7 +2927,8 @@
                 "Science Fiction"
             ],
             "runtime": 104,
-            "tagline": "These students have everything they need. Except time."
+            "tagline": "These students have everything they need. Except time.",
+            "rank": 128
         },
         {
             "adult": false,
@@ -2822,7 +2950,8 @@
                 "Adventure"
             ],
             "runtime": 126,
-            "tagline": "There is no future without it."
+            "tagline": "There is no future without it.",
+            "rank": 129
         },
         {
             "adult": false,
@@ -2843,7 +2972,8 @@
                 "Drama"
             ],
             "runtime": 123,
-            "tagline": "The answers we seek are just outside our reach."
+            "tagline": "The answers we seek are just outside our reach.",
+            "rank": 130
         },
         {
             "adult": false,
@@ -2865,7 +2995,8 @@
                 "Romance"
             ],
             "runtime": 128,
-            "tagline": "Are you still in the mood for love?"
+            "tagline": "Are you still in the mood for love?",
+            "rank": 131
         },
         {
             "adult": false,
@@ -2885,7 +3016,8 @@
                 "Science Fiction"
             ],
             "runtime": 112,
-            "tagline": "You are not welcome here."
+            "tagline": "You are not welcome here.",
+            "rank": 132
         },
         {
             "adult": false,
@@ -2906,7 +3038,8 @@
                 "Science Fiction"
             ],
             "runtime": 80,
-            "tagline": ""
+            "tagline": "",
+            "rank": 133
         },
         {
             "adult": false,
@@ -2927,7 +3060,8 @@
                 "Science Fiction"
             ],
             "runtime": 92,
-            "tagline": "It\u2019s 4 a.m. Do you know where your car is?"
+            "tagline": "It\u2019s 4 a.m. Do you know where your car is?",
+            "rank": 134
         },
         {
             "adult": false,
@@ -2949,7 +3083,8 @@
                 "Adventure"
             ],
             "runtime": 95,
-            "tagline": "A world inside the computer where man has never been. Never before now."
+            "tagline": "A world inside the computer where man has never been. Never before now.",
+            "rank": 135
         },
         {
             "adult": false,
@@ -2972,7 +3107,8 @@
                 "Science Fiction"
             ],
             "runtime": 105,
-            "tagline": "Beyond 1984, Beyond 2001, Beyond Love, Beyond Death."
+            "tagline": "Beyond 1984, Beyond 2001, Beyond Love, Beyond Death.",
+            "rank": 136
         },
         {
             "adult": false,
@@ -2994,7 +3130,8 @@
                 "Science Fiction"
             ],
             "runtime": 90,
-            "tagline": "History is about to be rewritten by two guys who can't spell."
+            "tagline": "History is about to be rewritten by two guys who can't spell.",
+            "rank": 137
         },
         {
             "adult": false,
@@ -3016,7 +3153,8 @@
                 "Science Fiction"
             ],
             "runtime": 145,
-            "tagline": "The question of whether or not we are alone in the universe has been answered."
+            "tagline": "The question of whether or not we are alone in the universe has been answered.",
+            "rank": 138
         },
         {
             "adult": false,
@@ -3038,7 +3176,8 @@
                 "Adventure"
             ],
             "runtime": 137,
-            "tagline": "A world beyond your experience, beyond your imagination."
+            "tagline": "A world beyond your experience, beyond your imagination.",
+            "rank": 139
         },
         {
             "adult": false,
@@ -3060,7 +3199,8 @@
                 "Adventure"
             ],
             "runtime": 84,
-            "tagline": "In the future, intelligence is extinct."
+            "tagline": "In the future, intelligence is extinct.",
+            "rank": 140
         },
         {
             "adult": false,
@@ -3083,7 +3223,8 @@
                 "Romance"
             ],
             "runtime": 103,
-            "tagline": "Beings from Another Dimension have invaded your world."
+            "tagline": "Beings from Another Dimension have invaded your world.",
+            "rank": 141
         },
         {
             "adult": false,
@@ -3106,7 +3247,8 @@
                 "Science Fiction"
             ],
             "runtime": 98,
-            "tagline": "Protecting the Earth from the scum of the universe."
+            "tagline": "Protecting the Earth from the scum of the universe.",
+            "rank": 142
         },
         {
             "adult": false,
@@ -3128,7 +3270,8 @@
                 "Science Fiction"
             ],
             "runtime": 109,
-            "tagline": "Don't leave Earth without it."
+            "tagline": "Don't leave Earth without it.",
+            "rank": 143
         },
         {
             "adult": false,
@@ -3150,7 +3293,8 @@
                 "Action"
             ],
             "runtime": 101,
-            "tagline": "Alex Rogan was a small town boy with big dreams. But in his wildest dreams, he never suspected that tonight he would become The Last Starfighter."
+            "tagline": "Alex Rogan was a small town boy with big dreams. But in his wildest dreams, he never suspected that tonight he would become The Last Starfighter.",
+            "rank": 144
         },
         {
             "adult": false,
@@ -3172,7 +3316,8 @@
                 "Science Fiction"
             ],
             "runtime": 101,
-            "tagline": "It is the year 2019. \"The Running Man\" is a deadly game no one has ever survived. But Schwarzenegger has yet to play."
+            "tagline": "It is the year 2019. \"The Running Man\" is a deadly game no one has ever survived. But Schwarzenegger has yet to play.",
+            "rank": 145
         },
         {
             "adult": false,
@@ -3194,7 +3339,8 @@
                 "Action"
             ],
             "runtime": 108,
-            "tagline": "For three million years, the human race has been at the top of the evolutionary ladder. Nothing lasts forever."
+            "tagline": "For three million years, the human race has been at the top of the evolutionary ladder. Nothing lasts forever.",
+            "rank": 146
         },
         {
             "adult": false,
@@ -3216,7 +3362,8 @@
                 "Science Fiction"
             ],
             "runtime": 115,
-            "tagline": "The future isn't big enough for the both of them."
+            "tagline": "The future isn't big enough for the both of them.",
+            "rank": 147
         },
         {
             "adult": false,
@@ -3239,7 +3386,8 @@
                 "Thriller"
             ],
             "runtime": 98,
-            "tagline": "The last man alive... is not alone!"
+            "tagline": "The last man alive... is not alone!",
+            "rank": 148
         },
         {
             "adult": false,
@@ -3262,7 +3410,8 @@
                 "Fantasy"
             ],
             "runtime": 104,
-            "tagline": "In the future, the odds of survival are 1000 to 1. That's just the way she likes it."
+            "tagline": "In the future, the odds of survival are 1000 to 1. That's just the way she likes it.",
+            "rank": 149
         }
     ]
 }

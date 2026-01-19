@@ -26,7 +26,8 @@
                 "Drame"
             ],
             "tagline": "6 bobines de joie.",
-            "runtime": 52
+            "runtime": 52,
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Crime"
             ],
             "tagline": "",
-            "runtime": 100
+            "runtime": 100,
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Myst\u00e8re"
             ],
             "tagline": "",
-            "runtime": 45
+            "runtime": 45,
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "Fantastique"
             ],
             "tagline": "",
-            "runtime": 149
+            "runtime": 149,
+            "rank": 4
         },
         {
             "adult": false,
@@ -113,7 +117,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 151
+            "runtime": 151,
+            "rank": 5
         },
         {
             "adult": false,
@@ -134,7 +139,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 76
+            "runtime": 76,
+            "rank": 6
         },
         {
             "adult": false,
@@ -156,7 +162,8 @@
                 "Drame"
             ],
             "tagline": "",
-            "runtime": 96
+            "runtime": 96,
+            "rank": 7
         },
         {
             "adult": false,
@@ -180,7 +187,8 @@
                 "Romance"
             ],
             "tagline": "L'histoire d'un gar\u00e7on, d'une fille et d'une locomotive.",
-            "runtime": 67
+            "runtime": 67,
+            "rank": 8
         },
         {
             "adult": false,
@@ -201,7 +209,8 @@
                 "Musique"
             ],
             "tagline": "",
-            "runtime": 89
+            "runtime": 89,
+            "rank": 9
         },
         {
             "adult": false,
@@ -222,7 +231,8 @@
                 "Science-Fiction"
             ],
             "tagline": "Il ne peut y avoir de compr\u00e9hension entre les mains et le cerveau que si le c\u0153ur agit comme m\u00e9diateur.",
-            "runtime": 150
+            "runtime": 150,
+            "rank": 10
         },
         {
             "adult": false,
@@ -243,7 +253,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 78
+            "runtime": 78,
+            "rank": 11
         },
         {
             "adult": false,
@@ -264,7 +275,8 @@
                 "Romance"
             ],
             "tagline": "",
-            "runtime": 98
+            "runtime": 98,
+            "rank": 12
         },
         {
             "adult": false,
@@ -287,7 +299,8 @@
                 "Thriller"
             ],
             "tagline": "",
-            "runtime": 95
+            "runtime": 95,
+            "rank": 13
         }
     ]
 }

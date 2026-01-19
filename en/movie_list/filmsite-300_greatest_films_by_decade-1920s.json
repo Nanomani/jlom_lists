@@ -26,7 +26,8 @@
                 "Drama"
             ],
             "runtime": 68,
-            "tagline": "6 reels of Joy."
+            "tagline": "6 reels of Joy.",
+            "rank": 1
         },
         {
             "adult": false,
@@ -47,7 +48,8 @@
                 "Crime"
             ],
             "runtime": 140,
-            "tagline": "The Film of Films"
+            "tagline": "The Film of Films",
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Mystery"
             ],
             "runtime": 45,
-            "tagline": "Every inch of footage holds such a laugh!"
+            "tagline": "Every inch of footage holds such a laugh!",
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "Fantasy"
             ],
             "runtime": 149,
-            "tagline": "\"Happiness Must Be Earned\""
+            "tagline": "\"Happiness Must Be Earned\"",
+            "rank": 4
         },
         {
             "adult": false,
@@ -113,7 +117,8 @@
                 "Drama"
             ],
             "runtime": 151,
-            "tagline": "The epic of the American doughboy!"
+            "tagline": "The epic of the American doughboy!",
+            "rank": 5
         },
         {
             "adult": false,
@@ -134,7 +139,8 @@
                 "Romance"
             ],
             "runtime": 76,
-            "tagline": "Harold kicks the fun winning Goal."
+            "tagline": "Harold kicks the fun winning Goal.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -156,7 +162,8 @@
                 "Drama"
             ],
             "runtime": 95,
-            "tagline": "The World's Greatest Laughing Picture!"
+            "tagline": "The World's Greatest Laughing Picture!",
+            "rank": 7
         },
         {
             "adult": false,
@@ -180,7 +187,8 @@
                 "Romance"
             ],
             "runtime": 79,
-            "tagline": "Buster drives \"The General\" to trainload of laughter."
+            "tagline": "Buster drives \"The General\" to trainload of laughter.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -201,7 +209,8 @@
                 "Music"
             ],
             "runtime": 89,
-            "tagline": "Hear him sing Mammy, Toot Toot Tootsie, My Gal Sal, Mother I Still Have You."
+            "tagline": "Hear him sing Mammy, Toot Toot Tootsie, My Gal Sal, Mother I Still Have You.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -222,7 +231,8 @@
                 "Science Fiction"
             ],
             "runtime": 148,
-            "tagline": "There can be no understanding between the hands and the brain unless the heart acts as mediator."
+            "tagline": "There can be no understanding between the hands and the brain unless the heart acts as mediator.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -243,7 +253,8 @@
                 "Romance"
             ],
             "runtime": 94,
-            "tagline": "\"An artistic masterpiece and also a joy to watch.\""
+            "tagline": "\"An artistic masterpiece and also a joy to watch.\"",
+            "rank": 11
         },
         {
             "adult": false,
@@ -264,7 +275,8 @@
                 "Romance"
             ],
             "runtime": 98,
-            "tagline": "A Motion Picture with a stirring message on Marriage! A Powerful Film, full of truths of life and love!"
+            "tagline": "A Motion Picture with a stirring message on Marriage! A Powerful Film, full of truths of life and love!",
+            "rank": 12
         },
         {
             "adult": false,
@@ -287,7 +299,8 @@
                 "Thriller"
             ],
             "runtime": 76,
-            "tagline": "A tornado of human emotions."
+            "tagline": "A tornado of human emotions.",
+            "rank": 13
         }
     ]
 }

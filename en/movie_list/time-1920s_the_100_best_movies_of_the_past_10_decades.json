@@ -27,7 +27,8 @@
                 "Romance"
             ],
             "runtime": 150,
-            "tagline": "A dramatic epic"
+            "tagline": "A dramatic epic",
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Drama"
             ],
             "runtime": 79,
-            "tagline": "A story of life and love in the actual Arctic."
+            "tagline": "A story of life and love in the actual Arctic.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -70,7 +72,8 @@
                 "Fantasy"
             ],
             "runtime": 149,
-            "tagline": "\"Happiness Must Be Earned\""
+            "tagline": "\"Happiness Must Be Earned\"",
+            "rank": 3
         },
         {
             "adult": false,
@@ -91,7 +94,8 @@
                 "Romance"
             ],
             "runtime": 94,
-            "tagline": "\"An artistic masterpiece and also a joy to watch.\""
+            "tagline": "\"An artistic masterpiece and also a joy to watch.\"",
+            "rank": 4
         },
         {
             "adult": false,
@@ -112,7 +116,8 @@
                 "History"
             ],
             "runtime": 81,
-            "tagline": "An Immortal Screen Classic that will live Forever!"
+            "tagline": "An Immortal Screen Classic that will live Forever!",
+            "rank": 5
         },
         {
             "adult": false,
@@ -133,7 +138,8 @@
                 "Romance"
             ],
             "runtime": 70,
-            "tagline": "The Laugh Special of the Age. See It."
+            "tagline": "The Laugh Special of the Age. See It.",
+            "rank": 6
         },
         {
             "adult": false,
@@ -155,7 +161,8 @@
                 "Romance"
             ],
             "runtime": 133,
-            "tagline": ""
+            "tagline": "",
+            "rank": 7
         }
     ]
 }

@@ -26,7 +26,8 @@
                 "Thriller"
             ],
             "runtime": 132,
-            "tagline": "40 stories of sheer adventure!"
+            "tagline": "40 stories of sheer adventure!",
+            "rank": 1
         },
         {
             "adult": false,
@@ -48,7 +49,8 @@
                 "Science Fiction"
             ],
             "runtime": 137,
-            "tagline": "This time it's war."
+            "tagline": "This time it's war.",
+            "rank": 2
         },
         {
             "adult": false,
@@ -69,7 +71,8 @@
                 "Drama"
             ],
             "runtime": 207,
-            "tagline": "Unmatched for suspense and spectacle!"
+            "tagline": "Unmatched for suspense and spectacle!",
+            "rank": 3
         },
         {
             "adult": false,
@@ -89,7 +92,8 @@
                 "Western"
             ],
             "runtime": 145,
-            "tagline": "Unchanged men in a changing land"
+            "tagline": "Unchanged men in a changing land",
+            "rank": 4
         },
         {
             "adult": false,
@@ -111,7 +115,8 @@
                 "Comedy"
             ],
             "runtime": 100,
-            "tagline": "You may know the name, but the game has changed."
+            "tagline": "You may know the name, but the game has changed.",
+            "rank": 5
         },
         {
             "adult": false,
@@ -131,7 +136,8 @@
                 "Action"
             ],
             "runtime": 102,
-            "tagline": "Their deadly mission: to crack the forbidden island of Han!"
+            "tagline": "Their deadly mission: to crack the forbidden island of Han!",
+            "rank": 6
         },
         {
             "adult": false,
@@ -153,7 +159,8 @@
                 "Science Fiction"
             ],
             "runtime": 121,
-            "tagline": "The future belongs to the mad."
+            "tagline": "The future belongs to the mad.",
+            "rank": 7
         },
         {
             "adult": false,
@@ -175,7 +182,8 @@
                 "Crime"
             ],
             "runtime": 126,
-            "tagline": "As a cop, he has brains, brawn, and an instinct to kill."
+            "tagline": "As a cop, he has brains, brawn, and an instinct to kill.",
+            "rank": 8
         },
         {
             "adult": false,
@@ -197,7 +205,8 @@
                 "Science Fiction"
             ],
             "runtime": 137,
-            "tagline": "It's nothing personal."
+            "tagline": "It's nothing personal.",
+            "rank": 9
         },
         {
             "adult": false,
@@ -218,7 +227,8 @@
                 "Action"
             ],
             "runtime": 115,
-            "tagline": "The return of the great adventure."
+            "tagline": "The return of the great adventure.",
+            "rank": 10
         },
         {
             "adult": false,
@@ -241,7 +251,8 @@
                 "Science Fiction"
             ],
             "runtime": 96,
-            "tagline": "Just one man can make a difference."
+            "tagline": "Just one man can make a difference.",
+            "rank": 11
         },
         {
             "adult": false,
@@ -262,7 +273,8 @@
                 "Crime"
             ],
             "runtime": 111,
-            "tagline": "Here comes the bride."
+            "tagline": "Here comes the bride.",
+            "rank": 12
         },
         {
             "adult": false,
@@ -284,7 +296,8 @@
                 "Science Fiction"
             ],
             "runtime": 139,
-            "tagline": "In order to trap him, he must become him."
+            "tagline": "In order to trap him, he must become him.",
+            "rank": 13
         },
         {
             "adult": false,
@@ -306,7 +319,8 @@
                 "Science Fiction"
             ],
             "runtime": 108,
-            "tagline": "Your future is in its hands."
+            "tagline": "Your future is in its hands.",
+            "rank": 14
         },
         {
             "adult": false,
@@ -327,7 +341,8 @@
                 "Crime"
             ],
             "runtime": 105,
-            "tagline": "No computer graphics. No stunt doubles. No wires."
+            "tagline": "No computer graphics. No stunt doubles. No wires.",
+            "rank": 15
         },
         {
             "adult": false,
@@ -350,7 +365,8 @@
                 "Thriller"
             ],
             "runtime": 107,
-            "tagline": "Soon the hunt will begin."
+            "tagline": "Soon the hunt will begin.",
+            "rank": 16
         },
         {
             "adult": false,
@@ -373,7 +389,8 @@
                 "Thriller"
             ],
             "runtime": 115,
-            "tagline": "Remember everything. Forgive nothing."
+            "tagline": "Remember everything. Forgive nothing.",
+            "rank": 17
         },
         {
             "adult": false,
@@ -393,7 +410,8 @@
                 "Action"
             ],
             "runtime": 112,
-            "tagline": "A Hero Beyond All Others."
+            "tagline": "A Hero Beyond All Others.",
+            "rank": 18
         },
         {
             "adult": false,
@@ -416,7 +434,8 @@
                 "War"
             ],
             "runtime": 93,
-            "tagline": "This time he's fighting for his life."
+            "tagline": "This time he's fighting for his life.",
+            "rank": 19
         },
         {
             "adult": false,
@@ -438,7 +457,8 @@
                 "Science Fiction"
             ],
             "runtime": 102,
-            "tagline": "Part man, part machine, all cop."
+            "tagline": "Part man, part machine, all cop.",
+            "rank": 20
         },
         {
             "adult": false,
@@ -459,7 +479,8 @@
                 "Science Fiction"
             ],
             "runtime": 136,
-            "tagline": "Believe the unbelievable."
+            "tagline": "Believe the unbelievable.",
+            "rank": 21
         },
         {
             "adult": false,
@@ -480,7 +501,8 @@
                 "Western"
             ],
             "runtime": 166,
-            "tagline": "There were three men in her life. One to take her\u2026 one to love her \u2014and one to kill her."
+            "tagline": "There were three men in her life. One to take her\u2026 one to love her \u2014and one to kill her.",
+            "rank": 22
         },
         {
             "adult": false,
@@ -501,7 +523,8 @@
                 "Adventure"
             ],
             "runtime": 116,
-            "tagline": "He who struggles initially, might succeed eventually, and even finally."
+            "tagline": "He who struggles initially, might succeed eventually, and even finally.",
+            "rank": 23
         },
         {
             "adult": false,
@@ -523,7 +546,8 @@
                 "Action"
             ],
             "runtime": 170,
-            "tagline": "A Los Angeles crime saga."
+            "tagline": "A Los Angeles crime saga.",
+            "rank": 24
         },
         {
             "adult": false,
@@ -544,7 +568,8 @@
                 "Comedy"
             ],
             "runtime": 91,
-            "tagline": ""
+            "tagline": "",
+            "rank": 25
         },
         {
             "adult": false,
@@ -566,7 +591,8 @@
                 "Comedy"
             ],
             "runtime": 105,
-            "tagline": "Rip-roaring adventure on the old China Coast."
+            "tagline": "Rip-roaring adventure on the old China Coast.",
+            "rank": 26
         },
         {
             "adult": false,
@@ -588,7 +614,8 @@
                 "Thriller"
             ],
             "runtime": 110,
-            "tagline": "If these two can learn to stand each other... the bad guys don't stand a chance."
+            "tagline": "If these two can learn to stand each other... the bad guys don't stand a chance.",
+            "rank": 27
         },
         {
             "adult": false,
@@ -611,7 +638,8 @@
                 "Thriller"
             ],
             "runtime": 110,
-            "tagline": "One Vicious Hitman. One Fierce Cop. Ten Thousand Bullets."
+            "tagline": "One Vicious Hitman. One Fierce Cop. Ten Thousand Bullets.",
+            "rank": 28
         },
         {
             "adult": false,
@@ -633,7 +661,8 @@
                 "Thriller"
             ],
             "runtime": 113,
-            "tagline": "The word 'cop' isn't written all over him\u2014something more puzzling is."
+            "tagline": "The word 'cop' isn't written all over him\u2014something more puzzling is.",
+            "rank": 29
         },
         {
             "adult": false,
@@ -654,7 +683,8 @@
                 "Action"
             ],
             "runtime": 115,
-            "tagline": "The return of the great adventure."
+            "tagline": "The return of the great adventure.",
+            "rank": 30
         },
         {
             "adult": false,
@@ -678,7 +708,8 @@
                 "Romance"
             ],
             "runtime": 79,
-            "tagline": "Buster drives \"The General\" to trainload of laughter."
+            "tagline": "Buster drives \"The General\" to trainload of laughter.",
+            "rank": 31
         },
         {
             "adult": false,
@@ -700,7 +731,8 @@
                 "Thriller"
             ],
             "runtime": 104,
-            "tagline": "Doyle is bad news\u2014but a good cop."
+            "tagline": "Doyle is bad news\u2014but a good cop.",
+            "rank": 32
         },
         {
             "adult": false,
@@ -722,7 +754,8 @@
                 "History"
             ],
             "runtime": 102,
-            "tagline": "Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!"
+            "tagline": "Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!",
+            "rank": 33
         },
         {
             "adult": false,
@@ -742,7 +775,8 @@
                 "Action"
             ],
             "runtime": 103,
-            "tagline": "Hard as stone soldiers of fortune fighting to survive"
+            "tagline": "Hard as stone soldiers of fortune fighting to survive",
+            "rank": 34
         },
         {
             "adult": false,
@@ -765,7 +799,8 @@
                 "Romance"
             ],
             "runtime": 120,
-            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender."
+            "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+            "rank": 35
         },
         {
             "adult": false,
@@ -787,7 +822,8 @@
                 "Romance"
             ],
             "runtime": 93,
-            "tagline": "Don't mess with these dragons!"
+            "tagline": "Don't mess with these dragons!",
+            "rank": 36
         },
         {
             "adult": false,
@@ -810,7 +846,8 @@
                 "Action"
             ],
             "runtime": 120,
-            "tagline": "15 years of imprisonment, five days of vengeance."
+            "tagline": "15 years of imprisonment, five days of vengeance.",
+            "rank": 37
         },
         {
             "adult": false,
@@ -833,7 +870,8 @@
                 "War"
             ],
             "runtime": 96,
-            "tagline": "No man, no law, no war can stop him."
+            "tagline": "No man, no law, no war can stop him.",
+            "rank": 38
         },
         {
             "adult": false,
@@ -855,7 +893,8 @@
                 "Drama"
             ],
             "runtime": 95,
-            "tagline": "Brothers by blood. Enemies by chance. Killers by nature."
+            "tagline": "Brothers by blood. Enemies by chance. Killers by nature.",
+            "rank": 39
         },
         {
             "adult": false,
@@ -877,7 +916,8 @@
                 "Crime"
             ],
             "runtime": 122,
-            "tagline": "100% pure adrenaline."
+            "tagline": "100% pure adrenaline.",
+            "rank": 40
         },
         {
             "adult": false,
@@ -900,7 +940,8 @@
                 "Fantasy"
             ],
             "runtime": 99,
-            "tagline": "So many gangsters\u2026 so little time."
+            "tagline": "So many gangsters\u2026 so little time.",
+            "rank": 41
         },
         {
             "adult": false,
@@ -921,7 +962,8 @@
                 "Adventure"
             ],
             "runtime": 147,
-            "tagline": "Some missions are not a choice."
+            "tagline": "Some missions are not a choice.",
+            "rank": 42
         },
         {
             "adult": false,
@@ -943,7 +985,8 @@
                 "Action"
             ],
             "runtime": 117,
-            "tagline": "Rough, tough and ready."
+            "tagline": "Rough, tough and ready.",
+            "rank": 43
         },
         {
             "adult": false,
@@ -965,7 +1008,8 @@
                 "History"
             ],
             "runtime": 106,
-            "tagline": "The celebrated Kung Fu master of Bruce Lee."
+            "tagline": "The celebrated Kung Fu master of Bruce Lee.",
+            "rank": 44
         },
         {
             "adult": false,
@@ -988,7 +1032,8 @@
                 "Thriller"
             ],
             "runtime": 93,
-            "tagline": ""
+            "tagline": "",
+            "rank": 45
         },
         {
             "adult": false,
@@ -1010,7 +1055,8 @@
                 "Adventure"
             ],
             "runtime": 212,
-            "tagline": "The entertainment experience of a lifetime!"
+            "tagline": "The entertainment experience of a lifetime!",
+            "rank": 46
         },
         {
             "adult": false,
@@ -1031,7 +1077,8 @@
                 "Thriller"
             ],
             "runtime": 141,
-            "tagline": "When he said I do, he never said what he did."
+            "tagline": "When he said I do, he never said what he did.",
+            "rank": 47
         },
         {
             "adult": false,
@@ -1051,7 +1098,8 @@
                 "Action"
             ],
             "runtime": 105,
-            "tagline": ""
+            "tagline": "",
+            "rank": 48
         },
         {
             "adult": false,
@@ -1073,7 +1121,8 @@
                 "Action"
             ],
             "runtime": 111,
-            "tagline": "If you want the job done right, hire a professional."
+            "tagline": "If you want the job done right, hire a professional.",
+            "rank": 49
         },
         {
             "adult": false,
@@ -1096,7 +1145,8 @@
                 "Thriller"
             ],
             "runtime": 119,
-            "tagline": "He was the perfect weapon until he became the target."
+            "tagline": "He was the perfect weapon until he became the target.",
+            "rank": 50
         },
         {
             "adult": false,
@@ -1118,7 +1168,8 @@
                 "Adventure"
             ],
             "runtime": 153,
-            "tagline": "\u2018Dynamic\u2019 \u2018Tremendous\u2019 \u2018Shattering\u2019"
+            "tagline": "\u2018Dynamic\u2019 \u2018Tremendous\u2019 \u2018Shattering\u2019",
+            "rank": 51
         },
         {
             "adult": false,
@@ -1139,7 +1190,8 @@
                 "Thriller"
             ],
             "runtime": 101,
-            "tagline": "Don't set him off."
+            "tagline": "Don't set him off.",
+            "rank": 52
         },
         {
             "adult": false,
@@ -1159,7 +1211,8 @@
                 "Action"
             ],
             "runtime": 88,
-            "tagline": "They made it personal... He'll make them pay."
+            "tagline": "They made it personal... He'll make them pay.",
+            "rank": 53
         },
         {
             "adult": false,
@@ -1181,7 +1234,8 @@
                 "War"
             ],
             "runtime": 116,
-            "tagline": "Prepare for glory!"
+            "tagline": "Prepare for glory!",
+            "rank": 54
         },
         {
             "adult": false,
@@ -1202,7 +1256,8 @@
                 "Comedy"
             ],
             "runtime": 100,
-            "tagline": "The fighting men in Chinese opera house."
+            "tagline": "The fighting men in Chinese opera house.",
+            "rank": 55
         },
         {
             "adult": false,
@@ -1224,7 +1279,8 @@
                 "War"
             ],
             "runtime": 97,
-            "tagline": "A lethal secret arsenal was left behind in the jungle of Vietnam. Their job: find it and destroy it!"
+            "tagline": "A lethal secret arsenal was left behind in the jungle of Vietnam. Their job: find it and destroy it!",
+            "rank": 56
         },
         {
             "adult": false,
@@ -1247,7 +1303,8 @@
                 "War"
             ],
             "runtime": 102,
-            "tagline": "The first was for himself. The second was for his country. This time is for his friend."
+            "tagline": "The first was for himself. The second was for his country. This time is for his friend.",
+            "rank": 57
         },
         {
             "adult": false,
@@ -1270,7 +1327,8 @@
                 "Adventure"
             ],
             "runtime": 197,
-            "tagline": "They trained him to kill for their pleasure ... but they trained him a little too well"
+            "tagline": "They trained him to kill for their pleasure ... but they trained him a little too well",
+            "rank": 58
         },
         {
             "adult": false,
@@ -1293,7 +1351,8 @@
                 "Crime"
             ],
             "runtime": 109,
-            "tagline": "Not since Don Quixote has Spain had so much fun!"
+            "tagline": "Not since Don Quixote has Spain had so much fun!",
+            "rank": 59
         },
         {
             "adult": false,
@@ -1313,7 +1372,8 @@
                 "Western"
             ],
             "runtime": 161,
-            "tagline": "For three men the Civil War wasn't hell. It was practice."
+            "tagline": "For three men the Civil War wasn't hell. It was practice.",
+            "rank": 60
         },
         {
             "adult": false,
@@ -1333,7 +1393,8 @@
                 "Documentary"
             ],
             "runtime": 1,
-            "tagline": ""
+            "tagline": "",
+            "rank": 61
         },
         {
             "adult": false,
@@ -1356,7 +1417,8 @@
                 "Thriller"
             ],
             "runtime": 99,
-            "tagline": "It's the maximum trip... at maximum speed."
+            "tagline": "It's the maximum trip... at maximum speed.",
+            "rank": 62
         },
         {
             "adult": false,
@@ -1378,7 +1440,8 @@
                 "Adventure"
             ],
             "runtime": 115,
-            "tagline": "The world's masters of murder pull out all the stops to destroy Agent 007!"
+            "tagline": "The world's masters of murder pull out all the stops to destroy Agent 007!",
+            "rank": 63
         },
         {
             "adult": false,
@@ -1399,7 +1462,8 @@
                 "Crime"
             ],
             "runtime": 103,
-            "tagline": "Serve no master"
+            "tagline": "Serve no master",
+            "rank": 64
         },
         {
             "adult": false,
@@ -1421,7 +1485,8 @@
                 "Science Fiction"
             ],
             "runtime": 121,
-            "tagline": "A long time ago in a galaxy far, far away..."
+            "tagline": "A long time ago in a galaxy far, far away...",
+            "rank": 65
         },
         {
             "adult": false,
@@ -1444,7 +1509,8 @@
                 "Romance"
             ],
             "runtime": 95,
-            "tagline": ""
+            "tagline": "",
+            "rank": 66
         },
         {
             "adult": false,
@@ -1466,7 +1532,8 @@
                 "Action"
             ],
             "runtime": 116,
-            "tagline": "His sword made him a hero... his courage made him a legend."
+            "tagline": "His sword made him a hero... his courage made him a legend.",
+            "rank": 67
         },
         {
             "adult": false,
@@ -1489,7 +1556,8 @@
                 "Adventure"
             ],
             "runtime": 111,
-            "tagline": "Desperate, And Determined To Survive."
+            "tagline": "Desperate, And Determined To Survive.",
+            "rank": 68
         },
         {
             "adult": false,
@@ -1510,7 +1578,8 @@
                 "Adventure"
             ],
             "runtime": 136,
-            "tagline": "It's a deadly game of \"tag\" and Cary Grant is \"it\"!"
+            "tagline": "It's a deadly game of \"tag\" and Cary Grant is \"it\"!",
+            "rank": 69
         },
         {
             "adult": false,
@@ -1532,7 +1601,8 @@
                 "War"
             ],
             "runtime": 149,
-            "tagline": "Train them! Excite them! Arm them!...Then turn them loose on the Nazis!"
+            "tagline": "Train them! Excite them! Arm them!...Then turn them loose on the Nazis!",
+            "rank": 70
         },
         {
             "adult": false,
@@ -1554,7 +1624,8 @@
                 "Thriller"
             ],
             "runtime": 105,
-            "tagline": "Jackie Chan escalates his one-man war on crime."
+            "tagline": "Jackie Chan escalates his one-man war on crime.",
+            "rank": 71
         },
         {
             "adult": false,
@@ -1577,7 +1648,8 @@
                 "Thriller"
             ],
             "runtime": 152,
-            "tagline": "Welcome to a world without rules."
+            "tagline": "Welcome to a world without rules.",
+            "rank": 72
         },
         {
             "adult": false,
@@ -1597,7 +1669,8 @@
                 "Drama"
             ],
             "runtime": 129,
-            "tagline": "I don\u2019t go down for nobody."
+            "tagline": "I don\u2019t go down for nobody.",
+            "rank": 73
         },
         {
             "adult": false,
@@ -1619,7 +1692,8 @@
                 "Thriller"
             ],
             "runtime": 102,
-            "tagline": "Dirty Harry And The Homicidal Maniac...Harry's The One With The Badge."
+            "tagline": "Dirty Harry And The Homicidal Maniac...Harry's The One With The Badge.",
+            "rank": 74
         },
         {
             "adult": false,
@@ -1641,7 +1715,8 @@
                 "War"
             ],
             "runtime": 161,
-            "tagline": "It spans a whole new world of entertainment!"
+            "tagline": "It spans a whole new world of entertainment!",
+            "rank": 75
         },
         {
             "adult": false,
@@ -1664,7 +1739,8 @@
                 "History"
             ],
             "runtime": 99,
-            "tagline": "One man's strength will unite an empire."
+            "tagline": "One man's strength will unite an empire.",
+            "rank": 76
         },
         {
             "adult": false,
@@ -1686,7 +1762,8 @@
                 "Thriller"
             ],
             "runtime": 95,
-            "tagline": "There's never a cop around when you need one, but when this cop's around, all you need is one."
+            "tagline": "There's never a cop around when you need one, but when this cop's around, all you need is one.",
+            "rank": 77
         },
         {
             "adult": false,
@@ -1708,7 +1785,8 @@
                 "Thriller"
             ],
             "runtime": 137,
-            "tagline": "Alcatraz. Only one man has ever broken out. Now five million lives depend on two men breaking in."
+            "tagline": "Alcatraz. Only one man has ever broken out. Now five million lives depend on two men breaking in.",
+            "rank": 78
         },
         {
             "adult": false,
@@ -1730,7 +1808,8 @@
                 "Thriller"
             ],
             "runtime": 130,
-            "tagline": "Look up! Look down! Look out! Here comes the biggest Bond of all!"
+            "tagline": "Look up! Look down! Look out! Here comes the biggest Bond of all!",
+            "rank": 79
         },
         {
             "adult": false,
@@ -1752,7 +1831,8 @@
                 "Crime"
             ],
             "runtime": 122,
-            "tagline": "Anyone is an enemy for a price."
+            "tagline": "Anyone is an enemy for a price.",
+            "rank": 80
         },
         {
             "adult": false,
@@ -1773,7 +1853,8 @@
                 "Action"
             ],
             "runtime": 118,
-            "tagline": "If adventure has a name... it must be Indiana Jones."
+            "tagline": "If adventure has a name... it must be Indiana Jones.",
+            "rank": 81
         },
         {
             "adult": false,
@@ -1797,7 +1878,8 @@
                 "Action"
             ],
             "runtime": 93,
-            "tagline": "It could happen to you."
+            "tagline": "It could happen to you.",
+            "rank": 82
         },
         {
             "adult": false,
@@ -1819,7 +1901,8 @@
                 "Thriller"
             ],
             "runtime": 98,
-            "tagline": ""
+            "tagline": "",
+            "rank": 83
         },
         {
             "adult": false,
@@ -1841,7 +1924,8 @@
                 "Adventure"
             ],
             "runtime": 127,
-            "tagline": "They were seven\u2026and they fought like seven hundred!"
+            "tagline": "They were seven\u2026and they fought like seven hundred!",
+            "rank": 84
         },
         {
             "adult": false,
@@ -1863,7 +1947,8 @@
                 "Drama"
             ],
             "runtime": 170,
-            "tagline": "He loved the American Dream. With a vengeance."
+            "tagline": "He loved the American Dream. With a vengeance.",
+            "rank": 85
         },
         {
             "adult": false,
@@ -1885,7 +1970,8 @@
                 "Science Fiction"
             ],
             "runtime": 140,
-            "tagline": "The universe is so much bigger than you realize."
+            "tagline": "The universe is so much bigger than you realize.",
+            "rank": 86
         },
         {
             "adult": false,
@@ -1907,7 +1993,8 @@
                 "Drama"
             ],
             "runtime": 84,
-            "tagline": "Five men. They appreciate each other's guts and wisdom, and they are always perfect partners in missions. But now, they'll have to hold their pistols at each other..."
+            "tagline": "Five men. They appreciate each other's guts and wisdom, and they are always perfect partners in missions. But now, they'll have to hold their pistols at each other...",
+            "rank": 87
         },
         {
             "adult": false,
@@ -1929,7 +2016,8 @@
                 "Thriller"
             ],
             "runtime": 105,
-            "tagline": "They just messed with the wrong Mexican."
+            "tagline": "They just messed with the wrong Mexican.",
+            "rank": 88
         },
         {
             "adult": false,
@@ -1951,7 +2039,8 @@
                 "Action"
             ],
             "runtime": 70,
-            "tagline": "As the legend foretold."
+            "tagline": "As the legend foretold.",
+            "rank": 89
         },
         {
             "adult": false,
@@ -1973,7 +2062,8 @@
                 "Adventure"
             ],
             "runtime": 143,
-            "tagline": "Some assembly required."
+            "tagline": "Some assembly required.",
+            "rank": 90
         },
         {
             "adult": false,
@@ -1996,7 +2086,8 @@
                 "Thriller"
             ],
             "runtime": 121,
-            "tagline": "What's forgotten is not always gone."
+            "tagline": "What's forgotten is not always gone.",
+            "rank": 91
         },
         {
             "adult": false,
@@ -2018,7 +2109,8 @@
                 "Comedy"
             ],
             "runtime": 97,
-            "tagline": "Jackie Chan in his greatest adventure ever!"
+            "tagline": "Jackie Chan in his greatest adventure ever!",
+            "rank": 92
         },
         {
             "adult": false,
@@ -2040,7 +2132,8 @@
                 "Adventure"
             ],
             "runtime": 155,
-            "tagline": "What we do in life echoes in eternity."
+            "tagline": "What we do in life echoes in eternity.",
+            "rank": 93
         },
         {
             "adult": false,
@@ -2062,7 +2155,8 @@
                 "Fantasy"
             ],
             "runtime": 45,
-            "tagline": ""
+            "tagline": "",
+            "rank": 94
         },
         {
             "adult": false,
@@ -2084,7 +2178,8 @@
                 "Adventure"
             ],
             "runtime": 81,
-            "tagline": ""
+            "tagline": "",
+            "rank": 95
         },
         {
             "adult": false,
@@ -2107,7 +2202,8 @@
                 "Adventure"
             ],
             "runtime": 106,
-            "tagline": "She's a girl from the big city. He's a reckless soldier of fortune. For a fabulous treasure, they share an adventure no one could imagine... or survive."
+            "tagline": "She's a girl from the big city. He's a reckless soldier of fortune. For a fabulous treasure, they share an adventure no one could imagine... or survive.",
+            "rank": 96
         },
         {
             "adult": false,
@@ -2130,7 +2226,8 @@
                 "Thriller"
             ],
             "runtime": 125,
-            "tagline": "No clues. No leads. No time."
+            "tagline": "No clues. No leads. No time.",
+            "rank": 97
         },
         {
             "adult": false,
@@ -2152,7 +2249,8 @@
                 "Thriller"
             ],
             "runtime": 132,
-            "tagline": "No Law. No Rules. No Order."
+            "tagline": "No Law. No Rules. No Order.",
+            "rank": 98
         },
         {
             "adult": false,
@@ -2175,7 +2273,8 @@
                 "War"
             ],
             "runtime": 130,
-            "tagline": "Once The Best of Friends, Now The Worst of... Enemies!"
+            "tagline": "Once The Best of Friends, Now The Worst of... Enemies!",
+            "rank": 99
         },
         {
             "adult": false,
@@ -2198,7 +2297,8 @@
                 "Romance"
             ],
             "runtime": 86,
-            "tagline": "Two Countries. Two Warriors. One Battle. One Survivor."
+            "tagline": "Two Countries. Two Warriors. One Battle. One Survivor.",
+            "rank": 100
         },
         {
             "adult": false,
@@ -2220,7 +2320,8 @@
                 "Drama"
             ],
             "runtime": 122,
-            "tagline": "Four men...outlaws thrown together by fate...share a fantastic adventure and risk the only thing they have left to lose."
+            "tagline": "Four men...outlaws thrown together by fate...share a fantastic adventure and risk the only thing they have left to lose.",
+            "rank": 101
         }
     ]
 }
