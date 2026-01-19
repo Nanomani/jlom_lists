@@ -4,7 +4,7 @@
     "source": "https://editorial.rottentomatoes.com/guide/essential-animated-movies/",
     "created_by": "nanomani",
     "added": "2026-01-18",
-    "modified": "2026-01-18",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,7 +14,7 @@
             "original_language": "ja",
             "original_title": "\u30ec\u30c3\u30c9\u30e9\u30a4\u30f3",
             "overview": "A daredevil driver is determined to compete in Redline, the most popular race in the galaxy. The race only occurs every five years, but in order to participate he must overcome the mafia, the government and even love.",
-            "popularity": 3.9355,
+            "popularity": 4.6723,
             "poster_path": "/yUkH0y9OsY7J08Dvfzi1P0di559.jpg",
             "release_date": "2009-08-14",
             "title": "Redline",
@@ -27,7 +27,10 @@
                 "Science Fiction"
             ],
             "runtime": 102,
-            "tagline": "The most violent race in the universe!"
+            "tagline": "The most violent race in the universe!",
+            "rank": 1,
+            "imdb_id": "tt1483797",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -36,7 +39,7 @@
             "original_language": "en",
             "original_title": "The Thief and the Cobbler",
             "overview": "Princess Yum Yum falls in love with Tack and saves him from being executed. Later, when the protective orbs of the palace get stolen, Tacka and Yum Yum set out to find them and save the kingdom.",
-            "popularity": 0.9235,
+            "popularity": 0.7373,
             "poster_path": "/3OKtFuTxahr7hokPB9aO38qgOfc.jpg",
             "release_date": "1993-09-23",
             "title": "The Thief and the Cobbler",
@@ -50,7 +53,10 @@
                 "Romance"
             ],
             "runtime": 72,
-            "tagline": "Long before Aladdin, ages before Ali Baba, came the hilarious adventure of a simple shoemaker who saved an enchanted kingdom, won the heart of a beautiful princess, and became the first Arabian Knight."
+            "tagline": "Long before Aladdin, ages before Ali Baba, came the hilarious adventure of a simple shoemaker who saved an enchanted kingdom, won the heart of a beautiful princess, and became the first Arabian Knight.",
+            "rank": 2,
+            "imdb_id": "tt0112389",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -59,13 +65,13 @@
             "original_language": "en",
             "original_title": "Monster House",
             "overview": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
-            "popularity": 4.8652,
+            "popularity": 4.771,
             "poster_path": "/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg",
             "release_date": "2006-06-30",
             "title": "Monster House",
             "video": false,
             "vote_average": 6.702,
-            "vote_count": 4226,
+            "vote_count": 4227,
             "genres": [
                 "Animation",
                 "Comedy",
@@ -73,7 +79,10 @@
                 "Fantasy"
             ],
             "runtime": 91,
-            "tagline": "There goes the neighborhood."
+            "tagline": "There goes the neighborhood.",
+            "rank": 3,
+            "imdb_id": "tt0385880",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -82,12 +91,12 @@
             "original_language": "en",
             "original_title": "Anastasia",
             "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
-            "popularity": 6.9848,
+            "popularity": 7.6075,
             "poster_path": "/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
             "release_date": "1997-11-20",
             "title": "Anastasia",
             "video": false,
-            "vote_average": 7.608,
+            "vote_average": 7.607,
             "vote_count": 5520,
             "genres": [
                 "Animation",
@@ -96,7 +105,10 @@
                 "Adventure"
             ],
             "runtime": 94,
-            "tagline": "Discover the adventure behind the greatest mystery of our time."
+            "tagline": "Discover the adventure behind the greatest mystery of our time.",
+            "rank": 4,
+            "imdb_id": "tt0118617",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -105,13 +117,13 @@
             "original_language": "en",
             "original_title": "ParaNorman",
             "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
-            "popularity": 3.7859,
+            "popularity": 3.4682,
             "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
             "release_date": "2012-08-03",
             "title": "ParaNorman",
             "video": false,
             "vote_average": 7.027,
-            "vote_count": 2706,
+            "vote_count": 2708,
             "genres": [
                 "Family",
                 "Animation",
@@ -119,7 +131,10 @@
                 "Comedy"
             ],
             "runtime": 93,
-            "tagline": "It's all fun and games until someone raises the dead."
+            "tagline": "It's all fun and games until someone raises the dead.",
+            "rank": 5,
+            "imdb_id": "tt1623288",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -128,7 +143,7 @@
             "original_language": "ja",
             "original_title": "\u9244\u30b3\u30f3\u7b4b\u30af\u30ea\u30fc\u30c8",
             "overview": "Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight of their life.",
-            "popularity": 1.1255,
+            "popularity": 1.2214,
             "poster_path": "/e2x1YDuZPpQiaQS25Ego7xMZYOI.jpg",
             "release_date": "2006-10-21",
             "title": "Tekkonkinkreet",
@@ -141,7 +156,10 @@
                 "Animation"
             ],
             "runtime": 103,
-            "tagline": "The power of brotherhood, betrayal, loyalty, and humanity"
+            "tagline": "The power of brotherhood, betrayal, loyalty, and humanity",
+            "rank": 6,
+            "imdb_id": "tt0831888",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -150,7 +168,7 @@
             "original_language": "en",
             "original_title": "Tower",
             "overview": "Combining archival footage with rotoscopic animation, Tower reveals the action-packed untold stories of the witnesses, heroes and survivors of America\u2019s first mass school shooting, when the worst in one man brought out the best in so many others.",
-            "popularity": 0.7643,
+            "popularity": 0.8238,
             "poster_path": "/sYau8BFtkQUMWDyRbpACru4cS6G.jpg",
             "release_date": "2016-03-13",
             "title": "Tower",
@@ -163,7 +181,10 @@
                 "Documentary"
             ],
             "runtime": 82,
-            "tagline": "August 1, 1966, was the day our innocence was shattered."
+            "tagline": "August 1, 1966, was the day our innocence was shattered.",
+            "rank": 7,
+            "imdb_id": "tt5116410",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -172,7 +193,7 @@
             "original_language": "ja",
             "original_title": "\u6642\u3092\u304b\u3051\u308b\u5c11\u5973",
             "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
-            "popularity": 5.0058,
+            "popularity": 5.325,
             "poster_path": "/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
             "release_date": "2006-07-15",
             "title": "The Girl Who Leapt Through Time",
@@ -186,7 +207,10 @@
                 "Science Fiction"
             ],
             "runtime": 98,
-            "tagline": "There is a future that we can't wait for."
+            "tagline": "There is a future that we can't wait for.",
+            "rank": 8,
+            "imdb_id": "tt0808506",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -195,7 +219,7 @@
             "original_language": "ja",
             "original_title": "\u4eba\u72fc JIN-ROH",
             "overview": "A member of an elite paramilitary counter-terrorism unit becomes traumatized after witnessing the suicide bombing of a young girl and is forced to undergo retraining. However, unbeknownst to him, he becomes a key player in a dispute between rival police divisions, as he finds himself increasingly involved with the sister of the girl he saw die.",
-            "popularity": 5.1125,
+            "popularity": 5.9008,
             "poster_path": "/63EMBxmcafkc4cWuUWQh2Ttd2jh.jpg",
             "release_date": "1999-11-17",
             "title": "Jin-Roh: The Wolf Brigade",
@@ -210,7 +234,10 @@
                 "Science Fiction"
             ],
             "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "rank": 9,
+            "imdb_id": "tt0193253",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -219,7 +246,7 @@
             "original_language": "en",
             "original_title": "Fritz the Cat",
             "overview": "In late 1960s New York City, fed up with monotonous college life and police repression, free-spirited Fritz, an impenitent seducer and unrestrained party-animal, decides to explore the world. And just like that, as he flees NYC, heading to San Francisco, Fritz embarks on an endless adventure of illumination. Immersed in a world surrounded by drugs and sex, Fritz participates in mad orgies, brings about a revolution, incites mass urban riots, and crosses paths with drug-addled Nazi bikers.",
-            "popularity": 4.1488,
+            "popularity": 4.7972,
             "poster_path": "/llgCW1Y99WO7DNiX3ZOncLJBIAm.jpg",
             "release_date": "1972-04-14",
             "title": "Fritz the Cat",
@@ -232,7 +259,10 @@
                 "Drama"
             ],
             "runtime": 78,
-            "tagline": "He's X rated and animated!"
+            "tagline": "He's X rated and animated!",
+            "rank": 10,
+            "imdb_id": "tt0068612",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -241,13 +271,13 @@
             "original_language": "en",
             "original_title": "Antz",
             "overview": "A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.",
-            "popularity": 5.0958,
+            "popularity": 4.686,
             "poster_path": "/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg",
             "release_date": "1998-10-02",
             "title": "Antz",
             "video": false,
-            "vote_average": 6.173,
-            "vote_count": 4636,
+            "vote_average": 6.174,
+            "vote_count": 4639,
             "genres": [
                 "Animation",
                 "Family",
@@ -256,7 +286,10 @@
                 "War"
             ],
             "runtime": 83,
-            "tagline": "Every ant has his day."
+            "tagline": "Every ant has his day.",
+            "rank": 11,
+            "imdb_id": "tt0120587",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -265,13 +298,13 @@
             "original_language": "en",
             "original_title": "Shrek 2",
             "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after, as Shrek and the King find it difficult to get along. But when the Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming as King Harold had promised, she plots to destroy their marriage and replace the ogre with her son Charming.",
-            "popularity": 11.77,
+            "popularity": 10.7093,
             "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
             "release_date": "2004-05-19",
             "title": "Shrek 2",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 13128,
+            "vote_average": 7.305,
+            "vote_count": 13130,
             "genres": [
                 "Animation",
                 "Family",
@@ -281,7 +314,10 @@
                 "Romance"
             ],
             "runtime": 92,
-            "tagline": "What happens after happily ever after?"
+            "tagline": "What happens after happily ever after?",
+            "rank": 12,
+            "imdb_id": "tt0298148",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -290,12 +326,12 @@
             "original_language": "en",
             "original_title": "Wizards",
             "overview": "After the death of his mother, evil mutant wizard Blackwolf discovers long-lost military technologies. Full of ego and ambition, Blackwolf claims his mother's throne, assembles an army, and sets out to brainwash and conquer Earth. Meanwhile, Blackwolf's gentle twin brother, the bearded sage Avatar, calls upon his own magical abilities to foil Blackwolf's plans for world domination \u2014 even if it means eliminating his own flesh and blood.",
-            "popularity": 3.6368,
+            "popularity": 5.4148,
             "poster_path": "/jeAxoYepnVirGe0H7pmwviSZYul.jpg",
             "release_date": "1977-02-09",
             "title": "Wizards",
             "video": false,
-            "vote_average": 6.159,
+            "vote_average": 6.2,
             "vote_count": 227,
             "genres": [
                 "Animation",
@@ -303,7 +339,10 @@
                 "Science Fiction"
             ],
             "runtime": 80,
-            "tagline": "An epic fantasy of peace and magic."
+            "tagline": "An epic fantasy of peace and magic.",
+            "rank": 13,
+            "imdb_id": "tt0076929",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -312,20 +351,23 @@
             "original_language": "en",
             "original_title": "The Simpsons Movie",
             "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
-            "popularity": 6.8084,
+            "popularity": 6.4136,
             "poster_path": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
             "release_date": "2007-07-25",
             "title": "The Simpsons Movie",
             "video": false,
-            "vote_average": 7.017,
-            "vote_count": 8381,
+            "vote_average": 7.018,
+            "vote_count": 8383,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Family"
             ],
             "runtime": 87,
-            "tagline": "See our family. And feel better about yours."
+            "tagline": "See our family. And feel better about yours.",
+            "rank": 14,
+            "imdb_id": "tt0462538",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -334,7 +376,7 @@
             "original_language": "ja",
             "original_title": "\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9",
             "overview": "In the midst of societal conflict in the futuristic city of Metropolis, Kenichi and his uncle Shunsaku Ban set out to uncover the mystery behind the first human-like robot, Tima.",
-            "popularity": 2.1269,
+            "popularity": 1.7165,
             "poster_path": "/41WtqvaObaYE3RuqgBfQFPV3aV1.jpg",
             "release_date": "2001-05-26",
             "title": "Metropolis",
@@ -346,7 +388,10 @@
                 "Science Fiction"
             ],
             "runtime": 107,
-            "tagline": "Every epoch dreams its successor."
+            "tagline": "Every epoch dreams its successor.",
+            "rank": 15,
+            "imdb_id": "tt0293416",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -355,20 +400,23 @@
             "original_language": "en",
             "original_title": "The Peanuts Movie",
             "overview": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest.",
-            "popularity": 4.0978,
+            "popularity": 4.0034,
             "poster_path": "/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg",
             "release_date": "2015-11-05",
             "title": "The Peanuts Movie",
             "video": false,
-            "vote_average": 6.951,
-            "vote_count": 1753,
+            "vote_average": 7,
+            "vote_count": 1754,
             "genres": [
                 "Comedy",
                 "Animation",
                 "Family"
             ],
             "runtime": 88,
-            "tagline": "Dream big."
+            "tagline": "Dream big.",
+            "rank": 16,
+            "imdb_id": "tt2452042",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -377,13 +425,13 @@
             "original_language": "en",
             "original_title": "A Bug's Life",
             "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
-            "popularity": 8.1226,
+            "popularity": 8.9819,
             "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
             "release_date": "1998-11-25",
             "title": "A Bug's Life",
             "video": false,
             "vote_average": 6.973,
-            "vote_count": 9561,
+            "vote_count": 9566,
             "genres": [
                 "Family",
                 "Animation",
@@ -391,7 +439,10 @@
                 "Comedy"
             ],
             "runtime": 95,
-            "tagline": "An epic of miniature proportions."
+            "tagline": "An epic of miniature proportions.",
+            "rank": 17,
+            "imdb_id": "tt0120623",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -400,13 +451,13 @@
             "original_language": "en",
             "original_title": "Big Hero 6",
             "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
-            "popularity": 13.665,
+            "popularity": 15.3542,
             "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
             "release_date": "2014-10-24",
             "title": "Big Hero 6",
             "video": false,
             "vote_average": 7.726,
-            "vote_count": 16285,
+            "vote_count": 16287,
             "genres": [
                 "Adventure",
                 "Family",
@@ -415,7 +466,10 @@
                 "Comedy"
             ],
             "runtime": 102,
-            "tagline": "Drop everything. Save the world."
+            "tagline": "Drop everything. Save the world.",
+            "rank": 18,
+            "imdb_id": "tt2245084",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -424,13 +478,13 @@
             "original_language": "en",
             "original_title": "Heavy Metal",
             "overview": "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-            "popularity": 2.1937,
+            "popularity": 2.0853,
             "poster_path": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
             "release_date": "1981-08-07",
             "title": "Heavy Metal",
             "video": false,
-            "vote_average": 6.509,
-            "vote_count": 759,
+            "vote_average": 6.508,
+            "vote_count": 760,
             "genres": [
                 "Animation",
                 "Science Fiction",
@@ -439,7 +493,10 @@
                 "Music"
             ],
             "runtime": 90,
-            "tagline": "A Step Beyond Science Fiction"
+            "tagline": "A Step Beyond Science Fiction",
+            "rank": 19,
+            "imdb_id": "tt0082509",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -448,7 +505,7 @@
             "original_language": "ja",
             "original_title": "\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea",
             "overview": "After her werewolf lover unexpectedly dies in an accident, a woman must find a way to raise the son and daughter that she had with him. However, their inheritance of their father's traits prove to be a challenge for her.",
-            "popularity": 2.9485,
+            "popularity": 3.1716,
             "poster_path": "/3Nllh6JgcrFdtOn6iFOWHudNInd.jpg",
             "release_date": "2012-07-21",
             "title": "Wolf Children",
@@ -462,7 +519,10 @@
                 "Fantasy"
             ],
             "runtime": 117,
-            "tagline": "Love wildly."
+            "tagline": "Love wildly.",
+            "rank": 20,
+            "imdb_id": "tt2140203",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -471,7 +531,7 @@
             "original_language": "en",
             "original_title": "James and the Giant Peach",
             "overview": "When the young orphan boy James spills a magic bag of crocodile tongues, he finds himself in possession of a giant peach that flies him away to strange lands.",
-            "popularity": 2.4897,
+            "popularity": 2.1782,
             "poster_path": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
             "release_date": "1996-04-12",
             "title": "James and the Giant Peach",
@@ -485,7 +545,10 @@
                 "Fantasy"
             ],
             "runtime": 79,
-            "tagline": "Adventures this big don't grow on trees."
+            "tagline": "Adventures this big don't grow on trees.",
+            "rank": 21,
+            "imdb_id": "tt0116683",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -494,7 +557,7 @@
             "original_language": "en",
             "original_title": "The Last Unicorn",
             "overview": "A unicorn learns from a riddle-speaking butterfly that she is supposedly the last of her kind, all the others having been herded away by the monstrous Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
-            "popularity": 1.841,
+            "popularity": 2.132,
             "poster_path": "/2MhDPbadE2ha83qiFwUHPgmKLnV.jpg",
             "release_date": "1982-11-19",
             "title": "The Last Unicorn",
@@ -508,7 +571,10 @@
                 "Adventure"
             ],
             "runtime": 92,
-            "tagline": "There's magic in believing!"
+            "tagline": "There's magic in believing!",
+            "rank": 22,
+            "imdb_id": "tt0084237",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -517,7 +583,7 @@
             "original_language": "fr",
             "original_title": "Ma vie de courgette",
             "overview": "After his mother\u2019s death, Zucchini is befriended by a kind police officer, Raymond, who accompanies him to his new foster home filled with other orphans his age. There, with the help of his newfound friends, Zucchini eventually learns to trust and love as he searches for a new family of his own.",
-            "popularity": 1.3358,
+            "popularity": 1.1588,
             "poster_path": "/2uu8fIzl76C9MFiUQhjKYSLKVq.jpg",
             "release_date": "2016-09-22",
             "title": "My Life as a Zucchini",
@@ -530,7 +596,10 @@
                 "Drama"
             ],
             "runtime": 66,
-            "tagline": "SOMETIMES WE CRY BECAUSE WE'RE HAPPY."
+            "tagline": "SOMETIMES WE CRY BECAUSE WE'RE HAPPY.",
+            "rank": 23,
+            "imdb_id": "tt2321405",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -539,7 +608,7 @@
             "original_language": "ja",
             "original_title": "\u30eb\u30d1\u30f3\u4e09\u4e16 \u30ab\u30ea\u30aa\u30b9\u30c8\u30ed\u306e\u57ce",
             "overview": "After a successful robbery leaves famed thief Lupin the Third and his partner Jigen with nothing but a large amount of expertly crafted counterfeit bills, he decides to track down the forgers responsible\u2014and steal any other treasures he may find in the Castle of Cagliostro, including the 'damsel in distress' he finds imprisoned there.",
-            "popularity": 2.9777,
+            "popularity": 3.0507,
             "poster_path": "/hSFdyWptoDHuXlFZGzIrfVell4Q.jpg",
             "release_date": "1979-07-06",
             "title": "The Castle of Cagliostro",
@@ -553,7 +622,10 @@
                 "Crime"
             ],
             "runtime": 102,
-            "tagline": "Believe in the Thief."
+            "tagline": "Believe in the Thief.",
+            "rank": 24,
+            "imdb_id": "tt0079833",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -562,20 +634,23 @@
             "original_language": "en",
             "original_title": "Happy Feet",
             "overview": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
-            "popularity": 6.5613,
+            "popularity": 6.3855,
             "poster_path": "/za41IHkj6LnkilfTzv5B2qmthKD.jpg",
             "release_date": "2006-11-16",
             "title": "Happy Feet",
             "video": false,
             "vote_average": 6.218,
-            "vote_count": 5349,
+            "vote_count": 5350,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Family"
             ],
             "runtime": 108,
-            "tagline": "WARNING: May Cause Toe-Tapping."
+            "tagline": "WARNING: May Cause Toe-Tapping.",
+            "rank": 25,
+            "imdb_id": "tt0366548",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -584,13 +659,13 @@
             "original_language": "en",
             "original_title": "The Princess and the Frog",
             "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
-            "popularity": 9.0898,
+            "popularity": 10.1516,
             "poster_path": "/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
             "release_date": "2009-12-08",
             "title": "The Princess and the Frog",
             "video": false,
             "vote_average": 7.217,
-            "vote_count": 5975,
+            "vote_count": 5977,
             "genres": [
                 "Animation",
                 "Romance",
@@ -598,7 +673,10 @@
                 "Family"
             ],
             "runtime": 98,
-            "tagline": "Every love story begins with a kiss..."
+            "tagline": "Every love story begins with a kiss...",
+            "rank": 26,
+            "imdb_id": "tt0780521",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -607,13 +685,13 @@
             "original_language": "en",
             "original_title": "Ice Age",
             "overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
-            "popularity": 12.7738,
+            "popularity": 13.7996,
             "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
             "release_date": "2002-03-14",
             "title": "Ice Age",
             "video": false,
             "vote_average": 7.367,
-            "vote_count": 13996,
+            "vote_count": 14001,
             "genres": [
                 "Animation",
                 "Comedy",
@@ -621,7 +699,10 @@
                 "Adventure"
             ],
             "runtime": 81,
-            "tagline": "They came. They thawed. They conquered."
+            "tagline": "They came. They thawed. They conquered.",
+            "rank": 27,
+            "imdb_id": "tt0268380",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -630,12 +711,12 @@
             "original_language": "en",
             "original_title": "Alice in Wonderland",
             "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
-            "popularity": 6.0451,
+            "popularity": 6.2621,
             "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
             "release_date": "1951-07-28",
             "title": "Alice in Wonderland",
             "video": false,
-            "vote_average": 7.19,
+            "vote_average": 7.2,
             "vote_count": 6148,
             "genres": [
                 "Animation",
@@ -644,7 +725,10 @@
                 "Adventure"
             ],
             "runtime": 75,
-            "tagline": "A world of wonders in one great picture!"
+            "tagline": "A world of wonders in one great picture!",
+            "rank": 28,
+            "imdb_id": "tt0043274",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -653,20 +737,23 @@
             "original_language": "ja",
             "original_title": "\u8033\u3092\u3059\u307e\u305b\u3070",
             "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'.",
-            "popularity": 3.7961,
+            "popularity": 3.4484,
             "poster_path": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
             "release_date": "1995-07-15",
             "title": "Whisper of the Heart",
             "video": false,
             "vote_average": 7.948,
-            "vote_count": 2200,
+            "vote_count": 2201,
             "genres": [
                 "Animation",
                 "Drama",
                 "Family"
             ],
             "runtime": 111,
-            "tagline": "I found someone I like."
+            "tagline": "I found someone I like.",
+            "rank": 29,
+            "imdb_id": "tt0113824",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -675,13 +762,13 @@
             "original_language": "en",
             "original_title": "Brave",
             "overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Merida's quest \u2014 and serving as comic relief \u2014 are the kingdom's three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
-            "popularity": 9.3925,
+            "popularity": 11.043,
             "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
             "release_date": "2012-06-21",
             "title": "Brave",
             "video": false,
             "vote_average": 7.02,
-            "vote_count": 13912,
+            "vote_count": 13917,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -691,7 +778,10 @@
                 "Fantasy"
             ],
             "runtime": 93,
-            "tagline": "Change your fate."
+            "tagline": "Change your fate.",
+            "rank": 30,
+            "imdb_id": "tt1217209",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -700,20 +790,23 @@
             "original_language": "en",
             "original_title": "Waking Life",
             "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
-            "popularity": 3.5531,
+            "popularity": 2.2424,
             "poster_path": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
             "release_date": "2001-10-19",
             "title": "Waking Life",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 918,
+            "vote_average": 7.472,
+            "vote_count": 919,
             "genres": [
                 "Animation",
                 "Drama",
                 "Fantasy"
             ],
             "runtime": 101,
-            "tagline": "Dreams. What are they? An escape from reality or reality itself?"
+            "tagline": "Dreams. What are they? An escape from reality or reality itself?",
+            "rank": 31,
+            "imdb_id": "tt0243017",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -722,7 +815,7 @@
             "original_language": "en",
             "original_title": "Peter Pan",
             "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
-            "popularity": 5.922,
+            "popularity": 6.0837,
             "poster_path": "/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
             "release_date": "1953-02-05",
             "title": "Peter Pan",
@@ -736,7 +829,10 @@
                 "Fantasy"
             ],
             "runtime": 77,
-            "tagline": "It will live in your heart forever!"
+            "tagline": "It will live in your heart forever!",
+            "rank": 32,
+            "imdb_id": "tt0046183",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -745,7 +841,7 @@
             "original_language": "en",
             "original_title": "My Dog Tulip",
             "overview": "The story of a man who rescues a German Shepherd and how the two become fast friends.  Based on the 1956 memoir of the same name by BBC editor, novelist and memoirist J. R. Ackerley.",
-            "popularity": 1.8014,
+            "popularity": 2.0092,
             "poster_path": "/8Q71A1mENLzE8jUlNe1HGybMJKW.jpg",
             "release_date": "2010-01-05",
             "title": "My Dog Tulip",
@@ -758,7 +854,10 @@
                 "Drama"
             ],
             "runtime": 83,
-            "tagline": "Sometimes, love really is a bitch."
+            "tagline": "Sometimes, love really is a bitch.",
+            "rank": 33,
+            "imdb_id": "tt0843358",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -767,20 +866,23 @@
             "original_language": "ja",
             "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85 \u30d6\u30ed\u30ea\u30fc",
             "overview": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' who they've never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what's this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.",
-            "popularity": 1.6407,
+            "popularity": 1.7128,
             "poster_path": "/5vx8zZ7fDsA8KMO6fiVs3pZmNWQ.jpg",
             "release_date": "2018-12-14",
             "title": "Dragon Ball Super: Broly",
             "video": false,
-            "vote_average": 7.904,
-            "vote_count": 3063,
+            "vote_average": 7.903,
+            "vote_count": 3064,
             "genres": [
                 "Action",
                 "Science Fiction",
                 "Animation"
             ],
             "runtime": 101,
-            "tagline": "A new adventure to become the strongest begins."
+            "tagline": "A new adventure to become the strongest begins.",
+            "rank": 34,
+            "imdb_id": "tt7961060",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -789,7 +891,7 @@
             "original_language": "fr",
             "original_title": "Tout en haut du monde",
             "overview": "In 1892 Saint Petersburg, when her explorer grandfather's failure to return from his latest expedition brings dishonour to her aristocratic family, a resilient teenager runs away to follow in his trail in search of his famed ship.",
-            "popularity": 4.1371,
+            "popularity": 3.4342,
             "poster_path": "/nh3ModvEfZhSzfylPFsPaxt2CjG.jpg",
             "release_date": "2015-12-10",
             "title": "Long Way North",
@@ -803,7 +905,10 @@
                 "Family"
             ],
             "runtime": 81,
-            "tagline": ""
+            "tagline": "",
+            "rank": 35,
+            "imdb_id": "tt2262345",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -812,19 +917,22 @@
             "original_language": "en",
             "original_title": "South Park: Bigger, Longer & Uncut",
             "overview": "In this feature film based on the hit animated series, the third graders of South Park sneak into an R-rated film by ultra-vulgar Canadian television personalities Terrance and Phillip, and emerge with expanded vocabularies that leave their parents and teachers scandalized. When outraged Americans try to censor the film, the controversy spirals into a call to wage war on Canada and Terrance and Phillip end up on death row, with the kids their only hope of rescue.",
-            "popularity": 3.1095,
+            "popularity": 3.0933,
             "poster_path": "/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
             "release_date": "1999-06-24",
             "title": "South Park: Bigger, Longer & Uncut",
             "video": false,
             "vote_average": 7.281,
-            "vote_count": 2860,
+            "vote_count": 2863,
             "genres": [
                 "Animation",
                 "Comedy"
             ],
             "runtime": 81,
-            "tagline": "Uh-oh."
+            "tagline": "Uh-oh.",
+            "rank": 36,
+            "imdb_id": "tt0158983",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -833,13 +941,13 @@
             "original_language": "en",
             "original_title": "Despicable Me",
             "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
-            "popularity": 11.2639,
+            "popularity": 11.2891,
             "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
             "release_date": "2010-07-08",
             "title": "Despicable Me",
             "video": false,
             "vote_average": 7.255,
-            "vote_count": 15775,
+            "vote_count": 15777,
             "genres": [
                 "Family",
                 "Comedy",
@@ -847,7 +955,10 @@
                 "Science Fiction"
             ],
             "runtime": 95,
-            "tagline": "Superbad. Superdad."
+            "tagline": "Superbad. Superdad.",
+            "rank": 37,
+            "imdb_id": "tt1323594",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -856,20 +967,23 @@
             "original_language": "en",
             "original_title": "Cloudy with a Chance of Meatballs",
             "overview": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
-            "popularity": 10.6261,
+            "popularity": 11.0853,
             "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
             "release_date": "2009-09-17",
             "title": "Cloudy with a Chance of Meatballs",
             "video": false,
-            "vote_average": 6.7,
-            "vote_count": 6313,
+            "vote_average": 6.654,
+            "vote_count": 6316,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Family"
             ],
             "runtime": 90,
-            "tagline": "Prepare to get served."
+            "tagline": "Prepare to get served.",
+            "rank": 38,
+            "imdb_id": "tt0844471",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -878,13 +992,13 @@
             "original_language": "en",
             "original_title": "Hercules",
             "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
-            "popularity": 8.2583,
+            "popularity": 8.7657,
             "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
             "release_date": "1997-06-13",
             "title": "Hercules",
             "video": false,
             "vote_average": 7.493,
-            "vote_count": 7791,
+            "vote_count": 7792,
             "genres": [
                 "Animation",
                 "Family",
@@ -894,7 +1008,10 @@
                 "Romance"
             ],
             "runtime": 93,
-            "tagline": "The man. The myth. The movie."
+            "tagline": "The man. The myth. The movie.",
+            "rank": 39,
+            "imdb_id": "tt0119282",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -903,7 +1020,7 @@
             "original_language": "ja",
             "original_title": "\u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240",
             "overview": "In a post-war alternative timeline, Japan is divided into the North, controlled by the Union, and the South, controlled by the United States. A mysterious high tower rises within the borders of the Union. Three high school students promise to cross the border with a self-built airplane and unravel the secret of the tower.",
-            "popularity": 4.0225,
+            "popularity": 4.3822,
             "poster_path": "/xlyJw6WmfLn378oz0ZmI0SYFoGb.jpg",
             "release_date": "2004-11-20",
             "title": "The Place Promised in Our Early Days",
@@ -917,7 +1034,10 @@
                 "Romance"
             ],
             "runtime": 90,
-            "tagline": "Against all odds, a promise will be kept."
+            "tagline": "Against all odds, a promise will be kept.",
+            "rank": 40,
+            "imdb_id": "tt0381348",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -926,7 +1046,7 @@
             "original_language": "zh",
             "original_title": "\u5927\u9c7c\u6d77\u68e0",
             "overview": "Beyond the human realm, there is a magical race of beings who control the tides and the changing of the seasons. One of these beings, a young girl named Chun, seeks something more\u2014she wants to experience the human world! At sixteen, she finally gets her chance and transforms into a dolphin in order to explore the world that has her fascinated. But she soon discovers that it's a dangerous place and nearly gets killed in a vortex. Luckily, her life is spared when a young boy sacrifices himself to save her. Moved by his kindness and courage, she uses magic to bring him back to life only to learn that this power comes at a serious price. On a new adventure, she\u2019ll have to make her own sacrifices in order to protect his soul until it is ready to return to the human world.",
-            "popularity": 1.5466,
+            "popularity": 1.3912,
             "poster_path": "/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg",
             "release_date": "2016-07-08",
             "title": "Big Fish & Begonia",
@@ -939,7 +1059,10 @@
                 "Fantasy"
             ],
             "runtime": 101,
-            "tagline": "Two worlds. One destiny."
+            "tagline": "Two worlds. One destiny.",
+            "rank": 41,
+            "imdb_id": "tt1920885",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -948,7 +1071,7 @@
             "original_language": "ja",
             "original_title": "\u30ab\u30a6\u30dc\u30fc\u30a4\u30d3\u30d0\u30c3\u30d7 \u5929\u56fd\u306e\u6249",
             "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
-            "popularity": 1.9596,
+            "popularity": 2.2182,
             "poster_path": "/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
             "release_date": "2001-09-01",
             "title": "Cowboy Bebop: The Movie",
@@ -961,7 +1084,10 @@
                 "Science Fiction"
             ],
             "runtime": 115,
-            "tagline": "They're here to save the planet. But not for free."
+            "tagline": "They're here to save the planet. But not for free.",
+            "rank": 42,
+            "imdb_id": "tt0275277",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -970,7 +1096,7 @@
             "original_language": "ja",
             "original_title": "\u591c\u306f\u77ed\u3057\u6b69\u3051\u3088\u4e59\u5973",
             "overview": "As a group of university students go out for a night on the town, a sophomore known only as \"The Girl with Black Hair\" experiences a series of surreal encounters with the local nightlife \u2013 all the while unaware of the romantic longings of \"Senpai\", a senior student who has been creating increasingly fantastic and contrived reasons to run into her in an effort to win her heart.",
-            "popularity": 1.2064,
+            "popularity": 1.1802,
             "poster_path": "/7kmsC5N0m9aNSN2K4TSt65aseLU.jpg",
             "release_date": "2017-04-07",
             "title": "Night Is Short, Walk On Girl",
@@ -984,7 +1110,10 @@
                 "Fantasy"
             ],
             "runtime": 93,
-            "tagline": "Meeting like this so often, it's due to fate."
+            "tagline": "Meeting like this so often, it's due to fate.",
+            "rank": 43,
+            "imdb_id": "tt6335734",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -993,13 +1122,13 @@
             "original_language": "en",
             "original_title": "Loving Vincent",
             "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
-            "popularity": 9.9869,
+            "popularity": 6.4989,
             "poster_path": "/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
             "release_date": "2017-06-22",
             "title": "Loving Vincent",
             "video": false,
             "vote_average": 7.99,
-            "vote_count": 2556,
+            "vote_count": 2557,
             "genres": [
                 "Animation",
                 "Drama",
@@ -1007,7 +1136,10 @@
                 "History"
             ],
             "runtime": 95,
-            "tagline": "The truth is, we cannot speak other than by our paintings."
+            "tagline": "The truth is, we cannot speak other than by our paintings.",
+            "rank": 44,
+            "imdb_id": "tt3262342",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1016,20 +1148,23 @@
             "original_language": "en",
             "original_title": "Tangled",
             "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
-            "popularity": 24.3033,
+            "popularity": 23.0483,
             "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
             "release_date": "2010-11-24",
             "title": "Tangled",
             "video": false,
             "vote_average": 7.611,
-            "vote_count": 12117,
+            "vote_count": 12118,
             "genres": [
                 "Animation",
                 "Family",
                 "Adventure"
             ],
             "runtime": 100,
-            "tagline": "They're taking adventure to new lengths."
+            "tagline": "They're taking adventure to new lengths.",
+            "rank": 45,
+            "imdb_id": "tt0398286",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1038,20 +1173,23 @@
             "original_language": "en",
             "original_title": "The Land Before Time",
             "overview": "An orphaned brontosaurus named Littlefoot sets off in search of the legendary Great Valley. A land of lush vegetation where the dinosaurs can thrive and live in peace. Along the way he meets four other young dinosaurs, each one a different species, and they encounter several obstacles as they learn to work together in order to survive.",
-            "popularity": 2.406,
+            "popularity": 2.5492,
             "poster_path": "/7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
             "release_date": "1988-11-18",
             "title": "The Land Before Time",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 2663,
+            "vote_average": 7.148,
+            "vote_count": 2664,
             "genres": [
                 "Family",
                 "Animation",
                 "Adventure"
             ],
             "runtime": 69,
-            "tagline": "A new adventure is born."
+            "tagline": "A new adventure is born.",
+            "rank": 46,
+            "imdb_id": "tt0095489",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1060,7 +1198,7 @@
             "original_language": "en",
             "original_title": "An American Tail",
             "overview": "A young mouse named Fievel and his family decide to migrate to America, a \"land without cats,\" at the turn of the 20th century. But somehow, Fievel ends up in the New World alone and must fend off not only the felines he never thought he'd have to deal with again but also the loneliness of being away from home.",
-            "popularity": 2.6316,
+            "popularity": 3.0683,
             "poster_path": "/wjhUy9af89vc9CviKcPgTNTrmIq.jpg",
             "release_date": "1986-11-21",
             "title": "An American Tail",
@@ -1075,7 +1213,10 @@
                 "Family"
             ],
             "runtime": 80,
-            "tagline": "Meet Fievel. In his search to find his family, he discovered America."
+            "tagline": "Meet Fievel. In his search to find his family, he discovered America.",
+            "rank": 47,
+            "imdb_id": "tt0090633",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1084,7 +1225,7 @@
             "original_language": "ja",
             "original_title": "\u30d0\u30f3\u30d1\u30a4\u30a2\u30cf\u30f3\u30bf\u30fcD",
             "overview": "In a far-future time ruled by the supernatural, a young girl requests the help of a vampire hunter to kill the vampire who has bitten her and thus prevent her from becoming a vampire herself.",
-            "popularity": 2.4029,
+            "popularity": 2.2751,
             "poster_path": "/yhKS0Wi6HNOHauWl0M3fr23hiB7.jpg",
             "release_date": "1985-12-21",
             "title": "Vampire Hunter D",
@@ -1097,7 +1238,10 @@
                 "Horror"
             ],
             "runtime": 80,
-            "tagline": "When our darkest dreams become real ...reality becomes a nightmare!"
+            "tagline": "When our darkest dreams become real ...reality becomes a nightmare!",
+            "rank": 48,
+            "imdb_id": "tt0090248",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1106,20 +1250,23 @@
             "original_language": "en",
             "original_title": "Kubo and the Two Strings",
             "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
-            "popularity": 2.9581,
+            "popularity": 2.9979,
             "poster_path": "/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
             "release_date": "2016-08-18",
             "title": "Kubo and the Two Strings",
             "video": false,
             "vote_average": 7.631,
-            "vote_count": 3736,
+            "vote_count": 3737,
             "genres": [
                 "Animation",
                 "Adventure",
                 "Family"
             ],
             "runtime": 102,
-            "tagline": "Be bold. Be brave. Be epic."
+            "tagline": "Be bold. Be brave. Be epic.",
+            "rank": 49,
+            "imdb_id": "tt4302938",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1128,7 +1275,7 @@
             "original_language": "en",
             "original_title": "Anomalisa",
             "overview": "An inspirational speaker becomes reinvigorated after meeting a lively woman who shakes up his mundane existence.",
-            "popularity": 2.8991,
+            "popularity": 3.6834,
             "poster_path": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
             "release_date": "2015-12-30",
             "title": "Anomalisa",
@@ -1142,7 +1289,10 @@
                 "Comedy"
             ],
             "runtime": 91,
-            "tagline": "Welcome to the Kaufman surreal-neorealism tale in a dull world of sameness."
+            "tagline": "Welcome to the Kaufman surreal-neorealism tale in a dull world of sameness.",
+            "rank": 50,
+            "imdb_id": "tt2401878",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1151,7 +1301,7 @@
             "original_language": "ja",
             "original_title": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba",
             "overview": "Teenage math whiz Kenji Koiso agrees to take a summer job at the Nagano hometown of his crush, Natsuki. When he arrives, he finds that her family have reunited to celebrate the 90th birthday of their matriarch. His job: pretend to be Natsuki's fianc\u00e9. Meanwhile, his attempt to solve a mathematical equation causes a parallel world's collision with Earth.",
-            "popularity": 2.2335,
+            "popularity": 2.0399,
             "poster_path": "/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
             "release_date": "2009-08-01",
             "title": "Summer Wars",
@@ -1163,7 +1313,10 @@
                 "Science Fiction"
             ],
             "runtime": 114,
-            "tagline": "Always protect your network."
+            "tagline": "Always protect your network.",
+            "rank": 51,
+            "imdb_id": "tt1474276",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1172,19 +1325,22 @@
             "original_language": "ja",
             "original_title": "PERFECT BLUE",
             "overview": "Rising pop star Mima quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
-            "popularity": 5.7076,
+            "popularity": 6.0358,
             "poster_path": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
             "release_date": "1998-02-28",
             "title": "Perfect Blue",
             "video": false,
-            "vote_average": 8.297,
-            "vote_count": 3027,
+            "vote_average": 8.3,
+            "vote_count": 3029,
             "genres": [
                 "Animation",
                 "Thriller"
             ],
             "runtime": 82,
-            "tagline": "\"excuse me... who are you?\""
+            "tagline": "\"excuse me... who are you?\"",
+            "rank": 52,
+            "imdb_id": "tt0156887",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1193,20 +1349,23 @@
             "original_language": "en",
             "original_title": "Mulan",
             "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
-            "popularity": 11.1094,
+            "popularity": 11.1238,
             "poster_path": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
             "release_date": "1998-06-18",
             "title": "Mulan",
             "video": false,
             "vote_average": 7.903,
-            "vote_count": 10228,
+            "vote_count": 10229,
             "genres": [
                 "Animation",
                 "Family",
                 "Adventure"
             ],
             "runtime": 88,
-            "tagline": "Courage. Family. Honor."
+            "tagline": "Courage. Family. Honor.",
+            "rank": 53,
+            "imdb_id": "tt0120762",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1215,20 +1374,23 @@
             "original_language": "en",
             "original_title": "Watership Down",
             "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
-            "popularity": 2.3836,
+            "popularity": 3.6823,
             "poster_path": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
             "release_date": "1978-10-14",
             "title": "Watership Down",
             "video": false,
-            "vote_average": 7.203,
-            "vote_count": 676,
+            "vote_average": 7.202,
+            "vote_count": 677,
             "genres": [
                 "Adventure",
                 "Animation",
                 "Drama"
             ],
             "runtime": 92,
-            "tagline": "All the world will be your enemy, Prince with a Thousand Enemies, and when they catch you, they will kill you... but first they must catch you."
+            "tagline": "All the world will be your enemy, Prince with a Thousand Enemies, and when they catch you, they will kill you... but first they must catch you.",
+            "rank": 54,
+            "imdb_id": "tt0078480",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1237,12 +1399,12 @@
             "original_language": "ja",
             "original_title": "\u30d1\u30d7\u30ea\u30ab",
             "overview": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it and recover it before damage is done: Paprika.",
-            "popularity": 5.7854,
+            "popularity": 5.5956,
             "poster_path": "/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
             "release_date": "2006-10-01",
             "title": "Paprika",
             "video": false,
-            "vote_average": 7.813,
+            "vote_average": 7.8,
             "vote_count": 2733,
             "genres": [
                 "Animation",
@@ -1250,7 +1412,10 @@
                 "Thriller"
             ],
             "runtime": 90,
-            "tagline": "This is your brain on anime."
+            "tagline": "This is your brain on anime.",
+            "rank": 55,
+            "imdb_id": "tt0851578",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1259,20 +1424,23 @@
             "original_language": "en",
             "original_title": "Lilo & Stitch",
             "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
-            "popularity": 7.6247,
+            "popularity": 8.7237,
             "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
             "release_date": "2002-06-21",
             "title": "Lilo & Stitch",
             "video": false,
-            "vote_average": 7.564,
-            "vote_count": 6927,
+            "vote_average": 7.563,
+            "vote_count": 6931,
             "genres": [
                 "Animation",
                 "Family",
                 "Comedy"
             ],
             "runtime": 85,
-            "tagline": "There's one in every family."
+            "tagline": "There's one in every family.",
+            "rank": 56,
+            "imdb_id": "tt0275847",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1281,7 +1449,7 @@
             "original_language": "it",
             "original_title": "Allegro non troppo",
             "overview": "The film is a parody of Disney's Fantasia, though possibly more of a challenge to Fantasia than parody status would imply. In the context of this film, \"Allegro non Troppo\" means Not So Fast!, an interjection meaning \"slow down\" or \"think before you act\" and refers to the film's pessimistic view of Western progress (as opposed to the optimism of Disney's original).",
-            "popularity": 1.2626,
+            "popularity": 1.5992,
             "poster_path": "/xRAnD7yd6Qx8NYXfoW5GN6K5jiC.jpg",
             "release_date": "1976-03-12",
             "title": "Allegro non troppo",
@@ -1296,7 +1464,10 @@
                 "Music"
             ],
             "runtime": 85,
-            "tagline": ""
+            "tagline": "",
+            "rank": 57,
+            "imdb_id": "tt0074121",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1305,20 +1476,23 @@
             "original_language": "en",
             "original_title": "The Sword in the Stone",
             "overview": "Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
-            "popularity": 3.5324,
+            "popularity": 4.1944,
             "poster_path": "/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
             "release_date": "1963-12-25",
             "title": "The Sword in the Stone",
             "video": false,
             "vote_average": 7.221,
-            "vote_count": 4020,
+            "vote_count": 4021,
             "genres": [
                 "Animation",
                 "Family",
                 "Fantasy"
             ],
             "runtime": 79,
-            "tagline": "Tired of living in a Medieval mess... Merlin uses all his magic powers to change a scrawny little boy into a legendary hero!"
+            "tagline": "Tired of living in a Medieval mess... Merlin uses all his magic powers to change a scrawny little boy into a legendary hero!",
+            "rank": 58,
+            "imdb_id": "tt0057546",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1327,20 +1501,23 @@
             "original_language": "ja",
             "original_title": "\u54c0\u3057\u307f\u306e\u30d9\u30e9\u30c9\u30f3\u30ca",
             "overview": "An evil feudal lord rapes a village girl on her wedding night and proceeds to ruin her and her husband's lives. After she's eventually banished from her village, the girl makes a pact with the devil to gain magical ability and take revenge.",
-            "popularity": 3.7321,
+            "popularity": 4.5088,
             "poster_path": "/2okYZVVw7RdMwlOKcAJsQ7Nsrpr.jpg",
             "release_date": "1973-06-30",
             "title": "Belladonna of Sadness",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 348,
+            "vote_average": 7.352,
+            "vote_count": 349,
             "genres": [
                 "Animation",
                 "Drama",
                 "Fantasy"
             ],
             "runtime": 87,
-            "tagline": "A soul wandering in love\u2026 Belladonna, a flower that blooms with the sap of tears\u2026"
+            "tagline": "A soul wandering in love\u2026 Belladonna, a flower that blooms with the sap of tears\u2026",
+            "rank": 59,
+            "imdb_id": "tt0071203",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1349,7 +1526,7 @@
             "original_language": "en",
             "original_title": "A Scanner Darkly",
             "overview": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
-            "popularity": 1.5925,
+            "popularity": 1.3305,
             "poster_path": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
             "release_date": "2006-07-07",
             "title": "A Scanner Darkly",
@@ -1362,7 +1539,10 @@
                 "Thriller"
             ],
             "runtime": 100,
-            "tagline": "Everything is not going to be OK."
+            "tagline": "Everything is not going to be OK.",
+            "rank": 60,
+            "imdb_id": "tt0405296",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1371,20 +1551,23 @@
             "original_language": "en",
             "original_title": "The Jungle Book",
             "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
-            "popularity": 6.884,
+            "popularity": 7.6453,
             "poster_path": "/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
             "release_date": "1967-10-18",
             "title": "The Jungle Book",
             "video": false,
             "vote_average": 7.277,
-            "vote_count": 6539,
+            "vote_count": 6540,
             "genres": [
                 "Family",
                 "Animation",
                 "Adventure"
             ],
             "runtime": 78,
-            "tagline": "The Jungle is JUMPIN'!"
+            "tagline": "The Jungle is JUMPIN'!",
+            "rank": 61,
+            "imdb_id": "tt0061852",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1393,19 +1576,22 @@
             "original_language": "fr",
             "original_title": "La Plan\u00e8te sauvage",
             "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-            "popularity": 1.8265,
+            "popularity": 1.5622,
             "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
             "release_date": "1973-12-01",
             "title": "Fantastic Planet",
             "video": false,
-            "vote_average": 7.629,
-            "vote_count": 1063,
+            "vote_average": 7.632,
+            "vote_count": 1064,
             "genres": [
                 "Animation",
                 "Science Fiction"
             ],
             "runtime": 72,
-            "tagline": "A sublime trip to a fine new world!"
+            "tagline": "A sublime trip to a fine new world!",
+            "rank": 62,
+            "imdb_id": "tt0070544",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1414,7 +1600,7 @@
             "original_language": "en",
             "original_title": "The Great Mouse Detective",
             "overview": "When the diabolical Professor Ratigan kidnaps London's master toymaker, the brilliant master of disguise Basil of Baker Street and his trusted sidekick Dawson try to elude the ultimate trap and foil the perfect crime.",
-            "popularity": 2.911,
+            "popularity": 3.0321,
             "poster_path": "/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
             "release_date": "1986-07-02",
             "title": "The Great Mouse Detective",
@@ -1428,7 +1614,10 @@
                 "Mystery"
             ],
             "runtime": 74,
-            "tagline": "London's crime-fighting ace on his most baffling case!"
+            "tagline": "London's crime-fighting ace on his most baffling case!",
+            "rank": 63,
+            "imdb_id": "tt0091149",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1437,12 +1626,12 @@
             "original_language": "en",
             "original_title": "The Secret of Kells",
             "overview": "Adventure awaits 12 year old Brendan who must fight Vikings and a serpent god to find a crystal and complete the legendary Book of Kells. In order to finish Brother Aiden's book, Brendan must overcome his deepest fears on a secret quest that will take him beyond the abbey walls and into the enchanted forest where dangerous mythical creatures hide. Will Brendan succeed in his quest?",
-            "popularity": 1.5915,
+            "popularity": 1.3748,
             "poster_path": "/vBymyj7QsXiW4TICD2JC5pAuBHO.jpg",
             "release_date": "2009-02-09",
             "title": "The Secret of Kells",
             "video": false,
-            "vote_average": 7.399,
+            "vote_average": 7.4,
             "vote_count": 757,
             "genres": [
                 "Animation",
@@ -1450,7 +1639,10 @@
                 "Fantasy"
             ],
             "runtime": 78,
-            "tagline": "Turn the darkness into light"
+            "tagline": "Turn the darkness into light",
+            "rank": 64,
+            "imdb_id": "tt0485601",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1459,13 +1651,13 @@
             "original_language": "en",
             "original_title": "Wreck-It Ralph",
             "overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
-            "popularity": 7.8323,
+            "popularity": 8.8926,
             "poster_path": "/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
             "release_date": "2012-11-01",
             "title": "Wreck-It Ralph",
             "video": false,
             "vote_average": 7.352,
-            "vote_count": 12839,
+            "vote_count": 12843,
             "genres": [
                 "Family",
                 "Animation",
@@ -1473,7 +1665,10 @@
                 "Adventure"
             ],
             "runtime": 101,
-            "tagline": "When the game is over, the fun begins."
+            "tagline": "When the game is over, the fun begins.",
+            "rank": 65,
+            "imdb_id": "tt1772341",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1482,7 +1677,7 @@
             "original_language": "en",
             "original_title": "How to Train Your Dragon: The Hidden World",
             "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\u2019 discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\u2019s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
-            "popularity": 8.7696,
+            "popularity": 10.2094,
             "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
             "release_date": "2019-01-03",
             "title": "How to Train Your Dragon: The Hidden World",
@@ -1495,7 +1690,10 @@
                 "Adventure"
             ],
             "runtime": 104,
-            "tagline": "Fly on your own. Find your way home."
+            "tagline": "Fly on your own. Find your way home.",
+            "rank": 66,
+            "imdb_id": "tt2386490",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1504,7 +1702,7 @@
             "original_language": "pt",
             "original_title": "O Menino e o Mundo",
             "overview": "Suffering because of his father's departure to the big city, a boy leaves his village and discovers a fantastic world dominated by bug-engines and strange beings. An unusual animation with various artistic techniques that portrays the issues of the modern world through the eyes of a child.",
-            "popularity": 0.4504,
+            "popularity": 0.3795,
             "poster_path": "/g5Lyl1LtntJ0zJfOGynGeRE9kED.jpg",
             "release_date": "2014-01-17",
             "title": "Boy & the World",
@@ -1518,7 +1716,10 @@
                 "Family"
             ],
             "runtime": 80,
-            "tagline": "Some dreams survive."
+            "tagline": "Some dreams survive.",
+            "rank": 67,
+            "imdb_id": "tt3183630",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1527,12 +1728,12 @@
             "original_language": "ja",
             "original_title": "\u6620\u753b \u8072\u306e\u5f62",
             "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
-            "popularity": 6.9348,
+            "popularity": 6.7364,
             "poster_path": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
             "release_date": "2016-09-17",
             "title": "A Silent Voice: The Movie",
             "video": false,
-            "vote_average": 8.382,
+            "vote_average": 8.4,
             "vote_count": 4326,
             "genres": [
                 "Animation",
@@ -1540,7 +1741,10 @@
                 "Romance"
             ],
             "runtime": 129,
-            "tagline": "Sometimes the answer is as simple as learning to listen."
+            "tagline": "Sometimes the answer is as simple as learning to listen.",
+            "rank": 68,
+            "imdb_id": "tt5323662",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1549,20 +1753,23 @@
             "original_language": "en",
             "original_title": "Isle of Dogs",
             "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
-            "popularity": 6.3453,
+            "popularity": 7.0875,
             "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
             "release_date": "2018-03-23",
             "title": "Isle of Dogs",
             "video": false,
             "vote_average": 7.844,
-            "vote_count": 5247,
+            "vote_count": 5249,
             "genres": [
                 "Adventure",
                 "Comedy",
                 "Animation"
             ],
             "runtime": 101,
-            "tagline": "Loyalty has a scent. And it smells like rebellion."
+            "tagline": "Loyalty has a scent. And it smells like rebellion.",
+            "rank": 69,
+            "imdb_id": "tt5104604",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1571,7 +1778,7 @@
             "original_language": "fr",
             "original_title": "Kirikou et la sorci\u00e8re",
             "overview": "Drawn from elements of West African folk tales, it depicts how a newborn boy, Kirikou, saves his village from the evil witch Karaba.",
-            "popularity": 1.1798,
+            "popularity": 1.0367,
             "poster_path": "/9RNrozaagFmpm6m0CP7q4XDcIXj.jpg",
             "release_date": "1998-12-09",
             "title": "Kirikou and the Sorceress",
@@ -1585,7 +1792,10 @@
                 "Family"
             ],
             "runtime": 71,
-            "tagline": "Can Kirikou save his village from a terrible curse?"
+            "tagline": "Can Kirikou save his village from a terrible curse?",
+            "rank": 70,
+            "imdb_id": "tt0181627",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1594,12 +1804,12 @@
             "original_language": "fr",
             "original_title": "Avril et le monde truqu\u00e9",
             "overview": "It's 1941, but France is trapped in the 19th Century, governed by steam and Napoleon V. Avril, a teenage girl, goes in search of her missing scientist parents.",
-            "popularity": 1.0306,
+            "popularity": 1.1615,
             "poster_path": "/cenqAhHFJRGf08L8rgvHTlFrLuL.jpg",
             "release_date": "2015-11-04",
             "title": "April and the Extraordinary World",
             "video": false,
-            "vote_average": 7.07,
+            "vote_average": 7.1,
             "vote_count": 350,
             "genres": [
                 "Thriller",
@@ -1610,7 +1820,10 @@
                 "Science Fiction"
             ],
             "runtime": 106,
-            "tagline": ""
+            "tagline": "",
+            "rank": 71,
+            "imdb_id": "tt3422078",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1619,7 +1832,7 @@
             "original_language": "en",
             "original_title": "The Secret of NIMH",
             "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
-            "popularity": 2.0171,
+            "popularity": 1.921,
             "poster_path": "/prNrnOKlkV9wl5Sl3zwHu1f3t2z.jpg",
             "release_date": "1982-06-17",
             "title": "The Secret of NIMH",
@@ -1634,7 +1847,10 @@
                 "Mystery"
             ],
             "runtime": 83,
-            "tagline": "Right before your eyes, and beyond your wildest dreams."
+            "tagline": "Right before your eyes, and beyond your wildest dreams.",
+            "rank": 72,
+            "imdb_id": "tt0084649",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1643,7 +1859,7 @@
             "original_language": "fr",
             "original_title": "Les Triplettes de Belleville",
             "overview": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters\u2014an aged song-and-dance team from the days of Fred Astaire\u2014to rescue him.",
-            "popularity": 1.759,
+            "popularity": 1.548,
             "poster_path": "/enw6C4fDw88g0nOQgIJXjgH3NHi.jpg",
             "release_date": "2003-06-11",
             "title": "The Triplets of Belleville",
@@ -1657,7 +1873,10 @@
                 "Family"
             ],
             "runtime": 80,
-            "tagline": "Get your hands together for The Triplets of Belleville!"
+            "tagline": "Get your hands together for The Triplets of Belleville!",
+            "rank": 73,
+            "imdb_id": "tt0286244",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1666,7 +1885,7 @@
             "original_language": "en",
             "original_title": "Lady and the Tramp",
             "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
-            "popularity": 5.0341,
+            "popularity": 5.2773,
             "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
             "release_date": "1955-06-22",
             "title": "Lady and the Tramp",
@@ -1681,7 +1900,10 @@
                 "Comedy"
             ],
             "runtime": 76,
-            "tagline": "She's from the leash and license set... he's footloose and collar free!"
+            "tagline": "She's from the leash and license set... he's footloose and collar free!",
+            "rank": 74,
+            "imdb_id": "tt0048280",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1690,20 +1912,23 @@
             "original_language": "en",
             "original_title": "Coraline",
             "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
-            "popularity": 13.358,
+            "popularity": 14.7232,
             "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
             "release_date": "2009-02-05",
             "title": "Coraline",
             "video": false,
             "vote_average": 7.9,
-            "vote_count": 8736,
+            "vote_count": 8741,
             "genres": [
                 "Animation",
                 "Family",
                 "Fantasy"
             ],
             "runtime": 100,
-            "tagline": "Be careful what you wish for."
+            "tagline": "Be careful what you wish for.",
+            "rank": 75,
+            "imdb_id": "tt0327597",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1712,7 +1937,7 @@
             "original_language": "en",
             "original_title": "The Breadwinner",
             "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
-            "popularity": 1.5197,
+            "popularity": 2.215,
             "poster_path": "/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
             "release_date": "2017-11-17",
             "title": "The Breadwinner",
@@ -1726,7 +1951,10 @@
                 "Family"
             ],
             "runtime": 94,
-            "tagline": ""
+            "tagline": "",
+            "rank": 76,
+            "imdb_id": "tt3901826",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1735,13 +1963,13 @@
             "original_language": "en",
             "original_title": "The Emperor's New Groove",
             "overview": "Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne and his human form with the help of Pacha, a gentle llama herder.",
-            "popularity": 9.8445,
+            "popularity": 9.6414,
             "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
             "release_date": "2000-12-15",
             "title": "The Emperor's New Groove",
             "video": false,
             "vote_average": 7.558,
-            "vote_count": 7138,
+            "vote_count": 7139,
             "genres": [
                 "Adventure",
                 "Animation",
@@ -1750,7 +1978,10 @@
                 "Fantasy"
             ],
             "runtime": 78,
-            "tagline": "It's all about... ME!"
+            "tagline": "It's all about... ME!",
+            "rank": 77,
+            "imdb_id": "tt0120917",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1759,13 +1990,13 @@
             "original_language": "en",
             "original_title": "How to Train Your Dragon 2",
             "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Now, Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
-            "popularity": 10.8655,
+            "popularity": 10.7212,
             "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
             "release_date": "2014-06-05",
             "title": "How to Train Your Dragon 2",
             "video": false,
             "vote_average": 7.677,
-            "vote_count": 10196,
+            "vote_count": 10199,
             "genres": [
                 "Fantasy",
                 "Action",
@@ -1775,7 +2006,10 @@
                 "Family"
             ],
             "runtime": 102,
-            "tagline": ""
+            "tagline": "",
+            "rank": 78,
+            "imdb_id": "tt1646971",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1784,13 +2018,13 @@
             "original_language": "en",
             "original_title": "Frozen",
             "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
-            "popularity": 17.1839,
+            "popularity": 19.348,
             "poster_path": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
             "release_date": "2013-11-20",
             "title": "Frozen",
             "video": false,
             "vote_average": 7.248,
-            "vote_count": 17279,
+            "vote_count": 17284,
             "genres": [
                 "Animation",
                 "Family",
@@ -1798,7 +2032,10 @@
                 "Fantasy"
             ],
             "runtime": 102,
-            "tagline": "Who will save the day? The ice guy? The nice guy? The snow man? Or no man?"
+            "tagline": "Who will save the day? The ice guy? The nice guy? The snow man? Or no man?",
+            "rank": 79,
+            "imdb_id": "tt2294629",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1807,13 +2044,13 @@
             "original_language": "ja",
             "original_title": "\u98a8\u7acb\u3061\u306c",
             "overview": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
-            "popularity": 3.437,
+            "popularity": 3.7457,
             "poster_path": "/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg",
             "release_date": "2013-07-20",
             "title": "The Wind Rises",
             "video": false,
             "vote_average": 7.793,
-            "vote_count": 3259,
+            "vote_count": 3260,
             "genres": [
                 "Drama",
                 "Animation",
@@ -1822,7 +2059,10 @@
                 "History"
             ],
             "runtime": 126,
-            "tagline": "We must live."
+            "tagline": "We must live.",
+            "rank": 80,
+            "imdb_id": "tt2013293",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1831,7 +2071,7 @@
             "original_language": "he",
             "original_title": "\u05d5\u05d0\u05dc\u05e1 \u05e2\u05dd \u05d1\u05d0\u05e9\u05d9\u05e8",
             "overview": "An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
-            "popularity": 2.7509,
+            "popularity": 2.9699,
             "poster_path": "/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg",
             "release_date": "2008-06-12",
             "title": "Waltz with Bashir",
@@ -1845,7 +2085,10 @@
                 "Documentary"
             ],
             "runtime": 90,
-            "tagline": "One man's journey to uncover his past."
+            "tagline": "One man's journey to uncover his past.",
+            "rank": 81,
+            "imdb_id": "tt1185616",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1854,7 +2097,7 @@
             "original_language": "ja",
             "original_title": "\u65b0\u4e16\u7d00\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5287\u5834\u7248 Air\uff0f\u307e\u3054\u3053\u308d\u3092\u3001\u541b\u306b",
             "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
-            "popularity": 7.057,
+            "popularity": 5.9491,
             "poster_path": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
             "release_date": "1997-07-19",
             "title": "Neon Genesis Evangelion: The End of Evangelion",
@@ -1868,7 +2111,10 @@
                 "Fantasy"
             ],
             "runtime": 87,
-            "tagline": "The fate of destruction is also the joy of rebirth."
+            "tagline": "The fate of destruction is also the joy of rebirth.",
+            "rank": 82,
+            "imdb_id": "tt0169858",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1877,13 +2123,13 @@
             "original_language": "en",
             "original_title": "Cinderella",
             "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
-            "popularity": 9.5804,
+            "popularity": 10.1261,
             "poster_path": "/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
             "release_date": "1950-02-22",
             "title": "Cinderella",
             "video": false,
             "vote_average": 7.045,
-            "vote_count": 7007,
+            "vote_count": 7008,
             "genres": [
                 "Family",
                 "Fantasy",
@@ -1891,7 +2137,10 @@
                 "Romance"
             ],
             "runtime": 74,
-            "tagline": "The greatest love story ever told."
+            "tagline": "The greatest love story ever told.",
+            "rank": 83,
+            "imdb_id": "tt0042332",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1900,12 +2149,12 @@
             "original_language": "en",
             "original_title": "Fantasia",
             "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
-            "popularity": 3.7619,
+            "popularity": 3.5994,
             "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
             "release_date": "1940-11-13",
             "title": "Fantasia",
             "video": false,
-            "vote_average": 7.343,
+            "vote_average": 7.3,
             "vote_count": 3245,
             "genres": [
                 "Animation",
@@ -1913,7 +2162,10 @@
                 "Fantasy"
             ],
             "runtime": 124,
-            "tagline": "The most sensational sound you'll ever see!"
+            "tagline": "The most sensational sound you'll ever see!",
+            "rank": 84,
+            "imdb_id": "tt0032455",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1922,7 +2174,7 @@
             "original_language": "en",
             "original_title": "One Hundred and One Dalmatians",
             "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
-            "popularity": 6.1869,
+            "popularity": 7.0333,
             "poster_path": "/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
             "release_date": "1961-01-25",
             "title": "One Hundred and One Dalmatians",
@@ -1936,7 +2188,10 @@
                 "Family"
             ],
             "runtime": 79,
-            "tagline": "The Canine Caper of the Century"
+            "tagline": "The Canine Caper of the Century",
+            "rank": 85,
+            "imdb_id": "tt0055254",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1945,7 +2200,7 @@
             "original_language": "en",
             "original_title": "Yellow Submarine",
             "overview": "The wicked Blue Meanies take over Pepperland, eliminating all color and music. As the only survivor, the Lord Admiral escapes in the yellow submarine and journeys to Liverpool to enlist the help of the Beatles.",
-            "popularity": 2.46,
+            "popularity": 3.1677,
             "poster_path": "/1pmeLKaLFNggcsAk5FiouIvo3ST.jpg",
             "release_date": "1968-07-17",
             "title": "Yellow Submarine",
@@ -1960,7 +2215,10 @@
                 "Fantasy"
             ],
             "runtime": 90,
-            "tagline": "It's all in the mind y'know!"
+            "tagline": "It's all in the mind y'know!",
+            "rank": 86,
+            "imdb_id": "tt0063823",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -1969,7 +2227,7 @@
             "original_language": "ja",
             "original_title": "\u304a\u3082\u3072\u3067\u307d\u308d\u307d\u308d",
             "overview": "In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
-            "popularity": 2.2398,
+            "popularity": 2.5116,
             "poster_path": "/tOSnFE9e82iH3ZAzSTtuOkBsabJ.jpg",
             "release_date": "1991-07-20",
             "title": "Only Yesterday",
@@ -1982,22 +2240,25 @@
                 "Romance"
             ],
             "runtime": 119,
-            "tagline": "I'm going on a trip with Me."
+            "tagline": "I'm going on a trip with Me.",
+            "rank": 87,
+            "imdb_id": "tt0102587",
+            "status": "Released"
         },
         {
             "adult": false,
-            "backdrop_path": "/m67smI1IIMmYzCl9axvKNULVKLr.jpg",
+            "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
             "id": 301528,
             "original_language": "en",
             "original_title": "Toy Story 4",
             "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
-            "popularity": 7.0763,
+            "popularity": 7.6208,
             "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
             "release_date": "2019-06-19",
             "title": "Toy Story 4",
             "video": false,
-            "vote_average": 7.469,
-            "vote_count": 10297,
+            "vote_average": 7.5,
+            "vote_count": 10298,
             "genres": [
                 "Family",
                 "Comedy",
@@ -2005,7 +2266,10 @@
                 "Adventure"
             ],
             "runtime": 100,
-            "tagline": "Get ready to hit the road!"
+            "tagline": "Get ready to hit the road!",
+            "rank": 88,
+            "imdb_id": "tt1979376",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2014,13 +2278,13 @@
             "original_language": "en",
             "original_title": "The Lego Movie",
             "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
-            "popularity": 5.2988,
+            "popularity": 5.085,
             "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
             "release_date": "2014-02-06",
             "title": "The Lego Movie",
             "video": false,
             "vote_average": 7.422,
-            "vote_count": 8257,
+            "vote_count": 8259,
             "genres": [
                 "Animation",
                 "Family",
@@ -2029,7 +2293,10 @@
                 "Fantasy"
             ],
             "runtime": 100,
-            "tagline": "The story of a nobody who saved everybody."
+            "tagline": "The story of a nobody who saved everybody.",
+            "rank": 89,
+            "imdb_id": "tt1490017",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2038,13 +2305,13 @@
             "original_language": "ja",
             "original_title": "\u7d05\u306e\u8c5a",
             "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
-            "popularity": 4.2615,
+            "popularity": 3.7179,
             "poster_path": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
             "release_date": "1992-07-18",
             "title": "Porco Rosso",
             "video": false,
-            "vote_average": 7.795,
-            "vote_count": 3591,
+            "vote_average": 7.794,
+            "vote_count": 3592,
             "genres": [
                 "Family",
                 "Comedy",
@@ -2053,7 +2320,10 @@
                 "Fantasy"
             ],
             "runtime": 93,
-            "tagline": "Can a pig really fly?"
+            "tagline": "Can a pig really fly?",
+            "rank": 90,
+            "imdb_id": "tt0104652",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2062,7 +2332,7 @@
             "original_language": "en",
             "original_title": "Dumbo",
             "overview": "Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse,  the pint-sized pachyderm learns to surmount all obstacles.",
-            "popularity": 6.6602,
+            "popularity": 7.5712,
             "poster_path": "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
             "release_date": "1941-10-31",
             "title": "Dumbo",
@@ -2074,7 +2344,10 @@
                 "Family"
             ],
             "runtime": 64,
-            "tagline": "The One...The Only...The FABULOUS..."
+            "tagline": "The One...The Only...The FABULOUS...",
+            "rank": 91,
+            "imdb_id": "tt0033563",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2083,13 +2356,13 @@
             "original_language": "en",
             "original_title": "Shrek",
             "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-            "popularity": 23.8021,
+            "popularity": 22.0621,
             "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
             "release_date": "2001-05-18",
             "title": "Shrek",
             "video": false,
             "vote_average": 7.755,
-            "vote_count": 18286,
+            "vote_count": 18289,
             "genres": [
                 "Animation",
                 "Comedy",
@@ -2098,7 +2371,10 @@
                 "Family"
             ],
             "runtime": 90,
-            "tagline": "The greatest fairy tale never told."
+            "tagline": "The greatest fairy tale never told.",
+            "rank": 92,
+            "imdb_id": "tt0126029",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2107,7 +2383,7 @@
             "original_language": "en",
             "original_title": "Sleeping Beauty",
             "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
-            "popularity": 4.7866,
+            "popularity": 5.9173,
             "poster_path": "/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg",
             "release_date": "1959-02-17",
             "title": "Sleeping Beauty",
@@ -2121,7 +2397,10 @@
                 "Family"
             ],
             "runtime": 75,
-            "tagline": "Awaken to a World of Wonders!"
+            "tagline": "Awaken to a World of Wonders!",
+            "rank": 93,
+            "imdb_id": "tt0053285",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2130,13 +2409,13 @@
             "original_language": "en",
             "original_title": "Moana",
             "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
-            "popularity": 2.554,
+            "popularity": 2.7252,
             "poster_path": "/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
             "release_date": "2016-10-13",
             "title": "Moana",
             "video": false,
             "vote_average": 7.564,
-            "vote_count": 13475,
+            "vote_count": 13480,
             "genres": [
                 "Adventure",
                 "Comedy",
@@ -2144,7 +2423,10 @@
                 "Animation"
             ],
             "runtime": 107,
-            "tagline": "The ocean is calling."
+            "tagline": "The ocean is calling.",
+            "rank": 94,
+            "imdb_id": "tt3521164",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2152,14 +2434,14 @@
             "id": 9502,
             "original_language": "en",
             "original_title": "Kung Fu Panda",
-            "overview": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
-            "popularity": 14.627,
+            "overview": "Chosen by prophecy but doubted by all, Po is an unlikely Dragon Warrior\u2014a clumsy panda thrust into the world of kung fu as a deadly enemy threatens the Valley of Peace. Guided by Master Shifu and the Furious Five, Po must embrace who he is to unlock the power that no scroll can teach.",
+            "popularity": 13.7576,
             "poster_path": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
             "release_date": "2008-06-04",
             "title": "Kung Fu Panda",
             "video": false,
             "vote_average": 7.312,
-            "vote_count": 12313,
+            "vote_count": 12317,
             "genres": [
                 "Animation",
                 "Family",
@@ -2168,7 +2450,10 @@
                 "Adventure"
             ],
             "runtime": 90,
-            "tagline": "Prepare for awesomeness."
+            "tagline": "Prepare for awesomeness.",
+            "rank": 95,
+            "imdb_id": "tt0441773",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2177,20 +2462,23 @@
             "original_language": "en",
             "original_title": "Toy Story 2",
             "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
-            "popularity": 16.4337,
+            "popularity": 19.7249,
             "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
             "release_date": "1999-10-30",
             "title": "Toy Story 2",
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 14564,
+            "vote_average": 7.604,
+            "vote_count": 14568,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Family"
             ],
             "runtime": 92,
-            "tagline": "The toys are back!"
+            "tagline": "The toys are back!",
+            "rank": 96,
+            "imdb_id": "tt0120363",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2199,13 +2487,13 @@
             "original_language": "en",
             "original_title": "Zootopia",
             "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
-            "popularity": 40.1944,
+            "popularity": 42.2888,
             "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
             "release_date": "2016-02-11",
             "title": "Zootopia",
             "video": false,
             "vote_average": 7.758,
-            "vote_count": 17513,
+            "vote_count": 17528,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -2213,7 +2501,10 @@
                 "Comedy"
             ],
             "runtime": 109,
-            "tagline": "Welcome to the urban jungle."
+            "tagline": "Welcome to the urban jungle.",
+            "rank": 97,
+            "imdb_id": "tt2948356",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2222,13 +2513,13 @@
             "original_language": "ja",
             "original_title": "\u9b54\u5973\u306e\u5b85\u6025\u4fbf",
             "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
-            "popularity": 5.5029,
+            "popularity": 5.7411,
             "poster_path": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
             "release_date": "1989-07-29",
             "title": "Kiki's Delivery Service",
             "video": false,
-            "vote_average": 7.83,
-            "vote_count": 4428,
+            "vote_average": 7.8,
+            "vote_count": 4429,
             "genres": [
                 "Animation",
                 "Family",
@@ -2236,7 +2527,10 @@
                 "Drama"
             ],
             "runtime": 103,
-            "tagline": "I was feeling blue, but I'm better now."
+            "tagline": "I was feeling blue, but I'm better now.",
+            "rank": 98,
+            "imdb_id": "tt0097814",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2245,7 +2539,7 @@
             "original_language": "ja",
             "original_title": "\u7363\u5175\u885b\u5fcd\u98a8\u5e16",
             "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold\u2014or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways\u2014and possibly his life.",
-            "popularity": 2.6701,
+            "popularity": 2.494,
             "poster_path": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
             "release_date": "1993-06-05",
             "title": "Ninja Scroll",
@@ -2259,7 +2553,10 @@
                 "Action"
             ],
             "runtime": 94,
-            "tagline": "Feudal Japan\u2014a time of danger, intrigue and deception .\u00a0.\u00a0."
+            "tagline": "Feudal Japan\u2014a time of danger, intrigue and deception .\u00a0.\u00a0.",
+            "rank": 99,
+            "imdb_id": "tt0107692",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2268,7 +2565,7 @@
             "original_language": "en",
             "original_title": "Bambi",
             "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
-            "popularity": 6.0042,
+            "popularity": 6.0864,
             "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
             "release_date": "1942-08-14",
             "title": "Bambi",
@@ -2281,7 +2578,10 @@
                 "Family"
             ],
             "runtime": 69,
-            "tagline": "Love Comes To The Forest Folk . . . and to you, in one of the world's greatest love stories!"
+            "tagline": "Love Comes To The Forest Folk . . . and to you, in one of the world's greatest love stories!",
+            "rank": 100,
+            "imdb_id": "tt0034492",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2290,40 +2590,48 @@
             "original_language": "en",
             "original_title": "Monsters, Inc.",
             "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
-            "popularity": 18.0716,
+            "popularity": 17.737,
             "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
             "release_date": "2001-11-01",
             "title": "Monsters, Inc.",
             "video": false,
             "vote_average": 7.847,
-            "vote_count": 19381,
+            "vote_count": 19386,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Family"
             ],
             "runtime": 92,
-            "tagline": "It's nothing personal. It's just their job."
+            "tagline": "It's nothing personal. It's just their job.",
+            "rank": 101,
+            "imdb_id": "tt0198781",
+            "status": "Released"
         },
         {
             "adult": false,
-            "backdrop_path": "/cYCLGaaPbd5R7z6dYaVbkJ781Vi.jpg",
-            "id": 1477838,
+            "backdrop_path": "/16lk65YfrDFIr6evkWRjSeOOSws.jpg",
+            "id": 9479,
             "original_language": "en",
-            "original_title": "The Making of Tim Burton's 'The Nightmare Before Christmas'",
-            "overview": "Cast and crew take viewers behind the scenes into the production and creation of his 1993 stop-motion classic The Nightmare Before Christmas",
-            "popularity": 0.1971,
-            "poster_path": "/JjH2KjQFF1blbnUS5ju6G4HN4U.jpg",
-            "release_date": "1993-10-03",
-            "title": "The Making of Tim Burton's 'The Nightmare Before Christmas'",
+            "original_title": "The Nightmare Before Christmas",
+            "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+            "popularity": 7.7621,
+            "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+            "release_date": "1993-10-09",
+            "title": "The Nightmare Before Christmas",
             "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0,
+            "vote_average": 7.833,
+            "vote_count": 10126,
             "genres": [
-                "Documentary"
+                "Fantasy",
+                "Animation",
+                "Family"
             ],
-            "runtime": 24,
-            "tagline": ""
+            "runtime": 76,
+            "tagline": "",
+            "rank": 102,
+            "imdb_id": "tt0107688",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2332,13 +2640,13 @@
             "original_language": "en",
             "original_title": "Batman: Mask of the Phantasm",
             "overview": "Andrea Beaumont leaves her father to return to Gotham, rekindling an old romance with Bruce Wayne. At the same time, a mysterious figure begins to hunt down Gotham's criminals, wrongly implicating Batman in the murders. Now on the run from the law, Batman must find and stop the culprit, while also navigating his relationship with Andrea.",
-            "popularity": 3.0244,
+            "popularity": 2.5347,
             "poster_path": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
             "release_date": "1993-12-25",
             "title": "Batman: Mask of the Phantasm",
             "video": false,
-            "vote_average": 7.5,
-            "vote_count": 1208,
+            "vote_average": 7.489,
+            "vote_count": 1209,
             "genres": [
                 "Action",
                 "Animation",
@@ -2348,7 +2656,10 @@
                 "Romance"
             ],
             "runtime": 76,
-            "tagline": "The Dark Knight fights to save Gotham city from its deadliest enemy."
+            "tagline": "The Dark Knight fights to save Gotham city from its deadliest enemy.",
+            "rank": 103,
+            "imdb_id": "tt0106364",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2357,19 +2668,22 @@
             "original_language": "fr",
             "original_title": "Persepolis",
             "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-            "popularity": 2.3386,
+            "popularity": 2.5248,
             "poster_path": "/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
             "release_date": "2007-06-27",
             "title": "Persepolis",
             "video": false,
-            "vote_average": 7.888,
-            "vote_count": 2073,
+            "vote_average": 7.887,
+            "vote_count": 2077,
             "genres": [
                 "Animation",
                 "Drama"
             ],
             "runtime": 95,
-            "tagline": "The film Iran didn't want the world to see."
+            "tagline": "The film Iran didn't want the world to see.",
+            "rank": 104,
+            "imdb_id": "tt0808417",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2378,7 +2692,7 @@
             "original_language": "en",
             "original_title": "Song of the Sea",
             "overview": "The story of the last Seal Child\u2019s journey home. After their mother\u2019s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother\u2019s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
-            "popularity": 2.9872,
+            "popularity": 4.2251,
             "poster_path": "/16LQC6zpqB0l74mVWb93a2oMFnX.jpg",
             "release_date": "2014-06-23",
             "title": "Song of the Sea",
@@ -2391,7 +2705,10 @@
                 "Fantasy"
             ],
             "runtime": 94,
-            "tagline": "Let the song of the sea sway your heart..."
+            "tagline": "Let the song of the sea sway your heart...",
+            "rank": 105,
+            "imdb_id": "tt1865505",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2400,20 +2717,23 @@
             "original_language": "en",
             "original_title": "Mary and Max",
             "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
-            "popularity": 3.5041,
+            "popularity": 3.691,
             "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
             "release_date": "2009-04-09",
             "title": "Mary and Max",
             "video": false,
-            "vote_average": 7.882,
-            "vote_count": 2171,
+            "vote_average": 7.879,
+            "vote_count": 2174,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Drama"
             ],
             "runtime": 92,
-            "tagline": "Sometimes perfect strangers make the best friends."
+            "tagline": "Sometimes perfect strangers make the best friends.",
+            "rank": 106,
+            "imdb_id": "tt0978762",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2422,7 +2742,7 @@
             "original_language": "ja",
             "original_title": "\u304b\u3050\u3084\u59eb\u306e\u7269\u8a9e",
             "overview": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.",
-            "popularity": 4.9662,
+            "popularity": 5.0913,
             "poster_path": "/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
             "release_date": "2013-11-23",
             "title": "The Tale of The Princess Kaguya",
@@ -2435,7 +2755,10 @@
                 "Fantasy"
             ],
             "runtime": 137,
-            "tagline": "A princess's crime and punishment."
+            "tagline": "A princess's crime and punishment.",
+            "rank": 107,
+            "imdb_id": "tt2576852",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2444,13 +2767,13 @@
             "original_language": "ja",
             "original_title": "\u5929\u7a7a\u306e\u57ce\u30e9\u30d4\u30e5\u30bf",
             "overview": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
-            "popularity": 6.2254,
+            "popularity": 6.5062,
             "poster_path": "/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
             "release_date": "1986-08-02",
             "title": "Castle in the Sky",
             "video": false,
-            "vote_average": 7.966,
-            "vote_count": 4547,
+            "vote_average": 8,
+            "vote_count": 4548,
             "genres": [
                 "Adventure",
                 "Fantasy",
@@ -2459,7 +2782,10 @@
                 "Family"
             ],
             "runtime": 125,
-            "tagline": "One day, a girl came down from the sky\u2026"
+            "tagline": "One day, a girl came down from the sky\u2026",
+            "rank": 108,
+            "imdb_id": "tt0092067",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2468,19 +2794,22 @@
             "original_language": "en",
             "original_title": "Finding Nemo",
             "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
-            "popularity": 13.3032,
+            "popularity": 14.1462,
             "poster_path": "/axyrDKJmQpynKOESqxO2wKmhj9n.jpg",
             "release_date": "2003-05-30",
             "title": "Finding Nemo",
             "video": false,
             "vote_average": 7.817,
-            "vote_count": 20174,
+            "vote_count": 20178,
             "genres": [
                 "Animation",
                 "Family"
             ],
             "runtime": 100,
-            "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one."
+            "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+            "rank": 109,
+            "imdb_id": "tt0266543",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2489,42 +2818,48 @@
             "original_language": "ja",
             "original_title": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab",
             "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausica\u00e4, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
-            "popularity": 6.7713,
+            "popularity": 6.4066,
             "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
             "release_date": "1984-03-11",
             "title": "Nausica\u00e4 of the Valley of the Wind",
             "video": false,
-            "vote_average": 7.948,
-            "vote_count": 3933,
+            "vote_average": 7.947,
+            "vote_count": 3935,
             "genres": [
                 "Adventure",
                 "Animation",
                 "Fantasy"
             ],
             "runtime": 117,
-            "tagline": "A young girl's love called forth miracles\u2026"
+            "tagline": "A young girl's love called forth miracles\u2026",
+            "rank": 110,
+            "imdb_id": "tt0087544",
+            "status": "Released"
         },
         {
             "adult": false,
-            "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+            "backdrop_path": "/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
             "id": 10193,
             "original_language": "en",
             "original_title": "Toy Story 3",
             "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
-            "popularity": 11.8184,
+            "popularity": 12.5564,
             "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
             "release_date": "2010-06-16",
             "title": "Toy Story 3",
             "video": false,
             "vote_average": 7.804,
-            "vote_count": 15388,
+            "vote_count": 15393,
             "genres": [
                 "Animation",
                 "Family",
                 "Comedy"
             ],
             "runtime": 102,
-            "tagline": "No toy gets left behind."
+            "tagline": "No toy gets left behind.",
+            "rank": 111,
+            "imdb_id": "tt0435761",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2533,13 +2868,13 @@
             "original_language": "en",
             "original_title": "Ratatouille",
             "overview": "Remy, a resident of Paris, has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, Remy finds himself ideally placed to realize his dream. He forms an unusual alliance with the restaurants rookie employee, and together they work through challenges stemming from Head Chef Skinner, Remy\u2019s colony, and renowned food critic Anton Ego, who strikes fear in the hearts of chefs all throughout France.",
-            "popularity": 16.0818,
+            "popularity": 16.3883,
             "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
             "release_date": "2007-06-28",
             "title": "Ratatouille",
             "video": false,
             "vote_average": 7.835,
-            "vote_count": 18078,
+            "vote_count": 18086,
             "genres": [
                 "Animation",
                 "Comedy",
@@ -2547,7 +2882,10 @@
                 "Fantasy"
             ],
             "runtime": 111,
-            "tagline": "He's dying to become a chef."
+            "tagline": "He's dying to become a chef.",
+            "rank": 112,
+            "imdb_id": "tt0382932",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2556,20 +2894,23 @@
             "original_language": "ja",
             "original_title": "\u541b\u306e\u540d\u306f\u3002",
             "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\u2019s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-            "popularity": 18.5784,
+            "popularity": 19.0824,
             "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
             "release_date": "2016-08-26",
             "title": "Your Name.",
             "video": false,
             "vote_average": 8.479,
-            "vote_count": 12226,
+            "vote_count": 12229,
             "genres": [
                 "Animation",
                 "Romance",
                 "Drama"
             ],
             "runtime": 106,
-            "tagline": "Separated by distance, connected by fate."
+            "tagline": "Separated by distance, connected by fate.",
+            "rank": 113,
+            "imdb_id": "tt5311514",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2578,13 +2919,13 @@
             "original_language": "en",
             "original_title": "Aladdin",
             "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
-            "popularity": 9.5234,
+            "popularity": 9.9611,
             "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
             "release_date": "1992-11-25",
             "title": "Aladdin",
             "video": false,
             "vote_average": 7.655,
-            "vote_count": 11779,
+            "vote_count": 11783,
             "genres": [
                 "Animation",
                 "Family",
@@ -2593,7 +2934,10 @@
                 "Romance"
             ],
             "runtime": 92,
-            "tagline": "Imagine if you had three wishes, three hopes, three dreams and they all could come true."
+            "tagline": "Imagine if you had three wishes, three hopes, three dreams and they all could come true.",
+            "rank": 114,
+            "imdb_id": "tt0103639",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2602,7 +2946,7 @@
             "original_language": "en",
             "original_title": "The Little Mermaid",
             "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
-            "popularity": 8.8806,
+            "popularity": 9.3769,
             "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
             "release_date": "1989-11-17",
             "title": "The Little Mermaid",
@@ -2615,7 +2959,10 @@
                 "Fantasy"
             ],
             "runtime": 83,
-            "tagline": "Somewhere under the sea and beyond your imagination is an adventure in fantasy."
+            "tagline": "Somewhere under the sea and beyond your imagination is an adventure in fantasy.",
+            "rank": 115,
+            "imdb_id": "tt0097757",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2624,13 +2971,13 @@
             "original_language": "en",
             "original_title": "The Incredibles",
             "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-            "popularity": 10.892,
+            "popularity": 12.1394,
             "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
             "release_date": "2004-11-05",
             "title": "The Incredibles",
             "video": false,
             "vote_average": 7.72,
-            "vote_count": 18535,
+            "vote_count": 18537,
             "genres": [
                 "Action",
                 "Adventure",
@@ -2638,7 +2985,10 @@
                 "Family"
             ],
             "runtime": 115,
-            "tagline": "Expect the incredible."
+            "tagline": "Expect the incredible.",
+            "rank": 116,
+            "imdb_id": "tt0317705",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2647,20 +2997,23 @@
             "original_language": "ja",
             "original_title": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
             "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
-            "popularity": 13.3678,
+            "popularity": 13.3975,
             "poster_path": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
             "release_date": "2004-09-09",
             "title": "Howl's Moving Castle",
             "video": false,
-            "vote_average": 8.389,
-            "vote_count": 10746,
+            "vote_average": 8.388,
+            "vote_count": 10751,
             "genres": [
                 "Fantasy",
                 "Animation",
                 "Adventure"
             ],
             "runtime": 119,
-            "tagline": "The two lived there."
+            "tagline": "The two lived there.",
+            "rank": 117,
+            "imdb_id": "tt0347149",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2669,13 +3022,13 @@
             "original_language": "en",
             "original_title": "Inside Out",
             "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
-            "popularity": 13.5162,
+            "popularity": 14.8045,
             "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
             "release_date": "2015-06-17",
             "title": "Inside Out",
             "video": false,
             "vote_average": 7.91,
-            "vote_count": 23070,
+            "vote_count": 23076,
             "genres": [
                 "Animation",
                 "Family",
@@ -2684,7 +3037,10 @@
                 "Comedy"
             ],
             "runtime": 95,
-            "tagline": "Meet the little voices inside your head."
+            "tagline": "Meet the little voices inside your head.",
+            "rank": 118,
+            "imdb_id": "tt2096673",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2693,13 +3049,13 @@
             "original_language": "en",
             "original_title": "How to Train Your Dragon",
             "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast \u2013 which he names Toothless \u2013 much to the chagrin of his warrior father.",
-            "popularity": 13.0306,
+            "popularity": 13.8051,
             "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
             "release_date": "2010-03-18",
             "title": "How to Train Your Dragon",
             "video": false,
             "vote_average": 7.855,
-            "vote_count": 14021,
+            "vote_count": 14027,
             "genres": [
                 "Fantasy",
                 "Adventure",
@@ -2707,7 +3063,10 @@
                 "Family"
             ],
             "runtime": 98,
-            "tagline": "One adventure will change two worlds."
+            "tagline": "One adventure will change two worlds.",
+            "rank": 119,
+            "imdb_id": "tt0892769",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2716,13 +3075,13 @@
             "original_language": "en",
             "original_title": "Coco",
             "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-            "popularity": 23.6973,
+            "popularity": 26.7666,
             "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
             "release_date": "2017-10-27",
             "title": "Coco",
             "video": false,
             "vote_average": 8.199,
-            "vote_count": 20565,
+            "vote_count": 20569,
             "genres": [
                 "Family",
                 "Animation",
@@ -2730,7 +3089,10 @@
                 "Adventure"
             ],
             "runtime": 105,
-            "tagline": "The celebration of a lifetime."
+            "tagline": "The celebration of a lifetime.",
+            "rank": 120,
+            "imdb_id": "tt2380307",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2739,20 +3101,23 @@
             "original_language": "en",
             "original_title": "Chicken Run",
             "overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop\u2013even if they can\u2019t fly! It\u2019s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly\u2026but, with teamwork, determination and a little bit o\u2019 cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
-            "popularity": 5.3336,
+            "popularity": 5.0931,
             "poster_path": "/oYbVT9e0k2ZSrRhDSCw2Yqshe1n.jpg",
             "release_date": "2000-06-23",
             "title": "Chicken Run",
             "video": false,
-            "vote_average": 6.834,
-            "vote_count": 5284,
+            "vote_average": 6.835,
+            "vote_count": 5285,
             "genres": [
                 "Animation",
                 "Comedy",
                 "Family"
             ],
             "runtime": 84,
-            "tagline": "There's nothing more determined than poultry with a plan."
+            "tagline": "There's nothing more determined than poultry with a plan.",
+            "rank": 121,
+            "imdb_id": "tt0120630",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2761,13 +3126,13 @@
             "original_language": "en",
             "original_title": "Spider-Man: Into the Spider-Verse",
             "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
-            "popularity": 13.7677,
+            "popularity": 14.2382,
             "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
             "release_date": "2018-12-06",
             "title": "Spider-Man: Into the Spider-Verse",
             "video": false,
             "vote_average": 8.394,
-            "vote_count": 16756,
+            "vote_count": 16761,
             "genres": [
                 "Animation",
                 "Action",
@@ -2775,7 +3140,10 @@
                 "Science Fiction"
             ],
             "runtime": 117,
-            "tagline": "More than one wears the mask."
+            "tagline": "More than one wears the mask.",
+            "rank": 122,
+            "imdb_id": "tt4633694",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2784,7 +3152,7 @@
             "original_language": "ja",
             "original_title": "GHOST IN THE SHELL",
             "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-            "popularity": 6.2788,
+            "popularity": 5.7692,
             "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
             "release_date": "1995-11-18",
             "title": "Ghost in the Shell",
@@ -2797,7 +3165,10 @@
                 "Science Fiction"
             ],
             "runtime": 83,
-            "tagline": "It found a voice... Now it needs a body."
+            "tagline": "It found a voice... Now it needs a body.",
+            "rank": 123,
+            "imdb_id": "tt0113568",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2806,13 +3177,13 @@
             "original_language": "en",
             "original_title": "Up",
             "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
-            "popularity": 14.1835,
+            "popularity": 15.4798,
             "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
             "release_date": "2009-05-28",
             "title": "Up",
             "video": false,
             "vote_average": 7.96,
-            "vote_count": 21233,
+            "vote_count": 21239,
             "genres": [
                 "Animation",
                 "Comedy",
@@ -2820,7 +3191,10 @@
                 "Adventure"
             ],
             "runtime": 96,
-            "tagline": "Change is in the air."
+            "tagline": "Change is in the air.",
+            "rank": 124,
+            "imdb_id": "tt1049413",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2829,20 +3203,23 @@
             "original_language": "ja",
             "original_title": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
             "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
-            "popularity": 8.9313,
+            "popularity": 9.6739,
             "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
             "release_date": "1988-04-16",
             "title": "My Neighbor Totoro",
             "video": false,
-            "vote_average": 8.067,
-            "vote_count": 8552,
+            "vote_average": 8.066,
+            "vote_count": 8557,
             "genres": [
                 "Fantasy",
                 "Animation",
                 "Family"
             ],
             "runtime": 86,
-            "tagline": "He's your friendly neighbourhood forest spirit!"
+            "tagline": "He's your friendly neighbourhood forest spirit!",
+            "rank": 125,
+            "imdb_id": "tt0096283",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2851,13 +3228,13 @@
             "original_language": "en",
             "original_title": "Beauty and the Beast",
             "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
-            "popularity": 11.5056,
+            "popularity": 12.8712,
             "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
             "release_date": "1991-10-22",
             "title": "Beauty and the Beast",
             "video": false,
             "vote_average": 7.727,
-            "vote_count": 10456,
+            "vote_count": 10459,
             "genres": [
                 "Romance",
                 "Family",
@@ -2865,7 +3242,10 @@
                 "Fantasy"
             ],
             "runtime": 84,
-            "tagline": "The most beautiful love story ever told."
+            "tagline": "The most beautiful love story ever told.",
+            "rank": 126,
+            "imdb_id": "tt0101414",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2874,13 +3254,13 @@
             "original_language": "en",
             "original_title": "The Iron Giant",
             "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
-            "popularity": 5.6139,
+            "popularity": 5.9681,
             "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
             "release_date": "1999-08-06",
             "title": "The Iron Giant",
             "video": false,
-            "vote_average": 7.953,
-            "vote_count": 5990,
+            "vote_average": 7.952,
+            "vote_count": 5993,
             "genres": [
                 "Animation",
                 "Science Fiction",
@@ -2888,25 +3268,35 @@
                 "Drama"
             ],
             "runtime": 86,
-            "tagline": "It came from outer space!"
+            "tagline": "It came from outer space!",
+            "rank": 127,
+            "imdb_id": "tt0129167",
+            "status": "Released"
         },
         {
             "adult": false,
-            "backdrop_path": null,
-            "id": 1525542,
+            "backdrop_path": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+            "id": 10681,
             "original_language": "xx",
-            "original_title": "The Never Ending Wall",
-            "overview": "You don't need to look all the way to the end: there isn't one.",
-            "popularity": 0.2253,
-            "poster_path": null,
-            "release_date": "2008-12-31",
-            "title": "The Never Ending Wall",
+            "original_title": "WALL\u00b7E",
+            "overview": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL\u2022E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL\u2022E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL\u2022E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+            "popularity": 15.7375,
+            "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+            "release_date": "2008-06-22",
+            "title": "WALL\u00b7E",
             "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0,
-            "genres": [],
-            "runtime": 34,
-            "tagline": ""
+            "vote_average": 8.107,
+            "vote_count": 19822,
+            "genres": [
+                "Animation",
+                "Family",
+                "Science Fiction"
+            ],
+            "runtime": 98,
+            "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+            "rank": 128,
+            "imdb_id": "tt0910970",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2915,7 +3305,7 @@
             "original_language": "ja",
             "original_title": "\u706b\u5782\u308b\u306e\u5893",
             "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
-            "popularity": 0.0098,
+            "popularity": 0.0084,
             "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
             "release_date": "1988-04-16",
             "title": "Grave of the Fireflies",
@@ -2928,7 +3318,10 @@
                 "War"
             ],
             "runtime": 89,
-            "tagline": "Why do fireflies have to die so soon?"
+            "tagline": "Why do fireflies have to die so soon?",
+            "rank": 129,
+            "imdb_id": "tt0095327",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2937,7 +3330,7 @@
             "original_language": "en",
             "original_title": "Pinocchio",
             "overview": "When the gentle woodcarver Geppetto builds a marionette to be his substitute son, a benevolent fairy brings the toy to life. The puppet, named Pinocchio, is not yet a human boy. He must earn the right to be real by proving that he is brave, truthful, and unselfish.",
-            "popularity": 5.4162,
+            "popularity": 5.3793,
             "poster_path": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
             "release_date": "1940-02-23",
             "title": "Pinocchio",
@@ -2950,7 +3343,10 @@
                 "Fantasy"
             ],
             "runtime": 88,
-            "tagline": "When you wish upon a star, your dreams come true."
+            "tagline": "When you wish upon a star, your dreams come true.",
+            "rank": 130,
+            "imdb_id": "tt0032910",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2959,20 +3355,23 @@
             "original_language": "ja",
             "original_title": "\u3082\u306e\u306e\u3051\u59eb",
             "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-            "popularity": 8.9891,
+            "popularity": 8.4676,
             "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
             "release_date": "1997-07-12",
             "title": "Princess Mononoke",
             "video": false,
-            "vote_average": 8.323,
-            "vote_count": 8703,
+            "vote_average": 8.322,
+            "vote_count": 8707,
             "genres": [
                 "Adventure",
                 "Fantasy",
                 "Animation"
             ],
             "runtime": 134,
-            "tagline": "The fate of the world rests on the courage of one warrior."
+            "tagline": "The fate of the world rests on the courage of one warrior.",
+            "rank": 131,
+            "imdb_id": "tt0119698",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -2981,7 +3380,7 @@
             "original_language": "ja",
             "original_title": "AKIRA",
             "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-            "popularity": 5.7838,
+            "popularity": 5.1757,
             "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
             "release_date": "1988-06-10",
             "title": "Akira",
@@ -2994,7 +3393,10 @@
                 "Action"
             ],
             "runtime": 124,
-            "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E."
+            "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
+            "rank": 132,
+            "imdb_id": "tt0094625",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -3003,20 +3405,23 @@
             "original_language": "en",
             "original_title": "Snow White and the Seven Dwarfs",
             "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
-            "popularity": 6.2788,
+            "popularity": 7.0708,
             "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
             "release_date": "1938-01-14",
             "title": "Snow White and the Seven Dwarfs",
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 7839,
+            "vote_average": 7.124,
+            "vote_count": 7840,
             "genres": [
                 "Fantasy",
                 "Animation",
                 "Family"
             ],
             "runtime": 83,
-            "tagline": "The Happiest, Dopiest, Grumpiest, Sneeziest movie of the year."
+            "tagline": "The Happiest, Dopiest, Grumpiest, Sneeziest movie of the year.",
+            "rank": 133,
+            "imdb_id": "tt0029583",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -3025,13 +3430,13 @@
             "original_language": "en",
             "original_title": "Toy Story",
             "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
-            "popularity": 15.6419,
+            "popularity": 15.7461,
             "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
             "release_date": "1995-11-22",
             "title": "Toy Story",
             "video": false,
-            "vote_average": 7.971,
-            "vote_count": 19446,
+            "vote_average": 7.97,
+            "vote_count": 19450,
             "genres": [
                 "Family",
                 "Comedy",
@@ -3039,7 +3444,10 @@
                 "Adventure"
             ],
             "runtime": 81,
-            "tagline": "The adventure takes off when toys come to life!"
+            "tagline": "The adventure takes off when toys come to life!",
+            "rank": 134,
+            "imdb_id": "tt0114709",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -3048,13 +3456,13 @@
             "original_language": "en",
             "original_title": "The Lion King",
             "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
-            "popularity": 15.466,
+            "popularity": 16.7276,
             "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
             "release_date": "1994-06-15",
             "title": "The Lion King",
             "video": false,
             "vote_average": 8.255,
-            "vote_count": 19288,
+            "vote_count": 19293,
             "genres": [
                 "Family",
                 "Animation",
@@ -3062,7 +3470,10 @@
                 "Adventure"
             ],
             "runtime": 89,
-            "tagline": "The greatest adventure of all is finding our place in the Circle of Life."
+            "tagline": "The greatest adventure of all is finding our place in the Circle of Life.",
+            "rank": 135,
+            "imdb_id": "tt0110357",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -3071,20 +3482,23 @@
             "original_language": "ja",
             "original_title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
             "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-            "popularity": 19.0081,
+            "popularity": 18.5507,
             "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
             "release_date": "2001-07-20",
             "title": "Spirited Away",
             "video": false,
             "vote_average": 8.533,
-            "vote_count": 17839,
+            "vote_count": 17845,
             "genres": [
                 "Animation",
                 "Family",
                 "Fantasy"
             ],
             "runtime": 125,
-            "tagline": "Beyond the tunnel was a mysterious town."
+            "tagline": "Beyond the tunnel was a mysterious town.",
+            "rank": 136,
+            "imdb_id": "tt0245429",
+            "status": "Released"
         }
     ]
 }

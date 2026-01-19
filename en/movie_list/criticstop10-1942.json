@@ -4,7 +4,7 @@
     "source": "https://criticstop10.com/best-movies-of-1942/",
     "created_by": "lbnt",
     "added": "07/31/25",
-    "modified": "12/01/26",
+    "modified": "19/01/2026",
     "ordered_by": "rank",
     "movies": [
         {
@@ -14,20 +14,23 @@
             "original_language": "en",
             "original_title": "Mrs. Miniver",
             "overview": "Middle-class housewife Kay Miniver deals with petty problems. She and her husband Clem watch her Oxford-educated son Vin court Carol Beldon, the charming granddaughter of the local nobility as represented by Lady Beldon. Then the war comes and Vin joins the RAF.",
-            "popularity": 1.1142,
+            "popularity": 0.9706,
             "poster_path": "/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg",
             "release_date": "1942-07-03",
             "title": "Mrs. Miniver",
             "video": false,
-            "vote_average": 7.065,
+            "vote_average": 7.1,
             "vote_count": 275,
             "genres": [
                 "Drama",
                 "Romance",
                 "War"
             ],
+            "tagline": "\"Mrs. Miniver\" is more than a picture... It's dramatic. It's tender. It's human. It's real.",
             "runtime": 134,
-            "tagline": "\"Mrs. Miniver\" is more than a picture... It's dramatic. It's tender. It's human. It's real."
+            "rank": 1,
+            "imdb_id": "tt0035093",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -36,19 +39,22 @@
             "original_language": "en",
             "original_title": "Random Harvest",
             "overview": "Wandered away from his asylum, an amnesiac World War I veteran falls in love with a music hall star but his amnesia makes it difficult to last.",
-            "popularity": 0.6455,
+            "popularity": 0.5411,
             "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
             "release_date": "1942-12-17",
             "title": "Random Harvest",
             "video": false,
-            "vote_average": 7.299,
-            "vote_count": 112,
+            "vote_average": 7.3,
+            "vote_count": 113,
             "genres": [
                 "Romance",
                 "Drama"
             ],
+            "tagline": "He had found love - lost it - and now had found it again!",
             "runtime": 125,
-            "tagline": "He had found love - lost it - and now had found it again!"
+            "rank": 2,
+            "imdb_id": "tt0035238",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -57,7 +63,7 @@
             "original_language": "en",
             "original_title": "Yankee Doodle Dandy",
             "overview": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
-            "popularity": 1.1509,
+            "popularity": 2.4793,
             "poster_path": "/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
             "release_date": "1942-05-29",
             "title": "Yankee Doodle Dandy",
@@ -68,8 +74,11 @@
                 "Drama",
                 "Music"
             ],
+            "tagline": "Get ready to Laugh, to Sing, to Shout! ...For here comes Uncle Sam's Star Spangled Yankee Doodle Dandy!",
             "runtime": 126,
-            "tagline": "Get ready to Laugh, to Sing, to Shout! ...For here comes Uncle Sam's Star Spangled Yankee Doodle Dandy!"
+            "rank": 3,
+            "imdb_id": "tt0035575",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -78,7 +87,7 @@
             "original_language": "en",
             "original_title": "Kings Row",
             "overview": "Five young adults in a small American town face the revelations of secrets that threaten to ruin their hopes and dreams.",
-            "popularity": 0.4395,
+            "popularity": 1.0331,
             "poster_path": "/mjOZms5qzSGibE5b6GVHg2Y5wwR.jpg",
             "release_date": "1942-02-02",
             "title": "Kings Row",
@@ -90,8 +99,11 @@
                 "Drama",
                 "Mystery"
             ],
+            "tagline": "The town they talk of in whispers.",
             "runtime": 127,
-            "tagline": "The town they talk of in whispers."
+            "rank": 4,
+            "imdb_id": "tt0034946",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -100,7 +112,7 @@
             "original_language": "en",
             "original_title": "Wake Island",
             "overview": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
-            "popularity": 1.5013,
+            "popularity": 1.0426,
             "poster_path": "/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
             "release_date": "1942-08-11",
             "title": "Wake Island",
@@ -112,8 +124,11 @@
                 "Action",
                 "Drama"
             ],
+            "tagline": "Leathernecks... writing another glorious chapter of purposeful courage in America's history!",
             "runtime": 87,
-            "tagline": "Leathernecks... writing another glorious chapter of purposeful courage in America's history!"
+            "rank": 5,
+            "imdb_id": "tt0035530",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -122,7 +137,7 @@
             "original_language": "en",
             "original_title": "The Pride of the Yankees",
             "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
-            "popularity": 0.6393,
+            "popularity": 0.5646,
             "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
             "release_date": "1942-07-14",
             "title": "The Pride of the Yankees",
@@ -133,8 +148,11 @@
                 "Drama",
                 "Family"
             ],
+            "tagline": "Intimate and thrilling drama of a hero of the headlines... the girl who had his love and shared his life, but dared not question his one secret!",
             "runtime": 128,
-            "tagline": "Intimate and thrilling drama of a hero of the headlines... the girl who had his love and shared his life, but dared not question his one secret!"
+            "rank": 6,
+            "imdb_id": "tt0035211",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -143,7 +161,7 @@
             "original_language": "en",
             "original_title": "The Man Who Came to Dinner",
             "overview": "An acerbic critic wreaks havoc when a hip injury forces him to move in indefinitely with a Midwestern family.",
-            "popularity": 0.5287,
+            "popularity": 0.2125,
             "poster_path": "/3k6KVD9RKADkfFzHLE4ho9yWumO.jpg",
             "release_date": "1941-12-24",
             "title": "The Man Who Came to Dinner",
@@ -153,8 +171,11 @@
             "genres": [
                 "Comedy"
             ],
+            "tagline": "NOTHING COULD BE FUNNIER!",
             "runtime": 112,
-            "tagline": "NOTHING COULD BE FUNNIER!"
+            "rank": 7,
+            "imdb_id": "tt0033874",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -163,7 +184,7 @@
             "original_language": "en",
             "original_title": "Woman of the Year",
             "overview": "Rival reporters Sam Craig and Tess Harding fall in love and get married, only to find their relationship strained when Sam comes to resent Tess' hectic lifestyle.",
-            "popularity": 0.3938,
+            "popularity": 0.3813,
             "poster_path": "/A0Cf2GElBW2UfnQAFUqcqGYV7cY.jpg",
             "release_date": "1942-02-05",
             "title": "Woman of the Year",
@@ -175,8 +196,11 @@
                 "Romance",
                 "Drama"
             ],
+            "tagline": "The picture of the year!",
             "runtime": 114,
-            "tagline": "The picture of the year!"
+            "rank": 8,
+            "imdb_id": "tt0035567",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -185,7 +209,7 @@
             "original_language": "en",
             "original_title": "The Pied Piper",
             "overview": "Englishman Mr. Howard is on a fishing holiday in eastern France when the Germans invade in 1940. Setting off to try and get back home he is persuaded to take along the two Cavanaugh children, and as his journey progresses his family keeps growing in size. Once in German-occupied northern France a new problem arises \u2014 the risk of being heard speaking English.",
-            "popularity": 0.3693,
+            "popularity": 1.8338,
             "poster_path": "/rEX58msBJx0Pcb4rYPHZaV8La0M.jpg",
             "release_date": "1942-08-21",
             "title": "The Pied Piper",
@@ -196,8 +220,11 @@
                 "Drama",
                 "War"
             ],
+            "tagline": "It's all heart and thrills!",
             "runtime": 87,
-            "tagline": "It's all heart and thrills!"
+            "rank": 9,
+            "imdb_id": "tt0035189",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -206,20 +233,23 @@
             "original_language": "en",
             "original_title": "Reap the Wild Wind",
             "overview": "The Florida Keys in 1840, where the implacable hurricanes of the Caribbean scream, where the salvagers of Key West, like the intrepid and beautiful Loxi Claiborne and her crew, reap, aboard frail schooners, the harvest of the wild wind, facing the shark teeth of the reefs to rescue the sailors and the cargo from the shipwrecks caused by the scavengers of the sea.",
-            "popularity": 1.1527,
+            "popularity": 3.4514,
             "poster_path": "/coWMXDjxSFBPT3phsTKcKjVQbwq.jpg",
             "release_date": "1942-03-26",
             "title": "Reap the Wild Wind",
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 57,
+            "vote_average": 6.388,
+            "vote_count": 58,
             "genres": [
                 "Adventure",
                 "Action",
                 "Romance"
             ],
+            "tagline": "Cecil B. DeMille's GREATEST TRIUMPH! OUT-THRILLS ALL OTHER SCREEN SPECTACLES!",
             "runtime": 119,
-            "tagline": "Cecil B. DeMille's GREATEST TRIUMPH! OUT-THRILLS ALL OTHER SCREEN SPECTACLES!"
+            "rank": 10,
+            "imdb_id": "tt0035244",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -228,7 +258,7 @@
             "original_language": "en",
             "original_title": "Tales of Manhattan",
             "overview": "Ten screenwriters collaborated on this series of tales concerning the effect a tailcoat cursed by its tailor has on those who wear it. The video release features a W.C. Fields segment not included in the original theatrical release.",
-            "popularity": 3.3775,
+            "popularity": 1.159,
             "poster_path": "/oKH3Vfx9cPmhD74iAaKLdGdk32w.jpg",
             "release_date": "1942-08-05",
             "title": "Tales of Manhattan",
@@ -240,8 +270,11 @@
                 "Comedy",
                 "Romance"
             ],
+            "tagline": "An Experience You'll never forget !",
             "runtime": 118,
-            "tagline": "An Experience You'll never forget !"
+            "rank": 11,
+            "imdb_id": "tt0035415",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -250,7 +283,7 @@
             "original_language": "en",
             "original_title": "My Sister Eileen",
             "overview": "Sisters Ruth and Eileen Sherwood move from Ohio to New York in the hopes of building their careers. Ruth wants to get a job as a writer, while Eileen hopes to succeed on the stage. The two end up living in a dismal basement apartment in Greenwich Village, where a parade of odd characters are constantly breezing in and out. The women also meet up with magazine editor Bob Baker, who takes a personal interest in helping both with their career plans.",
-            "popularity": 0.9108,
+            "popularity": 0.3987,
             "poster_path": "/x3e1zXt4hFh4sHqfmiYPIWQAU6D.jpg",
             "release_date": "1942-09-24",
             "title": "My Sister Eileen",
@@ -260,8 +293,11 @@
             "genres": [
                 "Comedy"
             ],
+            "tagline": "NOW ON THE SCREEN! THE STAGE HIT THAT CONVULSED BROADWAY AND THE NATION !",
             "runtime": 96,
-            "tagline": "NOW ON THE SCREEN! THE STAGE HIT THAT CONVULSED BROADWAY AND THE NATION !"
+            "rank": 12,
+            "imdb_id": "tt0035105",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -270,7 +306,7 @@
             "original_language": "en",
             "original_title": "Tortilla Flat",
             "overview": "Danny, a poor northern Californian Mexican-American, inherits two houses from his grandfather and is quickly taken advantage of by his vagabond friends.",
-            "popularity": 1.7043,
+            "popularity": 1.295,
             "poster_path": "/fZkx79hMCQ3Q4tlXYPWnDZODW8P.jpg",
             "release_date": "1942-05-21",
             "title": "Tortilla Flat",
@@ -282,8 +318,11 @@
                 "Drama",
                 "Romance"
             ],
+            "tagline": "THEY'RE STRONG FOR WINE, WOMEN, AND SONG.",
             "runtime": 105,
-            "tagline": "THEY'RE STRONG FOR WINE, WOMEN, AND SONG."
+            "rank": 13,
+            "imdb_id": "tt0035460",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -292,20 +331,23 @@
             "original_language": "en",
             "original_title": "Holiday Inn",
             "overview": "Lovely Linda Mason has crooner Jim Hardy head over heels, but suave stepper Ted Hanover wants her for his new dance partner after fickle Lila Dixon gives him the brush. Jim's supper club, Holiday Inn, is the setting for the chase by Hanover and his manager.",
-            "popularity": 0.9294,
+            "popularity": 1.3673,
             "poster_path": "/3PS5QoUfhC7fgpylW92UY3NneXT.jpg",
             "release_date": "1942-07-10",
             "title": "Holiday Inn",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 216,
             "genres": [
                 "Comedy",
                 "Drama",
                 "Romance"
             ],
+            "tagline": "WHAT A HOLIDAY!",
             "runtime": 101,
-            "tagline": "WHAT A HOLIDAY!"
+            "rank": 14,
+            "imdb_id": "tt0034862",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -314,7 +356,7 @@
             "original_language": "en",
             "original_title": "This Above All",
             "overview": "In 1940 England, aristocratic Prudence Cathaway alarms her snobbish parents by joining the WAF service branch. She soon meets and falls in love with the brooding Clive Briggs, despite his prejudice against the upper classes, and agrees to spend a week with him at a Dover hotel. When Clive's soldier friend, Monty, arrives to retrieve him, Prudence learns that Clive went AWOL after Dunkirk, and urges him to recall why England must fight the war.",
-            "popularity": 0.5862,
+            "popularity": 0.3571,
             "poster_path": "/aNtMvh4DeuszFSQ5An6muJDDuIE.jpg",
             "release_date": "1942-05-12",
             "title": "This Above All",
@@ -326,8 +368,11 @@
                 "Romance",
                 "War"
             ],
+            "tagline": "He's lost his belief in everything but love.",
             "runtime": 110,
-            "tagline": "He's lost his belief in everything but love."
+            "rank": 15,
+            "imdb_id": "tt0035431",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -336,7 +381,7 @@
             "original_language": "en",
             "original_title": "The Talk of the Town",
             "overview": "Hilarity ensues when a falsely accused fugitive from justice hides at the house of his childhood friend, which she has recently rented to a high-principled law teacher.",
-            "popularity": 0.7973,
+            "popularity": 0.9126,
             "poster_path": "/naMSxieb5cD1bGCu0rZ7zLJ6mtA.jpg",
             "release_date": "1942-08-20",
             "title": "The Talk of the Town",
@@ -348,8 +393,11 @@
                 "Drama",
                 "Romance"
             ],
+            "tagline": "Three people who make life more exciting... love more precious... laughter more joyous!",
             "runtime": 118,
-            "tagline": "Three people who make life more exciting... love more precious... laughter more joyous!"
+            "rank": 16,
+            "imdb_id": "tt0035417",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -358,19 +406,22 @@
             "original_language": "en",
             "original_title": "The Major and the Minor",
             "overview": "Low on funds, working-class girl Susan Applegate disguises herself as a youngster in order to pay half fare home. But little 'Sue Sue' finds herself in a whole heap of grownup trouble when she hides out in a compartment with handsome Major Philip Kirby.",
-            "popularity": 2.7427,
+            "popularity": 1.1332,
             "poster_path": "/e6ZWWdyWkqiMq8g6KmXibtmSiVK.jpg",
             "release_date": "1942-09-16",
             "title": "The Major and the Minor",
             "video": false,
-            "vote_average": 7.045,
+            "vote_average": 7,
             "vote_count": 143,
             "genres": [
                 "Comedy",
                 "Romance"
             ],
+            "tagline": "Is she a kid - or is she kidding?",
             "runtime": 100,
-            "tagline": "Is she a kid - or is she kidding?"
+            "rank": 17,
+            "imdb_id": "tt0035019",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -379,7 +430,7 @@
             "original_language": "en",
             "original_title": "Now, Voyager",
             "overview": "A woman suffers a nervous breakdown and an oppressive mother before being freed by the love of a man she meets on a cruise.",
-            "popularity": 0.8667,
+            "popularity": 0.8985,
             "poster_path": "/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg",
             "release_date": "1942-10-22",
             "title": "Now, Voyager",
@@ -390,8 +441,11 @@
                 "Romance",
                 "Drama"
             ],
+            "tagline": "It happens in the best of families. But you'd never think it could happen to her!",
             "runtime": 117,
-            "tagline": "It happens in the best of families. But you'd never think it could happen to her!"
+            "rank": 18,
+            "imdb_id": "tt0035140",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -400,20 +454,23 @@
             "original_language": "en",
             "original_title": "Bambi",
             "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
-            "popularity": 7.2296,
+            "popularity": 6.0864,
             "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
             "release_date": "1942-08-14",
             "title": "Bambi",
             "video": false,
-            "vote_average": 7.01,
-            "vote_count": 5919,
+            "vote_average": 7.009,
+            "vote_count": 5920,
             "genres": [
                 "Animation",
                 "Drama",
                 "Family"
             ],
+            "tagline": "Love Comes To The Forest Folk . . . and to you, in one of the world's greatest love stories!",
             "runtime": 69,
-            "tagline": "Love Comes To The Forest Folk . . . and to you, in one of the world's greatest love stories!"
+            "rank": 19,
+            "imdb_id": "tt0034492",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -422,7 +479,7 @@
             "original_language": "en",
             "original_title": "The Magnificent Ambersons",
             "overview": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.",
-            "popularity": 1.6004,
+            "popularity": 0.9435,
             "poster_path": "/g5EosvM0delNPkgBDGYYZvJl46n.jpg",
             "release_date": "1942-07-10",
             "title": "The Magnificent Ambersons",
@@ -433,8 +490,11 @@
                 "Drama",
                 "Romance"
             ],
+            "tagline": "Real life screened more daringly than it\u2019s ever been before!",
             "runtime": 88,
-            "tagline": "Real life screened more daringly than it\u2019s ever been before!"
+            "rank": 20,
+            "imdb_id": "tt0035015",
+            "status": "Released"
         },
         {
             "adult": false,
@@ -443,7 +503,7 @@
             "original_language": "en",
             "original_title": "Journey for Margaret",
             "overview": "An American newspaperman and his wife, end up in London after  several retreats in the opening days of WWII. After a shrapnel wound and loss of her baby she returns to America. War weary, he is forced to do a story about war orphans, where he meets Margaret.",
-            "popularity": 0.9916,
+            "popularity": 4.6468,
             "poster_path": "/qyxboyhOo8d8LBgCDH3FEAv2QWF.jpg",
             "release_date": "1942-12-17",
             "title": "Journey for Margaret",
@@ -454,8 +514,11 @@
                 "Drama",
                 "War"
             ],
+            "tagline": "It's a dramatic BOMBSHELL when a world-famous correspondent meets MARGARET during the blitz!",
             "runtime": 81,
-            "tagline": "It's a dramatic BOMBSHELL when a world-famous correspondent meets MARGARET during the blitz!"
+            "imdb_id": "tt0034923",
+            "status": "Released",
+            "rank": 21
         },
         {
             "adult": false,
@@ -464,7 +527,7 @@
             "original_language": "en",
             "original_title": "Take a Letter, Darling",
             "overview": "A struggling painter takes a job as a secretary to a female advertising executive. While working to obtain an account from a tobacco company, they end up falling in love.",
-            "popularity": 0.2393,
+            "popularity": 1.3153,
             "poster_path": "/fmKtjkehEygNB1GqktSRwEfoxbT.jpg",
             "release_date": "1942-05-06",
             "title": "Take a Letter, Darling",
@@ -475,8 +538,11 @@
                 "Comedy",
                 "Romance"
             ],
+            "tagline": "She Had Him Put in a Full Day's Work ... At Night!",
             "runtime": 92,
-            "tagline": "She Had Him Put in a Full Day's Work ... At Night!"
+            "imdb_id": "tt0035413",
+            "status": "Released",
+            "rank": 22
         },
         {
             "adult": false,
@@ -485,7 +551,7 @@
             "original_language": "en",
             "original_title": "Joe Smith, American",
             "overview": "Joe Smith is an ordinary American family man who works in an aircraft factory. Shortly after being a promoted to a much higher position, Joe is kidnapped by enemy agents who are determined to get military secrets out of him by any means possible. Will Joe keep quiet or betray his country...",
-            "popularity": 0.3927,
+            "popularity": 2.0863,
             "poster_path": "/5iub9H4iNdokfQERKqm6VeO3uYs.jpg",
             "release_date": "1942-02-01",
             "title": "Joe Smith, American",
@@ -497,8 +563,11 @@
                 "Thriller",
                 "Drama"
             ],
+            "tagline": "Thrilling! It Will Lift You to the Skies!",
             "runtime": 63,
-            "tagline": "Thrilling! It Will Lift You to the Skies!"
+            "imdb_id": "tt0034920",
+            "status": "Released",
+            "rank": 23
         },
         {
             "adult": false,
@@ -507,7 +576,7 @@
             "original_language": "en",
             "original_title": "In This Our Life",
             "overview": "An unhappy, self-centered woman runs off with her sister's husband, wreaking havoc and ruining the lives of those around her.",
-            "popularity": 0.6983,
+            "popularity": 0.2989,
             "poster_path": "/bnQulLMPOlBfUqAxKPA3FvqxTrD.jpg",
             "release_date": "1942-05-08",
             "title": "In This Our Life",
@@ -518,8 +587,11 @@
                 "Drama",
                 "Romance"
             ],
+            "tagline": "A sensational novel throbs to life! The cast is one of Warner Bros. best - the picture is one of Warner Bros. biggest!",
             "runtime": 97,
-            "tagline": "A sensational novel throbs to life! The cast is one of Warner Bros. best - the picture is one of Warner Bros. biggest!"
+            "imdb_id": "tt0034890",
+            "status": "Released",
+            "rank": 24
         },
         {
             "adult": false,
@@ -528,7 +600,7 @@
             "original_language": "en",
             "original_title": "The Male Animal",
             "overview": "The trustees of Midwestern University have forced three teachers out of their jobs for being suspected communists. Trustee Ed Keller has also threatened mild mannered English Professor Tommy Turner, because he plans to read a controversial piece of prose in class. Tommy is upset that his wife Ellen also suggested he not read the passage. Meanwhile, Ellen's old boyfriend, the football player Joe Ferguson, comes to visit for the homecoming weekend. He takes Ellen out dancing after the football rally, causing Tommy to worry that he will lose her to Joe.",
-            "popularity": 0.4522,
+            "popularity": 1.3153,
             "poster_path": "/jDluLy4Q3FFAogmAzZ6Y3dPJyHh.jpg",
             "release_date": "1942-03-12",
             "title": "The Male Animal",
@@ -539,8 +611,11 @@
                 "Comedy",
                 "Romance"
             ],
+            "tagline": "SHE turned a lamb into a lion!",
             "runtime": 101,
-            "tagline": "SHE turned a lamb into a lion!"
+            "imdb_id": "tt0035020",
+            "status": "Released",
+            "rank": 25
         },
         {
             "adult": false,
@@ -549,7 +624,7 @@
             "original_language": "en",
             "original_title": "For Me and My Gal",
             "overview": "Two vaudeville performers fall in love, but find their relationship tested by the arrival of WWI.",
-            "popularity": 0.6341,
+            "popularity": 0.4296,
             "poster_path": "/uWCTKiFf2ffrMjieb2wU3RzZ6Wx.jpg",
             "release_date": "1942-10-21",
             "title": "For Me and My Gal",
@@ -561,8 +636,11 @@
                 "Romance",
                 "War"
             ],
+            "tagline": "She's a Yankee Doodle Girlie!",
             "runtime": 104,
-            "tagline": "She's a Yankee Doodle Girlie!"
+            "imdb_id": "tt0034746",
+            "status": "Released",
+            "rank": 26
         },
         {
             "adult": false,
@@ -571,7 +649,7 @@
             "original_language": "en",
             "original_title": "The Moon and Sixpence",
             "overview": "Loosely inspired from Gauguin's life, the story of Charles Strickland, a middle-aged stockbrocker who abandons his middle-classed life, his family, his duties to start painting, what he has always wanted to do. He is from now on a awful human being, wholly devoted to his ideal: beauty.",
-            "popularity": 2.2496,
+            "popularity": 2.9542,
             "poster_path": "/ymkV9KzBHDRshe4M6CiLi5L7pYN.jpg",
             "release_date": "1942-10-27",
             "title": "The Moon and Sixpence",
@@ -581,8 +659,11 @@
             "genres": [
                 "Drama"
             ],
+            "tagline": "Strange DREAMS - He had ideas he never told her about...He didn't dare!",
             "runtime": 89,
-            "tagline": "Strange DREAMS - He had ideas he never told her about...He didn't dare!"
+            "imdb_id": "tt0035078",
+            "status": "Released",
+            "rank": 27
         },
         {
             "adult": false,
@@ -591,7 +672,7 @@
             "original_language": "en",
             "original_title": "Road to Morocco",
             "overview": "Two carefree castaways on a desert shore find an Arabian Nights city, where they compete for the luscious Princess Shalmar.",
-            "popularity": 0.383,
+            "popularity": 0.2627,
             "poster_path": "/nECM25OC4iJHV1AHPa4CHnzYgyk.jpg",
             "release_date": "1942-11-10",
             "title": "Road to Morocco",
@@ -604,8 +685,11 @@
                 "Adventure",
                 "Romance"
             ],
+            "tagline": "You'll Shriek At These Shieks! . . . trying the double - Oh! on Sheikess Dorothy Lamour!",
             "runtime": 82,
-            "tagline": "You'll Shriek At These Shieks! . . . trying the double - Oh! on Sheikess Dorothy Lamour!"
+            "imdb_id": "tt0035262",
+            "status": "Released",
+            "rank": 28
         },
         {
             "adult": false,
@@ -614,7 +698,7 @@
             "original_language": "en",
             "original_title": "George Washington Slept Here",
             "overview": "New Yorkers Bill and Connie Fuller have to move from their apartment. Without Bill's knowledge, Connie purchases a delapidated old farmhouse in Pennsylvania, where George Washington was supposed to have actually slept during the American Revolution.",
-            "popularity": 0.5637,
+            "popularity": 2.1864,
             "poster_path": "/qJGPPLaarCSFziixOUwFB4MZwmG.jpg",
             "release_date": "1942-10-30",
             "title": "George Washington Slept Here",
@@ -624,8 +708,36 @@
             "genres": [
                 "Comedy"
             ],
+            "tagline": "YOU'LL GET HAPPY HYSTERICS in this history-mocking comedy",
             "runtime": 93,
-            "tagline": "YOU'LL GET HAPPY HYSTERICS in this history-mocking comedy"
+            "imdb_id": "tt0034780",
+            "status": "Released",
+            "rank": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ZsEc2b9iCMWaFjUw3a0kPZZLXu.jpg",
+            "id": 962,
+            "original_language": "en",
+            "original_title": "The Gold Rush",
+            "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+            "popularity": 1.3611,
+            "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+            "release_date": "1925-07-13",
+            "title": "The Gold Rush",
+            "video": false,
+            "vote_average": 7.979,
+            "vote_count": 1772,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Drama"
+            ],
+            "tagline": "The World's Greatest Laughing Picture!",
+            "runtime": 95,
+            "imdb_id": "tt0015864",
+            "status": "Released",
+            "rank": 30
         },
         {
             "adult": false,
@@ -634,7 +746,7 @@
             "original_language": "en",
             "original_title": "Sullivan's Travels",
             "overview": "Successful movie director John L. Sullivan, convinced he won't be able to film his ambitious masterpiece until he has suffered, dons a hobo disguise and sets off on a journey, aiming to \"know trouble\" first-hand. When all he finds is a train ride back to Hollywood and a beautiful blonde companion, he redoubles his efforts, managing to land himself in more trouble than he bargained for when he loses his memory and ends up a prisoner on a chain gang.",
-            "popularity": 1.2399,
+            "popularity": 2.6424,
             "poster_path": "/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg",
             "release_date": "1941-11-30",
             "title": "Sullivan's Travels",
@@ -646,8 +758,11 @@
                 "Romance",
                 "Adventure"
             ],
+            "tagline": "Veronica Lake\u2019s on the Take",
             "runtime": 91,
-            "tagline": "Veronica Lake\u2019s on the Take"
+            "imdb_id": "tt0034240",
+            "status": "Released",
+            "rank": 31
         },
         {
             "adult": false,
@@ -656,7 +771,7 @@
             "original_language": "en",
             "original_title": "Moontide",
             "overview": "After a drunken night out, a longshoreman thinks he may have killed a man.",
-            "popularity": 1.2887,
+            "popularity": 0.9806,
             "poster_path": "/iEKolHUnfTBXCBDKxETHd1bAlhe.jpg",
             "release_date": "1942-05-29",
             "title": "Moontide",
@@ -668,8 +783,11 @@
                 "Romance",
                 "Thriller"
             ],
+            "tagline": "A Great New Star to thrill you! Strange romance to intrigue you!",
             "runtime": 94,
-            "tagline": "A Great New Star to thrill you! Strange romance to intrigue you!"
+            "imdb_id": "tt0035082",
+            "status": "Released",
+            "rank": 32
         },
         {
             "adult": false,
@@ -678,20 +796,23 @@
             "original_language": "en",
             "original_title": "Desperate Journey",
             "overview": "During WWII, when an allied bomber is shot down over Germany, the five surviving crew are captured but cleverly escape detention after learning German secret information and knocking out a Nazi major.  With the angry major in hot pursuit, aided by military personnel, Gestapo agents and Hitler-loyal citizens, the five wend their way across perilous Germany, intent on reaching the UK with the secrets they have learned.",
-            "popularity": 1.7569,
+            "popularity": 3.3966,
             "poster_path": "/oanNUFLVasmh3MOIoe7Rq1THnOj.jpg",
             "release_date": "1942-09-26",
             "title": "Desperate Journey",
             "video": false,
-            "vote_average": 6.0,
+            "vote_average": 6,
             "vote_count": 28,
             "genres": [
                 "War",
                 "Adventure",
                 "Action"
             ],
+            "tagline": "Man alive, Just picture this excitement!",
             "runtime": 107,
-            "tagline": "Man alive, Just picture this excitement!"
+            "imdb_id": "tt0034646",
+            "status": "Released",
+            "rank": 33
         },
         {
             "adult": false,
@@ -700,7 +821,7 @@
             "original_language": "en",
             "original_title": "This Gun for Hire",
             "overview": "Sadistic killer-for-hire Philip Raven becomes enraged when his latest job is paid off in marked bills. Vowing to track down his double-crossing boss, nightclub executive Gates, Raven sits beside Gates' lovely new employee, Ellen, on a train out of town. Although Ellen is engaged to marry the police lieutenant who's hunting down Raven, she decides to try and set the misguided hit man straight as he hides from the cops and plots his revenge.",
-            "popularity": 2.8217,
+            "popularity": 3.748,
             "poster_path": "/wfbRnfY1PQTRlDxZ0XEAw5zSeKn.jpg",
             "release_date": "1942-04-24",
             "title": "This Gun for Hire",
@@ -712,8 +833,11 @@
                 "Thriller",
                 "Mystery"
             ],
+            "tagline": "A Lone Wolf\u2026dynamite with a girl or a gun!",
             "runtime": 81,
-            "tagline": "A Lone Wolf\u2026dynamite with a girl or a gun!"
+            "imdb_id": "tt0035432",
+            "status": "Released",
+            "rank": 34
         },
         {
             "adult": false,
@@ -722,7 +846,7 @@
             "original_language": "en",
             "original_title": "Saboteur",
             "overview": "Aircraft factory worker Barry Kane flees across the United States after he is wrongly accused of starting the fire that killed his best friend.",
-            "popularity": 1.0304,
+            "popularity": 1.0911,
             "poster_path": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg",
             "release_date": "1942-04-22",
             "title": "Saboteur",
@@ -732,8 +856,11 @@
             "genres": [
                 "Thriller"
             ],
+            "tagline": "Unmasking the man behind your back!",
             "runtime": 109,
-            "tagline": "Unmasking the man behind your back!"
+            "imdb_id": "tt0035279",
+            "status": "Released",
+            "rank": 35
         },
         {
             "adult": false,
@@ -742,7 +869,7 @@
             "original_language": "en",
             "original_title": "My Gal Sal",
             "overview": "Biopic chronicling the early life of gay nineties-era songwriter Paul Dresser as he outgrows his job as carnival entertainer and moves up into New York society, writing one hit song after another. Despite his egotistical behavior, he manages to woo and win Sally Elliott, one of the more popular songstresses of the day",
-            "popularity": 1.0005,
+            "popularity": 3.3172,
             "poster_path": "/5STz94X5VX8ia9h4e95QEUVkKsq.jpg",
             "release_date": "1942-04-30",
             "title": "My Gal Sal",
@@ -754,8 +881,11 @@
                 "Music",
                 "Romance"
             ],
+            "tagline": "",
             "runtime": 103,
-            "tagline": ""
+            "imdb_id": "tt0035103",
+            "status": "Released",
+            "rank": 36
         },
         {
             "adult": false,
@@ -764,30 +894,33 @@
             "original_language": "en",
             "original_title": "The War Against Mrs. Hadley",
             "overview": "Wealthy American society matron, Stella Hadley refuses to sacrifice her material comforts to aid the war effort until she realizes that her selfishness is cheating the boys overseas who are fighting for her freedom.",
-            "popularity": 0.0868,
+            "popularity": 0.0835,
             "poster_path": "/1bwo2eZOJZ4R8EtlAmFIZICTODx.jpg",
             "release_date": "1942-08-07",
             "title": "The War Against Mrs. Hadley",
             "video": false,
-            "vote_average": 5.0,
+            "vote_average": 5,
             "vote_count": 7,
             "genres": [
                 "Drama"
             ],
+            "tagline": "AS TIMELY AS TODAYS HEADLINES!",
             "runtime": 86,
-            "tagline": "AS TIMELY AS TODAYS HEADLINES!"
+            "imdb_id": "tt0035531",
+            "status": "Released",
+            "rank": 37
         },
         {
             "adult": false,
             "backdrop_path": "/b8Cq27Wf2ullc6CMeqocJb2fjh.jpg",
             "id": 43788,
             "original_language": "en",
-            "original_title": "'Pimpernel' Smith",
+            "original_title": "\"Pimpernel\" Smith",
             "overview": "Eccentric Cambridge archaeologist Horatio Smith takes a group of British and American archaeology students to pre-war Nazi Germany to help in his excavations. His research is supported by the Nazis, since he professes to be looking for evidence of the Aryan origins of German civilisation. However, he has a secret agenda: to free inmates of the concentration camps.",
-            "popularity": 1.676,
+            "popularity": 1.6223,
             "poster_path": "/2MeWLt3pwvb1PMv8IT2HyFkbswI.jpg",
             "release_date": "1941-07-28",
-            "title": "'Pimpernel' Smith",
+            "title": "\"Pimpernel\" Smith",
             "video": false,
             "vote_average": 7.2,
             "vote_count": 27,
@@ -796,8 +929,11 @@
                 "Drama",
                 "Thriller"
             ],
+            "tagline": "The man the Gestapo hates!",
             "runtime": 120,
-            "tagline": "The man the Gestapo hates!"
+            "imdb_id": "tt0034027",
+            "status": "Released",
+            "rank": 38
         },
         {
             "adult": false,
@@ -806,7 +942,7 @@
             "original_language": "en",
             "original_title": "The Gay Sisters",
             "overview": "The eldest of three sisters protects their Fifth Avenue mansion from a developer she once married.",
-            "popularity": 0.2652,
+            "popularity": 0.2817,
             "poster_path": "/cXG7iD6iQZSvBRgEUrkNZ3BLpsk.jpg",
             "release_date": "1942-08-01",
             "title": "The Gay Sisters",
@@ -817,8 +953,11 @@
                 "Drama",
                 "Romance"
             ],
+            "tagline": "Another great novel... another Warner Bros. hit!",
             "runtime": 110,
-            "tagline": "Another great novel... another Warner Bros. hit!"
+            "imdb_id": "tt0034770",
+            "status": "Released",
+            "rank": 39
         },
         {
             "adult": false,
@@ -827,7 +966,7 @@
             "original_language": "en",
             "original_title": "Babes on Broadway",
             "overview": "Penny Morris and Tommy Williams are both starstruck young teens but nobody seems to give them any chance to perform. Instead, they decide to put up their own show to collect money for a summer camp for the kids.",
-            "popularity": 0.8376,
+            "popularity": 2.4215,
             "poster_path": "/vN1D8TJm93jYtYZQp8p6Rd7HpDG.jpg",
             "release_date": "1941-12-31",
             "title": "Babes on Broadway",
@@ -839,8 +978,11 @@
                 "Music",
                 "Romance"
             ],
+            "tagline": "The Show That's Out Of This World",
             "runtime": 118,
-            "tagline": "The Show That's Out Of This World"
+            "imdb_id": "tt0034485",
+            "status": "Released",
+            "rank": 40
         },
         {
             "adult": false,
@@ -849,7 +991,7 @@
             "original_language": "en",
             "original_title": "My Favorite Blonde",
             "overview": "Larry Haines, a mediocre vaudeville entertainer, boards a train for Los Angeles. Aboard, he meets an attractive, blonde British agent carrying a coded message hidden in a brooch\u2014and is being pursued by Nazi agents.",
-            "popularity": 0.6354,
+            "popularity": 0.2176,
             "poster_path": "/pnEnkJO2N5nzfD0SxuqhSSRN3u8.jpg",
             "release_date": "1942-04-02",
             "title": "My Favorite Blonde",
@@ -859,8 +1001,11 @@
             "genres": [
                 "Comedy"
             ],
+            "tagline": "HELP!  SHE'S AFTER ME!  IS THERE A BRUNETTE IN THE HOUSE?",
             "runtime": 78,
-            "tagline": "HELP!  SHE'S AFTER ME!  IS THERE A BRUNETTE IN THE HOUSE?"
+            "imdb_id": "tt0035100",
+            "status": "Released",
+            "rank": 41
         },
         {
             "adult": false,
@@ -869,7 +1014,7 @@
             "original_language": "en",
             "original_title": "The Great Man's Lady",
             "overview": "In Hoyt City, a statue of founder Ethan Hoyt is dedicated, and 100 year old Hannah Sempler Hoyt (who lives in the last residence among skyscrapers) is at last persuaded to tell her story to a 'girl biographer'. Flashback: in 1848, teenage Hannah meets and flirts with pioneer Ethan; on a sudden impulse, they elope. We follow their struggle to found a city in the wilderness, hampered by the Gold Rush, star-crossed love, peril, and heartbreak. The star \"ages\" 80 years.",
-            "popularity": 0.2337,
+            "popularity": 0.2951,
             "poster_path": "/glNBE9uGqsUOP8yw1jLMVkW1lh6.jpg",
             "release_date": "1941-10-31",
             "title": "The Great Man's Lady",
@@ -881,8 +1026,11 @@
                 "Drama",
                 "Romance"
             ],
+            "tagline": "She's his secret woman!",
             "runtime": 90,
-            "tagline": "She's his secret woman!"
+            "imdb_id": "tt0034812",
+            "status": "Released",
+            "rank": 42
         },
         {
             "adult": false,
@@ -891,20 +1039,23 @@
             "original_language": "en",
             "original_title": "To Be or Not to Be",
             "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
-            "popularity": 1.8063,
+            "popularity": 1.0126,
             "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
             "release_date": "1942-03-06",
             "title": "To Be or Not to Be",
             "video": false,
-            "vote_average": 7.816,
-            "vote_count": 799,
+            "vote_average": 7.815,
+            "vote_count": 801,
             "genres": [
                 "Comedy",
                 "War",
                 "Romance"
             ],
+            "tagline": "The Picture Everyone Wants to See",
             "runtime": 99,
-            "tagline": "The Picture Everyone Wants to See"
+            "imdb_id": "tt0035446",
+            "status": "Released",
+            "rank": 43
         },
         {
             "adult": false,
@@ -913,19 +1064,22 @@
             "original_language": "en",
             "original_title": "Johnny Eager",
             "overview": "A charming racketeer seduces the DA's stepdaughter for revenge, then falls in love.",
-            "popularity": 2.2072,
+            "popularity": 4.1256,
             "poster_path": "/eT56vNkYEHo1rv4xhtI3aJLKuUp.jpg",
             "release_date": "1941-12-09",
             "title": "Johnny Eager",
             "video": false,
-            "vote_average": 6.1,
-            "vote_count": 46,
+            "vote_average": 6.074,
+            "vote_count": 47,
             "genres": [
                 "Crime",
                 "Drama"
             ],
+            "tagline": "They\u2019re Dynamite",
             "runtime": 107,
-            "tagline": "They\u2019re Dynamite"
+            "imdb_id": "tt0033774",
+            "status": "Released",
+            "rank": 44
         },
         {
             "adult": false,
@@ -934,7 +1088,7 @@
             "original_language": "en",
             "original_title": "Joan of Paris",
             "overview": "An RAF squadron is brought down over occupied France. The flyers get to Paris in spite of the fact that the youngest, Baby, is injured. He must be hidden and his wounds cared for. The Gestapo has already issued orders for their arrest.",
-            "popularity": 7.914,
+            "popularity": 1.3655,
             "poster_path": "/lM0ri6gFkEvLQ4trLy2OKkJpdNB.jpg",
             "release_date": "1942-01-20",
             "title": "Joan of Paris",
@@ -946,8 +1100,11 @@
                 "War",
                 "Drama"
             ],
+            "tagline": "Lured By Love Into The Relentless Grip Of The World's Most Dreaded TERROR!",
             "runtime": 91,
-            "tagline": "Lured By Love Into The Relentless Grip Of The World's Most Dreaded TERROR!"
+            "imdb_id": "tt0034919",
+            "status": "Released",
+            "rank": 45
         },
         {
             "adult": false,
@@ -956,7 +1113,7 @@
             "original_language": "en",
             "original_title": "To the Shores of Tripoli",
             "overview": "Chronicle of a spoiled rich boy who joins the Marines with an off-handed attitude and finally becomes a battle-wise soldier.",
-            "popularity": 0.2638,
+            "popularity": 0.3549,
             "poster_path": "/g7bECfkaJCN9M6ttpHwI5MLmEC7.jpg",
             "release_date": "1942-11-09",
             "title": "To the Shores of Tripoli",
@@ -968,8 +1125,11 @@
                 "War",
                 "Romance"
             ],
+            "tagline": "ROMANCE...COMEDY...THRILLS...with Uncle Sam's fighting",
             "runtime": 86,
-            "tagline": "ROMANCE...COMEDY...THRILLS...with Uncle Sam's fighting"
+            "imdb_id": "tt0035447",
+            "status": "Released",
+            "rank": 46
         },
         {
             "adult": false,
@@ -978,7 +1138,7 @@
             "original_language": "en",
             "original_title": "Somewhere I'll Find You",
             "overview": "Journalist brothers feud over a woman they both fall for while covering World War II in the far east.",
-            "popularity": 0.5914,
+            "popularity": 3.2419,
             "poster_path": "/zr8SvKcsTGDTbNmRUtEmb2mLqBk.jpg",
             "release_date": "1942-08-27",
             "title": "Somewhere I'll Find You",
@@ -990,8 +1150,11 @@
                 "Romance",
                 "War"
             ],
+            "tagline": "Together again -- They're dynamite!",
             "runtime": 108,
-            "tagline": "Together again -- They're dynamite!"
+            "imdb_id": "tt0035356",
+            "status": "Released",
+            "rank": 47
         },
         {
             "adult": false,
@@ -1000,7 +1163,7 @@
             "original_language": "en",
             "original_title": "Captains of the Clouds",
             "overview": "Inspired by Churchill's Dunkirk speech, brash, undisciplined Canadian bush pilot Brian MacLean and three friends enlist in the RCAF.",
-            "popularity": 0.4557,
+            "popularity": 0.4515,
             "poster_path": "/cCFsU3PbbQU530aB6SCzi0PDRna.jpg",
             "release_date": "1942-02-12",
             "title": "Captains of the Clouds",
@@ -1011,8 +1174,11 @@
                 "Action",
                 "War"
             ],
+            "tagline": "So full of spectacle and glory it had to be made in Technicolor!",
             "runtime": 114,
-            "tagline": "So full of spectacle and glory it had to be made in Technicolor!"
+            "imdb_id": "tt0034578",
+            "status": "Released",
+            "rank": 48
         },
         {
             "adult": false,
@@ -1021,7 +1187,7 @@
             "original_language": "en",
             "original_title": "The Remarkable Andrew",
             "overview": "When Andrew Long, hyper-efficient small town accountant, finds a $1240 discrepancy in the city budget, his superiors try to explain it away. When he insists on pursuing the matter, he's in danger of being blamed himself. In his trouble, the spirit of Andrew Jackson, whom he idolizes, visits him, and in turn, summons much high-powered talent from American history...which only Andrew can see.",
-            "popularity": 0.2564,
+            "popularity": 0.1127,
             "poster_path": "/zahDvYLGdUjGur3SUY7crzHdqht.jpg",
             "release_date": "1942-03-05",
             "title": "The Remarkable Andrew",
@@ -1032,8 +1198,11 @@
                 "Fantasy",
                 "Comedy"
             ],
+            "tagline": "",
             "runtime": 81,
-            "tagline": ""
+            "imdb_id": "tt0035247",
+            "status": "Released",
+            "rank": 49
         },
         {
             "adult": false,
@@ -1042,7 +1211,7 @@
             "original_language": "en",
             "original_title": "One of Our Aircraft Is Missing",
             "overview": "During a raid on Germany, a British bomber crew is forced to bail out after their plane is damaged. They land in Holland, where they're aided by Dutch civilians.",
-            "popularity": 0.3151,
+            "popularity": 0.3538,
             "poster_path": "/fDL8iat0Yhii2dKRc4nQEEWVhvQ.jpg",
             "release_date": "1942-04-24",
             "title": "One of Our Aircraft Is Missing",
@@ -1053,8 +1222,11 @@
                 "War",
                 "Drama"
             ],
+            "tagline": "1942's first blast of screen dynamite",
             "runtime": 102,
-            "tagline": "1942's first blast of screen dynamite"
+            "imdb_id": "tt0035153",
+            "status": "Released",
+            "rank": 50
         }
     ]
 }
