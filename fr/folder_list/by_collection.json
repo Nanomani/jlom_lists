@@ -1,0 +1,13 @@
+{
+    "type" : "folder_list",
+    "title" : "By box-office",
+    "added" : "24/04/24",
+    "modified" : "20/01/26",
+    "folders" : [
+        {
+            "title" : "Collection - Criterion",
+            "id" : "collection_criterion_all_films",
+            "type" : "movie_list"
+        }
+    ]
+}
