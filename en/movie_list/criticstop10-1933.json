@@ -10,33 +10,35 @@
         {
             "adult": false,
             "backdrop_path": "/9LQdJ807aXpZtE4JsBF62ZXpL4F.jpg",
-            "id": 56164,
+            "id": "56164",
             "original_language": "en",
             "original_title": "Cavalcade",
             "overview": "A cavalcade of English life from New Year's Eve 1899 until 1933 is seen through the eyes of well-to-do Londoners Jane and Robert Marryot. Amongst events touching their family are the Boer War, the death of Queen Victoria, the sinking of the Titanic, and the Great War.",
-            "popularity": 2.4116,
+            "popularity": 5.669,
             "poster_path": "/a6yld4HmB49b9CP9wmv3wcwk65K.jpg",
             "release_date": "1933-02-08",
             "title": "Cavalcade",
             "video": false,
-            "vote_average": 5.512,
+            "vote_average": 5.5,
             "vote_count": 123,
             "genres": [
                 "Drama",
                 "War"
             ],
-            "runtime": 112,
             "tagline": "THE PICTURE OF THE GENERATION!",
-            "rank": 1
+            "runtime": 112,
+            "rank": 1,
+            "imdb_id": "tt0023876",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/vDaoVHc9Y2aKnpi5BBkpPGWbWfM.jpg",
-            "id": 39938,
+            "id": "39938",
             "original_language": "en",
             "original_title": "Little Women",
             "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
-            "popularity": 0.9316,
+            "popularity": 1.3285,
             "poster_path": "/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg",
             "release_date": "1933-11-24",
             "title": "Little Women",
@@ -47,63 +49,69 @@
                 "Drama",
                 "Family"
             ],
-            "runtime": 115,
             "tagline": "Louisa May Alcott\u2019s Immortal Story!",
-            "rank": 2
+            "runtime": 115,
+            "rank": 2,
+            "imdb_id": "tt0024264",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
-            "id": 3062,
+            "id": "3062",
             "original_language": "en",
             "original_title": "42nd Street",
             "overview": "A producer puts on what may be his last Broadway show, and at the last moment a chorus girl has to replace the star.",
-            "popularity": 1.4843,
+            "popularity": 2.084,
             "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
             "release_date": "1933-03-11",
             "title": "42nd Street",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 208,
+            "vote_average": 6.916,
+            "vote_count": 209,
             "genres": [
                 "Comedy",
                 "Drama",
                 "Romance"
             ],
+            "tagline": "The Greatest Musical Hit the Screen Has Ever Known!",
             "runtime": 89,
-            "tagline": "The Greatest Musical hit the Screen Has Ever Known!",
-            "rank": 3
+            "rank": 3,
+            "imdb_id": "tt0024034",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/lc7li4hwGpKcQ6bSE64BzCIsuVn.jpg",
-            "id": 43122,
+            "id": "43122",
             "original_language": "en",
             "original_title": "The Private Life of Henry VIII",
             "overview": "Renowned for his excess, King Henry VIII goes through a series of wives during his rule. With Anne Boleyn, his second wife, executed on charges of treason, King Henry weds maid Jane Seymour, but that marriage also ends in tragedy. Not one to be single for long, the king picks German-born Anne of Cleves as his bride, but their union lasts only months before an annulment is granted, and King Henry continues his string of spouses.",
-            "popularity": 0.4246,
+            "popularity": 0.8423,
             "poster_path": "/ncQC8U3gGFhCTWlxxn32nkFr2d4.jpg",
             "release_date": "1933-08-17",
             "title": "The Private Life of Henry VIII",
             "video": false,
-            "vote_average": 6.386,
+            "vote_average": 6.4,
             "vote_count": 88,
             "genres": [
                 "History",
                 "Drama"
             ],
-            "runtime": 97,
             "tagline": "HE GAVE HIS WIVES A PAIN IN THE NECK, And did his necking with an axe. Henry, the Eighth Wonder of the World! And this picture...the wonder of all time!",
-            "rank": 4
+            "runtime": 97,
+            "rank": 4,
+            "imdb_id": "tt0024473",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/fiP5YEGacZNT3GLbFrxbVRBs9Xv.jpg",
-            "id": 43130,
+            "id": "43130",
             "original_language": "en",
             "original_title": "Lady for a Day",
             "overview": "Apple Annie is an aging New York City fruit seller whose daughter Louise has been raised in a Spanish convent since she was an infant. As she grows up, Louise is led to believe that her mother is a society matron called Mrs. E. Worthington Manville. Annie worries that her lie is in danger of being uncovered when she learns that Louise is sailing to New York with her new fianc\u00e9 and his nobleman father.",
-            "popularity": 0.6987,
+            "popularity": 2.5814,
             "poster_path": "/3qOtbnBKhcM66wtYgUViasKdj6s.jpg",
             "release_date": "1933-09-13",
             "title": "Lady for a Day",
@@ -114,18 +122,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 96,
             "tagline": "Takes its place among the greatest pictures ever made!",
-            "rank": 5
+            "runtime": 96,
+            "rank": 5,
+            "imdb_id": "tt0024240",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/ritIv2bm1QUNVhiPWhYga06JFTp.jpg",
-            "id": 52517,
+            "id": "52517",
             "original_language": "en",
             "original_title": "State Fair",
             "overview": "The children of Iowa farmers find love, with mixed results, at the state fair.",
-            "popularity": 2.6099,
+            "popularity": 0.8336,
             "poster_path": "/tx3h4QTmPlrdgvFBBDtKzqm4gif.jpg",
             "release_date": "1933-02-10",
             "title": "State Fair",
@@ -136,18 +146,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 97,
             "tagline": "A \"demand\" showing of the unforgettable film that brought Will Rogers his greatest fame!",
-            "rank": 6
+            "runtime": 97,
+            "rank": 6,
+            "imdb_id": "tt0024610",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/mzSpJ0ne8YiGLYd3UIssneTV9mJ.jpg",
-            "id": 43595,
+            "id": "43595",
             "original_language": "en",
             "original_title": "She Done Him Wrong",
             "overview": "New York singer and nightclub owner Lady Lou has more men friends than you can imagine. One of them is a vicious criminal who\u2019s escaped and is on the way to see \u201chis\u201d girl, not realising she hasn\u2019t exactly been faithful in his absence. Help is at hand in the form of young Captain Cummings, a local temperance league leader.",
-            "popularity": 0.3696,
+            "popularity": 0.8686,
             "poster_path": "/kwxAUj8tf9kO2ESAriD8foYN28q.jpg",
             "release_date": "1933-02-09",
             "title": "She Done Him Wrong",
@@ -158,18 +170,20 @@
                 "Comedy",
                 "Crime"
             ],
-            "runtime": 65,
             "tagline": "Mae West gives a 'Hot Time' to the nation!",
-            "rank": 7
+            "runtime": 65,
+            "rank": 7,
+            "imdb_id": "tt0024548",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/jMoeCypP4Vu12nr1CFdBL5TV1gC.jpg",
-            "id": 39130,
+            "id": "39130",
             "original_language": "en",
             "original_title": "Dinner at Eight",
             "overview": "An ambitious New York socialite plans an extravagant dinner party as her businessman husband, Oliver, contends with financial woes, causing a lot of tension between the couple. Meanwhile, their high-society friends and associates, including the gruff Dan Packard and his sultry spouse, Kitty, contend with their own entanglements, leading to revelations at the much-anticipated dinner.",
-            "popularity": 0.75,
+            "popularity": 0.8817,
             "poster_path": "/p9V2dIMqC1g1S9bDgvxqUOJDfp6.jpg",
             "release_date": "1933-12-22",
             "title": "Dinner at Eight",
@@ -180,18 +194,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 111,
             "tagline": "HERE IS THE SCREEN'S CLIMAX OF GLAMOR AND THRILL THAT RAN OVER A YEAR ON BROADWAY! THE STAGE SMASH NOW A SENSATIONAL FILM TRIUMPH!",
-            "rank": 8
+            "runtime": 111,
+            "rank": 8,
+            "imdb_id": "tt0023948",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/5Ik710g5n9AIe0kVHcaLnBganp3.jpg",
-            "id": 43132,
+            "id": "43132",
             "original_language": "en",
             "original_title": "Rasputin and the Empress",
             "overview": "The story of corrupt, power-hungry, manipulative Grigori Rasputin's influence on members of the Russian Imperial family and others, and what resulted.",
-            "popularity": 0.3418,
+            "popularity": 0.5782,
             "poster_path": "/txLqNjctfiVbCyxIKa261W5tz70.jpg",
             "release_date": "1932-12-23",
             "title": "Rasputin and the Empress",
@@ -202,40 +218,44 @@
                 "Drama",
                 "History"
             ],
-            "runtime": 121,
             "tagline": "Beautiful girls who came to pray! Caught in the web of debauched Rasputin, whose crafty mind toppled a throne!",
-            "rank": 9
+            "runtime": 121,
+            "rank": 9,
+            "imdb_id": "tt0023374",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/lHc7XfuDifUvhggBvXqFzDlysdR.jpg",
-            "id": 104211,
+            "id": "104211",
             "original_language": "en",
             "original_title": "Berkeley Square",
             "overview": "A young American man is transported back to London in the time shortly after the American Revolution and meets his ancestors.",
-            "popularity": 1.5542,
+            "popularity": 3.342,
             "poster_path": "/1crCm5tK3Nro4kiEkF03dme21Sj.jpg",
             "release_date": "1933-09-15",
             "title": "Berkeley Square",
             "video": false,
-            "vote_average": 5.667,
-            "vote_count": 15,
+            "vote_average": 5.75,
+            "vote_count": 16,
             "genres": [
                 "Fantasy",
                 "Romance"
             ],
-            "runtime": 84,
             "tagline": "",
-            "rank": 10
+            "runtime": 84,
+            "rank": 10,
+            "imdb_id": "tt0023794",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/6z7TidojcQPx9VchiBESKgxQ6XB.jpg",
-            "id": 76192,
+            "id": "76192",
             "original_language": "en",
             "original_title": "Tugboat Annie",
             "overview": "Tugboat, the Narcissus, is owned and captained by Annie Brennan, and among her crew are her alcoholic but good-natured husband, Terry, and her conscientious son, Alec. Annie continually loses business because of Terry's drunken mistakes. Alec wants to quit school to work on the tug full time, but Annie will not sacrifice her son's education. A grown Alec has followed in his mother's footsteps and becomes a mariner, but a more upscale one as the captain of a luxury liner. Alec returns home with his fianc\u00e9e, Pat - the boss' daughter - with a grand plan to save Annie from the life that drunkard Terry has provided her. But ultimately, it's Annie and Terry that need to be Alec's savior, and by their move show him the meaning of true commitment.",
-            "popularity": 1.9888,
+            "popularity": 2.7382,
             "poster_path": "/nkEsZZoGG6KklxzBCxlsXDvIIXQ.jpg",
             "release_date": "1933-08-04",
             "title": "Tugboat Annie",
@@ -247,18 +267,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 86,
             "tagline": "Based on the Saturday Evening Post story",
-            "rank": 11
+            "runtime": 86,
+            "rank": 11,
+            "imdb_id": "tt0024701",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/qUkyy4Eprqrohd9Wi4M5OY9S4Jj.jpg",
-            "id": 175035,
+            "id": "175035",
             "original_language": "en",
             "original_title": "When Ladies Meet",
             "overview": "Mary, a writer working on a novel about a love triangle, is attracted to her publisher. Her suitor Jimmy is determined to break them up; he introduces Mary to the publisher's wife without telling Mary who she is.",
-            "popularity": 0.2031,
+            "popularity": 2.0236,
             "poster_path": "/6GGK7UGIT1mG8wbGiDouhG9joaO.jpg",
             "release_date": "1933-06-23",
             "title": "When Ladies Meet",
@@ -269,18 +291,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 85,
             "tagline": "WIFE MEET MISTRESS! and HOW THESE LADIES TALK! A picture for suspicious wives---Misunderstood Husbands and Sweethearts!",
-            "rank": 12
+            "runtime": 85,
+            "rank": 12,
+            "imdb_id": "tt0024763",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/zDE7JFI0GomnQyz2GecaC8vztYA.jpg",
-            "id": 31777,
+            "id": "31777",
             "original_language": "en",
             "original_title": "Morning Glory",
             "overview": "Wildly optimistic chatterbox Eva Lovelace is a would-be actress trying to crash the New York stage. She attracts the interest of a paternal actor, a philandering producer, and an earnest playwright. Is she destined for stardom, or will she fade like a morning glory after its brief blooming?",
-            "popularity": 1.6093,
+            "popularity": 1.6096,
             "poster_path": "/jp92gr0EWgYQxoGcY5GQaV3kmax.jpg",
             "release_date": "1933-08-18",
             "title": "Morning Glory",
@@ -291,18 +315,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 74,
             "tagline": "A drama fired with Hepburn's blazing genius!",
-            "rank": 13
+            "runtime": 74,
+            "rank": 13,
+            "imdb_id": "tt0024353",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/mPcMvPY1ZN8Bk44pnDUEd2Ro8ju.jpg",
-            "id": 174116,
+            "id": "174116",
             "original_language": "en",
             "original_title": "Reunion in Vienna",
             "overview": "An exiled archduke (John Barrymore) tries to renew romance with a former lover (Diana Wynyard) now wed to a psychiatrist (Frank Morgan).",
-            "popularity": 1.2422,
+            "popularity": 2.0749,
             "poster_path": "/bfihsItMrpy9HG7zOUFCWdGXgvN.jpg",
             "release_date": "1933-06-16",
             "title": "Reunion in Vienna",
@@ -313,18 +339,20 @@
                 "Romance",
                 "Drama"
             ],
-            "runtime": 98,
             "tagline": "",
-            "rank": 14
+            "runtime": 98,
+            "rank": 14,
+            "imdb_id": "tt0024496",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/9FntIH0fQjEKm5ZARBjU6a7G2pD.jpg",
-            "id": 50070,
+            "id": "50070",
             "original_language": "en",
             "original_title": "The Sign of the Cross",
             "overview": "A Roman soldier becomes torn between his love for a Christian woman and his loyalty to Emperor Nero.",
-            "popularity": 0.5982,
+            "popularity": 0.7552,
             "poster_path": "/qJdANRQy3BkTJGxXXHKMVoUigSD.jpg",
             "release_date": "1932-12-25",
             "title": "The Sign of the Cross",
@@ -335,18 +363,20 @@
                 "Drama",
                 "History"
             ],
-            "runtime": 126,
             "tagline": "A picture which will proudly lead all the entertainments the world has ever seen",
-            "rank": 15
+            "runtime": 126,
+            "rank": 15,
+            "imdb_id": "tt0023470",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/hUv6v2eV1t9WeH9C0T61jRBJB78.jpg",
-            "id": 100420,
+            "id": "100420",
             "original_language": "en",
             "original_title": "Gabriel Over the White House",
             "overview": "A political hack becomes President during the height of the Depression and undergoes a metamorphosis into an incorruptible statesman after a near-fatal accident.",
-            "popularity": 0.2934,
+            "popularity": 0.4227,
             "poster_path": "/fZt8iHZerWqN54JuOWvX7pc8T3G.jpg",
             "release_date": "1933-03-31",
             "title": "Gabriel Over the White House",
@@ -358,18 +388,20 @@
                 "Fantasy",
                 "Romance"
             ],
-            "runtime": 86,
             "tagline": "The sensation of a nation!",
-            "rank": 16
+            "runtime": 86,
+            "rank": 16,
+            "imdb_id": "tt0024044",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/dqKokOUYfM9WbkWqpqd2MsEtodM.jpg",
-            "id": 147876,
+            "id": "147876",
             "original_language": "en",
             "original_title": "The Bowery",
             "overview": "\"In the Gay Nineties New York had grown up into bustles and balloon Sleeves ... but The Bowery had grown younger, louder and more rowdy until it was known as the 'Livest Mile on the face of the globe' ... the cradle of men who were later to be famous.",
-            "popularity": 2.3499,
+            "popularity": 4.0994,
             "poster_path": "/4dBFENBHHcpRWGzXKjfY7IK6d1a.jpg",
             "release_date": "1933-10-07",
             "title": "The Bowery",
@@ -380,18 +412,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 92,
             "tagline": "",
-            "rank": 17
+            "runtime": 92,
+            "rank": 17,
+            "imdb_id": "tt0023838",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/6sxQQGTDDZaitaWPCdH3lo7YRpB.jpg",
-            "id": 96702,
+            "id": "96702",
             "original_language": "en",
             "original_title": "The Power and the Glory",
             "overview": "A man's life is retold just after his funeral. Beginning as a track walker, Tom Garner rose through all sorts of railroad jobs to head the company. In the meantime he lost touch with his family. When he saw what was happening it was already too late.",
-            "popularity": 0.1994,
+            "popularity": 0.4282,
             "poster_path": "/gwVUfud7cLkYHRb4OzlD70Pi3Iw.jpg",
             "release_date": "1933-10-06",
             "title": "The Power and the Glory",
@@ -401,18 +435,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 76,
             "tagline": "",
-            "rank": 18
+            "runtime": 76,
+            "rank": 18,
+            "imdb_id": "tt0024465",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/a3cPv2bi7UEnK7PGqPIYhigtpm9.jpg",
-            "id": 28432,
+            "id": "28432",
             "original_language": "en",
             "original_title": "Footlight Parade",
             "overview": "A fledgling producer finds himself at odds with his workers, financiers and his greedy ex-wife when he tries to produce live musicals for movie-going audiences.",
-            "popularity": 1.9205,
+            "popularity": 1.2069,
             "poster_path": "/3i03jv70icLoxJiwkqcFsLmmmrA.jpg",
             "release_date": "1933-10-21",
             "title": "Footlight Parade",
@@ -423,18 +459,20 @@
                 "Comedy",
                 "Music"
             ],
-            "runtime": 104,
             "tagline": "Climaxing Warner Bros.' glittering parade of musicals!",
-            "rank": 19
+            "runtime": 104,
+            "rank": 19,
+            "imdb_id": "tt0024028",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/3X7pjI6WKvkqCiWewtR8HXZaC0f.jpg",
-            "id": 72916,
+            "id": "72916",
             "original_language": "en",
             "original_title": "Another Language",
             "overview": "A newlywed discovers that she and her husband's snobby family speak different languages.",
-            "popularity": 0.1853,
+            "popularity": 0.3082,
             "poster_path": "/zyfIugdD8HyHxBpebXASQmweqCp.jpg",
             "release_date": "1933-07-28",
             "title": "Another Language",
@@ -444,18 +482,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 77,
             "tagline": "At last! A motion picture that starts with the honeymoon!",
-            "rank": 20
+            "runtime": 77,
+            "rank": 20,
+            "imdb_id": "tt0023761",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/jRVm5WLuUXLi78VQphoXdFjQMak.jpg",
-            "id": 176375,
+            "id": "176375",
             "original_language": "en",
             "original_title": "Voltaire",
             "overview": "Writer and philosopher Voltaire, loyal to his king, Louis XV of France, nonetheless writes scathingly of the king's disdain for the rights and needs of his people. Louis admires Voltaire, but is increasingly influenced against him by his minister, the Count de Sarnac.",
-            "popularity": 1.2694,
+            "popularity": 1.3566,
             "poster_path": "/cCsKsZsDMbttfIi7D4l4h0lcrJy.jpg",
             "release_date": "1933-08-05",
             "title": "Voltaire",
@@ -466,18 +506,20 @@
                 "History",
                 "Drama"
             ],
-            "runtime": 72,
             "tagline": "Beautiful women were pawns in the dangerous game he played with kings and nations!",
-            "rank": 21
+            "runtime": 72,
+            "rank": 21,
+            "imdb_id": "tt0024742",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": null,
-            "id": 423843,
+            "id": "423843",
             "original_language": "en",
             "original_title": "Tell Me Tonight",
             "overview": "An Italian operatic tenor is dominated by his female business manager.",
-            "popularity": 1.911,
+            "popularity": 0.3974,
             "poster_path": "/7JdzNlZw6tgtGoFzHt0WV7KkXoc.jpg",
             "release_date": "1932-10-31",
             "title": "Tell Me Tonight",
@@ -489,18 +531,20 @@
                 "Music",
                 "Drama"
             ],
-            "runtime": 70,
             "tagline": "Paris, London, Rome enraptured with its tuneful, dashing gaiety! Now this picture that's really different brings a song to your heart.",
-            "rank": 22
+            "runtime": 70,
+            "rank": 22,
+            "imdb_id": "tt0022658",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/joIVesTXptwoIMhEBbuKgjwtqDW.jpg",
-            "id": 116671,
+            "id": "116671",
             "original_language": "en",
             "original_title": "Only Yesterday",
             "overview": "On the back of the Wall Street Crash of 1929, a young businessman is about to commit suicide. With a note to his wife scribbled down and a gun in his hand, he notices an envelope addressed to him on his desk. As he begins to read, we're taken back to World War One and his meeting with a young woman named Mary Lane.",
-            "popularity": 1.1474,
+            "popularity": 1.073,
             "poster_path": "/rJUDRGnwuRiqYNOjHvl72TwGnTv.jpg",
             "release_date": "1933-11-01",
             "title": "Only Yesterday",
@@ -511,41 +555,45 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 105,
             "tagline": "A New Star is Born!",
-            "rank": 23
+            "runtime": 105,
+            "rank": 23,
+            "imdb_id": "tt0024418",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
-            "id": 244,
+            "id": "244",
             "original_language": "en",
             "original_title": "King Kong",
             "overview": "Adventurous filmmaker Carl Denham sets out to produce a motion picture unlike anything the world has seen before. Alongside his leading lady Ann Darrow and his first mate Jack Driscoll, they arrive on an island and discover a legendary creature said to be neither beast nor man. Denham captures the monster to be displayed on Broadway as King Kong, the eighth wonder of the world.",
-            "popularity": 4.3522,
+            "popularity": 3.1664,
             "poster_path": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
             "release_date": "1933-03-15",
             "title": "King Kong",
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 1569,
+            "vote_count": 1570,
             "genres": [
                 "Adventure",
                 "Fantasy",
                 "Horror"
             ],
-            "runtime": 104,
             "tagline": "Beauty conquered the beast!",
-            "rank": 24
+            "runtime": 104,
+            "rank": 24,
+            "imdb_id": "tt0024216",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/q3mq0WdvSg5JPKADKkvYRPpewpk.jpg",
-            "id": 200574,
+            "id": "200574",
             "original_language": "en",
             "original_title": "Topaze",
             "overview": "An honest and naive schoolteacher gets a lesson in how the world works outside the classroom, when a rich Baron and his mistress use the teacher's name and outstanding reputation in a crooked business scheme.",
-            "popularity": 1.0479,
+            "popularity": 1.2797,
             "poster_path": "/rmpXT2T2Qi8WW7eP0BSU9mftAFC.jpg",
             "release_date": "1933-02-24",
             "title": "Topaze",
@@ -556,18 +604,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 78,
             "tagline": "Does It Pay To Be Honest? At forty he discovered hidden power. So he turned over a new leaf and became a crook! You'll love the scoundrel!",
-            "rank": 25
+            "runtime": 78,
+            "rank": 25,
+            "imdb_id": "tt0024684",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/y9GAiuATteBBiJtjWBftK22pig8.jpg",
-            "id": 122709,
+            "id": "122709",
             "original_language": "en",
             "original_title": "Zoo in Budapest",
             "overview": "Zani is an unusual young man who has spent his entire life in a zoo in Budapest. His only true friends are the zoo's animals. When Zani meets Eve, a young orphan girl, they fall in love. To be together Eve must somehow escape from her strict orphan school. When she does she and Zani must hide overnight in the zoo - where everyone is looking to find them.",
-            "popularity": 3.6672,
+            "popularity": 0.5159,
             "poster_path": "/kiwMoYxs9tCthQ8aRbP048l5UoW.jpg",
             "release_date": "1933-04-28",
             "title": "Zoo in Budapest",
@@ -578,18 +628,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 94,
             "tagline": "Defenseless in a Den of Beasts Finding love...with a girl so gentle, so sweet, that he protects her at the risk of his life.",
-            "rank": 26
+            "runtime": 94,
+            "rank": 26,
+            "imdb_id": "tt0024800",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/z2d5PkgcccJkjtFwgfjCOaHIktI.jpg",
-            "id": 31511,
+            "id": "31511",
             "original_language": "en",
             "original_title": "Gold Diggers of 1933",
             "overview": "When all Broadway shows are shut down during the Depression, a trio of desperate showgirls scheme to bilk a repugnant high society man of his money to keep their show going.",
-            "popularity": 0.6851,
+            "popularity": 1.7365,
             "poster_path": "/sXsUJsW9fcVT15hfBu9LyU22qmG.jpg",
             "release_date": "1933-05-27",
             "title": "Gold Diggers of 1933",
@@ -600,18 +652,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 97,
             "tagline": "THE BIGGEST SHOW ON EARTH!",
-            "rank": 27
+            "runtime": 97,
+            "rank": 27,
+            "imdb_id": "tt0024069",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/p3vU7grdmJ4RDAFO9ZrymX4NdIZ.jpg",
-            "id": 118854,
+            "id": "118854",
             "original_language": "en",
             "original_title": "Little Man, What Now?",
             "overview": "A young couple struggling against poverty must keep their marriage a secret in order for the husband to keep his job, as his boss doesn't like to hire married men.",
-            "popularity": 0.2048,
+            "popularity": 0.5619,
             "poster_path": "/bluJR4muRUVK69wb3cqPQtKCMSO.jpg",
             "release_date": "1934-06-04",
             "title": "Little Man, What Now?",
@@ -622,18 +676,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 98,
             "tagline": "Any man who has ever lost his job, or any young wife who has bravely tried to comfort him will thrill to the tenderness, the courage, the gay humor of this idyl of young love which all the brutal cruelty of those bitter times could not destroy!",
-            "rank": 28
+            "runtime": 98,
+            "rank": 28,
+            "imdb_id": "tt0025408",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/bKhfCwwogiQbpsmEiHB5G2PvDEc.jpg",
-            "id": 120657,
+            "id": "120657",
             "original_language": "en",
             "original_title": "The Stranger's Return",
             "overview": "A divorc\u00e9e leaves New York to visit her grandfather's farm and recover in the Midwest, where she unexpectedly falls in love with a married farmer.",
-            "popularity": 0.1943,
+            "popularity": 0.3114,
             "poster_path": "/nLnd54nZMmQeYKB4ITiLDGnDrxz.jpg",
             "release_date": "1933-07-28",
             "title": "The Stranger's Return",
@@ -644,18 +700,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 89,
             "tagline": "A story of real people",
-            "rank": 29
+            "runtime": 89,
+            "rank": 29,
+            "imdb_id": "tt0024620",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/tj7xXnxWjqlSAPu7aNzo9zHCWyU.jpg",
-            "id": 43594,
+            "id": "43594",
             "original_language": "en",
             "original_title": "Emperor Jones",
             "overview": "Unscrupulously ambitious, Brutus Jones escapes from jail after killing a guard and, through bluff and bravado, finds himself the emperor of a Caribbean island.",
-            "popularity": 1.5348,
+            "popularity": 1.4752,
             "poster_path": "/676jzPaamXDHe0pJdiiHkt9ZTFd.jpg",
             "release_date": "1933-09-29",
             "title": "Emperor Jones",
@@ -666,18 +724,20 @@
                 "Drama",
                 "Music"
             ],
-            "runtime": 73,
             "tagline": "GIN...GALS...DICE AND MURDER MADE HIM A FUGITIVE IN THE NIGHT! BUT MORNING FOUND HIM A KING!",
-            "rank": 30
+            "runtime": 73,
+            "rank": 30,
+            "imdb_id": "tt0023985",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/eDsDz98u2ADBStyNwYS5nXcDpmY.jpg",
-            "id": 34456,
+            "id": "34456",
             "original_language": "en",
             "original_title": "I'm No Angel",
             "overview": "The bold Tira works as dancing beauty and lion tamer at a fair. Out of an urgent need of money, she agrees to a risky new number: she'll put her head into the lion's mouth! With this attraction, the circus makes it to New York and Tira can pursue her dearest occupation\u2014 flirting with rich men and accepting expensive presents.",
-            "popularity": 1.3406,
+            "popularity": 0.6546,
             "poster_path": "/ttACv1NRimYH9JiyVwy5Kwq2nL0.jpg",
             "release_date": "1933-10-06",
             "title": "I'm No Angel",
@@ -688,18 +748,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 87,
             "tagline": "\"Come up and see me sometime - any time!\"",
-            "rank": 31
+            "runtime": 87,
+            "rank": 31,
+            "imdb_id": "tt0024166",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/t2JTXeUEK2gNpSDvb7V7zWH1Nuw.jpg",
-            "id": 85670,
+            "id": "85670",
             "original_language": "en",
             "original_title": "Night Flight",
             "overview": "Story of South American mail pilots, and the dangers they face flying at night.",
-            "popularity": 1.5349,
+            "popularity": 1.5119,
             "poster_path": "/h9c9WqIg7hFMllwtETr3J3YQYe3.jpg",
             "release_date": "1933-10-06",
             "title": "Night Flight",
@@ -709,18 +771,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 84,
             "tagline": "SIX STARS IN A ROMANCE OF THE SKIES!",
-            "rank": 32
+            "runtime": 84,
+            "rank": 32,
+            "imdb_id": "tt0024381",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/mCfMFZ5DiCA6FP8rxwYfNao5hd.jpg",
-            "id": 266413,
+            "id": "266413",
             "original_language": "en",
             "original_title": "The Warrior's Husband",
             "overview": "The Warrior's Husband is a satire of the male and female roles in society set in 800 B.C.. Queen Hippolyta (Marjorie Rambeau) rules Pontus with masculine authority; in fact, it is the women of Pontus who do all the laboring, fighting, and governing. Hippolyta's husband Sapiens (Ernest Truex) is truly a sissy of the first order, and is not unlike most of Pontus' male inhabitants.",
-            "popularity": 0.1093,
+            "popularity": 0.2942,
             "poster_path": "/pjLbZ9X0pbiVI0FbDvZUPMQC5ab.jpg",
             "release_date": "1933-04-28",
             "title": "The Warrior's Husband",
@@ -730,18 +794,20 @@
             "genres": [
                 "Comedy"
             ],
-            "runtime": 75,
             "tagline": "",
-            "rank": 33
+            "runtime": 75,
+            "rank": 33,
+            "imdb_id": "tt0024753",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/kfZJIwMzD9ebs56HJwjMh4Xr31l.jpg",
-            "id": 245272,
+            "id": "245272",
             "original_language": "en",
             "original_title": "The Masquerader",
             "overview": "A drug-addicted member of Parliament needs to take time off and secretly pull his life together, so he gets his lookalike cousin to agree to temporarily assume his identity.",
-            "popularity": 1.557,
+            "popularity": 3.3789,
             "poster_path": "/uyP1NSyu3mzjoTba9waKF2vQcLR.jpg",
             "release_date": "1933-09-03",
             "title": "The Masquerader",
@@ -751,18 +817,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 80,
             "tagline": "Who was making love to her? Was it her husband? Or was it the masquerader he hired to double for him?",
-            "rank": 34
+            "runtime": 80,
+            "rank": 34,
+            "imdb_id": "tt0024308",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/jMVUhyqhoTaa2COFlZhTTnLELye.jpg",
-            "id": 72608,
+            "id": "72608",
             "original_language": "en",
             "original_title": "Doctor Bull",
             "overview": "In this engaging adaptation of James Gould Cozzen's novel The Last Adam, film icon Will Rogers portrays Dr. George Bull, a compassionate, highly regarded small-town physician who often prescribes a healthy dose of common sense! But when Bull begins dating a widow (Vera Allen), the local gossips misconstrue the story. To make matters worse, Bull's plainspoken manner earns him an enemy in the wealthy owner of a nearby construction camp. But once it's learned that the camp has caused illness by polluting the local water supply, the good doctor steps in to try to restore the town's health - and his reputation!",
-            "popularity": 0.8323,
+            "popularity": 1.1772,
             "poster_path": "/mlRBJOBTWViKn7qzHRBBAdIdS1X.jpg",
             "release_date": "1933-09-22",
             "title": "Doctor Bull",
@@ -773,18 +841,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 79,
             "tagline": "As Great - As Human - As 'State Fair'",
-            "rank": 35
+            "runtime": 79,
+            "rank": 35,
+            "imdb_id": "tt0023955",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/1Rriak3kM8jFJp3t0zwYscbf4vQ.jpg",
-            "id": 182934,
+            "id": "182934",
             "original_language": "en",
             "original_title": "The White Sister",
             "overview": "An Italian aristocrat enters a nunnery, thinking her pilot lover has been killed in the war.",
-            "popularity": 0.2399,
+            "popularity": 2.0844,
             "poster_path": "/bLBxpAkfSkXT3uz9D0Pqx5SyEEJ.jpg",
             "release_date": "1933-03-17",
             "title": "The White Sister",
@@ -795,18 +865,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 105,
             "tagline": "The SUPREME ROMANTIC THRILL of all time comes at last to the TALKING SCREEN!",
-            "rank": 36
+            "runtime": 105,
+            "rank": 36,
+            "imdb_id": "tt0024770",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/vidGx4VYTh9yRgvUxkY0e937jqd.jpg",
-            "id": 423850,
+            "id": "423850",
             "original_language": "en",
             "original_title": "Christopher Bean",
             "overview": "When the painter Christopher Bean dies, some unscrupulous art dealers try to get several of his paintings cheaply from a family who have no idea of their value.",
-            "popularity": 1.5699,
+            "popularity": 2.7108,
             "poster_path": "/fBHPlRXrYL3zfJwjEsvNjNbz1Hj.jpg",
             "release_date": "1933-11-17",
             "title": "Christopher Bean",
@@ -816,18 +888,20 @@
             "genres": [
                 "Comedy"
             ],
-            "runtime": 75,
             "tagline": "LIVE, LOVE and LAUGH with Two Great Stars!",
-            "rank": 37
+            "runtime": 75,
+            "rank": 37,
+            "imdb_id": "tt0023890",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/cnsOVOWgQ2I1RTl4HzgB3yAegUP.jpg",
-            "id": 230284,
+            "id": "230284",
             "original_language": "en",
             "original_title": "One Man's Journey",
             "overview": "Dr. Eli Watt, a widower, comes to a small town, considering himself a failure in his attempt to have a meaningful career in New York. He raises his son Jimmy as well as Letty, a baby whose mother has died in childbirth and whose father blames Watt and abandons the child. Watt dreams of returning to do research studies, but always something gets in the way: an epidemic, his children's needs, or the needs of his generally ungrateful patients. Only with the passing years does he come to find that his future isn't over and his past isn't quite the failure he believed.",
-            "popularity": 0.2679,
+            "popularity": 0.2746,
             "poster_path": "/xNY8lSFO6SyyDp5PNEwJIeVJaPe.jpg",
             "release_date": "1933-08-31",
             "title": "One Man's Journey",
@@ -837,18 +911,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 72,
             "tagline": "EVERY WOMAN'S SHAME --and EVERY WOMAN'S GLORY",
-            "rank": 38
+            "runtime": 72,
+            "rank": 38,
+            "imdb_id": "tt0024411",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/mlWs8CX43IYCyRVsP9gTvtmeMP7.jpg",
-            "id": 83767,
+            "id": "83767",
             "original_language": "en",
             "original_title": "Three Cornered Moon",
             "overview": "Elizabeth Rimplegar inhabits a household populated by virtual lunatics. Her mother, Nellie, mishandled the family fortune, and, alas, the stock market crash has depleted their worth. Elizabeth's goofy brothers cannot easily adjust to the life of the average worker. Meanwhile, the family doctor has his eye on Elizabeth, but he will have to compete with her suitor, an ill-informed writer.",
-            "popularity": 4.0583,
+            "popularity": 0.3077,
             "poster_path": "/wkGDT2U3no9jbNee43eWqS4dpGU.jpg",
             "release_date": "1933-08-04",
             "title": "Three Cornered Moon",
@@ -858,18 +934,20 @@
             "genres": [
                 "Comedy"
             ],
-            "runtime": 78,
             "tagline": "",
-            "rank": 39
+            "runtime": 78,
+            "rank": 39,
+            "imdb_id": "tt0024664",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/6o06tJsEqLziirSSuJt3Vk5y2KZ.jpg",
-            "id": 43601,
+            "id": "43601",
             "original_language": "en",
             "original_title": "Bombshell",
             "overview": "A glamorous film star rebels against the studio, her pushy press agent and a family of hangers-on.",
-            "popularity": 1.4373,
+            "popularity": 1.4585,
             "poster_path": "/dFWEo4b1kxu997TFetFDjk1RwJm.jpg",
             "release_date": "1933-10-13",
             "title": "Bombshell",
@@ -880,18 +958,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 96,
             "tagline": "An explosion of laughter...with beautiful Jean Harlow as the female fire-cracker of filmdom!",
-            "rank": 40
+            "runtime": 96,
+            "rank": 40,
+            "imdb_id": "tt0023825",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/g1LcYjBXzjqNrGXYTRll1jNRTfb.jpg",
-            "id": 25694,
+            "id": "25694",
             "original_language": "en",
             "original_title": "Alice in Wonderland",
             "overview": "In Victorian England, a bored young girl dreams that she has entered a fantasy world called Wonderland, populated by even more fantastic characters.",
-            "popularity": 0.67,
+            "popularity": 0.8932,
             "poster_path": "/k4hlsqfhEtTrEtiDE647qxTR6PI.jpg",
             "release_date": "1933-12-18",
             "title": "Alice in Wonderland",
@@ -903,18 +983,20 @@
                 "Fantasy",
                 "Comedy"
             ],
-            "runtime": 76,
             "tagline": "The Entertainment Miracle of All Times!",
-            "rank": 41
+            "runtime": 76,
+            "rank": 41,
+            "imdb_id": "tt0023753",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/A4zsuBziuzG3szHZMDI9pLCfmQx.jpg",
-            "id": 223816,
+            "id": "223816",
             "original_language": "en",
             "original_title": "Hell Below",
             "overview": "On leave in Italy, Lt. Tommy Knowlton falls in love with Jean Standish, who's not only married, but is the daughter of his submarine's commander. Friction between the two officers becomes intolerable once at sea and after Commander Toler is forced to abandon Tommy's best friend topside while the sub dives to escape enemy planes, Tommy is no longer able to contain his anger.",
-            "popularity": 1.2122,
+            "popularity": 1.6777,
             "poster_path": "/e6umrteNk6RrJ4BdB5fLobdTWft.jpg",
             "release_date": "1933-06-08",
             "title": "Hell Below",
@@ -926,18 +1008,20 @@
                 "Drama",
                 "War"
             ],
-            "runtime": 101,
             "tagline": "1933 will be famed for one picture !",
-            "rank": 42
+            "runtime": 101,
+            "rank": 42,
+            "imdb_id": "tt0024100",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/3RVnAWLwIYb0mgbBm8H8IiV8Nbc.jpg",
-            "id": 92413,
+            "id": "92413",
             "original_language": "fr",
             "original_title": "Poil de carotte",
             "overview": "A red-haired boy is his mother's punching bag; only his father's presence is a great comfort to him, but this weak man is under the shrew's thumb. His pain is so great he feels suicidal.",
-            "popularity": 0.6691,
+            "popularity": 0.7452,
             "poster_path": "/tTYYVyAXKZMVsJUjBk59PkS8F5o.jpg",
             "release_date": "1932-11-04",
             "title": "The Red Head",
@@ -947,18 +1031,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 91,
             "tagline": "",
-            "rank": 43
+            "runtime": 91,
+            "rank": 43,
+            "imdb_id": "tt0023345",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/ra7k19uBEoNfp5u6V52WzrFfLLh.jpg",
-            "id": 170393,
+            "id": "170393",
             "original_language": "en",
             "original_title": "Cradle Song",
             "overview": "In a deeply cloistered convent, nun Dorothea Wieck raises a foundling to be Evelyn Venable. But at 17, what if, guided by a kindly doctor, she sees the world and finds love?",
-            "popularity": 0.231,
+            "popularity": 0.2339,
             "poster_path": "/tDV3at2kee9grIl7sS1ZSXT2FuC.jpg",
             "release_date": "1933-11-19",
             "title": "Cradle Song",
@@ -968,40 +1054,44 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 76,
             "tagline": "A New Star To Thrill 10 Million Hearts!",
-            "rank": 44
+            "runtime": 76,
+            "rank": 44,
+            "imdb_id": "tt0023913",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/f1AH1hSZ3F9Xpg0yEjxLQp8GbpM.jpg",
-            "id": 95854,
+            "id": "95854",
             "original_language": "en",
             "original_title": "The Prizefighter and the Lady",
             "overview": "An ex-sailor turned boxer finds romance and gets a shot at the heavyweight title.",
-            "popularity": 0.4323,
+            "popularity": 4.9422,
             "poster_path": "/eNHGwt9ij4LFA4xtnxG2HnoqgUD.jpg",
             "release_date": "1933-11-10",
             "title": "The Prizefighter and the Lady",
             "video": false,
-            "vote_average": 5.375,
+            "vote_average": 5.4,
             "vote_count": 16,
             "genres": [
                 "Romance",
                 "Comedy"
             ],
-            "runtime": 102,
             "tagline": "Girls!  There's a new passion in your life!",
-            "rank": 45
+            "runtime": 102,
+            "rank": 45,
+            "imdb_id": "tt0024475",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/8rGktfnHfUGPuIeI0YeYEjSSXOi.jpg",
-            "id": 78699,
+            "id": "78699",
             "original_language": "en",
             "original_title": "The Song of Songs",
             "overview": "After her father dies, Lily moves to the city to live with her strict aunt. During the day Lily works in her aunt's bookstore, and at night she sneaks across the street to model for Richard, a sculptor with whom she falls in love. A patron of Richard's, Baron von Merzbach, develops an interest in Lily that may not be with the best of intentions.",
-            "popularity": 0.7966,
+            "popularity": 3.4633,
             "poster_path": "/7icXsF5eqVX6aBClv8pvTsdOPwg.jpg",
             "release_date": "1933-07-19",
             "title": "The Song of Songs",
@@ -1012,18 +1102,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 90,
             "tagline": "One of the world's great love stories comes to the star who can make it live",
-            "rank": 46
+            "runtime": 90,
+            "rank": 46,
+            "imdb_id": "tt0024598",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/haRHZwHsYH6uyayyLz7Xfrkomdi.jpg",
-            "id": 114348,
+            "id": "114348",
             "original_language": "en",
             "original_title": "Pilgrimage",
             "overview": "A mother from Arkansas is very possessive of her grown son. To prevent him from getting married she has him drafted into WW I.",
-            "popularity": 1.4424,
+            "popularity": 1.4543,
             "poster_path": "/6l8qyIdtPdrBI3gloCoKNiiu66M.jpg",
             "release_date": "1933-07-12",
             "title": "Pilgrimage",
@@ -1035,18 +1127,20 @@
                 "War",
                 "Romance"
             ],
-            "runtime": 96,
             "tagline": "Everyone Who Has a Mother Must See It!",
-            "rank": 47
+            "runtime": 96,
+            "rank": 47,
+            "imdb_id": "tt0024453",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/NyC4JZhIQwLsbJ7Pj1aE5qgbIx.jpg",
-            "id": 180635,
+            "id": "180635",
             "original_language": "en",
             "original_title": "One Sunday Afternoon",
             "overview": "Middle-aged dentist Biff Grimes reminisces about his unrequited love for beautiful Virginia Brush and her husband Hugo, his ex-friend, who betrayed him.",
-            "popularity": 0.2738,
+            "popularity": 2.493,
             "poster_path": "/f20Wg9D0wf2MdSn6hTxVefkfPY6.jpg",
             "release_date": "1933-09-01",
             "title": "One Sunday Afternoon",
@@ -1057,18 +1151,20 @@
                 "Romance",
                 "Comedy"
             ],
-            "runtime": 69,
             "tagline": "HE WONDERED FOR YEARS if he'd married the wrong girl... then fate told him astoundingly!",
-            "rank": 48
+            "runtime": 69,
+            "rank": 48,
+            "imdb_id": "tt0024414",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/jj57DgNvSyRxnijDI0PGAAfkDf.jpg",
-            "id": 27990,
+            "id": "27990",
             "original_language": "en",
             "original_title": "I Cover the Waterfront",
             "overview": "An investigative reporter romances a suspected smuggler's daughter.",
-            "popularity": 0.6814,
+            "popularity": 1.6705,
             "poster_path": "/knesTGAYrf0ld1kSkmDVtHq2TDr.jpg",
             "release_date": "1933-05-19",
             "title": "I Cover the Waterfront",
@@ -1079,18 +1175,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 75,
             "tagline": "She Married Him for BETTER or for WORSE...MOSTLY WORSE!",
-            "rank": 49
+            "runtime": 75,
+            "rank": 49,
+            "imdb_id": "tt0024151",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/AjXjoawu5zLE9GiRWZ9fd20G9Aa.jpg",
-            "id": 34187,
+            "id": "34187",
             "original_language": "en",
             "original_title": "The Bitter Tea of General Yen",
             "overview": "An American missionary is gradually seduced by a courtly warlord holding her in Shanghai.",
-            "popularity": 0.4957,
+            "popularity": 0.747,
             "poster_path": "/fqFOHLqvqcaCIaMy4ZK9NNkf4jV.jpg",
             "release_date": "1932-12-25",
             "title": "The Bitter Tea of General Yen",
@@ -1101,18 +1199,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 87,
             "tagline": "They found a love they dared not touch!",
-            "rank": 50
+            "runtime": 87,
+            "rank": 50,
+            "imdb_id": "tt0023814",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/p7eETw68TBTOtGMHBNJaQOWaMtC.jpg",
-            "id": 43602,
+            "id": "43602",
             "original_language": "en",
             "original_title": "Ann Vickers",
             "overview": "After a love affair ending in an abortion, a young prison reformer submerges herself in her work. She then falls for a controversial and married judge and scandal looms again.",
-            "popularity": 1.4631,
+            "popularity": 3.7626,
             "poster_path": "/kWMiT7MYVIOkTnPVKcA3e8dmn6S.jpg",
             "release_date": "1933-09-26",
             "title": "Ann Vickers",
@@ -1123,9 +1223,11 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 76,
             "tagline": "MORE STARTLING THAN THE BOOK!",
-            "rank": 51
+            "runtime": 76,
+            "rank": 51,
+            "imdb_id": "tt0023759",
+            "status": "Released"
         }
     ]
 }

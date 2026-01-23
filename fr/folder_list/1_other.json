@@ -1,0 +1,18 @@
+{
+    "type" : "folder_list",
+    "title" : "Other",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "Box-office",
+            "id" : "2_other_by_box-office",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Collection",
+            "id" : "2_other_by_collection",
+            "type" : "folder_list"
+        }
+    ]
+}

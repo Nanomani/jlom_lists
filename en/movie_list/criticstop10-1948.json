@@ -10,11 +10,11 @@
         {
             "adult": false,
             "backdrop_path": "/xyPp8XpOozFfpZmYSlz0h9SpOpO.jpg",
-            "id": 62694,
+            "id": "62694",
             "original_language": "en",
             "original_title": "The Snake Pit",
             "overview": "Virginia Cunningham is confused upon finding herself in a mental hospital, with no memory of her arrival at the institution. Tormented by delusions and unable to even recognize her husband, Robert, she is treated by Dr. Mark Kik, who is determined to get to the root of her mental illness. As her treatment progresses, flashbacks depict events in Virginia's life that may have contributed to her instability.",
-            "popularity": 0.8312,
+            "popularity": 4.3405,
             "poster_path": "/ugT4LqeQnr9G7zKt8XKs7EImFD2.jpg",
             "release_date": "1948-11-04",
             "title": "The Snake Pit",
@@ -25,40 +25,44 @@
                 "Drama",
                 "Mystery"
             ],
-            "runtime": 108,
             "tagline": "Married and in love... with a man she didn't know or want!",
-            "rank": 1
+            "runtime": 108,
+            "rank": 1,
+            "imdb_id": "tt0040806",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
-            "id": 19542,
+            "id": "19542",
             "original_language": "en",
             "original_title": "The Red Shoes",
             "overview": "A fledgling ballerina falls in love with a brilliant composer, but the jealous head of the ballet company plots to drive them apart.",
-            "popularity": 1.9398,
-            "poster_path": "/w6qzOivBPyX8ph6UvZaYMPgLiyx.jpg",
+            "popularity": 3.6365,
+            "poster_path": "/b7x6Wq9Mss2hOgf0fnVX7gBagJw.jpg",
             "release_date": "1948-09-06",
             "title": "The Red Shoes",
             "video": false,
             "vote_average": 8.0,
-            "vote_count": 721,
+            "vote_count": 722,
             "genres": [
                 "Drama",
                 "Romance"
             ],
-            "runtime": 133,
             "tagline": "Dance she did, and dance she must\u2026Between her two loves!",
-            "rank": 2
+            "runtime": 133,
+            "rank": 2,
+            "imdb_id": "tt0040725",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
-            "id": 62000,
+            "id": "62000",
             "original_language": "en",
             "original_title": "Johnny Belinda",
             "overview": "A small-town doctor helps a deaf-mute farm girl learn to communicate.",
-            "popularity": 0.4582,
+            "popularity": 0.641,
             "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
             "release_date": "1948-09-14",
             "title": "Johnny Belinda",
@@ -68,18 +72,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 102,
             "tagline": "There was temptation in her helpless silence...and then torment",
-            "rank": 3
+            "runtime": 102,
+            "rank": 3,
+            "imdb_id": "tt0040495",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/xclfnIHbG9fGXEgNdK0odwdag3o.jpg",
-            "id": 43442,
+            "id": "43442",
             "original_language": "en",
             "original_title": "I Remember Mama",
             "overview": "Norwegian immigrant Marta Hanson keeps a firm but loving hand on her household of four children, a devoted husband and a highly-educated lodger who reads great literature to the family every evening. Through financial crises, illnesses and the small triumphs of everyday life, Marta maintains her optimism and sense of humor, traits she passes on to her aspiring-author daughter, Katrin.",
-            "popularity": 0.7639,
+            "popularity": 1.5271,
             "poster_path": "/oqiq3Zm6NeiVvd08gpUUu3WrihA.jpg",
             "release_date": "1948-03-09",
             "title": "I Remember Mama",
@@ -90,62 +96,68 @@
                 "Family",
                 "Drama"
             ],
-            "runtime": 134,
             "tagline": "You'll just love...MAMA!",
-            "rank": 4
+            "runtime": 134,
+            "rank": 4,
+            "imdb_id": "tt0040458",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/d5EF8OlcVuQWWHtNjmti4kNpbcG.jpg",
-            "id": 3090,
+            "id": "3090",
             "original_language": "en",
             "original_title": "The Treasure of the Sierra Madre",
             "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
-            "popularity": 2.3238,
+            "popularity": 2.4353,
             "poster_path": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
             "release_date": "1948-01-15",
             "title": "The Treasure of the Sierra Madre",
             "video": false,
-            "vote_average": 7.96,
-            "vote_count": 1294,
+            "vote_average": 7.961,
+            "vote_count": 1299,
             "genres": [
                 "Adventure",
                 "Drama",
                 "Western"
             ],
-            "runtime": 126,
             "tagline": "The nearer they get to their treasure, the farther they get from the law.",
-            "rank": 5
+            "runtime": 126,
+            "rank": 5,
+            "imdb_id": "tt0040897",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
-            "id": 23383,
+            "id": "23383",
             "original_language": "en",
             "original_title": "Hamlet",
             "overview": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier\u2019s Hamlet continues to be the most compelling version of Shakespeare\u2019s beloved tragedy. Olivier is at his most inspired\u2014both as director and as the melancholy Dane himself\u2014as he breathes new life into the words of one of the world\u2019s greatest dramatists.",
-            "popularity": 2.2415,
+            "popularity": 3.3966,
             "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
             "release_date": "1948-12-10",
             "title": "Hamlet",
             "video": false,
             "vote_average": 7.4,
-            "vote_count": 276,
+            "vote_count": 278,
             "genres": [
                 "Drama"
             ],
-            "runtime": 153,
             "tagline": "The motion picture of all time ... for all time!",
-            "rank": 6
+            "runtime": 153,
+            "rank": 6,
+            "imdb_id": "tt0040416",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/m6YvMxFKxiVjm1uH6nGJgm7chx6.jpg",
-            "id": 218212,
+            "id": "218212",
             "original_language": "en",
             "original_title": "Apartment for Peggy",
             "overview": "Professor Henry Barnes decides he's lived long enough and contemplates suicide. His attitude is changed by Peggy Taylor, a chipper young mother-to-be who charms him into renting out his attic as an apartment for her and her husband Jason, a former GI struggling to finish college.",
-            "popularity": 0.2651,
+            "popularity": 0.3931,
             "poster_path": "/YFyDCazbIH9NXppekCrGsmgFaE.jpg",
             "release_date": "1948-09-30",
             "title": "Apartment for Peggy",
@@ -156,18 +168,20 @@
                 "Drama",
                 "Comedy"
             ],
-            "runtime": 96,
             "tagline": "",
-            "rank": 7
+            "runtime": 96,
+            "rank": 7,
+            "imdb_id": "tt0040104",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/yjEoHzWo4O8tTa7lrVNv2okVkLz.jpg",
-            "id": 20482,
+            "id": "20482",
             "original_language": "en",
             "original_title": "The Naked City",
             "overview": "After a former model is drowned in her bathtub, Detective James Halloran and Lieutenant Dan Muldoon attempt to piece together her murder.",
-            "popularity": 1.4784,
+            "popularity": 1.2296,
             "poster_path": "/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
             "release_date": "1948-03-04",
             "title": "The Naked City",
@@ -179,18 +193,20 @@
                 "Mystery",
                 "Thriller"
             ],
-            "runtime": 96,
             "tagline": "The soul of a city. Her glory stripped! Her passion bared!",
-            "rank": 8
+            "runtime": 96,
+            "rank": 8,
+            "imdb_id": "tt0040636",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/451OaBHGmElL7Ew117pXdShqKYC.jpg",
-            "id": 23861,
+            "id": "23861",
             "original_language": "en",
             "original_title": "Command Decision",
             "overview": "High-ranking officers struggle with the decision to prioritize bombing German factories producing new jet fighters over the extremely high casualties the mission will cost.",
-            "popularity": 0.4349,
+            "popularity": 0.3669,
             "poster_path": "/moCcbMzkfvxBh7QAl5cyehdmeVC.jpg",
             "release_date": "1948-12-23",
             "title": "Command Decision",
@@ -201,18 +217,20 @@
                 "War",
                 "Drama"
             ],
-            "runtime": 112,
             "tagline": "Heroes, cowards, fighters, braggarts, liars... and what goes on in their hearts!",
-            "rank": 9
+            "runtime": 112,
+            "rank": 9,
+            "imdb_id": "tt0040242",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/pcwaxZgCzFIRxIPXXTmmPZI5okA.jpg",
-            "id": 76211,
+            "id": "76211",
             "original_language": "en",
             "original_title": "Sitting Pretty",
             "overview": "Tacey and Harry King are a suburban couple with three sons and a serious need of a babysitter. Tacey puts an ad in the paper for a live-in babysitter, and the ad is answered by Lynn Belvedere. But when she arrives, she turns out to be a man. And not just any man, but a most eccentric, outrageously forthright genius with seemingly a million careers and experiences behind him.",
-            "popularity": 1.9916,
+            "popularity": 1.0174,
             "poster_path": "/aZYDJs8MUcVtwjtL9YgMa9cZWCM.jpg",
             "release_date": "1948-03-10",
             "title": "Sitting Pretty",
@@ -222,18 +240,20 @@
             "genres": [
                 "Comedy"
             ],
-            "runtime": 83,
             "tagline": "Never was a baby-sitter like this!",
-            "rank": 10
+            "runtime": 83,
+            "rank": 10,
+            "imdb_id": "tt0040795",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/6cGKOTkgrUuF1sHYLXGmILrKLxu.jpg",
-            "id": 33792,
+            "id": "33792",
             "original_language": "en",
             "original_title": "State of the Union",
             "overview": "An industrialist is urged to run for President, but this requires uncomfortable compromises on both political and marital levels.",
-            "popularity": 1.2074,
+            "popularity": 2.1897,
             "poster_path": "/s8opauqGVUdGbgdZgLsVyfKXh9O.jpg",
             "release_date": "1948-04-30",
             "title": "State of the Union",
@@ -244,18 +264,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 124,
             "tagline": "How's the State of the Union? It's GREAT!",
-            "rank": 11
+            "runtime": 124,
+            "rank": 11,
+            "imdb_id": "tt0040834",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/dnQUmqqcfKGZ8TqhT5SaF35awI1.jpg",
-            "id": 26038,
+            "id": "26038",
             "original_language": "en",
             "original_title": "Call Northside 777",
             "overview": "In 1932, a cop is killed and Frank Wiecek sentenced to life. Eleven years later, a newspaper ad by Frank's mother leads Chicago reporter P.J. O'Neal to look into the case. For some time, O'Neal continues to believe Frank guilty. But when he starts to change his mind, he meets increased resistance from authorities unwilling to be proved wrong.",
-            "popularity": 0.9605,
+            "popularity": 5.2589,
             "poster_path": "/ejXHWJRTYfvPFGQnwOZevqoNU6H.jpg",
             "release_date": "1948-02-13",
             "title": "Call Northside 777",
@@ -266,85 +288,93 @@
                 "Crime",
                 "Drama"
             ],
-            "runtime": 111,
             "tagline": "It couldn't happen... but it did!",
-            "rank": 12
+            "runtime": 111,
+            "rank": 12,
+            "imdb_id": "tt0040202",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/jKInpViHPPW2MDGhpSUICDx8FYO.jpg",
-            "id": 21635,
+            "id": "21635",
             "original_language": "en",
             "original_title": "Sorry, Wrong Number",
             "overview": "Leona Stevenson is confined to bed and uses her telephone to keep in contact with the outside world. One day she overhears a murder plot on the telephone and is desperate to find out who is the intended victim.",
-            "popularity": 1.1383,
+            "popularity": 4.6887,
             "poster_path": "/A39p8fEvucMFQXFmjp5Z8WepdsQ.jpg",
             "release_date": "1948-09-24",
             "title": "Sorry, Wrong Number",
             "video": false,
-            "vote_average": 6.734,
-            "vote_count": 199,
+            "vote_average": 6.75,
+            "vote_count": 200,
             "genres": [
                 "Thriller",
                 "Mystery"
             ],
-            "runtime": 89,
             "tagline": "Tangled Wires... Whispering of Murder! Tangled Lives... Fighting to Escape!",
-            "rank": 13
+            "runtime": 89,
+            "rank": 13,
+            "imdb_id": "tt0040823",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/4wjo1gxtDzavaqEPEK3gT4lmXG2.jpg",
-            "id": 41131,
+            "id": "41131",
             "original_language": "en",
             "original_title": "The Search",
             "overview": "In postwar Germany, a displaced Czech boy, separated from his family during wartime, is befriended by an American GI while the boy's mother desperately searches for him.",
-            "popularity": 0.8442,
+            "popularity": 4.4382,
             "poster_path": "/jDP8XxQUJTTofJPkhFER3aBYDqR.jpg",
             "release_date": "1948-03-26",
             "title": "The Search",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 77,
+            "vote_average": 6.974,
+            "vote_count": 78,
             "genres": [
                 "Drama",
                 "War"
             ],
-            "runtime": 104,
             "tagline": "",
-            "rank": 14
+            "runtime": 104,
+            "rank": 14,
+            "imdb_id": "tt0040765",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
-            "id": 1580,
+            "id": "1580",
             "original_language": "en",
             "original_title": "Rope",
             "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
-            "popularity": 3.7189,
+            "popularity": 3.2949,
             "poster_path": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
             "release_date": "1948-02-01",
             "title": "Rope",
             "video": false,
             "vote_average": 7.9,
-            "vote_count": 2915,
+            "vote_count": 2924,
             "genres": [
                 "Thriller",
                 "Crime",
                 "Drama"
             ],
-            "runtime": 81,
             "tagline": "It begins with a shriek...it ends with a shot! From beginning to end, nothing ever held you like Alfred Hitchcock's ROPE!",
-            "rank": 15
+            "runtime": 81,
+            "rank": 15,
+            "imdb_id": "tt0040746",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/ua2DkHaB7Jy0m5YfK60jWlIHZ60.jpg",
-            "id": 61650,
+            "id": "61650",
             "original_language": "en",
             "original_title": "A Foreign Affair",
             "overview": "In occupied Berlin, an army captain is torn between an ex-Nazi caf\u00e9 singer and the US congresswoman investigating her.",
-            "popularity": 0.5611,
+            "popularity": 1.0947,
             "poster_path": "/3kVxhtmvAIjcqj6LP7pAp5aId97.jpg",
             "release_date": "1948-08-20",
             "title": "A Foreign Affair",
@@ -356,18 +386,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 116,
             "tagline": "\"A Foreign Affair\" is a funny affair!",
-            "rank": 16
+            "runtime": 116,
+            "rank": 16,
+            "imdb_id": "tt0040367",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
-            "id": 43443,
+            "id": "43443",
             "original_language": "en",
             "original_title": "Joan of Arc",
             "overview": "In the 15th Century, France is a defeated and ruined nation after the One Hundred Years War against England. The fourteen-year-old farm girl Joan of Arc claims to hear voices from Heaven asking her to lead God's Army against Orleans and crowning the weak Dauphin Charles VII as King of France. Joan gathers the people with her faith, forms an army, and conquers Orleans.",
-            "popularity": 0.5867,
+            "popularity": 1.2388,
             "poster_path": "/ho3rFoxHaQad2tH3FYUSlvnQWUY.jpg",
             "release_date": "1948-12-22",
             "title": "Joan of Arc",
@@ -378,61 +410,67 @@
                 "Drama",
                 "History"
             ],
-            "runtime": 145,
             "tagline": "Greatest of all spectacles!",
-            "rank": 17
+            "runtime": 145,
+            "rank": 17,
+            "imdb_id": "tt0040491",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
-            "id": 3089,
+            "id": "3089",
             "original_language": "en",
             "original_title": "Red River",
             "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
-            "popularity": 2.8569,
+            "popularity": 3.4991,
             "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
             "release_date": "1948-09-17",
             "title": "Red River",
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 569,
+            "vote_average": 7.341,
+            "vote_count": 572,
             "genres": [
                 "Western"
             ],
-            "runtime": 133,
             "tagline": "",
-            "rank": 18
+            "runtime": 133,
+            "rank": 18,
+            "imdb_id": "tt0040724",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/ZWwUvPUp3gOgPTmsGrqM9H44EB.jpg",
-            "id": 29380,
+            "id": "29380",
             "original_language": "en",
             "original_title": "Easter Parade",
             "overview": "On the day before Easter in 1911, Don Hewes is crushed when his dancing partner (and object of affection) Nadine Hale refuses to start a new contract with him. To prove Nadine's not important to him, Don acquires innocent new protege Hannah Brown, vowing to make her a star in time for next year's Easter parade.",
-            "popularity": 0.9294,
+            "popularity": 1.2504,
             "poster_path": "/5e5Zqsvq9gtm1AuY5ritAumDZDv.jpg",
             "release_date": "1948-07-08",
             "title": "Easter Parade",
             "video": false,
-            "vote_average": 7.003,
-            "vote_count": 147,
+            "vote_average": 7.0,
+            "vote_count": 148,
             "genres": [
                 "Romance",
                 "Music"
             ],
-            "runtime": 103,
             "tagline": "The Happiest Musical Ever Made is Irving Berlin's Easter Parade",
-            "rank": 19
+            "runtime": 103,
+            "rank": 19,
+            "imdb_id": "tt0040308",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/joQuZ1psLXeeiPQxaREu66msAdW.jpg",
-            "id": 43452,
+            "id": "43452",
             "original_language": "en",
             "original_title": "The Babe Ruth Story",
             "overview": "The baseball player goes from wayward youth to Boston Red Sox pitcher to New York Yankees home-run hero.",
-            "popularity": 5.1682,
+            "popularity": 0.4589,
             "poster_path": "/7HYkbTeh0m6e9Q0f7bNtfjFipuk.jpg",
             "release_date": "1948-09-16",
             "title": "The Babe Ruth Story",
@@ -442,18 +480,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 106,
             "tagline": "The incredible life... the spectacular thrills... the fabulous times of America's best-loved hero.......",
-            "rank": 20
+            "runtime": 106,
+            "rank": 20,
+            "imdb_id": "tt0040142",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/AoRZYgpwUyNB6wLbPxXyPTjOhZj.jpg",
-            "id": 43456,
+            "id": "43456",
             "original_language": "en",
             "original_title": "The Miracle of the Bells",
             "overview": "The body of a young actress is brought to her home town by the man who loved her. He knows that she wanted all the church bells to ring for three days after she was buried, but is told that this will cost a lot of money. The checks that he writes to the various churches all bounce, but it is the weekend and, in desperation, he prays that a miracle will happen before the banks reopen. It does, but not in the way he hoped.",
-            "popularity": 3.0567,
+            "popularity": 0.4659,
             "poster_path": "/hc5IX1vayih9TOl1hnft6J70rdD.jpg",
             "release_date": "1948-03-27",
             "title": "The Miracle of the Bells",
@@ -463,18 +503,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 120,
             "tagline": "",
-            "rank": 21
+            "runtime": 120,
+            "rank": 21,
+            "imdb_id": "tt0040594",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/eXU2ZonDfVZgaQYPFykYPRHf6wW.jpg",
-            "id": 32294,
+            "id": "32294",
             "original_language": "en",
             "original_title": "Mr. Blandings Builds His Dream House",
             "overview": "An advertising executive dreams of getting out of the city and building a perfect home in the country, only to find the transition fraught with problems.",
-            "popularity": 0.7728,
+            "popularity": 1.2346,
             "poster_path": "/smKM575W3FLvWHna5YaWWeN5po8.jpg",
             "release_date": "1948-03-25",
             "title": "Mr. Blandings Builds His Dream House",
@@ -484,18 +526,20 @@
             "genres": [
                 "Comedy"
             ],
-            "runtime": 94,
             "tagline": "Looks like the Blandings will have no heating problem!",
-            "rank": 22
+            "runtime": 94,
+            "rank": 22,
+            "imdb_id": "tt0040613",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/m2SXRnAd0d5N6qH2cbgluRgMX4z.jpg",
-            "id": 11016,
+            "id": "11016",
             "original_language": "en",
             "original_title": "Key Largo",
             "overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
-            "popularity": 20.7026,
+            "popularity": 1.8561,
             "poster_path": "/rySfmQQZhS7RswOiJcJrww6FcHy.jpg",
             "release_date": "1948-07-16",
             "title": "Key Largo",
@@ -506,18 +550,20 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 100,
             "tagline": "A storm of fear and fury in the sizzling Florida Keys!",
-            "rank": 23
+            "runtime": 100,
+            "rank": 23,
+            "imdb_id": "tt0040506",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/drtVPcIOUllCL5iVkEpe4XHikIr.jpg",
-            "id": 19974,
+            "id": "19974",
             "original_language": "en",
             "original_title": "The Big Clock",
             "overview": "George Stroud, a crime magazine's crusading editor, has to postpone a vacation with his wife - again - when a glamorous blonde is murdered and he is assigned by his publishing boss to find the killer. As the investigation proceeds to its conclusion, Stroud must try to disrupt his ordinarily brilliant investigative team as they increasingly build evidence that he is the killer.",
-            "popularity": 0.9246,
+            "popularity": 1.9145,
             "poster_path": "/urnKMXbvNubipGbdqmXpXoNS2OO.jpg",
             "release_date": "1948-03-18",
             "title": "The Big Clock",
@@ -528,18 +574,20 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 95,
             "tagline": "The Strangest and Most Savage Manhunt in History!",
-            "rank": 24
+            "runtime": 95,
+            "rank": 24,
+            "imdb_id": "tt0040160",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/4Fa8pLcAkA5smMyreur0qFAvHVM.jpg",
-            "id": 76076,
+            "id": "76076",
             "original_language": "en",
             "original_title": "The Time of Your Life",
             "overview": "Joe spends a lot of his time at Nick's Pacific Street Saloon. Tom, who credits Joe with once saving his life, stops by regularly to run errands for Joe. Today, Tom notices a woman named Kitty when she comes into Nick's, and he quickly falls in love with her. Meanwhile, a distraught young man repeatedly calls his girlfriend, begging her to marry him. Nick himself muses on all the various persons who come into his bar, some to ask for work and others just to pass the time.",
-            "popularity": 1.348,
+            "popularity": 0.8075,
             "poster_path": "/pIlsRsR2785SKJA2Cuhe4u17Otp.jpg",
             "release_date": "1948-09-03",
             "title": "The Time of Your Life",
@@ -550,18 +598,20 @@
                 "Comedy",
                 "Drama"
             ],
-            "runtime": 109,
             "tagline": "FROM THE GREAT STAGE PLAY!",
-            "rank": 25
+            "runtime": 109,
+            "rank": 25,
+            "imdb_id": "tt0040884",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/5Ta7E8QrRlBgRTDj61aoItjHUTt.jpg",
-            "id": 30665,
+            "id": "30665",
             "original_language": "en",
             "original_title": "Tap Roots",
             "overview": "Set at the beginning of the Civil War, Tap Roots is all about a county in Mississippi which chooses to secede from the state rather than enter the conflict. The county is protected from the Confederacy by an abolitionist and a Native American gentleman. The abolitionist's daughter is courted by a powerful newspaper publisher when her fiance, a confederate officer, elopes with the girl's sister. The daughter at first resists the publisher's attentions, but turns to him for aid when her ex-fiance plans to capture the seceding county on behalf of the South.",
-            "popularity": 2.2637,
+            "popularity": 2.4508,
             "poster_path": "/844Gez3RtTvbAgb3b9SGWp24H1V.jpg",
             "release_date": "1948-08-25",
             "title": "Tap Roots",
@@ -573,18 +623,20 @@
                 "War",
                 "Western"
             ],
-            "runtime": 109,
             "tagline": "When she lost her lover...her sister gained one!",
-            "rank": 26
+            "runtime": 109,
+            "rank": 26,
+            "imdb_id": "tt0040861",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
-            "id": 45166,
+            "id": "45166",
             "original_language": "en",
             "original_title": "All My Sons",
             "overview": "During WWII, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever. Years later, his sin comes back to haunt him when his son plans to marry Deever's daughter.",
-            "popularity": 3.4915,
+            "popularity": 2.6908,
             "poster_path": "/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
             "release_date": "1948-05-01",
             "title": "All My Sons",
@@ -594,18 +646,20 @@
             "genres": [
                 "Drama"
             ],
-            "runtime": 94,
             "tagline": "",
-            "rank": 27
+            "runtime": 94,
+            "rank": 27,
+            "imdb_id": "tt0040087",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/dfl63w8irDbF7FYN8rVbQTFFdW.jpg",
-            "id": 38804,
+            "id": "38804",
             "original_language": "en",
             "original_title": "The Emperor Waltz",
             "overview": "A brash American gramophone salesman tries to get Emperor Franz Joseph's endorsement in turn-of-the-century Austria.",
-            "popularity": 0.4032,
+            "popularity": 0.4249,
             "poster_path": "/duJXRdPna0jWpsdcDOPpPqbTPsa.jpg",
             "release_date": "1948-07-02",
             "title": "The Emperor Waltz",
@@ -617,18 +671,20 @@
                 "Comedy",
                 "Music"
             ],
-            "runtime": 106,
             "tagline": "Bing hits the high notes! Joan hits the love notes! You'll hit a happy note... in this king-sized muscial wonder!",
-            "rank": 28
+            "runtime": 106,
+            "rank": 28,
+            "imdb_id": "tt0040317",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/p4EMVgzHyO8corblRnYvi6YVsIF.jpg",
-            "id": 161716,
+            "id": "161716",
             "original_language": "en",
             "original_title": "Another Part of the Forest",
             "overview": "This 'prequel' to The Little Foxes tells how the ruthless members of the old-South Hubbard family got that way.",
-            "popularity": 2.1166,
+            "popularity": 0.6072,
             "poster_path": "/eBsOsTBPJO0E2myqHGlXuuDrAXG.jpg",
             "release_date": "1948-05-18",
             "title": "Another Part of the Forest",
@@ -639,18 +695,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 107,
             "tagline": "That fascinating family from Broadway's most shocking play!",
-            "rank": 29
+            "runtime": 107,
+            "rank": 29,
+            "imdb_id": "tt0040102",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/oq5cf8FK7zAUtdcYuNImJfSYBbf.jpg",
-            "id": 41609,
+            "id": "41609",
             "original_language": "en",
             "original_title": "The Three Musketeers",
             "overview": "In 17th century France, young D'Artagnan wants to join the King's Musketeers, but instead befriends three legendary musketeers\u2014Athos, Porthos, and Aramis\u2014and together, they become embroiled in the political intrigue surrounding King Louis XIII and his adversaries, particularly the powerful Cardinal Richelieu.",
-            "popularity": 1.4462,
+            "popularity": 4.8441,
             "poster_path": "/jOkXsC1NjkNOxNyooRhTIf1nxsn.jpg",
             "release_date": "1948-10-20",
             "title": "The Three Musketeers",
@@ -661,18 +719,20 @@
                 "Adventure",
                 "Romance"
             ],
-            "runtime": 125,
             "tagline": "THE COMPLETE ROMANCE...THE FULL NOVEL!",
-            "rank": 30
+            "runtime": 125,
+            "rank": 30,
+            "imdb_id": "tt0040876",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/g7dB1Z0uJZhXJFFTfOXgyskNhDY.jpg",
-            "id": 43448,
+            "id": "43448",
             "original_language": "en",
             "original_title": "Rachel and the Stranger",
             "overview": "A widowed farmer takes an indentured servant as his new wife, but the arrival of a passing stranger threatens their burgeoning relationship.",
-            "popularity": 0.4104,
+            "popularity": 0.7237,
             "poster_path": "/9q5o7FyuHRbW1fh9YK7ZKLi91be.jpg",
             "release_date": "1948-09-18",
             "title": "Rachel and the Stranger",
@@ -683,18 +743,20 @@
                 "Western",
                 "Romance"
             ],
-            "runtime": 93,
             "tagline": "Once was a man, a married man... Who couldn't see the danger Until one day, one fateful day... Along came a Tall, Dark Stranger!",
-            "rank": 31
+            "runtime": 93,
+            "rank": 31,
+            "imdb_id": "tt0040720",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/fs3HqCkrJDE8SxGHMkn37hKTJTp.jpg",
-            "id": 108256,
+            "id": "108256",
             "original_language": "en",
             "original_title": "Good Sam",
             "overview": "Sam Clayton has a good heart and likes to help out people in need. In fact, he likes to help them out so much that he often finds himself broke and unable to help his own family buy the things they need--like a house.",
-            "popularity": 1.5496,
+            "popularity": 1.7651,
             "poster_path": "/nJFZzEmreM9Z2jmhx4GoUyrGzBH.jpg",
             "release_date": "1948-09-01",
             "title": "Good Sam",
@@ -706,18 +768,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 114,
             "tagline": "He'll take the whole world...and you to his heart!",
-            "rank": 32
+            "runtime": 114,
+            "rank": 32,
+            "imdb_id": "tt0040395",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/lMcHUruslPIoRfQ0xaGIpaPXYrD.jpg",
-            "id": 26747,
+            "id": "26747",
             "original_language": "en",
             "original_title": "The Iron Curtain",
             "overview": "The Iron Curtain is based on the actual 1945 case of Soviet cipher clerk Igor Gouzenko, (Dana Andrews), who, after careful training, was assigned to the U.S.S.R. Embassy in Ottawa, Canada in the midst of World War II. Eventually, Gouzenko defected with 109 pages of material implicating several high level Canadian officials, outlined the steps taken to secure information about the the details of the nuclear bomb via numerous sleeper cells established throughout North America. The scandal that resulted when details of this case were publicized by American columnist Drew Pearson in early 1946 involved Canada, Britain and the United States.",
-            "popularity": 0.4602,
+            "popularity": 0.4654,
             "poster_path": "/kkdfF5ZrmwdreS2M2A6PK7Tawi1.jpg",
             "release_date": "1948-06-16",
             "title": "The Iron Curtain",
@@ -727,39 +791,43 @@
             "genres": [
                 "Thriller"
             ],
-            "runtime": 87,
             "tagline": "What Was Behind Their Mission... THIS TERROR?",
-            "rank": 33
+            "runtime": 87,
+            "rank": 33,
+            "imdb_id": "tt0040478",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/lJyDK0shCLOVa7OZQrcYkM9MKmq.jpg",
-            "id": 37347,
+            "id": "37347",
             "original_language": "en",
             "original_title": "Fort Apache",
             "overview": "Owen Thursday sees his new posting to the desolate Fort Apache as a chance to claim the military honour which he believes is rightfully his. Arrogant, obsessed with military form and ultimately self-destructive, he attempts to destroy the Apache chief Cochise after luring him across the border from Mexico, against the advice of his subordinates.",
-            "popularity": 3.1541,
+            "popularity": 8.1178,
             "poster_path": "/5PqKsWVlyIFuMeV1UkK6Q9Q8y9k.jpg",
             "release_date": "1948-05-21",
             "title": "Fort Apache",
             "video": false,
             "vote_average": 7.0,
-            "vote_count": 394,
+            "vote_count": 395,
             "genres": [
                 "Western"
             ],
-            "runtime": 128,
             "tagline": "John Ford's Masterpiece of the Frontier!",
-            "rank": 34
+            "runtime": 128,
+            "rank": 34,
+            "imdb_id": "tt0040369",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/7xGE3qlzQWrPwsKFw0u5p5N6G5m.jpg",
-            "id": 96252,
+            "id": "96252",
             "original_language": "en",
             "original_title": "A Date with Judy",
             "overview": "Best friends Judy and Carol compete for the affection of an older man during their high school dance. As Carol tries to rekindle Judy's relationship with Carol's bumbling brother, Oogie, Judy suspects that her father is having an affair with a beautiful dance instructor. The two girls team up to expose Judy's father -- who is only taking innocent dance lessons.",
-            "popularity": 0.4612,
+            "popularity": 1.268,
             "poster_path": "/3xhQjcPwFwWzOVC0kDcPZb2QOMK.jpg",
             "release_date": "1948-07-29",
             "title": "A Date with Judy",
@@ -771,18 +839,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 113,
             "tagline": "The best date you ever had!",
-            "rank": 35
+            "runtime": 113,
+            "rank": 35,
+            "imdb_id": "tt0040271",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/kGffRgiZlt80CHMhp07V62yNaOm.jpg",
-            "id": 33111,
+            "id": "33111",
             "original_language": "en",
             "original_title": "Enchantment",
             "overview": "Roland Dane finally retires to the house he was brought up in. Lost in thoughts of his lost love Lark, he does not want to be disturbed in his last days. However, the appearance of his niece and her subsequent romance with Lark's nephew causes him to reevaluate his life and offer some advice so the young couple doesn't make the same mistake he did, all those years ago.",
-            "popularity": 1.6846,
+            "popularity": 2.0264,
             "poster_path": "/va1NmbFgojTohqjruhH3Lz0UnVT.jpg",
             "release_date": "1948-12-25",
             "title": "Enchantment",
@@ -793,18 +863,20 @@
                 "Drama",
                 "Romance"
             ],
-            "runtime": 100,
             "tagline": "JUST ABOUT THE MOST WONDERFUL LOVE STORY EVER FILMED!",
-            "rank": 36
+            "runtime": 100,
+            "rank": 36,
+            "imdb_id": "tt0040321",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/m1my5tTcWBUqLDnWleuFrBB1BaF.jpg",
-            "id": 36814,
+            "id": "36814",
             "original_language": "en",
             "original_title": "The Street with No Name",
             "overview": "After two gang-related killings in \"Center City,\" a suspect (who was framed) is arrested, released on bail...and murdered. Inspector Briggs of the FBI recruits a young agent, Gene Cordell, to go undercover in the shadowy Skid Row area (alias George Manly) as a potential victim of the same racket. Soon, Gene meets Alec Stiles, neurotic mastermind who's \"building an organization along scientific lines.\" Stiles recruits Cordell, whose job becomes a lot more dangerous.",
-            "popularity": 0.6692,
+            "popularity": 0.4738,
             "poster_path": "/t2OkuSVnw1KxeSGwhTbTaXiQfxr.jpg",
             "release_date": "1948-07-14",
             "title": "The Street with No Name",
@@ -815,18 +887,20 @@
                 "Crime",
                 "Thriller"
             ],
-            "runtime": 91,
             "tagline": "Counter Attack!",
-            "rank": 37
+            "runtime": 91,
+            "rank": 37,
+            "imdb_id": "tt0040843",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/e3TabVPgGOZhi9a4M80m806ghh5.jpg",
-            "id": 69483,
+            "id": "69483",
             "original_language": "en",
             "original_title": "Julia Misbehaves",
             "overview": "Julia and William were married and soon separated by his snobbish family. They meet again many years later, when their daughter he has raised invites her mother to her wedding, with the disapproval of William's mother.",
-            "popularity": 1.8196,
+            "popularity": 4.2434,
             "poster_path": "/qX9lZApUTrJvgvzj6mUttkKL4Ze.jpg",
             "release_date": "1948-08-08",
             "title": "Julia Misbehaves",
@@ -837,18 +911,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 99,
             "tagline": "It's daring! It's delicious! It's the gayest comedy-romance of the year!",
-            "rank": 38
+            "runtime": 99,
+            "rank": 38,
+            "imdb_id": "tt0040498",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/4eMVzGGHydlD87m5uT9pJYQwhve.jpg",
-            "id": 222607,
+            "id": "222607",
             "original_language": "en",
             "original_title": "Miss Tatlock's Millions",
             "overview": "After the accidental death of an idiot heir, a stunt man is hired to impersonate him while the family gathers to determine the dispersment of the estate of Miss Tatlock's millions.",
-            "popularity": 0.0461,
+            "popularity": 0.2041,
             "poster_path": "/8qlVmvRzFHYwdi8MPD5SPZ9VRyP.jpg",
             "release_date": "1948-11-19",
             "title": "Miss Tatlock's Millions",
@@ -859,18 +935,20 @@
                 "Romance",
                 "Comedy"
             ],
-            "runtime": 101,
             "tagline": "The daffiest, laughiest comedy hit that ever came out of Hollywood!",
-            "rank": 39
+            "runtime": 101,
+            "rank": 39,
+            "imdb_id": "tt0040599",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/5tMu6E5qUBuKu89V9XBoya3cuet.jpg",
-            "id": 107999,
+            "id": "107999",
             "original_language": "en",
             "original_title": "The Bride Goes Wild",
             "overview": "McGrath publishes books for children and Uncle Bump is one of the best sellers. Unfortunately, Greg, who is Uncle Bump, tends to drink too much and has not started his next book. Martha won a contest to illustrate the book and the first thing that happens is that Greg gets her soused. To keep her there to illustrate, John gets a juvenile delinquent named Danny to play his son and show how much pressure he is under. The ploy works at first, but Greg's heart was broken by Tillie, and Martha may be the girl who makes him forget all about her.",
-            "popularity": 0.8282,
+            "popularity": 2.8337,
             "poster_path": "/rEho1kEDXUh9CwmuqjdAGdZh2oW.jpg",
             "release_date": "1948-03-03",
             "title": "The Bride Goes Wild",
@@ -881,18 +959,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 98,
             "tagline": "M-G-M's Picture of Happy-go-lucky Love!",
-            "rank": 40
+            "runtime": 98,
+            "rank": 40,
+            "imdb_id": "tt0040187",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/dm8dfILA11OYR0usqQGJJZQMw93.jpg",
-            "id": 17804,
+            "id": "17804",
             "original_language": "en",
             "original_title": "The Paleface",
             "overview": "Bob Hope stars in this laugh-packed wild west spoof co-starring Jane Russell as a sexy Calamity Jane, Hope is a meek frontier dentist, \"Painless\" Peter Potter, who finds himself gunslinging alongside the fearless Calamity as she fights off outlaws and Indians.",
-            "popularity": 1.7326,
+            "popularity": 3.2953,
             "poster_path": "/6UxaRsI6BLCjzxTFzeo0D6G3rmD.jpg",
             "release_date": "1948-12-17",
             "title": "The Paleface",
@@ -903,18 +983,20 @@
                 "Comedy",
                 "Western"
             ],
-            "runtime": 91,
             "tagline": "Like Merry Xmas and Happy New Year...They belong together!",
-            "rank": 41
+            "runtime": 91,
+            "rank": 41,
+            "imdb_id": "tt0040679",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/2eIK465CztcwHQ6Ds5rEusbocT9.jpg",
-            "id": 201074,
+            "id": "201074",
             "original_language": "en",
             "original_title": "When My Baby Smiles at Me",
             "overview": "Bonny Kane and 'Skid' Johnson are vaudeville performers in the 1920s. The two of them suffer marital difficulties when Skid gets an offer to appear on Broadway while Bonny gets left behind on the road. Things get worse with Skid's increasing drinking problem and the fact that the press has reported him to be spending a lot of time with his pretty co-star.",
-            "popularity": 0.1557,
+            "popularity": 0.1871,
             "poster_path": "/tPQCjq4Ib3sm09OyLqJFn2FKBs2.jpg",
             "release_date": "1948-11-10",
             "title": "When My Baby Smiles at Me",
@@ -925,18 +1007,20 @@
                 "Music",
                 "Romance"
             ],
-            "runtime": 98,
             "tagline": "From Burlesque to Broadway !! 12 show-stopping song hits in the year's hit-topping musical !",
-            "rank": 42
+            "runtime": 98,
+            "rank": 42,
+            "imdb_id": "tt0040962",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/qT2NFVFUq8rtqadklNODI95wx6Y.jpg",
-            "id": 121357,
+            "id": "121357",
             "original_language": "en",
             "original_title": "Golden Earrings",
             "overview": "A British colonel escapes from the Gestapo to the Black Forest and poses as a Gypsy's mate.",
-            "popularity": 2.4327,
+            "popularity": 4.3402,
             "poster_path": "/3ZMKfwdgqV1AfqmOK5Qykgr96n2.jpg",
             "release_date": "1947-08-27",
             "title": "Golden Earrings",
@@ -947,18 +1031,20 @@
                 "Adventure",
                 "Romance"
             ],
-            "runtime": 95,
             "tagline": "Strange . . . Amazing . . . Their Love Story !",
-            "rank": 43
+            "runtime": 95,
+            "rank": 43,
+            "imdb_id": "tt0039428",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/bO4WFPLwAy0Z6uCHwt2T5yvFM7N.jpg",
-            "id": 43458,
+            "id": "43458",
             "original_language": "en",
             "original_title": "Words and Music",
             "overview": "Encomium to Larry Hart (1895-1943), seen through the fictive eyes of his song-writing partner, Richard Rodgers (1902-1979): from their first meeting, through lean years and their breakthrough, to their successes on Broadway, London, and Hollywood. We see the fruits of Hart and Rodgers' collaboration - elaborately staged numbers from their plays, characters' visits to night clubs, and impromptu performances at parties. We also see Larry's scattered approach to life, his failed love with Peggy McNeil, his unhappiness, and Richard's successful wooing of Dorothy Feiner.",
-            "popularity": 0.6328,
+            "popularity": 2.744,
             "poster_path": "/j2EKiMGFeKk3VVz7lZz0HaXXjH0.jpg",
             "release_date": "1948-12-31",
             "title": "Words and Music",
@@ -969,40 +1055,44 @@
                 "Drama",
                 "Music"
             ],
-            "runtime": 121,
             "tagline": "The BIGGEST musical!",
-            "rank": 44
+            "runtime": 121,
+            "rank": 44,
+            "imdb_id": "tt0040976",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/7amSQSipxgiQnEejWX6iQonFrZI.jpg",
-            "id": 946,
+            "id": "946",
             "original_language": "en",
             "original_title": "Letter from an Unknown Woman",
             "overview": "A pianist about to flee from a duel receives a letter from a woman he cannot remember. As she tells the story of her lifelong love for him, he is forced to reinterpret his own past.",
-            "popularity": 1.0022,
+            "popularity": 1.2109,
             "poster_path": "/gRGRW7DKyK8qBtKJTWguULMGbHG.jpg",
             "release_date": "1948-04-28",
             "title": "Letter from an Unknown Woman",
             "video": false,
-            "vote_average": 7.758,
+            "vote_average": 7.8,
             "vote_count": 330,
             "genres": [
                 "Drama",
                 "Romance"
             ],
-            "runtime": 87,
             "tagline": "This is the love every woman lives for\u2026the love every man would die for!",
-            "rank": 45
+            "runtime": 87,
+            "rank": 45,
+            "imdb_id": "tt0040536",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/c7FFSwEl9bFzvSnTav3WeSlHKYo.jpg",
-            "id": 102026,
+            "id": "102026",
             "original_language": "en",
             "original_title": "Homecoming",
             "overview": "Self-absorbed Dr. Lee Johnson enlists with the Army medical corps during World War II, more out of a feeling that it's \"the thing to do\" rather than deep-seated patriotism. On his first day, he's put into place by 'Snapshot', a sassy and attractive nurse. Their initial antagonism blossoms into romance. Lee then finds himself torn with guilt over being unfaithful to his wife, Penny, who's waiting for him back home.",
-            "popularity": 1.4278,
+            "popularity": 1.4254,
             "poster_path": "/rkrIGWsQQmHTqoc5zdGrCgI7Xwt.jpg",
             "release_date": "1948-04-29",
             "title": "Homecoming",
@@ -1014,18 +1104,20 @@
                 "Romance",
                 "War"
             ],
-            "runtime": 113,
             "tagline": "The Stirring Story of a Dangerous and Romantic Journey",
-            "rank": 46
+            "runtime": 113,
+            "rank": 46,
+            "imdb_id": "tt0040446",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/3MgreZPjptjMCu7XAq7F0XG6TN4.jpg",
-            "id": 252622,
+            "id": "252622",
             "original_language": "en",
             "original_title": "The Mating of Millie",
             "overview": "Self-sufficient in life and successful in business, prim and proper Millie McGonigle wants just one more thing, a child. When she asks to adopt orphan Tommy Bassett, but learns that she will first have to have a husband, Millie turns to a recently fired bus driver, Doug Andrews. Though he has no interest in marriage, Doug offers to help Millie find a husband by transforming her into a beautiful and exciting woman, one who catches the eye of two eligible bachelors, including the orphanage's president.",
-            "popularity": 0.2306,
+            "popularity": 0.5619,
             "poster_path": "/hrGTuzfSLvwrirNOoF3fr956XKi.jpg",
             "release_date": "1948-03-08",
             "title": "The Mating of Millie",
@@ -1036,18 +1128,20 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 87,
             "tagline": "",
-            "rank": 47
+            "runtime": 87,
+            "rank": 47,
+            "imdb_id": "tt0040577",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/zy7wZp6WEdK4zeVhrw2V5BIbLRy.jpg",
-            "id": 13757,
+            "id": "13757",
             "original_language": "en",
             "original_title": "Melody Time",
             "overview": "In the grand tradition of Disney's great musical classics, Melody Time features seven timeless stories, each enhanced with high-spirited music and unforgettable characters. You'll be sure to tap your toes and clap your hands in this witty feast for the eyes and ears.",
-            "popularity": 1.3419,
+            "popularity": 1.9837,
             "poster_path": "/5IlnhKFdNBxYIjEPkJ8N7YHrL0i.jpg",
             "release_date": "1948-05-27",
             "title": "Melody Time",
@@ -1059,18 +1153,20 @@
                 "Music",
                 "Family"
             ],
-            "runtime": 75,
             "tagline": "For Your All-Time Good Time!",
-            "rank": 48
+            "runtime": 75,
+            "rank": 48,
+            "imdb_id": "tt0040580",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/gKid6ohUtqZphz07N72VyP45cl8.jpg",
-            "id": 31556,
+            "id": "31556",
             "original_language": "en",
             "original_title": "He Walked by Night",
             "overview": "Roy Martin aka Roy Morgan is a burglar and former war-time Radio & Electronics Engineer who listens in to radio police calls, allowing him to stay one step ahead of the cops.",
-            "popularity": 0.5502,
+            "popularity": 1.9295,
             "poster_path": "/wAhLdEjC9iIvF6Oly42Qs3LXKuL.jpg",
             "release_date": "1949-02-06",
             "title": "He Walked by Night",
@@ -1081,18 +1177,20 @@
                 "Thriller",
                 "Crime"
             ],
-            "runtime": 79,
             "tagline": "Savage TRUTH! Stronger than Fiction!",
-            "rank": 49
+            "runtime": 79,
+            "rank": 49,
+            "imdb_id": "tt0040427",
+            "status": "Released"
         },
         {
             "adult": false,
             "backdrop_path": "/e3jyAHY8AIu9HVhG0C999wbBV4M.jpg",
-            "id": 43441,
+            "id": "43441",
             "original_language": "en",
             "original_title": "Every Girl Should Be Married",
             "overview": "Anabel Sims is determined to find the perfect husband. She thinks she's found her man in Madison Brown, a handsome pediatrician. She then prepares an elaborate scheme to trap him into marriage",
-            "popularity": 0.4206,
+            "popularity": 0.5014,
             "poster_path": "/npJFF02CDT6yPb0jnVFA78N6XFl.jpg",
             "release_date": "1948-12-25",
             "title": "Every Girl Should Be Married",
@@ -1103,9 +1201,11 @@
                 "Comedy",
                 "Romance"
             ],
-            "runtime": 85,
             "tagline": "He won't say \"YES\"! She won't take \"NO\"!",
-            "rank": 50
+            "runtime": 85,
+            "rank": 50,
+            "imdb_id": "tt0040331",
+            "status": "Released"
         }
     ]
 }

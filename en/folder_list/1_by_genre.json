@@ -1,0 +1,73 @@
+{
+    "type" : "folder_list",
+    "title" : "Genre",
+    "added" : "24/04/24",
+    "modified" : "15/01/26",
+    "folders" : [
+        {
+            "title" : "Action",
+            "id" : "2_by_genre_action",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Aventure",
+            "id" : "2_by_genre_adventure",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Animation",
+            "id" : "2_by_genre_animation",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Comédie",
+            "id" : "2_by_genre_comedy",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Drame",
+            "id" : "2_by_genre_drama",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Fantastique",
+            "id" : "2_by_genre_fantasy",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Horreur",
+            "id" : "2_by_genre_horror",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Science-Fiction",
+            "id" : "2_by_genre_scifi",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Sports",
+            "id" : "2_by_genre_sports",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Thriller",
+            "id" : "2_by_genre_thriller",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "War",
+            "id" : "2_by_genre_war",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Western",
+            "id" : "2_by_genre_western",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "Autre",
+            "id" : "2_by_genre_other",
+            "type" : "folder_list"
+        }
+    ]
+}

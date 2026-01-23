@@ -1,0 +1,63 @@
+{
+    "type" : "folder_list",
+    "title" : "Decade",
+    "added" : "24/04/24",
+    "modified" : "24/04/24",
+    "folders" : [
+        {
+            "title" : "1920s",
+            "id" : "2_by_decade_1920s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1930s",
+            "id" : "2_by_decade_1930s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1940s",
+            "id" : "2_by_decade_1940s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1950s",
+            "id" : "2_by_decade_1950s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1960s",
+            "id" : "2_by_decade_1960s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1970s",
+            "id" : "2_by_decade_1970s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1980s",
+            "id" : "2_by_decade_1980s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "1990s",
+            "id" : "2_by_decade_1990s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "2000s",
+            "id" : "2_by_decade_2000s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "2010s",
+            "id" : "2_by_decade_2010s",
+            "type" : "folder_list"
+        },
+        {
+            "title" : "2020s",
+            "id" : "2_by_decade_2020s",
+            "type" : "folder_list"
+        }
+    ]
+}
