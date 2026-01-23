@@ -1,23 +1,23 @@
 {
-    "type" : "folder_list",
-    "title" : "Comedy",
-    "added" : "10/10/24",
-    "modified" : "10/10/24",
-    "folders" : [
+    "type": "folder_list",
+    "title": "Comedy",
+    "added": "10/10/24",
+    "modified": "10/10/24",
+    "folders": [
         {
-            "title" : "Rotten Tomatoes - 150 Essential Comedy Movies To Watch Now",
-            "id" : "rottentomatoes-essential_comedy_movies",
-            "type" : "movie_list"
+            "title": "Rotten Tomatoes - 150 Essential Comedy Movies To Watch Now",
+            "id": "2_by_genre_comedy_rottentomatoes_essential_comedy_movies",
+            "type": "movie_list"
         },
         {
-            "title" : "TimeOut - 100 Best Comedy Movies Of All Time",
-            "id" : "timeout-100_best_comedy_movies",
-            "type" : "movie_list"
+            "title": "TimeOut - 100 Best Comedy Movies Of All Time",
+            "id": "2_by_genre_comedy_timeout_100_best_comedy_movies",
+            "type": "movie_list"
         },
         {
-            "title" : "AFI - 100 Years... 100 Laughs",
-            "id" : "AFI-100_years_100_laughs",
-            "type" : "movie_list"
+            "title": "AFI - 100 Years... 100 Laughs",
+            "id": "2_by_genre_comedy_AFI_100_years_100_laughs",
+            "type": "movie_list"
         }
     ]
 }
