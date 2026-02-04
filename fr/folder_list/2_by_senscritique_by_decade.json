@@ -1,0 +1,58 @@
+{
+    "type": "folder_list",
+    "title": "SensCritrique - Decade",
+    "added": "24/04/24",
+    "modified": "24/04/24",
+    "folders": [
+        {
+            "title": "Annees 1930",
+            "id": "2_by_senscritique_by_decade_1930",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 1940",
+            "id": "2_by_senscritique_by_decade_1940",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 1950",
+            "id": "2_by_senscritique_by_decade_1950",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 1960",
+            "id": "2_by_senscritique_by_decade_1960",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 1970",
+            "id": "2_by_senscritique_by_decade_1970",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 1980",
+            "id": "2_by_senscritique_by_decade_1980",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 1990",
+            "id": "2_by_senscritique_by_decade_1990",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 2000",
+            "id": "2_by_senscritique_by_decade_2000",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 2010",
+            "id": "2_by_senscritique_by_decade_2010",
+            "type": "movie_list"
+        },
+        {
+            "title": "Années 2020",
+            "id": "2_by_senscritique_by_decade_2020",
+            "type": "movie_list"
+        }
+    ]
+}

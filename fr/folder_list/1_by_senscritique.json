@@ -1,0 +1,28 @@
+{
+    "type": "folder_list",
+    "title": "SensCritique",
+    "added": "24/04/24",
+    "modified": "24/04/24",
+    "folders": [
+        {
+            "title": "Pays",
+            "id": "2_by_senscritique_by_country",
+            "type": "folder_list"
+        },
+        {
+            "title": "Décade",
+            "id": "2_by_senscritique_by_decade",
+            "type": "folder_list"
+        },
+        {
+            "title": "Year",
+            "id": "2_by_senscritique_by_year",
+            "type": "folder_list"
+        },
+        {
+            "title": "Genre",
+            "id": "2_by_senscritique_by_genre",
+            "type": "folder_list"
+        }	
+    ]
+}
