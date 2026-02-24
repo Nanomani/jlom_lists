@@ -4,7 +4,7 @@
     "source": "https://www.a.ajouter.com/",
     "created_by": "nanomani",
     "added": "2026-02-04",
-    "modified": "2026-02-04",
+    "modified": "2026-02-24",
     "ordered_by": "rank",
     "movies": [
         {
@@ -1092,28 +1092,28 @@
         },
         {
             "adult": false,
-            "backdrop_path": "",
-            "id": "248641",
-            "original_language": "en",
-            "original_title": "The Beast",
-            "overview": "",
-            "popularity": 0.0836,
-            "poster_path": "/82dX3gY1kyyEQNZuVTmpmKVGyUd.jpg",
-            "release_date": "2014-01-08",
+            "backdrop_path": "/9iemEC0cGDNyRepa3leXJNkUwkX.jpg",
+            "id": "251577",
+            "original_language": "nl",
+            "original_title": "De Behandeling",
+            "overview": "Bj\u00f6rn, un gar\u00e7onnet de huit ans s'est enfui et a disparu apr\u00e8s s'\u00eatre disput\u00e9 avec son fr\u00e8re Nick, \u00e2g\u00e9 d'un an de plus que lui. \u00c0 la suite de ce traumatisme, sa m\u00e8re l'a rejet\u00e9. Nick Cafmeyer, maintenant enqu\u00eateur, reste perturb\u00e9 par ce drame. Il habite dans le voisinage d'un p\u00e9dophile notoire, Ivan Plettinckx, qui a \u00e9t\u00e9 rel\u00e2ch\u00e9 apr\u00e8s avoir \u00e9t\u00e9 suspect\u00e9 de cette disparition.  Danni, la sup\u00e9rieure de Nick, est la seule personne qui a une bonne relation avec lui. Apr\u00e8s avoir h\u00e9sit\u00e9, elle lui confie une affaire difficile. Un couple a \u00e9t\u00e9 s\u00e9questr\u00e9 pendant trois jours par un homme qui s'est introduit chez eux. Il a disparu, de m\u00eame que le fils du couple, Robin, \u00e2g\u00e9 de neuf ans. Nick enqu\u00eate pour le retrouver.",
+            "popularity": 0.5346,
+            "poster_path": "/qzC5MGRMOCnJtm1IEs06csEs7eh.jpg",
+            "release_date": "2014-01-29",
             "title": "The Beast",
             "video": false,
-            "vote_average": 6,
-            "vote_count": 1,
+            "vote_average": 6.895,
+            "vote_count": 215,
             "genres": [
-                "Horreur",
-                "Drame",
+                "Crime",
+                "Myst\u00e8re",
                 "Thriller"
             ],
-            "runtime": 12,
+            "runtime": 127,
             "tagline": "",
             "rank": "46",
-            "imdb_id": "",
-            "status": ""
+            "imdb_id": "tt3089778",
+            "status": "Released"
         },
         {
             "adult": false,
