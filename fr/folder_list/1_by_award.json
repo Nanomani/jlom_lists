@@ -10,14 +10,29 @@
             "type": "folder_list"
         },
         {
-            "title": "Golden Globes",
-            "id": "2_by_award_golden_globes",
+            "title": "Bafta",
+            "id": "2_by_award_bafta",
             "type": "folder_list"
         },
         {
             "title": "Cannes Film Festival",
             "id": "2_by_award_cannes_film_festival",
             "type": "folder_list"
-        }
+        },
+        {
+            "title": "Golden Globes",
+            "id": "2_by_award_golden_globes",
+            "type": "folder_list"
+        },
+        {
+            "title": "Mostra de Venise",
+            "id": "2_by_award_venice_film_festival",
+            "type": "folder_list"
+        },		
+        {
+            "title": "Autres festivals",
+            "id": "2_by_award_other_festivals",
+            "type": "folder_list"
+        }		
     ]
 }
