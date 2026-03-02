@@ -1,0 +1,112 @@
+{
+    "type": "movie_list",
+    "title": "Import 2_by_senscritique_by_year_1920",
+    "source": "https://www.a.ajouter.com/",
+    "created_by": "nanomani",
+    "added": "2026-02-25",
+    "modified": "2026-02-25",
+    "ordered_by": "rank",
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/pG5mCbGpgq9im4vcEQufMIMU8FT.jpg",
+            "id": "31509",
+            "original_language": "en",
+            "original_title": "Way Down East",
+            "overview": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
+            "popularity": 0.8678,
+            "poster_path": "/xzrSiQuiSb5hKePkU9AFuCcgRxE.jpg",
+            "release_date": "1920-09-03",
+            "title": "Way Down East",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 109,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "runtime": 150,
+            "tagline": "A simple story for plain people.",
+            "rank": "13",
+            "imdb_id": "tt0011841",
+            "status": "Released"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tQRHrssevbysfmDG9FbA86qesCH.jpg",
+            "id": "3016",
+            "original_language": "en",
+            "original_title": "Dr. Jekyll and Mr. Hyde",
+            "overview": "A doctor's research into the roots of evil turns him into a hideous depraved fiend.",
+            "popularity": 1.2851,
+            "poster_path": "/u8OL0RbTNzqqB1WmkxroTBXohnv.jpg",
+            "release_date": "1920-03-18",
+            "title": "Dr. Jekyll and Mr. Hyde",
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 159,
+            "genres": [
+                "Horror",
+                "Science Fiction",
+                "Drama"
+            ],
+            "runtime": 79,
+            "tagline": "The world's greatest actor in a tremendous story of man at his best and worst!",
+            "rank": "22",
+            "imdb_id": "tt0011130",
+            "status": "Released"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tKAufilplhEQC0Ixr8wXoiCZl5t.jpg",
+            "id": "35075",
+            "original_language": "da",
+            "original_title": "Blade af Satans Bog",
+            "overview": "The power of Satan is highlighted in four historical tales: the betrayal and subsequent arrest of Jesus, the Spanish Inquisition, the French Revolution and the execution of Marie Antoinette, and the Finnish War of Independence in 1918.",
+            "popularity": 0.4896,
+            "poster_path": "/kElKCJ7pv6egE52087VWwxOj1vD.jpg",
+            "release_date": "1920-11-15",
+            "title": "Leaves from Satan's Book",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 43,
+            "genres": [
+                "Drama",
+                "History",
+                "Fantasy",
+                "Horror"
+            ],
+            "runtime": 157,
+            "tagline": "",
+            "rank": "38",
+            "imdb_id": "tt0011000",
+            "status": "Released"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iNNNkYuUU365LhnPwQqfzBvKnsg.jpg",
+            "id": "234",
+            "original_language": "de",
+            "original_title": "Das Cabinet des Dr. Caligari",
+            "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+            "popularity": 2.4211,
+            "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+            "release_date": "1920-02-27",
+            "title": "The Cabinet of Dr. Caligari",
+            "video": false,
+            "vote_average": 7.933,
+            "vote_count": 1732,
+            "genres": [
+                "Drama",
+                "Horror",
+                "Thriller",
+                "Crime"
+            ],
+            "runtime": 77,
+            "tagline": "You must become Caligari!",
+            "rank": "47",
+            "imdb_id": "tt0010323",
+            "status": "Released"
+        }
+    ]
+}

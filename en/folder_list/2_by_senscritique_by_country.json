@@ -1,0 +1,68 @@
+{
+    "type": "folder_list",
+    "title": "SensCritrique - Country",
+    "added": "04/02/26",
+    "modified": "04/02/26",
+    "folders": [
+        {
+            "title": "Asians",
+            "id": "2_by_senscritique_by_country_asians",
+            "type": "movie_list"
+        },
+        {
+            "title": "Australian",
+            "id": "2_by_senscritique_by_country_australian",
+            "type": "movie_list"
+        },
+        {
+            "title": "Belgium",
+            "id": "2_by_senscritique_by_country_belgium",
+            "type": "movie_list"
+        },
+        {
+            "title": "Chinese",
+            "id": "2_by_senscritique_by_country_chinese",
+            "type": "movie_list"
+        },
+        {
+            "title": "English",
+            "id": "2_by_senscritique_by_country_english",
+            "type": "movie_list"
+        },
+        {
+            "title": "Germans",
+            "id": "2_by_senscritique_by_country_germans",
+            "type": "movie_list"
+        },
+        {
+            "title": "Hk",
+            "id": "2_by_senscritique_by_country_hk",
+            "type": "movie_list"
+        },
+        {
+            "title": "Italian",
+            "id": "2_by_senscritique_by_country_italian",
+            "type": "movie_list"
+        },
+        {
+            "title": "Japan",
+            "id": "2_by_senscritique_by_country_japan",
+            "type": "movie_list"
+        },
+        {
+            "title": "Korean",
+            "id": "2_by_senscritique_by_country_korean",
+            "type": "movie_list"
+        },
+        {
+            "title": "Spanish",
+            "id": "2_by_senscritique_by_country_spanish",
+            "type": "movie_list"
+        },
+        {
+            "title": "Usa",
+            "id": "2_by_senscritique_by_country_usa",
+            "type": "movie_list"
+        }
+    ]
+}
