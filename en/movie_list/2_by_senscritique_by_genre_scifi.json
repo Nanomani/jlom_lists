@@ -1,10 +1,10 @@
 {
     "type": "movie_list",
     "title": "Import 2_by_senscritique_by_genre_scifi",
-    "source": "https://www.a.ajouter.com/",
+    "source": "https://www.senscritique.com/top/resultats/les_meilleurs_films_de_science_fiction/272590",
     "created_by": "nanomani",
     "added": "2026-02-04",
-    "modified": "2026-02-04",
+    "modified": "2026-03-02",
     "ordered_by": "rank",
     "movies": [
         {
@@ -639,7 +639,7 @@
             "release_date": "1993-06-11",
             "title": "Jurassic Park",
             "video": false,
-            "vote_average": 8.0,
+            "vote_average": 8,
             "vote_count": 17573,
             "genres": [
                 "Adventure",
@@ -979,23 +979,27 @@
         },
         {
             "adult": false,
-            "backdrop_path": null,
-            "id": "1525542",
-            "original_language": "xx",
-            "original_title": "The Never Ending Wall",
-            "overview": "You don't need to look all the way to the end: there isn't one.",
-            "popularity": 0.1777,
-            "poster_path": null,
-            "release_date": "2008-12-31",
-            "title": "The Never Ending Wall",
+            "backdrop_path": "/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+            "id": "10681",
+            "original_language": "en",
+            "original_title": "WALL\u00b7E",
+            "overview": "After hundreds of years doing what he was built for, WALL\u2022E\u2014 a robot designed to clean up the earth\u2014discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL\u2022E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL\u2022E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+            "popularity": 22.185,
+            "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+            "release_date": "2008-06-22",
+            "title": "WALL\u00b7E",
             "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0,
-            "genres": [],
-            "runtime": 34,
-            "tagline": "",
+            "vote_average": 8.1,
+            "vote_count": 19963,
+            "genres": [
+                "Animation",
+                "Family",
+                "Science Fiction"
+            ],
+            "runtime": 98,
+            "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
             "rank": "40",
-            "imdb_id": null,
+            "imdb_id": "tt0910970",
             "status": "Released"
         },
         {
@@ -1306,7 +1310,7 @@
             "release_date": "2007-04-05",
             "title": "Sunshine",
             "video": false,
-            "vote_average": 7.0,
+            "vote_average": 7,
             "vote_count": 4148,
             "genres": [
                 "Science Fiction",
